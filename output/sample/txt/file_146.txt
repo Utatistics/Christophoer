@@ -1,0 +1,38 @@
+Company Profile;
+Founded in Tokyo, Japan, the company is now a leading global information and news discovery company dedicated to delivering quality information to the people who need it. They provide news that matters to millions of users thanks to their unique machine learning technology and relationships with over 3,000 global publisher partners.
+If you're looking for a company that's small enough that your contributions have a visible impact on the company and product but large enough that you're tackling interesting and challenging problems, then this is the place for you.
+You will play a key role in accelerating products/business development. Great efforts are made on building a highly efficient and flexible data service for analytical and operational purposes.
+To serve the internal users such as analytics and product-dev teams, the mission of data engineers is to create high-level, easy-to-use data services for simplifying the accessing, integration, and consolidation of various data sets, and also building the platforms for executing tasks processing massive data in terms of TB per day.
+Technology drives the growth of company, and they are eager to adopt cutting-edge technologies from the industry and academia, especially the open-source community.
+The Role;
+Develop and realize the overall data strategy for the company
+Develop and manage ETL/ELT pipelines and infrastructure of analytics databases
+Cooperate with the product team, data science team to design data features to enable product improvement and timely business KPI measurements.
+Determine the importance of each dataset and take appropriate measures to ensure data reliability and quality according to priority
+Improve the reliability and speed of queries for ever-increasing volumes of data
+Implement new types of data workflows
+Build dashboards to visualize key metric
+Your Skills;
+BS/MS degree in computer science or equivalent science/engineering degree
+Strong programming skills and experiences with a deep understanding of data structures and algorithms are required for building efficient and stable solutions
+3 years of rich experiences with Java or Python; familiar with agile development and manage testing skills
+Need certain knowledge on shell scripts and operating systems, especially on Linux
+Good understanding of modern bigdata technologies and ecosystems
+Strong experience with modern data stores either RDBMS or NoSQL stores (such as MySQL, Cassandra or Druid, etc); have experience with developing application or function-extensions on such data stores
+Be able to implement and tune complicated heavy-lifting data flows (ETLs or pipelines), familiar with certain toolings
+Capability of system design with good modularity and extensibility
+Familiar with system/module design methods and tooling such as UML
+Be able to draft the user-understandable blueprint and precise, detailed designs
+Experience with building highly scalable distributed systems
+Able to design and implement distributed services with scalability and performance in mind
+Able to debug and troubleshoot performance and reliability problems
+English as the working language
+Location;
+
+Tokyo - 23 wards
+
+Saraly;
+
+10 - 17 million yen / year
+
+Ref: 06940-0012355745

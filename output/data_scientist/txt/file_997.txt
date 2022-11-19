@@ -1,0 +1,77 @@
+Career Area
+
+Information Analytics
+
+Job Description
+
+Job Title: Senior Manufacturing Data Scientist
+
+Salary: £42,750 - £52,000 (Depending on Experience)
+
+Location : Peterborough, Cambridgeshire
+
+Benefits: 25 days annual leave,
+
+Up to 12% bonus
+
+Contributory pension scheme - Caterpillar will double the employee's contribution Up to 10%
+
+Contributory share scheme - Caterpillar will match 50% of the employee's contribution
+
+CAT Advantage – Highstreet Discount Access
+
+Relocation/ Sponsorship: Not provided
+
+Flexible working arrangements will be considered for this role, in-line with the needs of the business.
+
+Who is Caterpillar? What do we do?
+
+Caterpillar is a world leader in construction and mining equipment—creating innovative, cutting-edge products and services that help our customers build the world around us. With that level of impact comes the platform to care for the world, we work in. That’s why we lead sustainable green initiatives to preserve the environment, help reduce poverty with the Caterpillar Foundation and stay involved in the communities we help build.
+
+What will Caterpillar do for you?
+
+From day one, you’re set up to thrive at Caterpillar: helpful training, relatable mentors, global experience, competitive salary package, work-life balance, and the growth opportunities you expect with a Fortune 100 company. You power our success, and we are committed to empowering yours. After all, when your work can impact the entire world, it’s important to do work that matters.
+
+The Opportunity
+
+A position is available within our Global Manufacturing Engineering and Technology team at the Peterborough campus, for a Sr. Data Scientist to support Manufacturing Systems deployment and associated data migration projects, which can involve working in applications such as Product Lifecycle Management (PLM), Enterprise Resource Planning (ERP) and Manufacturing Execution System (MES). This is an excellent opportunity to join a highly flexible, motivated, skilled, and enthusiastic globally focused team.
+
+The key focus of the Global Manufacturing Engineering and Technology team is to provide strategic direction and globally appropriate manufacturing / production processes & systems designed to enable the introduction of new products and provide best asset utilisation leveraging the capability of our world class production facilities across the Industrial Power Sector Division (IPSD). This role requires experience in data analytics tools, knowledge of manufacturing and/or supply chain processes and will involve the design & development of data analysis & transformation tools.
+
+The successful candidate will utilise experience and knowledge gained through exposure to a range of functions and activities within Manufacturing Engineering, Production Engineering or Process environment to play a key role in the continued success of the company, providing analytical and process expertise necessary to design, develop and implement analytical tools and systems, with specific focus on manufacturing systems across IPSD’s global facilities.
+
+This role represents an exciting step forward for individuals wishing to develop their analytical, project leadership skills and their career.
+
+Job Responsibilities And Duties
+
+Develop knowledge and expertise in Manufacturing Process Planning applications & methodology
+Lead the implementation of integrated manufacturing systems applications (E.g., PLM, ERP, MES) related projects and ensure the applications meet process requirements
+Manage project delivery to ensure they are implemented on time and within budget
+Develop & maintain manufacturing data extraction workflows to extract data from various databases in readiness for the future state transformation
+Perform analysis on extracted data and restructure it to meet the future state process planning requirements by working closely with the third-party data migration solution provider
+Access and utilize quantitative and qualitative data to build data extraction & analysis models, visual dashboards and tools that enable users to develop action-oriented insights during data transformation & migration
+Lead and support, as necessary, systems project lifecycle phases such as requirements gathering, solution development, integrated test cycles, data migration, training, and commissioning activities
+
+Skills And Experience
+
+Candidates will have gained the following skills and experience through previous roles:
+
+A bachelor’s degree or equivalent experience gained in business, finance, economics, statistics, engineering or analytics related field.
+Knowledge & understanding of various databases (PLM, MES, ERP etc.) used within Engineering & Manufacturing business functions and the data flow kinetics
+Experience in two or more of the following: Tableau, Alteryx, Power BI, Power Apps, MS Access, SQL, Python, R, ERP systems, Manufacturing Execution Systems, Supply Chain Data Analysis, Simulation Modelling Software
+Understanding of Product Life Cycle Management (PLM) concepts and their application in product design, Bill of Materials (BoM’s), Manufacturing Routings, Product/Process change control, configuration management
+High levels of numeracy and strong analytical skills, including the ability to analyse and make recommendations based on facts and data as well as ambiguous data sources.
+Must be able to communicate effectively at all levels of the business and build strong business relationships
+
+Candidates may have gained the following skills and experience through previous roles:
+
+Ability to manage complex projects across multiple workstreams and departments, including the development and maintenance of project plans.
+Experience of Siemens Teamcenter Manufacturing
+Use of statistics tools to validate and solve problems
+Understanding of manufacturing systems & database architecture and integration with automation (e.g., PLC) and other applications
+
+NB. The panel cannot make assumptions when shortlisting therefore please demonstrate your qualifications and experience on your CV relevant to the criteria outlined.
+
+Caterpillar is an Equal Opportunity Employer (EEO).
+
+Not ready to apply? Submit your information to our Talent Network here .

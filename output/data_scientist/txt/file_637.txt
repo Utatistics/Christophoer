@@ -1,0 +1,44 @@
+Data Scientist
+Ecommerce Marketplace
+£65,000 + Equity
+
+OVERVIEW
+
+At Harnham we're working with an Ecommerce Marketplace who are looking for a Data Scientist to join to lead their efforts in performance marketing.
+
+They have an established data team within the organisation tackling a range of problems, and are growing their data science team to help bring a more sophisticated approach to key areas.
+
+There is a fun and relaxed office culture, as well as a passion for using data to help revolutionise the business!
+
+THE ROLE
+
+You will be:
+
+Helping to lead data science efforts related to customer and marketing problems for the company (e.g. customer acquisition and attribution modelling)
+Help define and promote the company's data-driven culture
+Work closely with other teams including engineering, product, pricing and CRM
+Come up with creative ways for the company to get results using data
+Pushing the boundaries and exploring new and innovative techniques
+
+SKILLS AND EXPERTISE
+
+You must have:
+
+An MSc or Ph.D. in a quantitative discipline (e.g. Maths, Stats, Computer Science, Physics etc)
+Experience programming with Python
+Knowledge of a database query language (SQL preferred)
+Knowledge of a cloud provider (AWS, GCP or Azure)
+Experience in using machine learning to solve real-world problems
+A keen interest in solving technically challenging commercial problems.
+
+SALARY
+
+In this role you could earn up to £65,000 + benefits.
+
+HOW TO APPLY
+
+To be considered for this exciting opportunity, please submit your details using the Apply button on this page. Or for more information regarding other roles please contact Nick Mandella at Harnham.
+
+KEYWORDS
+
+Python, SQL, AWS, GCP, Azure, Machine Learning, Data Scientist, Data Science.

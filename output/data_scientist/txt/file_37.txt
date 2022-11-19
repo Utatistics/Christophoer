@@ -1,0 +1,67 @@
+Job Title: Data Scientist
+
+Salary: £32,100 - £41,700
+
+Location: Cambridge, hybrid
+
+Contract: Fixed Term, 12-month contract
+
+We are Cambridge University Press & Assessment, a world-leading academic publisher and assessment organisation and a proud part of the University of Cambridge.
+
+We are recruiting a Data Scientist to join our People Analytics team in Cambridge which currently contains a data scientist and a data analyst.
+
+About The Role
+
+You will work independently and as part of a team to provide robust analytics and insight to drive evidence-based decision-making in People and Culture, and our wider not-for-profit business.
+
+Key responsibilities will include but are not limited to:
+
+Design and conduct analytics and data science projects and communicate findings to key stakeholders across the business
+Create data pipelines by structuring, cleaning, validating, and joining data from multiple sources
+Develop and operate automated data analytics and machine learning services
+Provide specialist expertise, consultancy, and training within People and Culture and externally, commensurate with position of Data Scientist
+Contribute ideas for new projects and applications of data science to People data
+Build business relationships which contribute to the success of the People Analytics Team and develop opportunities for collaborative work with colleagues throughout the organisation, and beyond
+Create and publish data visualisations, dashboards and reports, speak at conferences and otherwise help establish Cambridge University Press & Assessment as a leader in People Analytics
+
+About You
+
+To be successful in the role of Data Scientist we are seeking an individual with a relevant MSc degree or equivalent qualification, or evidence of knowledge and experience in this sector.
+
+You will also have the following skills:
+
+Advanced coding in Python, R, SQL or similar
+Data wrangling complex data sets
+Statistical analysis and / or machine learning and / or data engineering, drawing on a range of simple and advanced methods and techniques in line with best practice
+Systematic investigation and experimentation
+Translation of business problems and opportunities into data science problems and solutions
+Communicating technical information clearly to specialists and non-specialists
+Presenting the “story” of data in a meaningful and impactful way
+Experience with any of the following an advantage: Power BI, Workday, version control with Git, Hadoop, working with People data
+
+Rewards And Benefits
+
+We will support you to be at your best in work and to live well outside of it. In addition to competitive salaries, we offer a world-class, flexible rewards package, featuring family-friendly and planet-friendly benefits including:
+
+Group personal pension scheme
+Discretionary annual bonus
+Life assurance up to 4 x annual salary
+Private medical and Permanent Health Insurance
+Green travel schemes
+28 days annual leave plus bank holidays
+
+We also offer flexible and hybrid working options from day one. We will consider any work arrangements if you wish to work flexibly or require adjustments due to a disability.
+
+Ready to pursue your potential? Apply now.
+
+We review applications on an ongoing basis, with a closing date for all applications being Tuesday 4th October and interviews are scheduled to take place in the week commencing the 10th October.
+
+Please note that successful applicants will be subject to satisfactory background checks including DBS due to working in a regulated industry.
+
+Why join us
+
+Joining us is your opportunity to pursue potential. You'll belong to a collaborative team that's exploring new and better ways to serve students, teachers and researchers across the globe – for the benefit of individuals, society and the world. Sharing our mission will inspire your own growth, development and progress, in an environment which embraces difference, change and aspiration.
+
+Cambridge University Press & Assessment is committed to being a place where anyone can enjoy a successful career, where everyone has a voice, and where we learn continuously to improve together. Ensuring that everyone feels they belong is essential to who we are, and to the contribution we make to society and our planet.
+
+We believe better outcomes come through diversity of thought, background and approach. We welcome applications from people from all backgrounds and communities, actively seeking to employ people from a wide range of different communities.

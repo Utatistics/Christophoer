@@ -1,0 +1,46 @@
+Please note that this role is based in Saudi Arabia on a permanent, residential basis.
+
+Job Req ID: 5504
+
+Description:
+Aramco energizes the world economy.
+Aramco occupies a unique position in the global energy industry. We are the world's largest producer of hydrocarbons (oil and gas), with the lowest upstream carbon intensity of any major producer.
+
+With our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.
+
+Headquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.
+
+We are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.
+
+Overview
+The Sales & Operations Planning Division’s (S&OP) charter is to optimize crude allocation and the operations of global manufacturing facilities in order to maximize revenue, increase profitability, and capture international market opportunities. The division also acts as the linear programming (LP) gatekeeper for wholly owned refineries and the integrated global MPIMS model, which is used for optimizing global crude allocation and exploration of new international markets and integration options.
+
+Data scientist is to analyze and structure large amounts of raw live and historical data, build algorithms and solutions around the data to drive decision making within the company. This role will be at the core of the forecasting and predictive digital strategy of the company, to support the development of state-of-the-art solution for the Downstream Digital Center. In this role, the data scientist should be highly analytical, with strong skills in analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. The position requires in-depth knowledge of research, machine – learning, artificial intelligence and complex algorithmic development.
+
+The data scientists will work as part of the Technical Support team of the Downstream Digital Center under Fuels. They will be working on developing solutions and algorithms for the whole downstream business. The solutions will have cross downstream entities scope and will be relying on a database consolidating all downstream entities live and historical data. The solutions developed will have a high impact, as they will drive collaboration and decision making, for day-to-day operations as well as long-term business development. The Downstream Digital Center Technical Support team will be interacting with all the downstream entities to collect their solution request. The Technical Support team will also be interacting and leveraging the other SAO IT and technical entities for support in developing the solutions.
+
+Responsibilities
+Formulates and leads guided, multifaceted analytic studies against large volumes of data.
+Interprets and analyzes data using exploratory mathematic and statistical techniques based on the scientific method.
+Coordinates research and analytic activities utilizing various data points (unstructured and structured) and employ programming to clean, massage, and organize the data.
+Experiments against data points, provide information based on experiment results and provide previously undiscovered solutions to command data challenges.
+Leads all data experiments tasked by the Data Science Team.
+Coordinates with Data Engineers to build data environments providing data identified by Data Analysts, Data Integrators, Knowledge Managers, and Intel Analysts.
+Develops methodology and processes for prioritization and scheduling of projects.
+Analyzes problems and determines root causes.
+Defines company data assets (data models), spark, sparkSQL, and hiveSQL jobs to populate data models.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+
+Education & Experience Requirements
+Master’s degree in Operations Research, Industrial Engineering, Applied Mathematics, Statistics, Physics, Computer Science, or related fields
+5-7 years of professional experience
+Proficient with one or more programming languages (Java, C++, Python, R, etc.)
+Demonstrated experience applying data science methods to real-world data problems
+Experience utilizing visualization tools to take advantage of the growing volume of available information
+
+Working environment
+Our high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.
+
+At Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.
+
+We have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.

@@ -1,0 +1,31 @@
+Job Title: Sr. Data Scientist
+
+WON/SWON: TBD
+
+Requirement id*( Mandatory) 8028706
+
+PAYE or limited company ( Mandatory ) PAYE
+
+Location: UK
+
+Department/Practice: Pharma Supply Chain Tech
+
+Job Purpose And Primary Objectives
+
+Key responsibilities (please specify if the
+
+position is an individual one or part of a team):
+
+Will work on a Data Scientist position in a team. This position is a part of a team
+
+Supervisory / Managerial responsibilities
+
+(please specify if the position will have
+
+persons reporting to it): - NA
+
+Other responsibilities Budgets, targets,
+
+equipment etc (please specify): NA
+
+Key Skills/Knowledge: STEM PhD. educated (biomedical, biochemistry would be an advantage), Apply a broad array of analytics skills including machine learning, statistics, and hands on experience in python, text-mining/NLP, and modelling to extract insights to structured and unstructured data sources and complementary real-world & digital information streams. Work on and often lead a variety of team-based projects providing expertise in analytical and computational approaches with the Centre of Excellence Build and construct prototypes of Advanced Analytic work-flows Develop custom data models and algorithms to apply to data sets. Use excellent written, verbal communication and digital media skills for coordinating across teams and engaging and influencing stakeholders. Demonstrate a passion and drive to learn and master new technologies and techniques

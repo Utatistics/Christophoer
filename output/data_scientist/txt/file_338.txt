@@ -1,0 +1,51 @@
+At AstraZeneca, we work together to deliver innovative medicines to patients across global boundaries. We make an impact and find solutions to challenges. We do this with integrity, even in the most difficult situations, because we are committed to doing the right thing.
+
+The Digital Health Oncology R&D Human-centered AI and Machine Learning Team strives to transform the patient experience and clinical trial process. We will do so by deploying digital solutions to clinical trials and in the real world to decrease patient burden. The approach the team takes will incorporate clinical trial data, Real World Evidence (RWE) data, clinical free text, medical imaging, Patient Reported Outcomes (PROs), and device data to define new digital approaches to addressing the pressing problems across the AZ R&D portfolio.
+
+The team is looking for an Associate Director of Data Science to specialize in development of innovative machine learning methods focused on multi-modal datasets including clinical trial data, RWE, imaging data, and other biomedical data sources to address patient burden.
+
+This role will sit within the Digital Therapeutics, Diagnostics and Endpoints team with a heavy emphasis on interacting with the Therapeutic Areas, clinical trial teams and other collaborators in the product development cycle. This Data Scientist will also work closely with the Digital Health R&D subject matter experts and partners to develop novel approaches that support the development of patient and HCP-facing digital products. Applicants should have a strong foundation in statistics, experience with machine learning in a production environment, detailed knowledge of the clinical trials space in the pharmaceutical industry and experience maintaining a portfolio of machine-learning enabled products.
+
+Examples of projects the team works on include machine learning models for developing digital biomarkers, digital therapeutics, computer vision diagnostics and clinical decision support tools, approaches to quantitatively analyze wearable data, linking of medical imaging data with ‘omics and longitudinal outcomes to identify and/or validate new drug targets, and much more!
+
+Drives projects with hands-on data science, analysis, or mathematical modeling.
+Delivers sophisticated data science solutions to AstraZeneca projects, selecting analytical methods with appropriate complexity given a clinical or business challenge.
+Engages technical and non-technical collaborators within the wider organization to frame complex challenges, structure analytical solutions, and communicate results.
+Independently keeps own knowledge up to date and learns from senior team members, proposing appropriate training courses for personal development.
+Reviews working practices and ensures non-compliant processes are raised
+Collaborates in a multidisciplinary environment with world leading clinicians, data scientists, biological experts, statisticians and IT professionals.
+
+Essential
+
+B.Sc. in a relevant field (such as mathematics, computer science, engineering).
+Demonstrated an outstanding track-record of industry experience with the desired data science methodologies
+Practical software development skills in standard data science tools: Python, Agile, Code code versioning (bitbucket/git), UNIX skills, familiarity working in cloud environment (AWS preferred)
+End-to-end experience leading collaborative data science projects in an industry setting
+ML Ops experience: model tracking, model governance, multiple models in different production contexts
+Experience developing machine learning first products including time-series analysis, forecasting, behavioral analysis
+Knowledge of range of mathematical and statistical modelling techniques and drive to continue to learn and develop these skills.
+Communication, business analysis, and consultancy; ability to present compelling cases to stakeholders and operate dynamically to identify solutions
+
+Desirable
+
+Advance degree in rigorous quantitative science (such as mathematics, computer science, engineering) or M.B.A. with analytics experience in industry.
+Experience within the pharmaceutical industry
+Advanced statistical and machine learning models such as hierarchical mixed bayesian models, transformer-based NLP models, reinforcement learning, deep learning models that span CNN/RNN/LSTM, GNNs, constrained optimization, state-of-the-art timeseries & forecasting models
+
+We provide competitive salary and benefits
+
+This role can sit at our Cambridge, UK; Gaithersburg, MD; or Waltham, MA locations.
+
+Why AstraZeneca?
+
+At AstraZeneca when we see an opportunity for change, we seize it and make it happen, because any opportunity no matter how small, can be the start of something big. Delivering life-changing medicines is about being entrepreneurial - finding those moments and recognising their potential. Join us on our journey of building a new kind of organisation to reset expectations of what a bio-pharmaceutical company can be. This means we’re opening new ways to work, pioneering cutting edge methods and bringing unexpected teams together. Interested? Come and join our journey.
+
+So, what’s next!
+
+If you are ready to make a difference - apply today, and we'll make it happen together!
+
+Where can I find out more?
+
+Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/
+Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/
+Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca/

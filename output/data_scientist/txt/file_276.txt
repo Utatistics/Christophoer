@@ -1,0 +1,56 @@
+The Standard Club Ltd is a specialist marine and energy insurer and a member of the International Group of Protection and Indemnity clubs, owned by its shipowner members and controlled by a board of directors drawn from its membership. We have offices in London, Dublin, Greece, Singapore, Hong Kong, New York, Bermuda and Tokyo.
+
+We provide liability insurance for around 9% of world shipping, with premium income of $288m and assets of $1.3bn. Founded in 1884, we are one of the world's leading mutual Protection and Indemnity insurers by tonnage and membership.
+
+We currently have an interesting opportunity for a Data Scientist to support the actuarial function of the Standard Club. We will be happy to support the successful jobholder in studying for the actuarial professional exams, or other suitable professional accreditation if wished.
+
+What will you be doing?
+
+
+Applying statistical modelling techniques to build prediction tools for accurate estimation of future claims costs, implemented into pricing tools for underwriters.
+Extraction, preparation, feature engineering of datasets for presentation to models.
+Validation of models' output.
+Development of new methods and approaches to improve business processes and systems through usage of data and analytics for pricing and beyond.
+Communication of methods, approaches and results to technical peers as well as business-focused senior management.
+Remain aware of key developments in relevant technologies and methods and apply these to your work where appropriate.
+As a key part of a smaller actuarial team, there remains scope for actuarial project activities such as reinsurance and reserving analyses, as well as acting as a highly skilled consultant for quantitative tasks which may arise from across the club from time to time.
+
+About You...
+
+Essential Skills/Qualifications/Experience
+
+
+An academic background in mathematical, statistical sciences, or a highly numerate discipline.
+Multivariate predictive modelling: understanding of GLM, GAM, tree-based methods, as well as other techniques which may arise, for example clustering or text processing.
+Software/Programming: R [80%], Excel [10%], SQL[5%], VBA [5%]. A proficiency in table manipulation, data visualisation and modelling packages is appropriate for this role, however the R and RStudio environment is the 'lingua franca' for the role.
+Ideally 1-3, or more years of experience in the data science field would be helpful, however, this may be compensated by an ability to learn quickly and a positive attitude to learning
+Self-organised, succinct communication, comfortable working with colleagues from a variety of backgrounds.
+
+Desirable Skills/Qualifications/Experience
+
+
+Ability to select statistically appropriate methods, thoroughness in data precision and cleanliness, methodical and patient, and can bring creativity when appropriate to overcome challenges.
+
+Working Style
+
+
+We seek candidates who can work autonomously with a lower level of supervision and guidance, applying judgment informed by larger-picture objectives.
+Most projects will require an understanding of a full development circle from concept to implementation, so a wholistic view of the value of analysis is advantageous.
+This role is uniquely positioned to offer task ownership, innovation, creativity, development and improvement and direct impact on business outcomes.
+
+Why The Standard Club?
+
+The Standard Club brought its management in-house in 2021 and is on a journey to merge with the North P&I. This is an incredibly exciting time to join the club. There is an ambitious strategy and vision to be the P&I Club of choice for all.
+
+Values and what to expect from us
+
+Our culture is hugely important to us. We provide excellent service to members, build long-lasting relationships built on trust and understanding, and treat our colleagues in the same way. Regardless of the role or position, we all demonstrate and act as a role model in relation to our cultural values.
+
+We offer -
+
+
+The opportunity to enhance the Actuarial function and to help deliver our goals
+A competitive salary and benefits package
+The opportunity to learn new skills and develop your career
+An open and flexible team environment
+The 'best in market' hybrid working policy

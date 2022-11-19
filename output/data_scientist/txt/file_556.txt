@@ -1,0 +1,51 @@
+Azure Data Engineer - PySpark - London
+
+I'm looking for a Data Engineer to work on developing products and solutions in Azure. You will have the opportunity to work on projects for some of the largest clients in the sports industry. In terms of technology, you'd be stretched to find a company or role working on more interesting projects!
+
+If you have experience with SQL, Azure and Python (Synapse and Databricks would be great) and other aspects of the BI stack and looking to work on large scale data projects then this could be for you.
+
+Although main responsibilities are internally facing, you will be involved in some elements of working with clients.
+
+Role & Responsibilities
+
+Design and Architecture of Azure Data solutions
+Be the technical expert with the latest technologies. Make recommendations to the wider business as to how to keep up to date with the best data solutions.
+Working with and modelling data warehouses.
+
+Skills & Qualifications
+
+Strong technical expertise using SQL Server.
+Experience delivering a data warehouse solution from scratch.
+A strong understanding of SQL Azure principals (Azure Data Factory, Azure Databricks).
+Understanding of Agile methodologies including use of Git
+Experience with Python/PySpark
+
+Benefits
+
+£50,000 - £60,000
+Bi-annual salary reviews and bonuses
+Company away days
+
+My client is looking to begin the interview process ASAP with limited interview spots this and next week, so don't miss out, apply now!
+
+This is a brief description of the role, for the full information, simply apply to the role and I will call you to discuss.
+
+This is an exclusive client to Nigel Frank International.
+
+Twitter: @NigelFrank_BI
+
+LinkedIn: https://www.linkedin.com/in/autumn-blundell-moroney-b0742859/
+
+Email: a.blundell-moroney@nigelfrank.com
+
+Phone: 02031484632
+
+Please Note: This is a permanent role. This role is for UK residents only. This role does not offer Sponsorship. You must have the right to work in the UK with no restrictions. Some of our roles may be subject to successful background checks including a DBS and Credit Check.
+
+If this wasn't exactly the role you were looking for, please apply to this role anyway, just highlight what you are looking for, apply with your CV with a brief overview of what you are looking for (The role, top 3 techs, location, salary).
+
+I will call you to discuss your skill-set further, there may be other roles I am working on that you may be suited for.
+
+I specialise in Microsoft BI, SQL Server, Azure and Modern Workplace recruitment here at Nigel Frank International, specialising in the placement of highly-skilled candidates in various IT positions (Engineers, Analysts, Architects, Consultants, Project Managers, Management etc.).
+
+We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group.

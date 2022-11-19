@@ -1,0 +1,49 @@
+Bloomberg runs on data, and data drives the market. Our Global Data team acquires and supplies this data to our clients. Teams work collaboratively to collect, analyse, process and publish the data which is the backbone of our iconic Bloomberg Terminal - the data ultimately feeding and moving the financial markets.
+
+In Global Data, you will apply your problem-solving skills to identify innovative workflow efficiencies, implement technical solutions to enhance our systems, products and processes, establish links with key players in the financial market by providing exceptional client support, and manage the financial data that feeds the Bloomberg Terminal.
+
+As a Data Analyst, you have the opportunity to develop subject matter expertise on a specific product while utilizing your technical abilities to improve data management processes.
+
+Analysts have a platform to move from one product to the other, every few years, based on their interests throughout their career in Global Data. There is growth potential within the department to take on more senior data analyst, data scientist or leadership roles.
+
+The Role:
+
+Data Analysts possess a unique combination of technical skills and business insight, as well as strong communication and ability to build relationships. They use these skills to extract, transform and load timely, accurate and comprehensive data accessible to our clients across various Bloomberg platforms. They play a key role in evolving our products and processes, which makes the role challenging and entrepreneurial. Assisting our clients with their data queries is also key to the role.
+
+We'll trust you to:
+Utilise a variety of software solutions to extract and rationalise data to Bloomberg taxonomies
+Provide in-depth customer support to users of Bloomberg products by resolving inquiries in a timely manner
+Implement business rules for programmatic data validation by codifying market conventions and/or data relationships
+Design and manage workflow configurations for critical functions such as acquisition, worklist management, and quality control
+Build subject matter expertise and technical skills to generate premium content, including data-driven news stories
+Analyse internal processes to identify opportunities for improvement, as well as devise and implement innovative solutions
+Lead ad hoc projects to optimize processes and/or improve the quality of the data set
+Utilise statistics and data visualization skills to report on results of on-going operations and projects, as required
+Partner with a wide variety of stakeholders from Engineering to Sales on product development
+You'll need to have:
+A bachelor's degree, preferably with combined studies in Information Systems and Finance, or related business and STEM fields
+Strong passion for data, technology and finance
+Proficiency in one or more technical tools such as Python, SQL and R, demonstrated through projects or work experience
+Business proficiency and fluency in English and Japanese.
+Ability to communicate effectively and articulate thought process clearly (both written and oral).
+Interest and/or experience in client and stakeholder management
+Understanding and experience of statistics and data modeling and Data Analysis
+Solid attention to detail and strong evidence of decision-making and problem solving skills
+Ability to think creatively and provide out of the box solutions
+Eagerness to learn and collaborate
+Adaptability in a frequently changing environment
+We'd love to see:
+Prior experience in information technology, engineering, finance, data analysis or research
+Exposure to Bloomberg products such as the Professional Service
+Established presence in virtual development communities such as GitHub, Stack Overflow and HackerRank
+Familiarity with Data Science and/or Machine Learning
+Experience using data visualization tools such as Tableau or QlikSense
+Does this sound like you?
+
+This is an entry level role, apply if you think we're a good match. We'll get in touch to let you know what the next steps are! Please note this is a two stage application process, following the submission of your candidate details you will receive an email with directions to complete an online assessment. Your application will not be complete until you have submitted the assessment.
+
+In the meantime feel free to have a look at this: https://www.bloomberg.com/careers/global-data/
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
+
+Bloomberg is a disability inclusive employer. Please let us know if you require any reasonable adjustments to be made for the recruitment process. If you would prefer to discuss this confidentially, please email access2@bloomberg.net. Alternatively, you can get support from our disability partner EmployAbility, please contact +44 7852 764 684 or info@employ-ability.org.uk.

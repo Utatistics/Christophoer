@@ -1,0 +1,40 @@
+TalkTalk is passionate about using data driven insight to underpin our decision making; from the day to day running of our business through to answering the larger more complex business questions.
+
+The Data Science team works closely with Product & Commercial, Marketing and Sales & Loyalty teams to increase the satisfaction and value of our customers.
+As a Data Scientist you'll work directly with stakeholders to design and test business hypotheses to identify and implement new trigger-based campaigns to solve core business challenges.
+
+Your work will deliver churn, satisfaction and revenue improvement using machine learning to industrialise predictive and prescriptive models and segmentations.
+You'll be a customer advocate, helping colleagues to understand and connect with our customers at the overall & segment level.
+You'll also work closely with the other analysts and researchers in the team to deliver the Customer Insight Strategy.
+
+The successful individual will be passionate about data and analytics, highly experienced in delivering actionable insight and comfortable working in a fast paced environment. You'll have a desire to continue to develop yourself and others across the analytics community, growing our Data science capability.
+
+What do I need in order to be successful?
+Must have:
+
+A BSC or MSC in a numerate discipline (Mathematics, Statistics, Computer Science Engineering)
+Strong experience in customer analytics/ insight
+Proficient in SQL and at least one of the following: Python, R, Scala
+Expert in statistical modelling including k-means segmentation, multiple regression, factor analysis, time-series, forecasting and gradient boosting
+Experience in cleaning, shaping and transforming raw or unstructured data into more summarised formats for consumption
+Ability to build strong personal relationships and trust with business and technical colleagues
+Skilled in communicating complex insight succinctly and clearly
+It would be great if you also have (but we'd still like to hear from you if you don't):
+
+Experience in the Telecommunications sector
+Experience in deep learning, neural networks, reinforcement and adaptive learning
+Experience in digital data sets, e.g. social listening and social network analysis, plus natural language processing.
+Familiarity with Cloud platforms (Microsoft Azure, GCP or AWS) and data visualisation using Power BI
+Experience in Marketing ROI initiatives such as Econometrics, Marketing Mix Modelling, Attribution
+
+What we can offer you:
+We understand the importance of recognising and rewarding our colleagues. In addition to your base salary, you will be provided with a company bonus/commission, pension scheme, private healthcare cover, income protection and life assurance. We also:
+
+Embrace flexible working
+Encourage you to participate in a development programme that will be led by you, supported by your line manager and backed by the business.
+Offer free TalkTalk broadband and TV
+Provide an opportunity to participate in share schemes
+Wellbeing and recognition schemes
+Offer a range of discounts on shopping
+
+On top of all this, you get to choose your benefits flexibly around what works best for you!

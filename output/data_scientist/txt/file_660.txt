@@ -1,0 +1,85 @@
+YOOX NET-A-PORTER GROUP is the world’s leading online luxury fashion retailer. The Group is a Global company with Anglo-Italian roots, the result of a game-changing merger, which in October 2015, brought together YOOX GROUP and THE NET -A-PORTER GROUP; the two companies had revolutionized the luxury fashion industry since their birth in 2000. Since June 2018, the Group is subject to the management and coordination of Compagnie Financière Richemont S.A.
+
+YOOX NET-A-PORTER GROUP is a unique business with an unrivalled offering including multi-brand luxury online stores NET-A-PORTER and MR PORTER, and multi-brand fashion online stores YOOX and THE OUTNET, as well as numerous ONLINE FLAGSHIP STORES, all “Powered by YNAP”.
+
+Uniquely positioned in the high growth online luxury sector, YOOX NET-A-PORTER GROUP has an unrivalled client base of more than 3 million high-spending customers generating around 1 billion visits worldwide. The Group has offices and operations in the United States, Europe, Middle East, Japan, China and Hong Kong and delivers to more than 180 countries around the world.
+
+The YOOX NET-A-PORTER's data is unparalleled across the luxury fashion industry, from transactions, to web-traffic, to customer feedback and survey response. Our Data Science team is tasked with utilising this unique resource to enhance the business’s ability to anticipate and meet our customer’s needs.
+
+YOOX NET-A-PORTER are now seeking a talented Senior Data Scientist- Computer Vision to join the team. Some of the essentials for you to know are:
+
+Location: Our London office in Westfield
+
+Department size: 16 people (approx.)
+
+Reporting into: Head of Data Science
+
+Besides a competitive salary, we can offer you:
+
+Performance bonus schemes dependant on the type of role you are in
+A pension that both you and the company contribute too
+A portal with an array of discounts on things like theme parks and cinema tickets
+Our famous staff discount along with exclusive staff sales
+Private healthcare for you and your family
+Flexible working
+A chance to be part of a fun and caring team that support each other
+
+Here is a breakdown of what you’ll be doing:
+
+As a Senior Data Scientist - Computer Vision at YOOX NET-A-PORTER Group you will be working within the sales and conversion tribe of the data science team. The goal of the tribe is to increase sales and conversion by offering the most personalised experience possible.
+You will be building panoptic, semantic and instance segmentation models/microservices and serve them as an API
+You will ensure your models deliver high accuracy and low latency
+You will build visual based recommendation engines
+Work closely with web developers, product owners and business analysts
+Identify opportunities to improve the efficiency of the Data Science team through improved work practices and the development of data assets.
+
+All your models will be served on our websites, Apps and backend systems.
+
+Data Science Technical and Project Management Landscape:
+
+Amazon Web Service (SageMaker) for ML development
+Jenkins for CICD
+Airflow for pipelines
+Bitbucket for version control
+Atlassian suite (Jira and Confluence) for project management
+Agile for delivery
+Python, PySaprk, SQL for languages (C++ is a plus)
+PyCharm as an IDE
+Tensorflow, Keras and PyTorch for deep learning framework
+Amazon Rekognition
+
+Note: The team is currently going through a transformation and a hypergrowth phase. The tech stack will evolve to include more services from AWS tech suite.
+
+The type of person we are looking for:
+
+Bachelor’s or MSc or PhD in computer vision.
+4+ years of professional experience or equivalent.
+Track record deploying at production grade computer vision solutions (at least 5 models in production)
+Online Retail or Online Market Place experience is preferred.
+Industry experience working with one or more of the following use cases: Recommendation Engine, Clustering for customer and product segmentation, Marketing Mix Modelling or Stock Forecasting.
+Experience working using Agile principals and methodology.
+Expert level in Pyspark, Python, SQL.
+Expert level of deep learning and image processing frameworks (Tensorflow, Keras, PyTorch, OpenCV)
+Practical experience with Git.
+Practical CICD experience (Jenkins, Azure DevOps, TeamCity or Similar).
+Expertise with Docker and Kubernetes is a needed.
+Practical experience using Object Oriented Programming.
+Strong foundation in key topics of statistics including sample selection, probability, hypothesis testing and linear regression.
+Practical experience with GANs, CNNs, Auto-encoders
+Proven track record of applying machine learning algorithms to solve commercial problems.
+Exposure to graph technology is a plus but not mandatory.
+Strong business acumen.
+Able to work proactively to solve loosely defined problems.
+Comfortable communicating with a non-technical audience.
+Able to demonstrate resilience when face with challenges.
+Able to work in cross functional teams (marketing, tech, merchandising or other).
+
+From the moment you join the YOOX NET-A-PORTER GROUP we are committed to making your journey with us inspirational and evolutionary. If you are passionate, committed and thrive in a collaborative and fast-paced environment, then please apply with a CV.
+
+YOOX NET-A-PORTER GROUP is an equal opportunities employer, we encourage people with a diverse range of backgrounds to apply. We recognize and celebrate the benefits that diversity brings to our workplace, our business and our customers. We welcome and will consider all applications regardless of race and nationality, religion, color, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as an individual with a disability, or any other legally protected characteristics.
+
+If you require any reasonable adjustments to complete your application, please do not hesitate to advise us accordingly.
+
+Experience Level: Mid-Senior level
+
+Workplace Type: Hybrid

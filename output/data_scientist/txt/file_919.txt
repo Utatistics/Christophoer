@@ -1,0 +1,37 @@
+At Deliveroo we have an outstanding data science organisation, with a mission to enable the highest quality human and machine decision-making. We work throughout the company - in product, business and platform teams - using analysis, experimentation, causal inference and machine learning techniques. We are uniquely placed to use data to help make better decisions and improve data literacy across Deliveroo.
+
+Data Scientists at Deliveroo report into our data science management team, and we have a highly active data science community, with guest lecturers, study groups, mentorship programmes, a robust technical review process, and plenty of opportunities to learn new things. Data Scientists can equally progress as technical leads (individual contributors) and as people managers.
+
+Our data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not. We celebrate differences and have a dedicated data science diversity committee.
+
+About The Role
+
+As a Senior Marketing Data Scientist, you will help our global and local marketing team gain a deeper understanding of the overall effectiveness of their paid media portfolio (ATL as well as BTL), how much media budget is required to achieve their objectives and optimise and grow their marketing budgets accordingly.
+
+This will include modelling to understand historical paid media performance, as well as developing logic and processes around future spending decisions and supporting strategic business decisions with insightful analysis and accurate reporting.
+
+You will work closely with the Global Marketing Teams and cross-functionally with technology and commercial teams around the world handling a mixture of projects, ad-hoc analyses and reporting to ensure the business is informed of marketing performance in all countries and has the right tools to make the best decisions.
+
+You will:
+Have extensive experience in building marketing mix models (MMM) and applying it to media budget planning & optimisation
+Have business and economic insight and understand the need for trade-offs between value and cost.
+Be able to constructively challenge ideas and concepts to collaboratively develop the optimal solution to a problem.
+Be able to work dynamically to tight deadlines in a fast-paced environment.
+Be self-motivated and able to drive project progress with minimal guidance.
+Have good stakeholder management skills – clear on who the stakeholders are and when to engage them throughout the project.
+Have excellent communication skills – articulate and comfortable with debating ideas and opinions. Clear presentation of analysis to managers and the wider business through slide decks & reports is typical.
+Have a strong analytical mindset, be a critical thinker and have great attention to detail.
+
+Nice-to-haves:
+Experience in modelling interactions between brand metrics, paid media, pricing and promotions
+Experience in modelling how demand generation marketing activities drives demand capture activities
+Experience in 'agile' MMM, especially for digital marketing, using packages such as Robyn
+Previous commercial use of other data mining/statistical languages (Python, R) is highly preferred.
+Experience with predictive analytics, strategic modelling and sensitivities.
+Knowledge of coding methods. We may not be developers, but we love GitHub and Travis all the same.
+
+Benefits And Diversity
+
+At Deliveroo we know that people are the heart of the business and we prioritise their welfare. We offer a wide range of competitive benefits in areas including health, family, finance, community, convenience, growth, time away and relocation.
+
+We believe a great workplace is one that represents the world we live in and how beautifully diverse it can be. That means we have no judgement when it comes to any one of the things that make you who you are - your gender, race, sexuality, religion or a secret aversion to coriander. All you need is a passion for (most) food and a desire to be part of one of the fastest-growing startups in an incredibly exciting space.

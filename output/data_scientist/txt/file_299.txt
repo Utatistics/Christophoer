@@ -1,0 +1,123 @@
+Apply here:
+
+REFERENCE NUMBER: 232748
+
+SALARY: £32,600 - £44,700 DEPENDENT ON SKILLS AND EXPERIENCE
+
+GRADE: SENIOR EXECUTIVE OFFICER - DSTL LEVEL 5
+
+CONTRACT TYPE: PERMANENT
+
+BUSINESS AREA: DSTL - CHEMICAL, BIOLOGICAL & RADIOLOGICAL DIVISION
+
+TYPE OF ROLE: ANALYTICAL
+
+WORKING PATTERN: FLEXIBLE WORKING, FULL-TIME, JOB SHARE, COMPRESSED HOURS
+
+Location: Dstl Porton Down, Salisbury, Wiltshire SP4 0JQ
+
+About the job
+
+SUMMARY
+We are the science inside UK Defence and Security.
+Since we were formed in 2001, our talented scientists and technologists have built an enviable reputation for innovating world class science and technology. We are able to deploy our inside knowledge and understanding of government to interpret and connect requirements and stakeholders. We bring together lots of different people and a huge range of disciplines in science and technology. We have lots of variety in our projects, roles and opportunities, making every day a day to explore
+and get excited.
+The Chemical, Biological and Radiological Division (CBR) of Dstl provides an integrated Chemistry, Biology, Radiation and Medical Sciences capability, delivering long term research, short term advice and consultancy, and an emergency response capability in support of UK Defence and Security
+As a statistical data scientist you will work on a dynamic range of projects developing and using novel techniques and will undertake ground-breaking research and experimentation at the forefront of science. If you have the desire to apply your technical understanding of statistical and data science techniques to solve problems we want to hear from you.
+Dstl recognises the importance of diversity and inclusion as people from diverse backgrounds bring fresh ideas. We are committed to building an inclusive working environment in which each employee fulfils their potential and maximises their contribution.
+We particularly welcome female and ethnic minority applicants and those from the LGBTQI community, as they are under-represented within Dstl at these levels.
+JOB DESCRIPTION
+As a capability, we develop and use novel analytical methodologies and techniques and undertake exciting research and experimentation at the forefront of defence and security research.
+As a statistical data scientist you will have the opportunity to work on a range of statistically focused data science projects, helping to increase the use of machine learning, artificial intelligence and increase the data science capability across the division.
+We are looking for people to help develop an in silico capability leveraging emerging Digital Twin technology, advances in modular multi-fidelity modelling and AI powered uncertainty quantification to support and provide advice for even the most complex problems. Also you will be able to provide advice and carry out analysis for complex statistical research and help to develop tools for analysis, exploration and visualisation of CBR data.
+RESPONSIBILITIES
+We're looking for someone with:.
+• A natural curiosity and independent drive to research, experiment and understand
+• Enthusiasm and experience in applying statistical models, machine learning and data science techniques to complex problems.
+• Leadership and collaboration experience
+Qualifications
+Essential
+A minimum 2:1 degree in a relevant subject area, or commensurate experience.
+Desirable
+A Masters degree or PhD in a relevant area.
+Skills
+
+Essential
+• Experience in techniques such as Bayesian inference, mixed effects modelling, machine learning or bioinformatics.
+• Data science research and development using R, Python, Java and/or other relevant languages.
+• Experience in experimental design including computer experiments
+• Experience in visualisation and explanation of uncertainty
+• Interest in development and application of novel statistical applications
+Desirable
+• Handling, curating, manipulating and analysing complex, high volume and high dimensionality data.
+• Experience in data management and databases
+• Knowledge in version control (i.e. Git)
+• Experience in technical leadership in studies or projects, people management or consulting
+Memberships
+An active membership or fellowship of a relevant professional body is desirable. Dstl will pay for memberships for up to 2 relevant professional bodies.
+Important Information
+Our work in defence, security and intelligence requires our employees to be UK Nationals who are able to gain a high level of security clearance to undertake the projects we are involved in to protect us from security threats. For this reason, only UK Nationals will be able to apply for this role. If you are an international or dual-national candidate, and you think you have the skills we need, please consider applying to any of our government, security or defence partners.
+This role will require full UK security clearance and you should have resided in the UK for the past 5 years.
+BEHAVIOURS
+We'll assess you against these behaviours during the selection process:
+Leadership
+Communicating and Influencing
+Developing Self and Others
+Working Together
+TECHNICAL SKILLS
+We'll assess you against these technical skills during the selection process:
+Please explain what would you bring to this particular role, focusing on your skills and experience relevant in statistical modelling.
+Please detail your knowledge of data science tools and techniques with your experience of their application.
+Benefits
+
+Dstl’s full range of great benefits can be found in the information pack which includes:
+Financial: An excellent pension scheme starting from 26% employer contribution (find out more here). In Year Rewarding Achievement bonuses and thank you vouchers. Rental deposit scheme and cycle to work scheme.
+Flexible working: Full flexibility working options include alternative working patterns, compressed hours, job shares and annualised hours. Remote working may be available dependent on role.
+Flexible working hours: Ability to bank hours in a 12 month reference period including the ability to accrue and use 3 days per calendar month.
+Annual leave: 25 days pro rata (rising to 30 after 5 years) plus 8 public holidays with the ability to buy/sell 5 additional days per annum.
+Family: Maternity, adoption or shared parental leave of up to 26 weeks with full pay, an additional 13 weeks statutory pay and a further 13 weeks unpaid
+Learning and Development: Dstl encourages and supports charterships, accreditations and provides employees access to fully funded apprenticeships up to level 7 (Masters Degree). Dstl will pay for 2 memberships with relevant bodies/institutions. Employees also have access to Civil Service Learning.
+Facilities: Onsite parking, EV Charging points, restaurants, cafés and gyms.
+The information pack can be found attached to the job specification on Civil Service Jobs.
+Our Diversity Networks
+We have a number of support networks to ensure all employees feel supported at work. These include the following:
+Sexual Orientation and Gender Identity Network
+Race, Faith and Culture Network
+Parents and Carer Support Network
+Alternative Working Network
+Gender Equality Network
+New Starters Network
+Enabled Network, for people with visible and non-visible disabilities.
+Things you need to know
+
+SECURITY
+Successful candidates must pass a disclosure and barring security check.
+Successful candidates must meet the security requirements before they can be appointed. The level of security needed is security check.
+See our vetting charter.
+People working with government assets must complete basic personnel security standard checks.
+SELECTION PROCESS DETAILS
+This vacancy is using Success Profiles, and will assess your Behaviours, Experience and Technical skills.
+Sift will be completed by 19th September 2022.
+We want you to have your best chance of success in our recruitment process, so If at any stage of the application process you would like help or assistance please contact the Dstl Recruitment Team dstlrecruitment@dstl.gov.uk and we will do all we can to support you.
+Feedback will only be provided if you attend an interview or assessment.
+NATIONALITY REQUIREMENTS
+Open to UK nationals only.
+This job is not open to candidates who hold a dual nationality.
+WORKING FOR THE CIVIL SERVICE
+The Civil Service Code sets out the standards of behaviour expected of civil servants.
+We recruit by merit on the basis of fair and open competition, as outlined in the Civil Service Commission's recruitment principles.
+The Civil Service embraces diversity and promotes equal opportunities. As such, we run a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+Apply and further information
+
+This vacancy is part of the Great Place to Work for Veterans initiative.
+Once this job has closed, the job advert will no longer be available. You may want to save a copy for your records.
+
+CONTACT POINT FOR APPLICANTS
+Job contact :
+Name :Dstl Recruitment Team
+Email :dstlrecruitment@dstl.gov.uk
+Recruitment team :
+Email :dstlrecruitment@dstl.gov.uk
+FURTHER INFORMATION
+Should you wish to raise a formal complaint about the Dstl recruitment process you should email dstlrecruitment@dstl.gov.uk stating the nature of the issue. We will respond within 5 working days.

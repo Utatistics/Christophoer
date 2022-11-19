@@ -1,0 +1,30 @@
+Victory Hill is an energy investment firm, which deploys investor capital across sustainable energy infrastructure and sustainable energy private equity. This is a great opportunity to join a high growth environment with significant career potential. The firm’s flagship fund is focused on sustainable energy infrastructure investments across the globe. The firm has plans to launch two more global private asset funds in the coming 18 months. Further information is available at www.victory-hill.com and on www.vh-gseo.com. Follow Victory Hill Capital Advisors LLP on LinkedIn and on Twitter @VictoryHill.
+Team
+Integrated within the Investment Division, the Investment Analytics Team intends to focus on data-driven questions that matter to business and can be solved through the application of data analysis, statistics, computer programming, and machine learning. the firm aims to develop insights through alternative datasets and analytical methods to help fill in gaps in our understanding of specific assets and markets, as well as help source new investment and partnership opportunities.
+In the firm’s private equity practice, the candidate will work hand-in-hand with deal teams to identify potential sources of corporate value that could be quantified and underwritten through data science. In our portfolio companies, we drive operating efficiencies and create incremental and new revenue streams by working directly with our management teams. In the infrastructure practice, we work alongside deal teams, EPC companies, operating partners and other service providers to evaluate attractiveness and the performance of portfolio assets based on novel datasets and geospatial models.
+The firm is building a team of data scientists, engineers, and strategists that analyse complex datasets, develop predictive and analytical models, build production-quality data flows, and advise on smarter data utilization. The team will sit at the intersection of quantitative and investment analysis and focus only on projects that “move the needle”. You will have the opportunity to work directly with senior management at Victory Hill as well as with top executives from our portfolio companies and operating partners.
+If you enjoy fast-paced, stimulating quantitative work with tangible business impact, this may be a good fit for you.
+Job Description
+The firm is looking for an Associate to join the Investment Analytics Team, reporting directly to the Chief Investment Officer. The successful candidate will support the business by using advanced analytics and statistical methods to make the firm a better investor and business operator.
+Victory Hill is looking to hire a passionate data scientist to be an integral member of the investment team focusing on private equity investing. This individual will play a key role in accelerating a data-driven evolution within the firm by using advanced analytics to evaluate live private equity and infrastructure deals, work with our portfolio company management and operating partner teams to drive business/asset value, and work with alternative datasets to curate novel insights.
+The ideal candidate is a data practitioner, who has experience working with diverse sets of structured and unstructured datasets. This individual needs to understand and own all steps of the data analysis process, including cleansing dirty and unstructured data, data tagging, feature engineering, and mapping. A data scientist will be responsible for independently exploring and working with a portfolio of datasets and have the opportunity to generate novel insight from the data. This individual needs to be passionate about the application of data science to drive business impact, and intellectually curious about solving real-world questions from data.
+Skill Requirements
+Be familiar and have working knowledge of the Microsoft stack and proficiency in setting and working with MS Azure, Databricks, DataOps, Power BI, etc.
+Familiarity with big data analytical techniques and cloud technologies
+Be able to build Analytics and Reporting tools for business use
+Foundation in statistics and mathematics
+Comfortable working with, and combining, disparate and diverse data sources
+A strong intuition for analytical methodologies and desire to solve novel technical challenges
+Understand how to manage internal and external stakeholders
+Be an excellent communicator
+Candidate Requirements
+Undergraduate degree required
+Postgraduate degree strongly preferred (MSc, MEng, MPhil, PhD,…)
+4-7 years of relevant experience in a data-driven professional setting or in academia
+Proficiency in multiple programming and querying languages, including Python and SQL
+Excellence in balancing multiple projects and efficiently meet goals in a fast-paced environment
+Strong written and verbal communication
+Ability to work both independently and in a team
+No previous experience in the financial services industry is required
+What we commit to
+Victory Hill is firmly committed to a policy of equal opportunity and non-discrimination, which applies to recruiting, hiring, placement, promotions, training, discipline, terminations, layoffs, transfers, leaves of absence, compensation and all other terms and conditions of employment. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.

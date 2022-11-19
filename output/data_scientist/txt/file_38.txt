@@ -1,0 +1,36 @@
+CUSTOMER DATA SCIENTIST
+
+LEEDS (twice a week)
+
+£50,000 - £60,000 + bonus + benefits
+
+This is an excellent opportunity to work as a Customer Data Scientist, joining the Analytics team ideally in the office twice a week of this leading retail company based in Leeds. With the chance to be part of this established analytics team, this position would be perfect for someone looking to take on a new and exciting role.
+
+The Company
+
+This is a well-known retail company with an excellent presence and a huge customer base thus offering a wealth of data for the Customer Data Scientist to work with. They have recently launched a new loyalty scheme, which will be revolutionary in the industry, so there is plenty of exciting projects to get stuck into, while being part of a hugely successful analytics team.
+
+The Role
+
+As the Customer Data Scientist, you will be joining the Analytics team as well as reporting to the Head of Insight and Data Science. You will also be working on exciting projects, such as:
+working on statistical modelling in Python across the customer analytics space to provide insight on customer behaviour, loyalty and lifetime value
+this includes customer regression models, prediction models and forecasting for customer behaviour across the business
+personalisation projects for ensuring customers have the most tailored experience in relation to their purchase history and spending habits
+working alongside the analytical teams and other data scientists to help personalise the customer experience online
+building models from scratch, across neural networking, segmentation, regression
+Your Skills And Experience
+
+As the Customer Data Scientist, it is essential that you:
+Have excellent skills in SQL and Python for working with very large customer datasets
+Have experience in building and deploying analytical models from end to end
+Have experience in building regression and predictive models that can be built into the systems
+Have excellent communication skills for working with other teams and communicating with stakeholders
+Have experience from, or at least solid knowledge of the retail/ecommerce sector
+Salary And Benefits
+£50,000 - £60,000 DOE
+Bonus
+Various benefits
+Flexible working - preferably twice a week in office, but can be more flexible for the right candidate
+How To Apply
+
+Please register your interest by sending your CV to Alanah Chambers via the Apply link on this page.

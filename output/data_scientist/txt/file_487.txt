@@ -1,0 +1,40 @@
+Duties
+
+Work across functional teams to identify data capture and analysis requirements.
+Implement a big data architecture onto NCTE.
+Design and build analysis capabilities into the architecture
+Collaborate with software engineers on a data-driven predictive maintenance tool
+Keep up-to-date on current technologies and applications of big data architectures
+Identify opportunities use cases for supervised and unsupervised learning to expand the use of the big data architecture within NCTE
+As needed deliver KPIs and automated reporting to teams supporting the NCTE
+
+Required Skills
+
+Bachelor's degree in technical discipline (i.e. data science, computer science, engineering, mathematics, etc.) and 8-10 years of relevant experience
+At least 3 years of experience as a data scientist
+Educational requirements may be adjusted for applicable work experience. Work experience may be adjusted for highly specialized knowledge or uniquely applicable experience.
+Experience in RESTful web services and/or Object Oriented Programming (OOP) paradigms
+Experience with Python, R, or other data science related tools
+Experience querying data from SQL databases
+Experience with machine learning, artificial intelligence, neural networks (e.g. Tensorflow)
+Experience with the Linux operating system
+Experience with configuration management tools (e.g. Git, Nexus, Maven)
+Experience with the agile software lifecycle
+Experience with anomaly detection, time series forecasting, and predictive maintenance
+Has a proven ability to learn quickly and works well both independently as well as in a team setting
+
+Desired Skills
+
+Experience rapidly scaling data storage and processing
+Experience with causal analysis methods for root cause analysis
+Experience in Modern Java Frameworks and Libraries (e.g. Spring, Guava)
+Experience with data visualization
+Experience with web frontend frameworks (e.g. React) and accessing REST APIs
+Experience in distributed databases, NoSQL, or Graph databases (e.g.Neo4j or MongoDB) a high plus
+Experience in streaming and/or batch analytics (e.g. Kafka, Spark, Flink, Storm, MapReduce, Hadoop)
+Experience implementing a distributed storage system such as HDFS, HBASE etc.
+Experience creating a distributed analytics engine such as DASK or SPARK directly on virtual machines
+
+Must be able to obtain and maintain a Secret clearance. US Citizenship is required
+
+Powered by JazzHR

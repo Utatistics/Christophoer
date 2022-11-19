@@ -1,0 +1,31 @@
+We are looking for a passionate Data Scientist to join a rapidly growing team of data scientists applying machine learning algorithms to marketing data from our big data pipelines, which handle thousands of data events every minute. With an emphasis on scalability, this data science team implements ML models trained on big data and provides predicted values to other teams in the company or to our clients.
+
+Responsibilities
+Formulating, suggesting and managing data-driven projects in line with requests and needs from business.
+Contribute new ML models to a REST API that provides on-demand predictions
+Maintain and improve existing ML models and pipelines
+Communicate with stakeholders from technical and non-technical areas
+Delegate tasks, guide and provide support to less experienced data scientists in order to realise the successful completion of collaborative projects.
+Promote and help to establish cross-team collaboration
+Evaluate machine learning models with mathematical rigour translated to examples of real business cases
+Selecting and employing advanced statistical procedures to obtain actionable insights
+Commitment to continual improvement in machine learning techniques, and providing suggestions for improvements of existing models and detailing successes and limitations of each project
+Suggesting ways in which insights obtained might be used to inform business strategies
+Required
+Advances experience with cloud computing (ideally GCP), Docker and containerised applications.
+Extensive experience as a data scientist, with demonstrable history of devising and overseeing data-centred projects.
+University degree in a quantitative field (such as Computer Science, Physics, Statistics, Applied Mathematics, Economics, ...) or equivalent
+High proficiency in Python, experience with Git version control, in-depth understanding of SQL.
+Implementation of best practices in software development
+Familiarity with relational and columnar databases
+Experience working with big data technologies (e.g. BigQuery, Spark, Hadoop, Beam)
+Enthusiastic and creative approach to problem solving
+Expertise with common algorithms for supervised and unsupervised learning, like LDA, PCA, SVM, RandomForests, and K-Means.
+3+ years of industry experience or equivalent with machine learning/data science
+Basic knowledge of Graph Theory, and Python web frameworks (such as Flask or others)
+Ability to complete an end-to-end data science project, from data ingestion to deployment of a REST API / model / task
+Nice To Have
+Experience with graph-based algorithms in machine learning
+Experience with Airflow, NoSQL databases (Neo4j), real-time data streams (e.g. Dataflow, Spark streaming or Kafka stream).
+Experience with platform for managing and deploy containerised applications (e.g. Kubernetes, Cloud Run)
+A successful candidate will need to be organised and motivated to get things done. They will also want to work in a startup environment and take ownership of their work. Nova Futur has got a great company culture. People here support each other, they communicate openly and work together on cutting edge technologies while valuing work/life balance.

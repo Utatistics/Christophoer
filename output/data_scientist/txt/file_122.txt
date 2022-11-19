@@ -1,0 +1,31 @@
+Mars Wrigley Inc. is looking to continue to accelerate its data and analytics journey across sales and marketing. The One Demand Data & Analytics (ODDA) team has been set up to drive advanced analytics agenda, innovation and positive disruption within Mars Wrigley. Our vision is to become a leading Data & Analytics player in the CPG industry over the next three years, in support of delivering our reinvention strategy.
+
+By leveraging machine learning, AI and new cutting-edge technologies, ODDA team set on a mission to revolutionise Omni- channel analytics and bring data to the forefront of decision making. The Data scientist analyst profile is a key role needed for our continued journey and success. This is a global cross market role, where you will be working on the most challenging problems across the Digital Commerce and Omnichannel to drive competitive advantage for Mars Wrigley.
+
+The purpose of this role is to join and be an integral part of the expanding data science function and to deliver advanced analytics capabilities and solutions to take action, maximise value and make meaningful impact on our consumers, customers and business.
+
+What are we looking for?
+Bachelor’s Degree in Analytics or related quantitative fields (statistics, Operations research, mathematics, econometrics etc.); advanced degree preferred.
+2 - 5 years' experience in applied data science role or equivalent; ideally in CPG/Retail.
+Good to have - Knowledge and experience in modelling techniques and advanced applied skills (e.g. significance testing, GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.) using tools like Spark, Scala, SAS, R, Python, Bayesian, H2O, Storm, Yarn, and Kafka.
+Must have Experience querying databases (SQL, Hive).
+Experience working with big data platforms such as Hadoop ecosystem (Azure), including in-memory solutions (SAP HANA and Apache Spark).
+Strong Working knowledge of data visualization tools such as Tableau, Power BI, D3, ggplot, to deliver output to the broader business community to improve decision making and productivity.
+Experience working with Amazon ecosystem and data (desirable).
+Strong communication and presentation skills.
+What will be your key responsibilities?
+This role is responsible for evangelizing the adoption of data driven decisions across Mars by leading the development of advanced analytics methods, mining vast amounts of data from data lake (internal/ external data) to provide actionable insights for solving business problems or finding opportunities for profitable growth & efficiency.
+Applies strong expertise in analytics through data mining, machine learning and statistical models, visualization to solving specific business problems.
+Collaborate with business partners to understand the business requirement and develop analytics solutions such as dashboards, models etc. and be able present potential solutions.
+Effectively communicate the analytics approach and how it will meet and address objectives to business partners.
+Advocate and educate on the value of data driven decision making focusing on the “how and why” of solving problems.
+Create repeatable, interpretable, dynamic and scalable models that are seamlessly incorporated into analytic data products.
+Engineer features by using your business acumen to find new ways to combine disparate internal and external data sources.
+Share your passion for Data Science with broader enterprise community; identify and develop long-term processes, frameworks, tools, methods and standards.
+What can you expect from Mars?
+Work with over 130,000 diverse and talented Associates, all guided by The Five Principles.
+Join a purpose driven company, where we’re striving to build the world we want tomorrow, today.
+Best-in-class learning and development support from day one, including access to our in-house Mars University.
+An industry competitive salary and benefits package, including company bonus.
+A company that understands the importance of a work-life balance.
+An industry competitive salary and benefits package, including company bonus. The chance to take hold of your own career, and develop personally and professionally.

@@ -1,0 +1,52 @@
+At Databricks, we are obsessed with enabling data teams to solve the world's toughest problems, from security threat detection to cancer drug development. We do this by building and running the world's best data and AI infrastructure platform, so our customers can focus on the high value challenges that are central to their own missions.
+
+Founded in 2013 by the original creators of Apache Spark, Databricks has grown from a tiny corner office in Berkeley, California to a global organization with over 1000 employees. Thousands of organizations, from small to Fortune 100, trust Databricks with their mission-critical workloads, making us one of the fastest growing SaaS companies in the world.
+
+Our engineering teams build highly technical products that fulfill real, important needs in the world. We constantly push the boundaries of data and AI technology, while simultaneously operating with the resilience, security and scale that is critical to making customers successful on our platform.
+
+We develop and operate one of the largest scale software platforms. The fleet consists of millions of virtual machines, generating terabytes of logs and processing exabytes of data per day. At our scale, we regularly observe cloud hardware, network, and operating system faults, and our software must gracefully shield our customers from any of the above.
+
+As a Data Scientist on the Data Team, you will help build a data-driven culture within Databricks by helping solve product and business challenges. The Data team also functions as an in-house, production "customer" that dogfoods Databricks and drives the future direction of the products.
+
+The Impact You Will Have
+
+Shape the direction of some of our key data science areas - forecasting, product analytics, churn prediction and insights, segmentations and recommendations.
+Work closely with Product Management, Sales, Customer Success and other stakeholders to understand product usage patterns and trends and to make data-driven decisions and forecasts.
+Manage stakeholders for their focus area - gather changing requirements, define project OKRs and milestones, and communicate progress and results to a non-technical audience.
+Mentor and guide junior data scientists on the team by helping with project planning, technical decisions, and code and document review.
+Represent the data science discipline throughout the organization, having a powerful voice to make us more data-driven
+Build self-serving internal data products to make data simple within the company.
+Represent Databricks at academic and industrial conferences & events.
+
+What We Look For
+
+7+ years of data science, machine learning, advanced analytics experience in high velocity, high-growth companies
+Extensive experience in applying Data Science / ML in production to build data-driven products for solving business problems.
+Familiarity with product data science - understanding and tracking customer and user behaviour using lenses like adoption, churn, cohorts and funnel analysis.
+Experience collaborating with and understanding the needs of stakeholders from a variety of business functions. We work most closely with Product, Customer Success and Engineering at the moment, but also work with the Sales, Marketing and Finance organizations.
+Strong coding skills in general purpose languages like Scala or Python, and familiarity with software engineering principles around testing, code reviews and deployment.
+Proficient in data analysis and visualization using tools like R and Python.
+Experience with distributed data processing systems like Spark, and proficiency in SQL.
+MS or Ph.D. in quantitative fields (e.g., Statistics, Math, Computer Science, Physics, Economics, Operational Research or Engineering)
+
+Benefits
+
+Health insurance reimbursement and collective healthcare scheme
+Life, accident and disability coverage
+Company pension
+Paid parental leave
+Annual vacation bonus
+Equity awards
+Gym reimbursement
+Annual personal development fund
+Work headphones reimbursement
+Business travel accident insurance
+Mental wellness resources
+
+About Databricks
+
+Databricks is the lakehouse company. More than 7,000 organizations worldwide — including Comcast, Condé Nast, H&M and over 50% of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark™, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the world’s toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+
+Our Commitment to Diversity and Inclusion
+
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.

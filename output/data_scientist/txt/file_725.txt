@@ -1,0 +1,47 @@
+Job details
+
+Salary £48,526 - £54,619 a year Job type Full-time
+
+Full Job Description
+
+Job title: principal data scientist
+
+Grade: Band 8a
+
+Contract: permanent
+
+Hours: 37.5
+
+Site: working from home and Cardiff office based
+
+Town: Capital Quarter 2 Cardiff
+
+Salary: NHS B8a (Agenda for Change)
+
+Salary period: per annum
+
+Closing: 06/09/2022 (Midnight)
+
+Interview date: W/C 19/09/2022
+
+Do you have a passion for using your data science skills for public good? Are you excited about innovation, and the opportunity to explore tools, techniques, and data sources to solve interesting challenges with data? Do you thrive in a multi-disciplinary, collaborative environment? Are you curious about the world, and looking for ways to improve it using data? If so, this may be the job for you!
+
+We are looking for skilled and enthusiastic data scientists to join our new Data Science and Innovation Team. We’re currently recruiting two advanced data scientists and one principal data scientist, reporting to the Head of Data Science.
+
+If you’d like to discuss the job further, please contact Louisa Nolan, Head of Data Science,louisa.nolan@wales.nhs.uk.
+
+You’ll lead multi-disciplinary, cross-organisational Agile teams to exploit novel and traditional data sources to support Public Health Wales in its mission to protect and improve the health and well-being and reduce health inequalities for the people of Wales.
+
+You’ll lead the scoping, design and delivery of a variety of data science and analytical projects. You’ll be adept at bringing together stakeholders, to understand their needs, and interpret these to deliver data products. And you’ll have good project management skills, to deliver collaborative, timely products with impact.
+
+We know that data scientists aren’t unicorns, so, in addition to strong R and / or Python skills, you’ll have experience in at least one, but probably not all of: natural language processing, supervised and unsupervised machine learning, building dashboards and visualisations, building reproducible analytical pipelines. And you’ll have some data management and engineering skills as well, perhaps manipulation and analysis of complex, high volume, high dimensionality data; relational and non-relational databases; SQL / NoSQL databases; cloud storage and data management; data linkage; or experience with unstructured data.
+
+You’ll be responsible for ensuring your team writes and publishes good quality code, adhering to the principles of good practice.
+
+Public Health Wales is the National Public Health Institute in Wales. Our vision is 'Working to achieve a healthier future for Wales' where we play a pivotal role in driving improvements in population health and well-being, reducing health inequalities, improving healthcare outcomes, protecting the public and supporting the development of health in all policies across Wales.
+
+Our organisation is guided by our Values, 'Working together, with trust and respect, to make a difference'. We are committed to creating an inclusive workplace that values equality, diversity and inclusion. We welcome applications which represent the rich diversity of the communities we serve and from those wishing to work part time or on a job share basis.
+
+To find out more about working for us, the benefits we offer and guidance on the application process, please visit https://phw.nhs.wales/working-for-us/applicant-information-and-guidance/
+
+You can download a full job description and person specification from the Documents to download section, or please Apply now to view in Trac. .

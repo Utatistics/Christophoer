@@ -1,0 +1,73 @@
+Company Description
+
+As the world's leader in digital payments technology, Visa's mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.
+
+At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers.
+
+You're an Individual. We're the team for you. Together, let's transform the way the world pays.
+
+Job Description
+
+What’s it all about?
+
+This is a high-visibility opportunity for a technical leader who wants to work on large-scale problems with tangible business impact.
+
+In this role, you will lead a small team of talented Data Scientists who support Visa’s Functions and Product (F&P) departments by answering key business questions with data-driven answers and actionable recommendations.
+
+As a leader in the F&P Data Science team, you will:
+
+Bring structure to ambiguous business problems, using computational and statistical techniques to translate them into highly scalable solutions
+Set the standard for engineering excellence and shape the way we design, deploy, and maintain these solutions
+Foster a data-driven culture across the entire company, enabling F&P departments to consume your insights and take measurable actions
+Provide thought leadership and guidance within your team and across the broader Visa Europe Data Science community
+
+What We Expect From You, Day To Day
+
+Strategic Leadership
+
+Set the team’s strategic direction and plan of execution to drive meaningful business results
+Be a strong leader who can apply Data Science methods towards answering key business questions with data-driven answers
+Influence F&P teams by translating data and insights into actionable recommendations and ensuring they are adopted to successfully deliver business outcomes
+Stakeholder Leadership
+Plan and communicate with partners to scope projects, agree timelines, and define responsibilities
+Establish and foster a data-driven culture and strong relationships across F&P
+Collaborate effectively with other Data Science teams across Visa
+Team Leadership
+Facilitate project execution and knowledge sharing, allowing the team to operate at a high level
+Support the professional growth of a team of highly skilled Data Scientists
+Model Visa’s Leadership Principles and create an inclusive and supportive environment where every employee can thrive
+
+Technical Leadership
+
+Be an experienced mentor to more junior Data Scientists on computational/statistical methods and their applications to loosely defined business problems
+Demonstrate a product mindset by identifying, developing, and maintaining reusable components that can be deployed into productised solutions
+Advance the team’s engineering craftsmanship by devising and sharing best practices
+Develop a deep understanding of Visa’s data assets and how they can be used to support F&P teams across the company
+Identify and prototype novel methods, algorithms, and tools from the open-source community and the scientific literature
+
+Qualifications
+
+What we're after...
+
+Required Qualifications
+
+Strong statistical knowledge and proven expertise in applying statistical solutions to business problems
+Solid relational modelling (SQL) and programming skills (preferably in Python)
+Good working knowledge of data visualisation / BI platforms such as Power BI or Tableau
+Experience leading the delivery of large-scale data solutions using Big Data and distributed processing platforms such as Hadoop, Hive and Spark
+Familiarity with modern DevOps practices (including Git and CI/CD)
+Long-term strategic thinking and strong problem-solving skills
+Stakeholder management ability including effective prioritisation, clear and concise communication, and delivery of actionable data-driven insights
+
+Preferred Qualifications
+
+A higher degree (or equivalent experience) in Computer Science, Statistics, Mathematics, or other quantitative discipline
+Functional knowledge of cloud computing platforms such as AWS, Azure or GCP
+Background in payments or banking
+Experience creating and protecting Intellectual Property through patents
+
+Additional Information
+
+Universal acceptance for everyone, everywhere, is not only our brand promise, it’s the foundation of our company culture. We foster a feeling of connectedness in the workplace, support diversity of thought, culture and background, fight for important initiatives like Equal Pay and actively work to eliminate unconscious biases that hold us all back.
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.

@@ -1,0 +1,49 @@
+Data Scientist - Outside IR35 - Fully Remote - Immediate Start
+
+Location: Fully Remote
+
+Length: 6 Months Minimum
+
+IR35: Outside IR35
+
+Rate: �450 - �500 per day
+
+Start date: ASAP
+
+My client, who is in financial services, is looking for a Data Scientist to join their team.
+
+Your primary focus will be on building, training, and maintaining state-of-the-art classification, prediction, risk measurement, and anomaly detection algorithms, related to real-world business processes. There are a lot of exciting things to do!
+
+What You'll Do
+
+Build and optimise the machine learning algorithms and the risk and simulation models using modern machine learning techniques to support their origination, underwriting, and their risk management.
+Feature analysis and selection; identifying and implementing effective pre-processing methods;
+Evaluate third-party sources of data and information, integrating them, and enhancing the data collection procedures
+Build and maintain automated systems for extraction, processing, cleansing, and verifying the integrity of the data used for analysis
+Measure and monitor the performance of the implemented systems, including performance reporting.
+Doing ad-hoc analysis and presenting results in a clear manner
+
+Requirements
+
+Strong understanding of machine learning techniques and algorithms, as well as techniques for validation and monitoring of algorithm performance.
+Strong applied statistical skills. Knowledge of time series modelling and prediction would be helpful but not essential.
+Ability to creatively apply these skills in novel contexts in a business environment.
+Experience in putting machine learning algorithms into production.
+Experience with common data science frameworks (e.g. Python/Scikit-Learn), and willingness to learn new skills in this area, Experience with database query languages.
+Comfortable adopting a collaborative approach to problem-solving
+Great communication skills, ability to explain and communicate results to a non-technical audience, curiosity, and eagerness to learn and develop new techniques.
+
+Who Are You
+
+A strong engineer with a passion for data and clean solutions
+A natural affinity for working in a dynamic environment using agile methodologies
+Comfortable adopting a collaborative approach to problem-solving
+Able to deliver results autonomously and optimise for output
+Forward-looking - considering future use cases and lifetime of the codebase when developing
+Appreciation of business goals and alignment with technology
+
+Their Culture
+
+As a growing team in a rapidly developing space, my client's culture is hugely important and is an area where you can make a great impact. My client pride themselves on their passion and commitment, regardless of specialism. Success is driven by collaboration - we solve problems together, and openness helps each individual grow, too. They're looking for people who can contribute fresh insights and the tenacity required to deliver value.
+
+To discuss our exciting opportunities in more detail, please send your CV to c.murphy1@nigelfrank.com or call Caimhan Murphy on 0207 337 0805 in complete confidence ASAP.

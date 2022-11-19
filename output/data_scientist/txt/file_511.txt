@@ -1,0 +1,39 @@
+ABOUT DALBERG DATA INSIGHTS
+At Dalberg Data Insights, we partner with public and private stakeholders to spark digital transformation and fill data gap across different verticals – namely (i) Agriculture and Food Security; (ii) Public Health; (iii) Gender and Financial Inclusions; (iv) Poverty Alleviation; and (v) Energy – by building local and inclusive data ecosystems. Our data ecosystem approach consists of developing data governance frameworks, data-driven technologies, as well as a community of users, contributors, developers, and administrators. Using our products and solutions, local and global communities can better target, implement, and evaluate their programs and initiatives.
+
+For example, we have built data solutions that monitor crop yield for sorghum and maize in northern Uganda based on satellite images. The data products we created based on mobility insights from aggregated and anonymized telecom data, have helped track the spread of COVID19 in Belgium, Ebola in West Africa and Zika and Chikungunya in Brazil. We have used labour market data we capture and interpret to design and pilot a Labour Market Information System in Ethiopia.
+
+Dalberg Data Insights is a platform for change. Our staff is empowered to start new programs, institute best practices, and develop traditions that will define the DDI’s experience for years to come. Innovation and entrepreneurship are not only valued at DDI, but they are also essential to our firm’s success. In addition to providing training, management-level advising, and mentoring, we empower our staff to learn by doing, engaging them as core members of project teams from day one.
+
+Dalberg Data Insights is the Big Data entity of Dalberg Group. We are a global group working to build a more inclusive and sustainable world where all people, everywhere, can reach their fullest potential. Comprising Dalberg Advisors, Dalberg Capital, Dalberg Design, Dalberg Data Insights and Dalberg Research; our businesses approach problems differently and work together to create impact at scale. Our culture is about trust, empowerment, impact, inclusiveness.
+
+Established in 2001 by experienced private sector consultants, Dalberg operates from 29 worldwide locations. For more information, please visit www.dalberg.com
+
+ABOUT YOU
+You aspire to become a leader in global development by tackling global issues, from malnutrition to climate change to economic growth, ensuring no population is left behind. You enjoy collaborating with teams while traveling and working across continents and cultures. You excel in solving problems using clear strategic thinking and quantitative and qualitative analysis, and you want to put your skills to work—transforming organizations, advising investors, and shaping new initiatives. You are a committed self-starter with an excellent academic record, leadership roles on campus, a passion for development and an entrepreneurial spirit.
+
+You are passionate about tackling global issues, from food insecurity to climate change to economic growth, ensuring no population is left behind. You are a problem solver and a committed self-starter. You do the extra mile to excel professionally. You are curious and a fast learner.
+
+Typical Qualifications for a Data Scientist:
+At least 2 years of experience
+Extensive programming experience with Python
+Experience in statistical modelling and machine learning techniques
+Demonstrated fluency in English, both speaking and writing, and ability to successfully communicate complex ideas, proficiency with other languages a plus
+Professionalism in working directly with clients
+
+Preferred skills for a Data Scientist:
+Knowledge of Frontend technologies (JavaScript, React) and Visualization libraries (Plotly.js/py, D3.js)
+Working knowledge of APIs
+
+Note: Employment in all Dalberg offices is conditional on the candidate having or independently obtaining the requisite authorization to live and work in that country.
+
+Dalberg is a platform for change. Our staff is empowered to start new programs, institute best practices, and develop traditions that will define the Dalberg experience for years to come. Innovation and entrepreneurship are not only valued at Dalberg; they are essential to our firm’s success. In addition to providing training, management-level advising, and mentoring, we empower consultants to learn by doing, engaging them as core members of project teams from day one.
+
+JOIN OUR TEAM
+Our current opportunity is in the Abidjan, Abu Dhabi, Addis Ababa, Brussels, Copenhagen, Dakar, Dar es Salaam, Geneva, Johannesburg, Kigali, Lagos, London, Mumbai, Nairobi, New Delhi and Singapore offices.
+
+Please submit your application online via our Career Centre, by 11:59pm EST on 09 October 2022. Your application should include a resume and cover letter. In your cover letter, tell us why you are excited to explore this opportunity.
+
+As part of our commitment to diversity and inclusion, Dalberg is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+
+Owing to the large number of applications we receive; unfortunately, only successful candidates will be contacted.

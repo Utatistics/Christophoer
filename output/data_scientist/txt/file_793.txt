@@ -1,0 +1,57 @@
+Data Scientist – Data & Analytics, CIO
+
+We have an exciting opportunity for a Data Scientist to join our Data & Analytics team on a permanent basis. The role will be based across our offices in London Bridge and remotely as we operate a hybrid model of working.
+Data is at the heart of what PRS does, and we have an aspiration to develop advanced data analytics to gain deeper insights for our members and the business.
+
+Data is at the heart of what PRS do and we have an aspiration to develop advanced data analytics to gain deeper insights for its members and the business.
+We believe that this can be driven through:
+Meaningful member insights which will allow them to exploit new opportunities.
+Improved data driven member services by ensuring data under-writes a good customer experience
+Identification of new revenue opportunities & markets
+Enabling the organization to leverage data driven marketing activities.
+
+Why PRS?
+We have worked hard at PRS for Music to create a culture where each colleague can bring their true selves to work and thrive.
+We want you to have the work/life balance you need, so our flexible working approach covers both location and hours. You can work with your manager to find the hours that work best for you, as long as you are available for meetings when needed. We even provide the opportunity twice a year to work remotely, for up to a month at a time, in the UK or abroad.
+We love music and host events so we can socialise as a team and share our passion. From our legendary Christmas Gig and PRS Presents to quizzes, drag queen bingo, comedy nights and team socials. Wellbeing is high on our agenda with a full programme of events, webinars, and initiatives, plus a team of Mental Health First Aiders to ensure we are happy, healthy and engaged.
+
+About the Role
+The Data Scientist role will have enterprise-wide responsibility to identify and solve complex business problems using techniques and knowledge from a range of disciplines such as statistics, analytics, machine learning.
+
+The Data Scientist will be expected to design and build data driven solutions, to create models/analysis and provide results and conclusions to the business; that will help build on, and execute the existing organisational strategy.
+
+Other duties will include, but limited to:
+Opportunity to shape strategy and analytics across the organization through data, reporting and technology requirements
+Shape our tools and techniques which will start us on the journey towards data science.
+Work with business stakeholders throughout the organization to identify opportunities for leveraging data to drive business solutions
+You will be responsible for ensuring the controls such that all data models are fit for purpose, meeting governance and regulatory standards.
+Be able to explore and visualise data in a way that is understandable by technical and non-technical audiences
+Undertake research from which prototypes and proof of concepts can be developed to prove practices before they are formally adopted
+Mentor, coach and build a world class science capability in the business.
+Assess the effectiveness of data sources and data-gathering techniques and improve data collection methods and tooling working closely with the wider Data Teams and other IT functions
+Keep current with technical and industry developments
+
+About You
+The successful candidate will have/be:
+Strong and proven experience working with statistical models and a background in statistics, mathematics or another quantitative field.
+Experience using statistical computer languages (R, Python, SLQ etc.) to manipulate data and draw insights from large data sets, ideally with exposure to Machine Learning.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests etc.)
+Practical experience leading innovative data driven solutions on large or complex datasets, including gathering and manipulating disparate data and applying analytical techniques.
+Experience of undertaking analysis of consumer and digital data sets
+Ideally an understanding of music industry (CMO) landscape and ecosystem (bonus, not essential)
+A broad knowledge of related disciplines such as data warehousing, business intelligence (BI), data governance, data architecture, data integration, data classification, data strategy, data quality management, data security and privacy, MDM and data standards
+
+
+About Us
+PRS for Music has been at the heart of the music business since 1914, representing our membership of 160,000 songwriters, composers, and publishers. We pay royalties to our members when their musical works are performed, broadcast, streamed, or used in film and TV. We also work on impacting the music industry through collaborations, digital developments, influencing legislation and supporting new musical talent for the future.
+
+Next Steps
+Does this sound like you? If so, we would love to hear from you – apply now and send your CV & Covering Letter to recruitment@prsformusic.com
+
+Covid-19 Recruitment Statement
+PRS For Music is continuing to follow the Government recommendation in light of COVID -19 to ensure the safety and wellbeing of our staff, members and candidates.
+Our focus is to provide our members with the best service and support, and therefore we remain focused on our resourcing strategy and continue to encourage applications for advertised roles.
+We are transitioning back to a hybrid model of working across the organisation including in our recruitment process. Whilst our first stage interviews will take place remotely, we want you to experience the culture and working environment at PRS for Music. Therefore, once opened, our new Central London Hub, based in London Bridge will be used for second stage interviews.
+We are committed to only recruit for vacancies that are essential to the livelihood and continued service to our members.
+Please note: That due to the high volume of applications we receive, we are unable to give feedback to all candidates at shortlisting stage. If you have not heard from us within 6 weeks of your application, please assume you have been unsuccessful.
+Many Thanks – The HR Team

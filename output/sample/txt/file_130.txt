@@ -1,0 +1,22 @@
+Tasks And Responsibilities
+The primary responsibility of this role is to provide commercial teams measurable insights into commercial strategies and tactics for key products in key markets. These insights will provide a competitive advantage by making better business decisions derived through strategic data analysis and command of complex statistical techniques
+Is responsible for key aspects along the data modelling cycle: From definition of business questions and hypotheses, to data sourcing and preparation, model development, and insight generation.
+Develop and optimize ML models in different contexts
+Translate complex analytics into actionable recommendations and propose feasible solutions. Communicate in a clear and concise way using the most appropriate approach for each different stakeholder
+Work with business and scientific stakeholders with a clear vision of the final goals and on the business impact
+Collaborate closely with other functions (e.g. Commercial Business Insights, Integrated Multi-channel Marketing) to advice, and support brand marketing or sales teams in various types of advanced quantitative analyses, including but not limited to: Marketing Mix Analysis, Advanced Segmentation & Targeting, Personalized communication, etc.
+Demonstrating thought leadership and content expertise in advanced analytics to business partners, including development of key training programs.
+WHO YOU ARE
+Graduate degree in quantitative field (Statistics, Management Science, Operations Research, Engineering, Finance, Applied Mathematics, Mathematics, Business Administration etc.)
+5+ years of experience
+Strong analytical skills, team playing, and communication skills
+Experience in data modeling, wrangling and visualization
+Knowledge of SQL and data warehousing platforms
+Very good Knowledge of the most important Machine Learning models (classification, regression, clustering, time-series analysis)
+Knowledge of deep learning models (CNN, RNN)
+Knowledge of at least two of the following languages: Python, R, C/C++, Scala, Julia, Mathematica
+Knowledge of the most common ML/DL frameworks (Scikit-Learn, Stan, Pandas, Tensorflow, PyTorch, Keras, Matplotlib)
+Strategic business acumen, focus on results, passion for keeping up with media and technology trends. Strong communication and presentation skills.
+Proven track record of professional success in analytics role
+Passionate team player
+Fluent in English and Japanese (JLPT N2 or above)

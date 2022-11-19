@@ -1,0 +1,47 @@
+Somerset Bridge Limited are seeking a Senior Data Scientist to join our Data Science team. This role is open to candidates with 5+ years’ experience. We use machine learning across the group to generate insights from motor insurance data at any stage in the customer journey, including with actuarial and pricing departments. A successful candidate will have extensive experience of statistical machine learning applied using open-source programming such as R, be an excellent communicator, and have a desire to work with new software and technology.
+
+Senior Data Scientist Duties:
+Using R and/or Python programming to deliver data science solutions from start to finish, applying machine learning to business problems.
+Becoming a technical expert in various areas within the Data Science team.
+Supporting the process of developing alternative machine learning solutions.
+Working across the organisation with a range of stakeholders to maximise the benefit of data science throughout the business.
+Taking ownership of projects running across teams (technical and non-technical) ensuring delivery.
+Assisting the development of junior colleagues through coaching and feedback.
+Advancing the Data Science team through data, technology, and approaches.
+
+Desirable skills/experience (not all required):
+Statistical modelling experience is essential.
+R programming experience is an advantage.
+An additional benefit would be some skills within any of the following software – Python, SQL, SAS.
+A solid grounding in technical aspects of data science from first principles.
+A desire to code but also develop new software solutions in a changing environment.
+A genuine interest in application of machine learning and statistical problems and their application to insurance business problems.
+A proven track record of delivering data science solutions with measurable business value.
+Working with and communicating with all key stakeholders.
+Manging projects alone and in teams.
+Working with and developing junior colleagues.
+Knowledge of insurance markets.
+
+What we offer you:
+Hybrid working - 2 days working in the office and 3 days from home
+25 days annual leave, rising to 27 days over 2 years service and 30 days after 5 years service. Not including bank holidays
+Flexitime
+Life Assurance - 4 times your salary
+100s of exclusive retail discounts
+Professional wellbeing and fitness app - Wrkit
+Car insurance discount
+Travel insurance discount
+Pension scheme
+Enhanced parental leave, including time off for IVF appointments
+Cycle to work scheme
+Employee referral scheme
+Eye care vouchers
+Summer and Christmas party
+
+Working at SBG
+At Somerset Bridge Group we aim to build a sustainable and innovative business focused on underwriting, broking and claims handling of UK motor insurance, offering transparent products and an efficient and fair service to our policy holders.
+
+We are very proud to have been awarded a Silver Accreditation from Investors in People! We recognise that all of our people contribute to our success. That's why we are always looking for talented people to join our team - people who share our vision, who are passionate about what they do, and who want to be part of something special.
+
+Equal Opportunity Employer
+Somerset Bridge Group is committed to creating a diverse environment and is proud to be an Equal Opportunity Employer. We prohibit discrimination or harassment of any kind based on race, color, religion, national origin, sexual orientation, gender, gender identity or expression, age, pregnancy, physical or mental disability, genetic factors or other characteristics protected by law. SBG makes hiring decisions based solely on qualifications, skills and business requirements.

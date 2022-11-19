@@ -1,0 +1,48 @@
+The world's largest asset class in fixed income, operates with the worst data.
+
+Technology has revolutionised the equity markets with electronic trading, quant algos and instantaneous news. However, in debt and fixed income, the picture is completely different. Trades are placed over the phone, news is slow, and information is imperfect. Billions of dollars of capital is allocated to companies, projects and investments all over the world - making the best decisions on where to deploy it, requires the best information.
+
+The debt capital markets behave like it’s still the 1980s, it is the last to be technologised - our mission is to make it happen.
+
+We’re rapidly taking market share in the fixed income data industry with our modern solution that our clients love. 9fin's market leading technology uses AI to deliver financial, credit & ESG insights more quickly than anyone else. It uses cutting edge technology to produce fast news and deep-dive predictive analytics. We help our clients win advisory mandates, react to credit trading opportunities faster and most importantly, save time.
+
+Our fast growing list of clients include 9 of the top 10 Investment Banks, leading asset managers, hedge funds and law firms.
+
+The opportunity
+
+The Data Science team is growing and you will have an integral role in its development. Taking on more projects and investigating more applications of Machine Learning and AI in our products. We also have ambitions to publish and speak about our work on a global stage. This is an opportunity to join a highly motivated team which is central to the company’s continued technology leadership in this area.
+
+Responsibilities
+
+Every day is different, but here’s an example of the kind of things you’ll work on:
+Use data to help boost an already rapidly growing business, to make smarter decisions (at higher velocity) by using ML techniques
+You’ll add value by creating data based products through interpreting results of experiments and prototypes, then driving productionisation projects forward
+You will have the opportunity to set up, monitor, and track large scale experiments.
+You will work with and come up with ML techniques to drive important business objectives
+Build varied platform capabilities within the ML lifecycle to speed up our research to production lifecycle (e.g. dataset management, model training, model monitoring)
+Keep up with research and papers through peer discussion, networking and events
+
+Requirements
+
+This role will be a great fit if you have:
+2+ years prior experience in the Data Science field
+Great communication skills and a collaborative mindset
+Experience with Python
+Working knowledge of SQL?
+Familiar with ML/Data Science libraries, e.g. Sklearn, Pandas, Numpy, Pytorch,Tensorflow (python libraries)
+Interacting with cloud based computing and storage resources (We use AWS here)
+Enjoys the entire process i.e understanding the business problems, gathering/extracting data, cleansing it, performing statistical analysis and everything in between
+
+Benefits
+
+We’re a scaling start up and we enjoy sharing our success, when the company succeeds, we always reinvest that in our people. We also offer huge amounts of responsibility, an abundance of opportunity for growth and a platform to truly excel.
+Salary: Competitive (our salary bands are benchmarked at the top end of the market) + equity options
+Holidays: 25 days per year (plus local public holidays)
+Learning & development budget: We're focused on your career progression and personal development!
+A hybrid working model, to allow you the flexibility to decide how, where and when you do your best work.
+Team socials and company events
+Vitality health insurance & discounted gym membership
+Your choice of hardware
+Cycle to work
+
+Don’t meet every single requirement? Studies have shown that women and people from underrepresented backgrounds are less likely to apply for a job if they feel that they don’t meet every single requirement. At 9fin we are dedicated to building and promoting a fair and inclusive workplace where everyone can flourish, reach their full potential and truly belong. We recognise diverse teams allow a more creative and productive environment. So, if you’re excited about this role but your experience doesn’t perfectly align with the job description, we encourage you to apply anyway. You might just be who we’re looking for - for this role, or perhaps another.

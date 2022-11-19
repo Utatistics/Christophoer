@@ -1,0 +1,40 @@
+Lead Data Scientist
+
+Knutsford
+
+As a Barclays Lead Data Scientist you will be joining the team at an exciting time. We are developing state-of-the-art large-scale Machine Learning solutions on huge amounts of data. As part of the ML team, you will work with the data experts to create business-impacting solutions.
+
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+This opportunity is location flexible. We will consider requests for locating the role at an alternative Barclays’ key UK office from that advertised.
+
+What will you be doing?
+
+You will be working on data science use cases end-to-end from data discovery to operationalizing
+Understanding the Machine Learning, data mining and statistical techniques to create scalable solutions for business problems
+Experimenting & identifying best methods echniques, algorithms for issues
+Helping to build best-in-class solution architecture, standards, best practices for Machine learning
+Working with business, technology, and control groups to define/refine scope, data source, statistical elements, system integration
+You will also be managing the delivery of the data models
+
+What We’re Looking For
+
+Deep understanding of machine learning and data mining, including tools and processes
+Hands of experience and knowledge around feature engineering, dimension reduction and model optimization using gradient decent, PCA etc
+Experience of AWS services esp to deliver AIML solution
+Experience in delivering NLP, Chatbots solution
+
+Skills That Will Help You In The Role
+
+An MSc/PhD in Machine Learning, Computer Science, Mathematics, Statistics, Data Science or a highly quantitative field
+Understand business context, study related data sources, build descriptive statistics and develop machine/deep learning models. Evaluation and finalization of analytical models
+Experience working with large data sets in order to extract business insights or build predictive models
+Broad knowledge of applied mathematics (probability, statistics, linear algebra)
+
+Where will you be working?
+
+You will be based in Radbroke, Knutsford. The Barclays Technology Campus just outside Manchester is our tech command centre and a vital strategic powerhouse behind our global operations. The campus is set in a 64 acre self-contained site, in a beautiful green environment and it offers unrivalled facilities for work and for play. We have an onsite gym, as well as outdoor tennis, football and cricket areas, as well as onsite restaurant and coffee shops.
+
+Hybrid Working
+
+We are currently operating in a hybrid working environment, meaning that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. Please discuss the detail of the working pattern options for the role with the hiring manager.

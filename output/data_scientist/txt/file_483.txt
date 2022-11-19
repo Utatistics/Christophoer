@@ -1,0 +1,78 @@
+Job Description
+
+The Department of Twin Research & Genetic Epidemiology holds 30 years of data gathered from various sources on over 14,000 participants of its TwinsUK cohort. It is one of the most deeply characterised adult twin cohorts in the world, providing a rich platform for scientists to research health and ageing longitudinally.
+
+In response to the COVID-19 pandemic, TwinsUK joined the Government funded National Core Studies (NCS) programme and became an active member of the UK Longitudinal Linkage Collaboration (UK LLC). As a result, TwinsUK is engaging in a national effort to enable data linkage to study participants’ official health, educational and environmental records.
+
+As part of a wider effort, TwinsUK is also applying for access to the study participants’ health, educational and environmental records so that they can be linked to the vast collection of longitudinal omic and phenotypic data amassed in the past 30 years, leading to a huge and centralised resource of health research data.
+
+The postholder will have a pivotal role in receiving, cleaning, harmonising, documenting, storing, and curating these linked records and the data collected by TwinsUK. They will be responsible for creating automated or semi-automated tools to process these linked data and making them available to approved, bona-fide researchers within a Trusted Research Environment (TRE) and in segregated project spaces.
+
+The postholder will be part of a highly collaborative and inclusive team, working under the supervision of the Data Manager. Proficiency in the use of programming tools for data and database manipulation is essential. The applicant will provide high quality general operations coordination & support to the Data team, the PIs and wider professional services team in the Department and School.
+
+Applicants will have a strong interest & knowledge of clinical research data, a proactive attitude and excellent organisational & planning skills.
+
+The Postholder Will
+Be familiar with ETL techniques in order to receive, extract, manipulate, clean and process raw research data to be harmonised with other datasets and made ready for sharing with researchers
+Have high level expertise in data manipulation tools such as Microsoft Excel, SPSS, Stata and be able to write macros and scripts
+Be proficient in the use of programming tools such as Python and the use of R to automate data manipulation tasks
+Be able to use the Azure platform and MS SQL Server DBMS to store data and automate data extraction tasks for other data team members
+Facilitate the development and implementation of data linkage strategies and processes
+Produce descriptions and define metadata for new and existing datasets
+Be required to program data extraction out of and data injection into online study databases designed in REDCap
+We value your professional growth, and you will have opportunities to attend conferences & training. This post is based at St. Thomas’ Hospital but a hybrid working environment will be offered if required.
+
+This post will be offered on a fixed-term contract for 12 months
+
+This is a full-time post
+
+Key responsibilities
+Using ETL techniques, receive and interrogate large amounts of data from different sources, ensuring accuracy and consistency, and storing in the TwinsUK database.
+Use advanced skills in MS Excel, SPSS and Stata, including writing macros and developing scripting techniques.
+Use programming tools such as Python and use of R to automate data manipulation tasks as required by the wider data team
+Use the Azure platform and MS SQL Server DBMS to store data and automate data extraction tasks
+Participant and clinic based data collection – Provide tools to aid data collection, injection and extraction to and from TwinsUK online REDCap databases
+Look for data trends and patterns with excellent attention to detail
+Help develop procedures to acquire and integrate the official records into the TwinsUK databases as per the guidelines agreed with NHS Digital and the ONS
+Handle personal information, adhering to safe and secure data governance, in line with protocols and current data protection legislation
+Identify and gather the metadata for the official health, education and environmental records
+Draft & prepare reports and presentations where appropriate
+Maintain excellent internal & external working relationships
+Promote collaborative work within the data linkage team, the wider department, and other collaborating organisations
+Attend wider data linkage meetings and workshops with external collaborators, such as the UKLLC, a multi collaboration of national cohorts.
+Travel to other cohorts/research sites for meetings as necessary
+Design & deliver presentations and progress reports including recommendation and conclusion, advising the manager where necessary
+Be able to adapt communication style according to the given audience, demonstrating comprehension and confidence
+The above list of responsibilities may not be exhaustive, and the postholder will be required to undertake such tasks and responsibilities as may reasonably be expected within the scope and grading of the post.
+
+Skills, Knowledge, And Experience
+
+Essential criteria
+Educated to UG/PG degree level or equivalent relevant experience
+Working knowledge of data manipulations tools with high level expertise of the following: MS Excel, SPSS, Stata
+Experience in ETL techniques and methods
+Working knowledge of Azure and DBMS such as MS Access with high level expertise in MS SQL Server including writing queries, views and stored procedures
+Working knowledge of programming tools such as R and Python for the automation of data processing and analysis tasks
+Experience of using REDCap
+Highly numerate with strong analytical, statistical and problem-solving skills
+Experience of data analysis, with ability to produce, interpret, analyse and present qualitative and quantitative data, using a range of techniques, including visualisation methods that improve understanding of the evidence base
+Understanding of and adherence to data governance and confidentiality legislation and practice
+Excellent written and oral communication skills, including report/protocol writing and presenting, to convey complex information to a non-specialist audience through clear and accessible formats
+Highly personable with experience of working with stakeholders at all levels, using excellent interpersonal skills, providing excellent customer service and building effective networks across complex organisations
+Ability to work under pressure in a busy environment
+A commitment to equality, diversity and inclusion, actively addressing areas of potential bias
+Desirable criteria
+PhD in relevant discipline
+Prior experience in project coordination
+Previous experience in health-related research projects
+Knowledge in data analysis and using statistical methods
+Knowledge of data visualisation techniques using software packages, such as Power BI and Tableau
+Further information
+
+This job description reflects the core activities of the post. There may be changes in the emphasis of duties and it is expected that the post holder recognises this, adopting a flexible approach to work and willingness to participate in training. Day-to-day activities and responsibilities will be determined by the School priorities and needs and will inform specific objectives and tasks to be undertaken by post holders.
+
+If changes to the post become significant, the line manager of the post holder is to discuss potential amendments to the job description with Human Resources, in liaison with the Faculty.
+
+This post is subject to Disclosure and Barring Service and Occupational Health clearance.
+
+Research, data-management, data-analysis

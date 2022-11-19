@@ -1,0 +1,49 @@
+We’re expanding our offering for an in-house Senior Data Scientist, ideally with a consultancy background, to meet the demands of a growing portfolio of new and exciting projects. The data science team are part of the delivery consulting team, delivering a data science consulting offering across a wide portfolio of clients and services. As such, we are working on a broad spectrum of activities, ranging from algorithms development, data analysis and software development support.
+
+Your new role:
+
+Data analysis using either an exploratory or hypothesis driven approaches
+
+Predictive modelling using machine learning techniques such as generalised linear models and Bayesian inference, and Deep Learning
+
+Work side-by-side with clients to provide bespoke data science consultations
+
+Contribute to the development, and ongoing improvement of our in house platforms
+
+Provide data science expertise and support as required to the wider organisation
+
+What we’re looking for:
+
+Strong related academic background i.e. Masters level degree in a numerate subject, preferably data science
+
+Theoretical knowledge of classical statistical methods, bayesian learning, and neural networks, and its application to machine learning techniques
+
+Strong Python/R experience
+
+Demonstrable experience with RStudio or Jupyter notebooks
+
+Keen to utilise up-to-date software development practices
+
+Good communications skills, verbal and written
+
+Self-starter, happy to work alone or as part of a team
+
+Willing to occasionally work off-site at supplier or customer sites
+
+It would be a bonus if you had:
+
+A background in Consultancy
+
+Experience with Tensor Flow
+
+Experience of Hadoop
+
+Experience with high level software language such as Scala, Java or C#
+
+Experience of working in an Agile development environment
+
+Experience of utilising a continuous integration approach to software development
+
+Experience of software containers e.g. Docker
+
+Comfortable working with different data science tools

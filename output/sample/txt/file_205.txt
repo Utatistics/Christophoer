@@ -1,0 +1,23 @@
+Capgemini Global Data & Insight in cooperation with the team, Capgemini will be engaged in projects related to data utilization in Japan of foreign companies to contract in the global.
+
+Role 1:- Data Analysis Consultant/Data Analyst
+
+Location: Tokyo ( included project-based short-term business trips to domestic & overseas)
+Job Type: Full time
+
+Duties and Responsibilities:
+
+BSA/Data Analyst
+BSA/Data Analyst should be able to understand and define the data transformation specifications from source data to the data delivery (API, ETL) format.
+Candidate should have at-least 6 years of IT experience and 4 years of relevant experience worked as BSA/Data Analyst.
+Able to understand business definitions of Data Attributes from various source systems and able to map to Target data structures.
+Should be able to understand Business application functionality quickly by reverse engineering the SQL codes (if required).
+Involve in Source system data analysis and prepare mappings for source to target.
+Help Data Engineers & Data Modelers to understand the Source system data structures.
+Interact with Source application SME's on understanding the data structures and be like custodian of data from various source systems.
+Proficient with SQL scripting including ability to write complex SQL queries.
+Ability to transform Data Structures into data models and inference the relationships, data types, profiling & others.
+Able to analyze disparate source systems and data structures including Mainframe, SFDC, XML, JSON, RDBMS & others.
+Should be independent contributors, working with various stakeholders of the project.
+Working experience on Azure data services, Insurance industry
+Need Bilingual candidates with English (Native level) & Japanese (Business level) proficiency.

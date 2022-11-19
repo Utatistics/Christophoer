@@ -1,0 +1,47 @@
+Our Client is looking to hire a Data Scientist.
+
+Are you someone who loves using their technical skills to deliver meaningful change to a business?
+
+If you are, read on..
+
+An exciting opportunity has arisen within the Life Data Science team for a Data Scientist to help them with shaping the future of insurance at them through cutting-edge analytics. This role could be ideal for you, if you are someone with experience of designing, building, and implementing sophisticated models.
+
+A Bit About The Job
+
+You will work with one of the richest insurance datasets in the world, applying sophisticated techniques and technology to all stages of the data science process. They are investing in data science, machine learning and advanced analytics as a distinctive capability. The UK team is recognised as a centre of excellence in their Global Data Science Practice.
+
+You will be responsible for the building and maintenance of data processing pipelines and analytics models. You will have a wide range of opportunities for both technical and personal development, in a team taking a colleague-led approach to shaping the learning and development agenda, with access to an extensive range of internal and external training resources. Their collaborative culture means you’ll quickly be able to tap into the knowledge and experience of colleagues working on projects across the entire UK Life business.
+
+They give their people a platform from which they can build a career in them. They utilise resource fluidity to maximise the exposure of team members to different problems and business areas, and provide opportunities for their colleagues to present their work to other data scientists and directly with members of the senior leadership teams in order to help build their presence within the analytics community and beyond.
+
+Skills And Experience They’re Looking For
+
+Practical experience with SQL in a business setting, and familiarity with at least one programming language (python or R preferred, but any other scripting/coding language with a willingness to learn would be acceptable)
+Familiarity with predictive modelling techniques such as GLMs and boosted decision trees
+Capable of communicating technical concepts clearly
+Highly numerate, with an analytical mindset
+A passion for deriving knowledge and insight from data, as well as translating into practical outcomes.
+
+What You’ll Get For This Role
+
+Starting salary between £28,000 and £35,000 (depending on location, skills, experience, and qualifications)
+Generous pension (starting level they contribute 8% when you contribute 2%)
+Eligibility for annual performance bonus
+Family friendly parental and carer’s leave
+29 days holiday per year plus bank holidays and the option to buy/sell up to 5 additional days
+Up to 40% discount for their products
+Brilliant flexible benefits including electric cars
+Their Matching Share Plan and Save As You Earn scheme
+21 volunteering hours per year
+
+They Are For Everyone
+
+They are inclusive and welcome everyone - they want applications from people with diverse backgrounds and experiences.
+
+Excited but not sure you tick every box? Research tells them that women, particularly, feel this way. So, regardless of gender, why not apply. And if you’re in a job share just apply as a pair.
+
+They flex locations, hours and working patterns to suit their customers, business, and you.
+
+Most of their people are smart working - spending around 60% of their time in their offices and 40% at home.
+
+They interview every disabled applicant who meets the minimum criteria for the job. Once you’ve applied, please send them an email stating that you have a disclosed disability, and they’ll interview you.

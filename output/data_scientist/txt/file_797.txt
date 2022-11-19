@@ -1,0 +1,56 @@
+Data Scientist - Remote
+
+There is an exciting opportunity to join the Modelling & Analytics team as a Consultant within Framework and Modelling, Treasury.
+
+The Framework & Modelling team play a crucial role in helping ensure Nationwide’s financial risks are managed appropriately to maintain the long-term stability of the Society whilst providing our members with the products they need.
+The Modelling & Analytics team’s core purpose involves modelling across areas such as Capital, Liquidity, and Interest Rate Risk in the Banking Book (IRRBB). This means we have exposure to a broad range of different activities crucial to the way the Society operates and makes us a great place to learn about Treasury, Finance, Risk Management and Modelling.
+We are a busy team with a number of regulatory and non-regulatory models to develop and maintain, and key processes, such as ICAAP, to support. To do this we need highly experienced modellers or data scientists who are self-motivated, focussed, and resilient when faced with challenges.
+
+At Nationwide we openly put our 15 million members at the centre of every decision we make as a business. Every role, no matter what it’s doing, is member focused.
+Your success isn’t based on how long you spend at your desk. You’ll have contracted hours, but we’re always happy to support flexible working wherever we can. That might mean working from home or different Nationwide offices or agreeing a working pattern to help you balance work and life. We will always strive to find a way that works for everyone.
+
+What you’ll be doing
+Joining the Treasury Modelling & Analytics team, you will use your extensive modelling experience working with a variety of models used for a range of purposes (e.g. Pillar 2A Capital, Valuation, Stress Testing, Hedging, Strategic decisions & Regulatory reporting) and covering a broad range of risks (e.g. Market, Liquidity, Product, Behavioural, Operational and Credit Risks).
+In this role you will be part of a team that are always seeking new and innovative ways to meet our purpose. You will lead developments and reviews of our models, using statistical modelling techniques from simple regressions and Monte Carlo simulations to more complex machine learning techniques using predominantly SAS and Python.
+
+Your responsibilities will include:
+Leading developments and reviews of models, scoping and planning them effectively and collaborating with other teams and stakeholders to ensure successful delivery of each piece of work.
+Produce high quality committee papers presenting your work to senior audiences in a simple but meaningful way.
+Ensuring models are managed through the governance process effectively
+Building and maintaining strong relationships with our key stakeholders including the business, model risk oversight and audit.
+Using your experience and expertise to provide review and challenge on model developments delivered by others to support less experienced members of the team.
+Keep up to date with changes in regulations, business requirements etc. to identify model development needs or opportunities
+
+As a senior consultant, you will role model good practise and share your experience in modelling & analytics to support others to be their best.
+
+About you
+This role is all about model development and analytics and so you’ll need to have:
+a degree or equivalent experience, in a numerate discipline such as physics, maths or engineering
+significant experience in a modelling role and a proven track record of developing models and taking them through their full life cycle (scope, design, build, validate, implement, review)
+excellent stakeholder management skills
+excellent communication skills (written and verbal)
+be agile and organised and have excellent planning skills enabling you to manage across multiple pieces of work at one time
+ability to delegate work effectively
+a high level of IT literacy and programming experience with SAS
+an eye for detail and the confidence to challenge
+the ability to use your analytical skills to come up with innovative solutions and ideas
+
+Although not essential, we will also be looking for:
+experience in Market Risk Modelling
+a background in Financial Services
+other coding experience such as Python, R or VBA
+
+We’re also interested in who you are as a person. Why? Because our membership is made up of so many different kinds of people, so we want our employees to be just as diverse. We’d love to hear about:
+Your values, and what makes you who you are
+How you’d make a difference to our members in this role
+We know applying for jobs can sometimes feel like you’re sending an application into a black hole. We review each application individually. So, it’s a good idea to call out your most relevant experience on your application to give yourself the best chance.
+
+The extras you’ll get
+There are all sorts of employee benefits available at Nationwide, including:
+A personal pension – if you put in 7% of your salary, we’ll top up by a further 16%
+Up to 2 days of paid volunteering a year
+Life assurance worth 8x your salary
+A great selection of additional benefits through our salary sacrifice scheme
+Access to an annual performance related bonus
+Access to training to help you develop and progress your career
+25 days holiday , pro rata

@@ -1,0 +1,17 @@
+What are we looking for?
+Technical experience in delivering statistical analytics, data science and insight on large-scale data sets.
+Experience of operational research and optimisation techniques to generate business value and change.
+Knowledge of adaptations required to apply data science techniques to wide ranging data structures including pet health, operational and consumer goods data.
+Good knowledge of Python is required; Familiarity with PySpark is also desirable
+Excellent communication skills to interact effectively with all levels of internal business stakeholders.
+Truly inspired by, and want to live, our purpose of creating a better world for pets.
+What would be your key responsibilities?
+Application and maintenance of machine learning techniques with recommendations for optimising Petcare resources or processes
+Implement data science use cases with scalable route to value for Petcare divisions
+Deliver high impact visualizations & statistical analysis to Influence Petcare decisions to make a better world for pets.
+Research opportunities for continuous improvement to our data led approach to delivering pet-centric product and service recommendations
+What can you expect from Mars?
+An industry competitive salary and benefits package, including excellent pension.
+Pet-friendly offices, where your pets enjoyment, is as high on our agenda as yours.
+A company that understands the importance of a work-life balance.
+The chance to take hold of your own career, and develop personally and professionally.

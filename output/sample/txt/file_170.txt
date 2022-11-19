@@ -1,0 +1,39 @@
+Job Description
+
+Business Overview
+
+Rakuten group has a base of almost 100 million customers in Japan and 1 billion globally, providing more than 70 services such as ecommerce, payment services, financial services, telecommunication, media, sports, etc. Following the strategic vision “Rakuten as a data-driven membership company”, we are expanding our data activities across our multiple Rakuten group companies.
+
+Department Overview
+
+The Data Science Consulting Dept. is part of the Rakuten Technology division and act as the bridge between the business units and our data and AI professionals. Using a consulting approach, we empower Rakuten businesses with data science and AI driven solutions. As part of the Data Science Consulting Dept., we are leveraging our Rakuten Ecosystem unique wealth of data to support Rakuten Mobile, one of the most strategic business in Rakuten. We are the go-to team when executives need to make data-driven decisions, primarily for Rakuten mobile, but also for many other Rakuten Group companies as well.
+
+Position
+
+Why We Hire
+
+As the Rakuten Mobile business is growing exponentially, so is our team! In order to drive the development of our solutions for Rakuten Mobile, we are hiring a Project Manager
+
+Position Details
+
+As we are developing more data driven solution to support Rakuten Mobile growth, we are looking for a Project Manager to join our team. As part of a multicultural and globally distributed team, you will collaborate with data scientists, engineers and business leaders to drive projects and ensure this is in line with the business unit requirements. Using an Agile approach, you will define resource requirements and maintain a roadmap for the project, coordinate the different stakeholders and report to management on the status and milestone achievements.
+
+Mandatory Qualifications
+
+5+ years of IT project management experience in a fast-paced environment
+Experience managing complex projects with multiple stakeholders
+Business level Japanese for communication with the business unit
+Business level English (TOEIC 800+) for communication with the tech team
+
+Desired Qualifications
+
+Project Management certification (e.g. PMP)
+Experience with data science project management
+Fundamental knowledge of DWH platform (Hadoop, ETL, etc.)
+Fundamental knowledge of cloud platform (barer metal server, Docker, Kubernetes, etc.)
+
+#engineer #productmanager #director #projectmanager #technologyservicediv
+
+Languages
+
+English (Overall - 3 - Advanced)

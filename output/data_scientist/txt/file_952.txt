@@ -1,0 +1,62 @@
+Do you want to work on the most pressing problem of our generation?
+
+We're building the infrastructure for the net zero transition, and we're looking for brilliant engineers, designers, and data scientists who want to help define a low carbon future.
+
+Decarbonizing the economy requires a granular, real-time view of where emissions come from and how they might be reduced. We build software to automate the carbon footprinting of supply chains. Banks, traders, and manufacturers use our product to tame the complexity of international supply networks, identify the most carbon-intensive parts, and find greener alternatives. We were part of the Y Combinator Summer 2020 batch and have secured backing from the UK government's innovation arm, InnovateUK, the NatWest accelerator and the London Business School Incubator.
+
+You can find out more about interviewing at CarbonChain at https://www.carbonchain.com/careers/interview-process.
+
+To join Carbon Chain, you'll be a keen technologist who loves to learn from others. Our company is made up of 10 passionate people with expertise ranging from oil refining to deep learning. Between us we've run Amazon's European supply chain, built JustEat's corporate meal delivery platform, and monitored industrial emissions with satellites for Al Gore. We've got MBAs and PhDs but we know that there's a lot we don't know, and we're hoping you can help fill that gap.
+
+What will you be responsible for at Carbon Chain?
+
+As the world wakes up to the reality of climate change and the need to decarbonize, there's a pressing need to understand the carbon intensity of every activity in the economy. Your job as Data Scientist is to build the datasets, models, and pipelines we need to provide that understanding.
+
+We're a small team of versatile technologists and we don't believe in a siloed approach. Our data scientists sit side by side with software engineers and designers, making sure that we have the data we need to provide the experience our customers want. You'll be deeply embedded in the product team, with your work being deployed to clients every week. You'll work closely with our domain experts, and have the chance to present to clients if that's something that excites you.
+
+You can expect to have:
+Ownership of your projects
+An independent path to production
+The ability to make real changes with tangible business value
+
+Our data science stack is predominantly Python. We deploy our work in a variety of ways depending upon the challenge, from Lambdas to Docker containers. A typical service might pull together a mix of data from relational and non-relational databases, train a machine learning model nightly, and expose predictions via a Lambda function. We've got a huge number of exciting things to build, from interactive visualizations of industrial processes to fluid-dynamics models of shipping emissions.
+
+Our only must-haves are possessing a hunger to solve business challenges using technology, the ability to build close relationships with your team, and the right to work in the UK.
+
+Which tools, technologies, and processes will you work with?
+Data processing with the standard scientific stack (Pandas, Numpy, Scipy) and beyond
+Machine learning in Sklearn and (rarely) Pytorch
+Data visualization with Plotly, Maptlotlib, and Altair
+Containerised applications are the key to our technology vision allowing us to replicate production environments locally and scale services at will.
+Object-oriented code forms the bulk of our codebase.
+PostgreSQL and DynamoDB managed databases form the persistence layer - you'll learn to navigate document and relational databases and appreciate the values in both worlds.
+Infrastructure automation is owned by the whole team, helping to spread the DevOps mentality across the whole technology department (and beyond).
+Testing approaches from unit testing to integration testing are key to delivering reliable and maintainable solutions.
+Quality assurance is owned by the team themselves - we believe that full cycle product ownership should sit tightly within the team.
+Agile development, using various approaches from Scrum to Elephant Carpaccio, helps us deliver software in small iterations, learning and course-correcting in the process to make sure we deliver the right improvements.
+GitHub PRs are an integral part of our core development flow - with reviews to help share knowledge and improve quality.
+Continuous delivery is the approach we strive for - with metrics that help us optimise parts of the pipeline that need it the most.
+Teamwork and collaboration are fundamental to the delivery of our solutions. We encourage solutionizing between the team and the wider business.
+
+You don't need to be a pro at all of these skills to apply for the role, but we'd love to hear about any relevant knowledge and experiences that you have in these areas.
+
+What we require from applicants
+Right to work in the UK and willingness to come to London office 2+ days a week
+1+ years of commercial Data Science experience
+A passion for environmental issues
+A demonstrated interest in building products and collaborating tightly with engineers
+The grit and energy to work in an early stage startup
+
+What we're offering
+Competitive salary + generous equity package
+Flexible working hours - we encourage regular breaks and being AFK (away from keyboard) to support your wellbeing
+Flexible working location (we like to meet in the office couple of times every week)
+£1000 annual development allowance for you to spend on developing your current skills and learning new things
+Tech equipment of your choice
+Team lunch on Wednesdays, and frequent pub trips
+Pakt coffee and snacks of your choice in the office
+26days holiday + bank holidays
+
+We're striving to build a diverse team and we would love to hear from applicants from backgrounds less frequently represented in technology, be that in terms of gender, race, or professional background.
+
+If you think your skills and experience match what we're looking for and you'd like to join a Carbon Tech industry unicorn, please get in touch!

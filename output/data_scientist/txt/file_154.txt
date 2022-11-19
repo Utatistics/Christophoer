@@ -1,0 +1,72 @@
+About the job
+Summary
+We are the science inside UK Defence and Security.
+
+Since we were formed in 2001, our talented scientists and technologists have built an enviable reputation for innovating world class science and technology. We are able to deploy our inside knowledge and understanding of government to interpret and connect requirements and stakeholders. We bring together lots of different people and a huge range of disciplines in science and technology. We have lots of variety in our projects, roles and opportunities, making every day a day to explore
+and get excited.
+
+The Chemical, Biological and Radiological Division (CBR) of Dstl provides an integrated Chemistry, Biology, Radiation and Medical Sciences capability, delivering long term research, short term advice and consultancy, and an emergency response capability in support of UK Defence and Security
+As a statistical data scientist you will work on a dynamic range of projects developing and using novel techniques and will undertake ground-breaking research and experimentation at the forefront of science. If you have the desire to apply your technical understanding of statistical and data science techniques to solve problems we want to hear from you.
+
+Dstl recognises the importance of diversity and inclusion as people from diverse backgrounds bring fresh ideas. We are committed to building an inclusive working environment in which each employee fulfils their potential and maximises their contribution.
+
+We particularly welcome female and ethnic minority applicants and those from the LGBTQI community, as they are under-represented within Dstl at these levels.
+
+Job description
+As a capability, we develop and use novel analytical methodologies and techniques and undertake exciting research and experimentation at the forefront of defence and security research.
+
+As a statistical data scientist you will have the opportunity to work on a range of statistically focused data science projects, helping to increase the use of machine learning, artificial intelligence and increase the data science capability across the division.
+
+We are looking for people to help develop an in silico capability leveraging emerging Digital Twin technology, advances in modular multi-fidelity modelling and AI powered uncertainty quantification to support and provide advice for even the most complex problems. Also you will be able to provide advice and carry out analysis for complex statistical research and help to develop tools for analysis, exploration and visualisation of CBR data.
+
+Responsibilities
+We're looking for someone with:.
+
+• A natural curiosity and independent drive to research, experiment and understand
+• Enthusiasm and experience in applying statistical models, machine learning and data science techniques to complex problems.
+• Leadership and collaboration experience
+
+Qualifications
+Essential
+A minimum 2:1 degree in a relevant subject area, or commensurate experience.
+Desirable
+A Masters degree or PhD in a relevant area.
+
+Skills
+Essential
+• Experience in techniques such as Bayesian inference, mixed effects modelling, machine learning or bioinformatics.
+• Data science research and development using R, Python, Java and/or other relevant languages.
+• Experience in experimental design including computer experiments
+• Experience in visualisation and explanation of uncertainty
+• Interest in development and application of novel statistical applications
+Desirable
+• Handling, curating, manipulating and analysing complex, high volume and high dimensionality data.
+• Experience in data management and databases
+• Knowledge in version control (i.e. Git)
+• Experience in technical leadership in studies or projects, people management or consulting
+
+Memberships
+An active membership or fellowship of a relevant professional body is desirable. Dstl will pay for memberships for up to 2 relevant professional bodies.
+
+Important Information
+
+Our work in defence, security and intelligence requires our employees to be UK Nationals who are able to gain a high level of security clearance to undertake the projects we are involved in to protect us from security threats. For this reason, only UK Nationals will be able to apply for this role. If you are an international or dual-national candidate, and you think you have the skills we need, please consider applying to any of our government, security or defence partners.
+
+This role will require full UK security clearance and you should have resided in the UK for the past 5 years.
+
+Behaviours
+We'll assess you against these behaviours during the selection process:
+Leadership
+Communicating and Influencing
+Developing Self and Others
+Working Together
+
+Technical skills
+We'll assess you against these technical skills during the selection process:
+Please explain what would you bring to this particular role, focusing on your skills and experience relevant in statistical modelling.
+Please detail your knowledge of data science tools and techniques with your experience of their application.
+
+Benefits
+Dstl’s employees have access to numerous benefits, found in the Candidate Information Pack under the vacancy listing on Civil Service Jobs including flexible working hours and civil service pension.
+
+To view the complete job specification, for details on how to apply and to find out more about Dstl and our work, click apply now to be redirected to the vacancy listing on Civil Service Jobs.

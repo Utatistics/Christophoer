@@ -1,0 +1,31 @@
+The Company
+
+This exciting technology start-up brings AI to the metals & mining industry, having their own software platform which helps clients optimise yield and production efficiency. Their product is based on machine learning technologies for time series analysis.
+
+This is a high-calibre, multinational data science team where there is the unique opportunity to address challenges in the industrial sector. Currently in a sustained period of growth, they are looking to hire multiple data scientists at varying levels of seniority.
+
+The Role
+
+Your core focus will be to build machine learning algorithms for optimization, anomaly detection and regression, which will be pivotal in ensuring factories scale-up globally, in real-time.
+
+Responsibilities Include, But Are Not Limited To
+
+Developing innovative machine learning algorithms for time series analysis
+Analysing algorithm performance bottlenecks and proposing solutions for improvements and optimization
+Preparing new algorithms for deployment and supporting deployment to production
+
+The Individual
+
+BSc, MSc, or PhD degree in computer science, physics, maths or similar
+Strong mathematical background in machine learning and deep learning
+Professional work experience in machine learning
+Understand the principles of computer science algorithms and data structures
+Solid understanding of anomaly detection and signal processing
+Excellent coding skills in Python
+Practical knowledge of ML and DL frameworks
+
+PLEASE NOTE: Regrettably, this client is unfortunately unable to offer Visa sponsorship
+
+Job Owner: d.prosser
+
+Tagged as: AWS, Google Cloud, MS Azure, Python, SQL

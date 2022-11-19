@@ -1,0 +1,41 @@
+About Us
+
+We're a global leader in account-to-account payments, making it easy for merchants to collect both recurring and one-off payments directly from customers' bank accounts. Our global payments network and technology platform take the pain out of getting paid for 70,000 businesses worldwide, from multinational corporations to small businesses. Each year we process US$30 billion of payments across more than 30 countries. We're headquartered in the UK, with additional offices in Australia, France, Germany and the United States.
+
+The Role
+
+Data is at the centre of our ability to add value to our customers and to our business. Fraud prevention, marketing optimisation, churn prevention, payment failure optimisation and upsell propensity are all areas of active work. You will work closely with cross-discipline teams, taking responsibility for end to end algorithm development from initial concept through to production readiness.
+We are looking for Senior Data Scientists that will help us build predictive models that substantially increase the value that we provide to our customers and the efficiency of our operations by building new data products that leverage our growing volume of raw data.
+You will develop and productionise data products and predictive models in collaboration with your team. Working with Product Managers, software developers and subject matter experts, you'll bring your own expertise to the team helping to move from abstract concepts, through design and build, to scalable algorithms that will deliver the teams goals.
+You will play a part in specifying the underlying infrastructure we are building to support the day to day work of Data Scientists and to enable models to be easily productionised.
+You will create meaningful data visualisations that communicate your findings and relate them back to how your insights create business impact.
+
+Desired skills
+You're a self-starter - you can independently drive a team's work forward, finding and exploiting opportunities where data science can impact our business objectives.
+You love digging into data and uncovering actionable insights
+You're passionate about using data to help teams become more productive
+You have intellectual curiosity
+You are a communicative person that values building strong relationships with colleagues and stakeholders and have the ability to explain complex topics in simple terms.
+You'll have commercial experience building robust ML models in a production environment.
+You have strong technical skills in data manipulation and extraction (strong SQL knowledge), data analysis and model prototyping and productionisation (Python, R or similar)
+You have solid experience of deep-dive analysis of complex data; managing data quality; feature selection; and prototyping, validation, and productionisation of Machine Learning models.
+You'll be able to point to a range of different techniques to solve a problem and demonstrate how you're able to apply maths to data and deliver tangible, quantifiable business results.
+You have strong data visualisation skills
+You're comfortable with writing and maintaining code. Our preference is that your language of choice for data-wrangling is Python. However, R is also an option during prototyping phases
+You have a track record of deploying predictive models and data products in production with quantifiable impact.
+
+Life at GoCardless
+
+When it comes to culture, we're proud of what we call the 'GC magic'. It's primarily defined by our values: Start With Why, Be Humble, Act with Integrity, and Care Deeply. They've been our bedrock since day one, and they continue to be one of the key factors of our success, and the reason we love showing up to work every day.
+
+Because we're now delivering on our important, and ambitious vision to become the world's account-to-account payment network, we're working at pace. To help clear the path to success - so any obstacles and blockers don't slow us down - we've introduced our own set of operating principles, which live alongside our values. They're designed to help us successfully navigate our continued growth by helping us work together better. They provide guideposts around some of the key areas of how we operate so things are smoother, easier and ultimately lead to better outcomes. Read more about our values and operating principles here.
+
+There's lots more to the magic. We view Diversity and inclusion as a business imperative, so we have a leader whose role it is to ensure we create an inclusive workplace where people from all backgrounds can thrive, and where people from all walks of life want to join us. We also have high engagement with our GeeCee-led 'employee resource groups' (such as BEAM, Inspiring, Pride, and Access) that are supported and sponsored by members of our Exec team. You can view our latest Gender Pay Gap report here.
+
+We're also rolling out our 'Adaptive Working' and 'Work Away' schemes. Adaptive Working will allow you to work flexibly, and in a way that fits around your lifestyle, whilst still ensuring teams can collaborate effectively and get together and socialise. It comprises three components: days in the office, remote working, and a thoughtful environment. Work Away gives the flexibility to work away from your normal place of work for up to 90 days in any 12 month period.
+
+We also offer enhanced parental leave , pension packages, and you'll receive equity. Having this 'buy in' is a vital part of building a successful business where everybody - regardless of their role - can make a valuable contribution.
+
+There's also our legendary 'GC Fridays'. They're four additional all-company days off every year, giving GeeCees a chance to switch off and relax, as a token of thanks for everyone's hard work and commitment.
+
+Find out more about Life at GoCardless via Twitter , Instagram and LinkedIn .

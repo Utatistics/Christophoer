@@ -1,0 +1,58 @@
+Job Description
+
+Department Overview
+
+The AI Success Supervisory Department provides data science initiatives by leveraging Rakuten group’s data. The department has an international culture created by excellent employees located across the globe, working on the most cutting-edge data science. Following the strategic vision “Rakuten as a data-driven membership company”, AISSD is at the forefront of integrating advanced AI and data science into the key operations of each Rakuten group company.
+
+Position
+
+Why We Hire
+
+We Are Looking For a Data Science Manager To Work Within One Of The Following Departments Within Our AI Success Supervisory Department
+
+Data Science Consulting Department (DSCD)
+Enterprise Consulting Department (ECD)
+
+The work will primarily relate to Rakuten’s e-commerce businesses and Rakuten’s mobile service.
+
+Position Details
+
+We are looking for a Data Science Manager (Team Leader) to help lead efforts to improve our products and business decisions through the use of data.
+
+You Will Be Expected To
+
+Lead the planning, design and execution of data projects,
+Manage a team (3-5 members) consisting of data scientists, analysts, and potentially engineers, providing mentorship and guidance as appropriate.
+Work closely with internal consultants and business stakeholders to ideate, evaluate and execute projects, ensuring work is aligned with organizational goals.
+Design and execute experiments and otherwise design and implement appropriate evaluation approaches.
+Prioritize tasks for yourself and your team members.
+Take a hands-on role in analytics and coding work as appropriate.
+Investigate and experiment with new models and techniques
+
+Mandatory Qualifications
+
+At least 1 year of experience in managing a data team (3+ members)
+3+ years of overall DS/ML/AI work experience.
+Experience designing and implementing (or leading the implementation of) data science solutions for real business problems.
+Solid understanding of foundational concepts in statistics and ML: probability, regression, random forest, etc.
+Interest in continued learning (new problem domains, algorithms, tools, etc).
+Fluency in Python (pandas, scikit-learn or equivalent tools) for data analysis and model building.
+Experience working with big data, e.g. via Hadoop, Spark, AWS, GCP, etc.
+High familiarity with using SQL for data analysis purposes.
+Ability to work collaboratively in a team environment and work effectively with people at all levels in an organization.
+Ability to distill complex data and findings into clear, presentable reports.
+Ability to effectively communicate with non-technical as well as technical audiences.
+
+Desired Qualifications
+
+Industry experience especially in digital marketing, e-commerce or telecoms fields with a focus on customer-centric analytics.
+Japanese language capabilities (JLPT N2+).
+Experience in client relationship management such as consulting or sales.
+Experience with BI tools and/or data visualization libraries.
+Experience with dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+#engineer #datascientist #technologyservicediv
+
+Languages
+
+English (Overall - 3 - Advanced)

@@ -1,0 +1,78 @@
+Crowe
+
+About Crowe
+
+Crowe is a leading national audit, tax, advisory and risk firm with global reach and local expertise. We are an independent member of Crowe Global, one of the top 10 accounting networks in the world, with access to more than 38,000 people in more than 145 countries and across 700+ offices globally.
+
+We pride ourselves on looking after our people, whether you’re working in corporate tax, statutory audit or you’re a marketing or HR specialist, at Crowe we invest in our people to help them be the best they can be.
+
+We understand that it is often the culture and values of a firm that are most important when looking for a new workplace, that’s why at Crowe our people-focused culture means we value new ideas and innovation, and welcome people who are committed to making a different by delivering excellent services to our people, clients and communities.
+
+As a Senior Data Scientist, You Will
+work closely with your business to identify issues and use data to propose solutions for effective decision making.
+build algorithms and design experiments to merge, manage, interrogate and extract data to supply tailored reports to colleagues, customers or the wider organisation.
+use machine learning tools and statistical techniques to produce solutions to problems.
+understand and apply data visualisation techniques to clearly portray what the data shows.
+test data mining models to select the most appropriate ones for use on a project.
+maintain clear and coherent communication, both verbal and written, to understand data needs and report results.
+create clear reports that tell compelling stories about how customers or clients work with the business.
+assess the effectiveness of data sources and data-gathering techniques and improve data collection methods.
+horizon scan to stay up to date with the latest technology, techniques and methods.
+conduct research from which you'll develop prototypes and proof of concepts.
+look for opportunities to use insights/datasets/code/models across other functions in the organisation (for example in the HR and marketing departments).
+stay curious and enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of your work.
+recruit, train and lead a small team of data scientists.
+have responsibility for input to the organisation's data science strategy.
+establish new systems and processes and look for opportunities to improve. the flow of data.
+evaluate new and emerging technologies.
+represent the company at external events and conferences.
+build and develop relationships with internal and external clients.
+Qualifications
+
+You'll typically need a degree in a computer science, mathematical or science-based subject to work as a data scientist. The following degree subjects may be particularly useful:
+Computer Science.
+Data Science/Computer And Data Science.
+Engineering.
+Mathematics.
+Mathematics And Operational Research.
+Physics.
+Statistics.
+You'll be expected to know some programming languages such as R, Python, C or Java and have strong database design and coding skills.
+
+Subjects Include
+
+A postgraduate qualification, such as a Masters or PhD, can be useful, especially if you're considering a change of career or are interested in learning analysis skills. For some jobs, employers will ask for a relevant Masters or PhD.
+Big Data.
+Business Analytics.
+Data Analytics.
+Data Science.
+Skills
+
+You'll need to have:
+excellent analytical and problem-solving skills.
+excellent project planning skills.
+experience in database interrogation and analysis tools, such as Hadoop, SQL and SAS.
+exceptional communication and presentation skills in order to explain your work to people who don't understand the mechanics behind data analysis.
+effective listening skills in order to understand the requirements of the business.
+drive and the resilience to try new ideas if the first one doesn't work - you'll be expected to work with minimal supervision, so it's important that you're able to motivate yourself.
+planning, time management and organisational skills.
+the ability to deliver under pressure and to tight deadlines.
+great attention to detail.
+teamworking skills and a collaborative approach to sharing ideas and finding solutions.
+Why choose Crowe?
+
+Crowe is where talented people can realise their potential, are successful and enjoy what they do by making a positive difference to our clients, communities and each other.
+
+Our vision is to be recognised as essential to the future success of our clients by helping them to answer tomorrow’s questions, and make smart decisions that have lasting value through the highest quality audit, tax, advisory and risk services.
+
+We offer you an opportunity to continue your career and work for a firm that offers stability and knowledge. In addition you can work alongside experienced professionals who put the client at the heart of everything they do.
+
+At Crowe, you will find the expertise, the resources and, above all, the commitment to help you build a satisfying and rewarding career. In return we can offer you continued career development, highly competitive salaries and flexible benefits. Plus an opportunity to work for a firm that truly values its people.
+
+Crowe is committed to equal opportunity and diversity in recruitment and employment. We value the differences that a diverse workforce brings to our organisation and believe that diversity and inclusivity are key drivers of effectiveness and in providing our clients with a quality service.
+
+Entry and progression within the firm is determined solely by the application of objective criteria, personal performance and merit.
+
+We want to create the best environment for our staff to thrive. We recognise the importance of offering a flexible approach to our working environment and we would be happy to discuss with you further.
+
+For further information, and to apply, please visit our website via the “Apply” button below.

@@ -1,0 +1,16 @@
+Requirements
+4+ years of experience in data science
+Experience of R&D in a research institute or a Mobile-Telecom company
+Business level Japanese and English skills.
+Strong hands-on experience of building machine learning models and deployment to solve functional business problems
+Ability to translate business needs to data science solutions
+Experience with NLP (Natural Language Processing) using the Japanese Language.
+Preferred Skills
+Experience of theoretical/practical algorithm development in fields such as machine learning, mathematical optimization
+Experience of using Apache Spark or other platforms used in distributed computing
+Proven success with generating product strategies using data analysis
+Knowledge of recent trends and familiarity with a variety of libraries in machine learning methods
+Ability to interpret results using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining
+Language
+Japanese: Fluent
+English: Business level

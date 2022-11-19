@@ -1,0 +1,19 @@
+£80,000 + bonuses + benefits
+
+Hybrid - 2 x week in office
+
+Our client is a global bank listed as one of the top 100 companies on the London Stock Exchange. They have a presence in over 50 differnet markets across the world with over 100+ years as a major player in financial services.
+
+You will be joining the Quantitative Modelling and Analytics team. They are responsible for research, development and implementation of quantitative models of revenue and balance sheet and visual analytic tools. The work covers deposit and lending products for clients - exploring the relationship between commodities, interest rates and FX.
+
+The role will entail Stress Testing and Financial Planning and Analytics. Your day to day will consist of Datamodelling to develop scripts, clean, aggregate/disaggregate and transform raw data for quantitative modelling. You will also be providing model selection, testing and validation methodologies. A smaller element of the position will revolve around the Visual Analytics side of things including developing dashboards ideally using Tableau or Power BI and then communicating important patterns/trends to both technical and non-technical stake holders.
+
+Key Requirements
+
+Degree in Statistics, Data Science or a related field
+Strong programming experience in R
+Good knowledge of Machine Learning and Computational Statistics
+GIT
+Experience in developing Dashboards eg Tableau or Power BI
+
+If you have the above experience, please click "apply now" for a confidential chat about the position.

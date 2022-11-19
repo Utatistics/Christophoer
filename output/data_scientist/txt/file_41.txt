@@ -1,0 +1,38 @@
+Moneysupermarket Group’s mission is to help households save money, we supply products from over 800 financial providers to more than 24 million unique monthly visitors, helping UK households save approx. £2bn each year, something we’re incredibly proud of.
+
+You will be joining the company as a senior data scientist within the Customer Data Science team. This team plays an essential role in helping the business achieve its goals through predictive modelling and advanced analytics. Our focus for 2022 we will be building on the success we have already achieved with our personalisation strategy. By tailoring the customer experience and understanding the key drivers of customer lifetime value we can deliver both beneficial customer and business outcomes.
+
+Why Our Role?
+The Moneysupermarket group have a wealth of rich customer data which allows us to understand and predict our customers’ needs. In addition, we have modern architecture on the Google Cloud Platform and real time data which will give you the needed infrastructure to build real-time predictive models.
+
+You will play a leading role in delivering Moneysupermarket’s strategic goal of ensuring that the customer experience across our key touchpoints is as relevant and personalised as possible. You will work closely with the Product, Data Engineering, Technology and other Data Science teams to operationalise customer-facing models to serve personalised experiences on the website, app and marketing platforms (primarily Braze). To succeed, you will need to a deep knowledge of machine learning techniques and utilizing large data sets. You will work closely with other members of the Customer Data Science team shaping how we deliver models. We are keen on improving our processes and as such have several in-house tools to aid the creation of models. As part of your role, you will also get a chance to work on enhancing these tools.
+
+In addition to your technical skills, you will need to build relationships with key stakeholders. We expect our data scientists to play a pivotal role in ensuring that as a business we are making data-driven decisions. Explaining how the models you have created can be leveraged to personalize the customer experience and then ensuring that these models are utilized to provide incremental customer and business benefit will be key.
+
+What will your daily life look like?
+Delivery of key projects ensuring business goals are met
+Develop and monitor models to ensure they effectively personalise customer experience.
+Building relationships with stakeholders across our business (Marketing, Product, Commercial and Tech) to ensure we are using data science to drive our decisioning
+Clear and effective communications with stakeholders including creating engaging presentations and explaining technical concepts to a non-technical audience
+Develop a deep understanding of a customer lifetime value and work with key stakeholders to optimise this metric
+Building your knowledge and learning new skills by attending workshops, seminars and conferences or self-learning materials.
+Identify process improvements and contribute to our in-house machine learning tools
+
+What do we need from you?
+Experience of delivering commercial outcomes from the application of machine learning and advanced analytics.
+Proficiency in Python coding and data science packages.
+Familiarity with Git, Github or Bitbucket
+Good working knowledge of statistical techniques.
+Experience using SQL to analyse and extract data.
+Strong data visualisation skills
+Experience of delivering productionised analytical or data-driven products to consumer markets.
+Experience working with and knowledge of modern data architectures, infrastructure, and tools.
+Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner to senior stakeholders.
+Desire to understand, in detail, the customer experience of using Moneysupermarket Group services.
+Experience developing on Google Cloud Platform.
+
+We're an inclusive, anti-racist and equal opportunity employer that values diversity. This means we respect and embrace differences in gender identity, race, ethnic origin, sexual expression and orientation, religion and faith, age, marital status, disability, neurodiversity, social background, education and way of thinking. We’re a place where you can be you.
+
+Our customers and users come from different backgrounds, as do our colleagues. We welcome applications from everyone, and particularly encourage women and Black, Asian and minority ethnic candidates to apply as we’re actively building representation that’s more closely reflective of the communities we serve. Our appointments are made on merit, following a robust and objective assessment process, and the candidate with the highest score is offered the role. If you’re passionate about our purpose of helping households save money and excited about what you could accomplish here, we’d love to hear from you.
+
+We understand that job adverts only say so much and you’re likely to have a lot of questions. If you’d like to know anything before applying such as more on the location, salary, our parental leave policy etc, please just let us know and we’ll be happy to help. You can contact the recruiter for this role, Francesca at francesca.crossley@moneysupermarket.com

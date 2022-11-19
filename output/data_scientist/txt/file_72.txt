@@ -1,0 +1,37 @@
+Senior Data Scientist
+
+Flexible UK Location
+
+This is an exciting opportunity to work as a Senior Data Scientist at the intersection of machine learning and financial services in the Data Science and Advanced Analytics team. We have a track record of breaking new analytical ground in Barclays using newer data sources, advanced techniques, and cutting-edge technologies. We’re now hiring for our next innovative leader to push the bank’s analytical boundaries to better serve our customers. The constantly evolving nature of our projects and partners means you will analyse a variety of data, particularly those that are unstructured, large and granular.
+
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+You can apply from anywhere in the UK for this role. We will confirm your place of work at the point of offer, ensuring that this is considered in line with our future ways of working and overall location strategy. The hiring manager for the role will discuss the appropriate defined time in office for the role with you as part of the application process
+
+What will you be doing?
+
+Designing and developing modelling approaches appropriate to data sources, technology stacks, and end-users’ needs
+Spurring engagement with business areas, coordinating multifunctional project teams to deliver data science solutions that create transformative commercial value at pace and in control
+Ensuring project teams you lead deliver machine learning models into production, working collaboratively with colleagues across the organisation to remove impediments to progress
+Adhering to professional software development standards to ensure robust, repeatable analytical applications in line with legal requirements, internal policies, and risk management frameworks
+Reviewing the code of colleagues to ensure it is efficiently written and appropriately documented
+Promoting and presenting your work to senior stakeholders across Barclays UK
+Keeping tabs on the latest developments in data science, devising ways to foster these within the bank
+
+What We’re Looking For
+
+Proficiency in Python developing statistical and machine learning models
+Experience delivering complex data science projects in a business context
+Energy and enthusiasm to inspire followership and to work effectively in a low ego environment
+Clear passion for making financial services more customer-centric by using data science ethically
+
+Skills That Will Help You In The Role
+
+Prior people management experience, with tried and true approaches for mentoring junior staff
+Understanding of the financial sector, to recognise and drive forward opportunities where data science can transform the bank
+Skilled at influencing and communicating to various stakeholders up to executive level
+Specialism in one or more of the following: reinforcement learning, deep learning, natural language processing, agent-based modelling, image recognition
+
+Where will you be working?
+
+We will confirm your place of work at the point of offer, ensuring that this is considered in line with our future ways of working and overall location strategy.

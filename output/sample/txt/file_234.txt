@@ -1,0 +1,77 @@
+Who we are:
+
+At Wunderman Thompson we exist to inspire growth for ambitious brands. Part creative agency, part consultancy and part technology company, our experts provide end-to-end capabilities at a global scale to deliver inspiration across the entire brand and customer experience.
+
+We are 20,000 strong in 90 markets around the world; our people bring together creative storytelling, diverse perspectives, inclusive thinking, and highly specialized vertical capabilities to drive growth for our clients. We offer deep expertise across the entire customer journey, including communications, commerce, consultancy, CRM, CX, data, production, and technology.
+
+Wunderman Thompson Tokyoでは、他のデータチームメンバーと連携し、戦略、カスタマーエクスペリエンス、テクノロジー、コマース、クリエイティブチームと密接に協力しながら、刺激的な領域で働くデータアナリストを募集しています。このポジションはWT Tokyoのデータ＆アナリティクス・ヘッドの直属となります。
+
+データアナリストは、担当するプロジェクトやアカウントでチームをサポートする役割を担っています。他のアナリストと密接に連携し、担当顧客アカウント向けのデータ分析、実行可能なインサイト、推奨事項、レポート作成においてデータチームをサポートします。
+
+業務内容
+データ主導型のマーケティング活動すべてに関するクライアントのデータ要件のサポート
+ファーストパーティ、セカンドパーティ、サードパーティのデータを含むクライアントのデータ分析をサポートするために、さまざまなソースからデータを特定、収集、分析
+データの準備と処理、およびクライアントデータに基づく分析の実行
+データに関連するすべての活動において、CX、戦略、テック、アカウント、クリエイティブチームと協働
+ウェブ解析、マーケティングROI、エンゲージメントレポート、ギャップ分析、インサイトや仮説の開発など、キャンペーンの事前/事後評価の実施
+調査、リサーチ、統計、データ分析、その他のデータ技術に基づく、市場および消費者のインサイトの深掘り
+クライアントやサードパーティのデータに基づくペルソナ、プロフィール、セグメンテーション、ジャーニー分析、ジャーニー測定、KPI、測定の準備
+データやリサーチに基づき、インサイトや推奨事項を記載した有意義なレポートやダッシュボード（SEOやソーシャルメディアのデータ分析も含まれる）の作成
+データベースやデジタル／マーテックプラットフォームの品質、機能性、UXを中心としたユーザビリティ、CRM志向のデザインなどの評価とレビュー、およびソリューションの提案
+データディレクターやヘッドオブデータから指示された他の任務の遂行
+
+応募資格
+データ分析を中心とした3年以上のビジネス経験（できればデジタルまたはマーケティング環境で培った経験）
+ソーシャルメディア、メールマーケティングを含むCRMやデジタルマーケティングの理解
+Adobe Experience Platform（Analytics/Target/AudienceManager）の使用経験、およびタグマネジメント等の必要事項の理解
+Tableau、PowerBI、Google Dat Studio、DomoなどのBI（ビジネスインテリジェンス）/可視化ツールの使用経験
+R、Python、SQLなどのデータサイエンス技術に関する知識
+Sales、AdobeなどのMarketing Cloudプラットフォームに関する知識があれば尚可
+分析・統計に関する深い理解
+データを読み取り、有用なコンテンツに解釈する高い能力
+マーケティング、数学、経済学、コンピュータサイエンス、データサイエンス、統計学、または類似の学位/終了証書
+優れた文書および口頭でのコミュニケーション能力
+ネイティブレベルの日本語
+英語の文章を理解し、簡単な英文で返信ができ、英語圏の環境で学び、成長する意欲があること
+個人として優れたプレーヤーであると同時に、チーム内でポジティブな影響力を発揮することができる
+協調性のある環境で働き、チームワークを重視し、コミュニケーション能力、プレゼンテーション能力を有すること
+
+Wunderman Thompson Tokyo is looking for Data Analyst who will work across exciting range of areas, interacting with other data team members, and closely working with the strategy, customer experience, technology, commerce and creative teams. This person will be reporting to the WT Tokyo Head of Data and Analytics.
+
+Data Analyst is responsible for supporting the team on assigned projects and accounts. The position holder will work closely with other analysts and will support the data team in the development of data analysis, actionable insights, recommendations and reports for assigned client accounts.
+
+What You’ll Do
+Supporting client’s data requirements on all data-driven marketing activity
+Identify, collect and analyse data from different sources to support clients data analysis including 1st party, 2nd party and 3rd party data.
+Preparing and processing data and performing analytics based on client data
+Collaborating with CX, Strategy, Tech, Account and Creative teams on all data related activities
+Conducting pre and post campaign evaluations, including web analytics, Marketing ROI, engagement reporting, gap analysis and insights and hypothesis development
+Driving deep market and consumer insights based on surveys, research, statistics, data analysis and other data techniques
+Working on preparations of personas, profiles, segmentations, journey analytics, journey measurements, KPIs and measurements based on client and 3rd party data.
+Prepare meaningful reports or dashboards based on data and research with insights and recommendations. That would include SEO and social media data analysis.
+Assessing and reviewing databases and digital/martech platforms including quality, functionality, UX-centric usability, CRM-oriented design, and propose solutions
+Taking on other assignments as assigned by the data director or head of data
+
+Who You Are
+Minimum of 3 years of experience in business with focus on data analytics, preferably gained in a digital or marketing environment
+Good understanding of CRM and digital marketing including social media and email marketing
+Experience of Adobe Experience Platform（Analytics/Target/Audience Manager）and understanding required details, such as tag management.
+Experience of BI / visualization tools such as Tableau, PowerBI, Google Dat Studio, Domo
+Knowledge of data science technologies such as R, Python, SQL
+Knowledge of Marketing Cloud platforms such as Sales, Adobe is a plus
+Strong analytical and statistical understanding
+High ability to read and interpret data into useful content
+Degree/Diploma in Marketing, Mathematics, Economics, Computer Science, Data Science, Statistics, or a similar qualification
+Good written and verbal communication skills
+Native level Japanese is required
+Ability to understand written English, reply with simple English writing, and willing to learn and grow in the English-speaking environment
+Excellent player as an individual as well as a positive influencer in a team.
+Work in collaborative environment, team-oriented, communication skills and presentation skills.
+
+At Wunderman Thompson, we are committed to actively building a diverse, equitable and inclusive workplace where everyone feels welcomed, valued and heard, and is treated with dignity and respect. As leaders and creative partners across industries, it is our responsibility to cultivate an environment reflective of our greatest asset; our people. We believe that this commitment inspires growth and delivers equitable outcomes for everyone as well as the clients and communities we serve.
+
+Wunderman Thompson is a WPP agency.  For more information, please visit our website and follow Wunderman Thompson on our social channels via Twitter, Facebook, LinkedIn, and Instagram.
+
+Note: We rely on legitimate interest as a legal basis for processing personal information under the GDPR for purposes of recruitment and applications for employment.
+
+When you click the "Submit Application" button below, this will send any information you add below to Wunderman Thompson. Before you do this, we think it's a good idea to read through our Privacy Policy. This explains what we do with your personal data when you apply for a role with us, and, how you can update the information you have provided us with or how to remove it.

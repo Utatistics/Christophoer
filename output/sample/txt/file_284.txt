@@ -1,0 +1,272 @@
+Description
+
+JD in Japanese follows. 英文の後に和文JDをご覧いただけます。
+
+Introduction
+
+Our Mission
+
+Mercari is a Japan-based company with the mission of “create value in a global marketplace where anyone can buy & sell.” Having continuously worked toward this goal since our founding in 2013, we are now transforming from a startup into a global player. While this transformation brings its own specific set of challenges, we believe that solving them one after another will allow us to fully achieve our mission. Are you interested in working together to take on these exciting challenges?
+
+Our Culture
+
+To achieve our mission at Mercari, our organization and each of our employees share the same values and perspectives. Our individual guidelines for action are defined by our three values: Go Bold, All for One, and Be a Pro. Our organization is also shaped by our four foundations: Sustainability, Diversity & Inclusion, Trust & Openness, and Well-being for Performance. Regardless of how big Mercari gets, the culture will remain essential to achieving our mission and something we want to preserve throughout our organization.
+
+We invite you to read the “Mercari Culture Doc,” which summarizes the behaviors and mindset shared by Mercari and its employees. We continue to build an environment where all of our members of diverse backgrounds are accepted and recognized, and where they can thrive while holding dear Mercari’s culture.
+
+Position Overview
+
+Work Responsibilities
+Analysis to formulate overall company policy/business strategy
+Conduct cross-sectional analyses to provide advice on overall company policy
+Help establish and visualize business simulations, metrics, and objective targets
+Help construct and implement growth strategies
+Conduct quantitative analyses of events which have major business impact in order to propose guidelines
+Analysis to improve user experience
+Utilize quantitative/qualitative data to discover user issues
+Propose initiatives to solve issues, based on analysis of behavioral logs
+Conduct simulations of initiatives prior to implementation, to determine impact and assign priority
+Design success metrics and establish testing plans
+Measure impact of initiatives and derive insight
+
+Bold Challenges
+Vision
+Be the brain that drives the growth of Mercari
+Mission
+Provide actionable insights and help people make better decisions
+Democratize data and empower everyone with analytics
+Environment
+Data usage at Mercari: Mercari’s company culture focuses on data-driven decision making and unbiased, fact-based discussion, regardless of individuals’ specific roles and duties.
+Technical foundation and data platform: Mercari is used by over 17 million users a month, generating thousands of transactions per day. You will have the opportunity to work daily on analysis using transaction data and user behavior logs.
+Analytics Team: The Analytics Team’s diverse talent—from managers and team heads to those hailing from strategy consultant firms or research companies, former PdMs, and engineers—hold open discussions to develop proposals.
+Fields: You will be involved in analyzing a wide range of fields: marketing, new business, logistics, CRM, products, planning, customer support, etc. There are still many areas internally which could benefit from data usage, and together, we can develop new areas for analysis.
+Success Stories
+The Analytics Team conducted a quantitative analysis of changes to the business environment which would have a major impact on business. They were able to use this analysis to explain how our service would be impacted and propose countermeasures to the upper management.
+The Analytics Team proposed a policy to advance the growth of Mercari Group, helping to establish numeric targets for the entire group.
+The Analytics Team helped ensure service quality by establishing guidelines for quantitative assessment of product quality and incorporating this into the release process.
+
+
+Required Experience
+5+ years experience working on data analysis
+Able to aggregate data using SQL
+Basic understanding of statistics
+Experience working with product managers and designers to improve a service
+
+Preferred Experience
+Experience using mass user data (particularly C2C marketplace data) in data analysis
+Experience in analysis to measure impact of online and offline advertising
+Experience in project management and team management
+Experience in hypothesis testing flows that involve designing and executing A/B tests
+Experience in practical application of statistical analyses conducted via Python, R, etc. (hypothesis testing, regression analysis, causal inference)
+Experience analyzing search and recommendation engines
+Knowledge regarding the product development cycle
+
+Screening Criteria
+Able to establish hypotheses tailored to specific issues and consider these hypotheses logically
+Able to explain expert opinions in layman’s terms
+Able to think about issues facing the service from a user perspective
+Able to focus on business impact when solving issues
+Able to understand the company’s mission and values
+Able to explain their reason for choosing Mercari and where they would like their career to go next
+
+Technical Assessment Criteria
+Able to test qualitative hypotheses by converting them into quantitative metrics
+Able to write appropriate SQL queries to extract/aggregate data
+Able to explain aggregate results and thought process in a manner which is easy to understand
+
+Language Requirements
+English: Independent (CEFR - B2) preferred
+Japanese: Independent (CEFR - B2)
+For details about CEFR, see here
+
+Related Articles
+メルカリを“もっと”データドリブンにする、VP of Analyticsが掲げた2つのミッション | mercan (メルカン)(Japanese Only)
+分析組織のマネージャーが「プレーヤーとして」メルカリBIを選んだ理由 | mercan (メルカン)(Japanese Only)
+
+Working Conditions
+
+Employment Status
+
+Full-time
+Probationary period: First 3 months after joining the company. (During this period your contract conditions will be the same as that of a permanent employee.)
+
+Office
+
+Roppongi
+Smoking is prohibited within our offices
+Mercari has introduced a work style policy called “Your Choice.” Each member is free to choose whether they want to work in the office or work fully remote. *Exceptions made for certain kinds of work.
+
+Work Hours
+Full flextime (no core time)
+Does not apply to all positions
+
+Holidays
+Two days off per week (as well as national holidays, New Year's break, etc.)
+Paid leave, congratulatory and bereavement leave, relax days, sick leave
+
+Salary
+Annual salary paid in 12 monthly installments (including fixed overtime allowance)
+Based on skills, experience, and abilities
+Reviewed twice a year
+
+Benefits
+Complete health and social insurance
+Incentive program
+Support systems, including those that benefit employee family members
+Language learning support
+Translation/interpretation support
+See this page for details.
+
+Support
+Relocation Support
+See this page for details.
+
+Media
+
+Corporate Sites
+Mercari, Inc.
+Merpay, Inc. [Japanese]
+Souzoh, Inc.
+Mercoin, Inc.
+Merlogi
+Mercari US
+
+Owned Media
+Mercari Careers
+Mercari Engineering Portal
+Mercan - Introduces the people that make Mercari
+Mercari US Careers
+Mercari US Blog
+
+はじめに
+
+全てはミッションの達成のために
+
+メルカリは「新たな価値を生みだす世界的なマーケットプレイスを創る」をミッションに掲げる日本発の企業です。2013年の創業以降、ミッションの達成に向かって挑戦してきたメルカリは今、スタートアップから「世界に通用する企業」へと変化する挑戦の真っ只中にいます。今の成長フェーズでしか向き合えない価値ある課題を一つひとつ解決することが、必ずミッションの達成につながると信じて、メルカリは歩み続けています。私たちと一緒に、このミッションに挑戦してみませんか？
+
+私たちのカルチャー
+
+メルカリはミッションの達成のために、社員一人ひとりと組織が大切にする共通の価値観があります。「Go Bold（大胆にやろう）」「All for One（全ては成功のために）」「Be a Pro（プロフェッショナルであれ）」という個人の行動指針を意味する3つのバリュー。そして「Sustainability」「Diversity & Inclusion」「Trust & Openness」「Well-being for Performance」という組織の土壌となる価値観を意味する4つのファンデーション。これらは、どんなに組織規模が拡大したとしても、メルカリがミッションを達成するために必要不可欠な要素であり、守り続けたいカルチャーであると考えています。
+
+このような「メルカリ（会社）とメンバー（社員）が大事にする、共通の価値観」については社内向けのドキュメントである『Mercari Culture Doc』にまとめられていますので、ぜひご覧ください。メルカリはこのカルチャーを大切にしながら、多様なバックグラウンドを持つメンバーを積極的に受け入れ、認め合い、全員が活躍できる環境を追求します。
+
+募集要項
+
+業務内容
+全社方針/事業戦略のための分析
+全社方針への提言をするための横断的な分析
+事業シミュレーション、指標・目標数値策定・可視化支援
+グロース戦略の構築・実行支援
+事業に重大な影響を及ぼす事象に対する定量分析と指針提案
+顧客体験向上のための分析
+定量・定性データを用いた顧客課題の発見
+行動ログ分析に基づく課題解決へ向けた施策提案
+施策効果の事前シミュレーションと施策の優先順位付け
+成功指標の設計と実験計画の策定
+施策の効果測定とインサイトの導出
+
+大胆なチャレンジ
+ビジョン
+Be the brain that drives the growth of Mercari / メルカリの成長を主導するブレインになる
+ミッション
+Provide actionable insights and help people make better decisions / 実行可能なインサイトを提供し、より良い意思決定の支援を行う
+Democratize data and empower everyone with analytics / データの民主化を推し進め、皆の分析力を高めていく
+環境
+メルカリにおけるデータ活用：データを用いた意思決定を重視する風土があり、役割・役職関係なくファクトに基づく対等な議論が行われています。
+データ基盤：メルカリは、毎月1,700万人以上のお客さまにご利用いただいており、日々多くの取引を生み出しています。大量のユーザー行動ログや取引データを利用しながら、日々の分析業務に取り組むことができます。
+Analyticsチーム：各社でマネージャーやヘッド、戦略コンサル/リサーチ会社/PdM/エンジニア出身等、多様な人材とともに自由闊達なディスカッションを経て提案を行っております。
+担当領域：マーケ、新規事業、ロジスティクス、CRM、プロダクト、ブランディング、カスタマーサポートなど幅広い領域の分析に携わることができます。社内にはデータの力が求められている領域がまだまだ多く存在しており、一緒に新たな領域を開拓していきましょう。
+成果 / 事業貢献事例
+事業に重大な影響を及ぼす環境変化に対する定量分析を行い、サービスへの影響及び対応方針を経営層に提案
+グループ全体の成長を推進するための方針を提案し、グループ全体で追う数値目標の策定に貢献
+施策の定量評価を行うためのガイドラインを策定し、リリースフローに組み込むことでサービス品質の担保に寄与
+
+
+必須条件
+データ分析実務経験5年以上
+SQLを用いてデータ集計を行うことができる
+統計学の基礎理解
+プロダクトマネージャーやデザイナーと協業しサービス改善を実施した経験
+
+歓迎条件
+大量のユーザーデータ（特にC2Cマーケットデータ）を用いたデータ分析の経験
+オンライン・オフライン広告の効果測定分析の経験
+プロジェクトマネジメントやチームマネジメントの経験
+A/Bテストの設計、検証を通じた仮説検証フローの実務経験
+Python, Rなどを用いた統計解析の実務への応用経験（検定・回帰分析・因果推論）
+検索や推薦エンジンの分析経験
+プロダクトの開発サイクルに関する知識
+
+選考のポイント
+問に対して適切な仮説を立てて論理的に思考できるか
+専門的な内容を噛み砕いて分かりやすく説明できるか
+サービスの課題を顧客目線で考えることができるか
+課題解決の際にビジネスインパクトを意識することができるか
+メルカリのミッション・バリューに対して共感できるか
+転職先にメルカリを選ぶ理由、今後のキャリアプラン
+
+技術課題のポイント
+定性的な仮説を、定量的な指標に落とし込んで検証できるか
+データの抽出・集計のために、適切にSQLクエリを記述できるか
+集計結果や考察内容をわかりやすく伝えることができるか
+
+語学力
+英語： Independent (CEFR - B2) 歓迎
+日本語： Independent (CEFR - B2) ※ CEFRの詳細については、こちらをご覧ください
+
+記事
+メルカリを“もっと”データドリブンにする、VP of Analyticsが掲げた2つのミッション | mercan (メルカン)
+分析組織のマネージャーが「プレーヤーとして」メルカリBIを選んだ理由 | mercan (メルカン)
+
+雇用条件
+
+雇用形態
+
+正社員
+試用期間：入社後3ヶ月（本採用と同条件)
+
+オフィス
+
+六本木
+受動喫煙対策: 屋内全面禁煙
+メルカリには「YOUR CHOICE」というワークスタイルに関する制度があります。オフィス出社をすることも、フルリモートワークを選択することも自由に選択することができます。※一部職種を除く
+
+勤務時間
+フレックスタイム制（コアタイムなし） ※一部職種を除くため、ご応募の際にお問合せください。
+
+休日・休暇
+完全週休2日制（祝祭日、年末年始 等）
+有給休暇、慶弔休暇、リラックス休暇、Sick Leave
+
+給与
+月給制（固定残業代含む）
+スキル・経験・能力に応じて決定いたします
+毎年2回見直し
+
+ベネフィット
+各種社会保険完備
+インセンティブ制度
+社員の家族を含めた支援制度
+語学学習のサポート
+翻訳と通訳のサポート ※ 詳しくはこちらのページをご覧ください。
+
+サポート
+リロケーションサポート
+
+※ 詳しくはこちらのページをご覧ください。
+
+メディア
+
+コーポレートサイト
+株式会社メルカリ
+株式会社メルペイ
+株式会社ソウゾウ
+株式会社メルコイン
+株式会社メルロジ
+Mercari US
+
+オウンドメディア
+メルカリ採用サイト
+エンジニア情報ポータルサイト「メルカリエンジニアリング」
+メルカリの人を伝えるオウンドメディア「mercan」
+メルカリのデザインにまつわるブログ「Mercari Design」

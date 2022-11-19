@@ -1,0 +1,18 @@
+Hydrogen Group are currently looking for a Lead Data Scientist on a contractual basis. The contract is for 12 months and working for an IT company based in London. The role is fully remote, but the successful candidate must have a right to work in the UK. The role is inside IR35 and paying up to £770 per day. The contractor will be paid via Hydrogen PAYE.
+
+The candidate will join the company's experimentation science team which is responsible for the company's posture regarding hypothesis testing, experimentation, and measurement.
+
+Responsibilities
+
+Advise on the best statistical approach when facing problems around experimentation, measurement, sampling;
+Create a research plan/roadmap aimed to simulate, evaluate and compare different statistical approaches about hypothesis testing and causal inference;
+Communicate statistical results, recommendation and guidelines to technical and non-technical audiences;
+
+Key Skills Required
+
+Previous experience in experimentation or A/B testing in a large organization/large volumes;
+Able to lead/self-manage complex statistical, econometrics research.
+PhD in Statistics or Econometrics;
+Fluent in SQL;
+
+Experience in hypothesis testing, causal inference

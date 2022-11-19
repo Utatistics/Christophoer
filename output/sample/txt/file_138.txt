@@ -1,0 +1,40 @@
+Job Description
+
+Business Overview
+
+Rakuten group has almost 100 million customer base in Japan and 1 billion globally as well, providing more than 70 services in a variety such as ecommerce, payment services, financial services, telecommunication, media, sports, etc.
+
+Department Overview
+
+AI Success Supervisory Department (AISSD) provides data science initiatives by leveraging Rakuten group’s data. The department has international culture created by excellent employees joined around the world and provides the cutting-edge data science. Following the strategic vision “Rakuten as a data-driven membership company”, AISSD is expanding our data activities across our multiple Rakuten group companies.
+
+Position Details
+
+We Are Looking For a Data Engineer/Data Science Engineer To Work Within One Of The Following Departments Within Our AI Success Supervisory Department (AISSD)
+
+Data Science Consulting Department (DSCD)
+Analytics Data Engineering Department (ADED)
+Catalog Management Department (CAMD)
+Enterprise Consulting Department (ECD)
+
+Mandatory Qualifications
+
+Computer science or related background
+5+ years’ experience in software development, especially using Python as a programming language
+Experience with common Linux commands and Linux scripting languages
+Experience with Hadoop, MapReduce, HDFS and Big Data querying tools, such as Tez, Hive, and Impala
+Experience with designing and building tools based on specific requirements
+Experience with building and maintaining data science platform
+Experience with SQL and some of the modern relational databases
+
+Desired Qualifications
+
+Experiences in web service development in multiple industries.
+Solid knowledge of large volumes data processing
+Experience with Big Data ML toolkits, such as Mahout, SparkML, or H2O
+Experience with NoSQL databases, such as HBase, Redis, CouchBase
+Familiar with data mining concepts and machine learning algorithms
+Experience with Spark and stream-processing systems, using solutions such as Storm or Spark-Streaming
+Knowledge of various ETL techniques and frameworks, such as Flume
+
+#engineer #datascientist #researcher #technologyservicediv #Python

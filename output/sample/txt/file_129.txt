@@ -1,0 +1,48 @@
+Excellent work-life balance |English only OK!
+
+About Our Client
+
+Our client is one of the world's largest Life Insurance Companies leading the industry both globally and in Japan. It is a home for more than 30,000 employees worldwide and known for their excellent work-life balance, fun working environment, and career growth opportunities.
+
+Part of their success lies within their ability to come up with innovative solutions not only on the business side but also within their technology. Apart from an insurance firm they are also a technology hub where excellent technologists lead the creations of cutting-edge solutions.
+
+Job Description
+
+Your role as a Big Data Engineer, will include the following responsibilities:
+
+Code and Test in Java, Python, Scala for ingestions and transformations
+Use various Hadoop technologies for storing/publishing data like Kafka, Hive, HBase, Files, etc.
+Participate in preparation of code release.
+Document code in Jira, SharePoint and within the code.
+Requirements gathering work.
+UAT/user engagement.
+The Successful Applicant
+
+If you meet most of the following criteria, this role is for you:
+
+Must-have
+
+Hands-on experience with Java or Python
+Strong Understanding of relational databases (SQL, MySQL, etc.)
+Good understanding of data structures
+Rational thinking and good communication skills
+
+Desirable But Not Mandatory
+
+Experience as a Big Data Engineer or similar role.
+Experience with Spark, or the Hadoop ecosystem and similar frameworks.
+Experience with Scala
+Fluent in Japanese
+
+What's On Offer
+
+If you are the successful candidate, you will be entitled to the following features:
+
+To work for one of the best insurance firms globally and advance your career!
+A competitive high-base salary of up to JPY 12M / year
+Full employment and social benefits + full transportation coverage
+To work in multi-cultural and multi-lingual international environment with excellent engineers and scientists from different backgrounds
+A great work-life balance and a fun working environment
+Contact: Kostas Panozachou
+
+Quote job ref: 4178229

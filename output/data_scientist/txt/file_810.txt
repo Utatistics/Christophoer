@@ -1,0 +1,104 @@
+Company Summary
+
+Product Madness is one of the world's largest mobile game studios, with a global presence. Founded in 2007, we’re today a top-grossing leader in social casino mobile games that are crafted with passion and commitment. Our ambition is to entertain millions of players around the world with our remarkable titles that include Heart of Vegas, Cashman Casino, Lighting Link and FaFaFa™ Gold.
+
+We are Mad about games and the way they bring people together, and that passion and culture is what holds us together as a studio, connects us with the partners we collaborate with, and is what links us to our sister studios across the world.
+
+Job Posting Title
+
+Lead Data Scientist
+
+Summary
+
+You will join us as a Lead data scientist to manage our core Data Science team (3 - 6 Data Scientists). The core team focuses on developing advanced machine learning products and supporting key business initiatives.
+
+Your role will be varied and responsibilities will include support and mentoring the DS team in developing multiple predictive and descriptive models', creating dashboards, code reviews, stakeholder management and one to ones.
+
+What You'll Do
+
+What will you be doing?
+
+Lead team of 4-6 data scientists, direct project work of others, provide technical mentorship;
+Plan day-to-day work of Core DS Team, including roadmaps and priorities;
+Develop guidelines for data discovery, data cleansing, transformation and modelling;
+Show a critical approach to modelling and ability to anticipate data and modelling problems;
+Support DS team in developing various predictive and descriptive models, including
+Hands-on work on such models; lead the team by example;
+Lead and perform statistical analysis to validate and test ideas, assumptions, data integrity;
+Recommend best practices for data modelling, analysis and visualisation;
+Run peer and code reviews;
+Collaborate with other DS team members, business intelligence analysts and data engineers on analytical projects;
+Collaborate with key business stakeholders on ongoing and future projects
+Deal with high levels of ambiguity by bringing clarity to the problem and communicating plans toward a solution with both technical and non-technical people;
+Lead recruitment, onboarding and career development for the team from a technical perspective;
+
+
+Why should you work for us
+
+As well as the opportunity to work on some very exciting projects and grow your career, you will be working for a people first business that really looks after you. Some of our amazing benefits include.
+
+Yearly Bonus
+25 Days Annual leave + Christmas Closure (4 days) + Birthday off + Wellness days + Bank holidays
+Full Hybrid working arrangements to suit you
+£250 Work from home allowance to set up your home office
+Private Medical Insurance + Dental Insurance
+£50 a month wellness budget spend it toward your gym or massage for example
+£40 a month Uber Eats Voucher
+Access to Perkbox
+Study Assistant programme & Counselling services
+Enhanced Parental Leave
+Amazing Pension contribution up to 10%
+
+
+What We're Looking For
+
+Below are some of the skills and experience we would love to see from you, we understand you might not have all of the below and we can provide training and development where needed.
+
+Bachelor/Master/PhD degree or equivalent work experience in Computer Science or a related discipline such as Statistics, Mathematics, Economics, etc;
+Deep understanding and knowledge of Machine/Statistical Learning;
+Experience in developing predictive and descriptive models;
+Experience in working with unstructured/semi-structured data to extract functional analytic measures;
+Knowledge of advanced data visualisation techniques to present analysis findings;
+Knowledge of any BI tool, but beware we use Looker (Looker/QuickSight/Tableau/QlikView)
+Experience in leading a team or being a mentor to junior employees
+Experience in writing advanced SQL;
+Experience in developing models in python and deploying them into production;
+
+
+Why Product Madness?
+
+Product Madness is so much more than just a Pool table and a foosball game.
+
+We believe in an honest and transparent approach with our teammates. Company wide weekly Town Halls, All Hands and strategy meetings are just a few ways in which we encourage an open and honest path to achieving complete transparency.
+
+Despite a pandemic, there isn’t a day where we don’t feel connected to one another.
+
+With frequent events, workshops, giveaways, slack coffee and donut sessions we have definitely brought on our office culture to this new virtual world of zoom calls.
+
+We also try to cater for all our staff’s needs – be that a freshly brewed cappuccino made by our professional barista in our free coffee shop or by providing a bountiful supply of tasty snacks to keep us refueled and buzzing.
+
+We love to organise plenty of social get-togethers and action-packed activity days, be it slipping inside an inflatable bumper ball for a mad session of football zorbing or throwing caution to the wind and traversing giddy treetop rope courses at Go Ape. On top of these team-building activities, our lunch and learn workshops, not to mention the lavish Christmas and summer parties, foster that ‘work hard, play hard’ mantra. Our offices are based in the heart of the metropolises of London and Lviv, surrounded by an abundance of diversity and inspiration to keep those ideas flowing.
+
+Our Values
+
+People First
+
+
+We have the deepest respect for our people and their well being. We know they are exceptionally talented and will always have a choice. We want them to re-choose us every day. We are committed to building a culture where each person's voice will always be heard and addressed.
+MAD for More
+
+
+Always improving, innovating and never settling for the existing. We push all boundaries with courage and ambition to become the world’s best games company.
+Champion Together We excel at what we do but yet remain humble and helpful to our teammates. We champion one another and hold each other to high standards without any egos.
+Globally Inclusive
+
+
+We are all Equal - regardless of the language we speak, where we live, our gender, religion or culture we come from. We want to build a global home, where everyone has the equal opportunity to make an impact.
+Customer Focused
+
+
+We always think from the customer's perspective - be it players or internal customers.
+
+Improving their experience and joy is what drives us. Every client's success is our big win!
+
+R0011223

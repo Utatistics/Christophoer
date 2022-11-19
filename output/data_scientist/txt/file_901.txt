@@ -1,0 +1,35 @@
+About the role
+We are seeking an enthusiastic and capable data scientist to join our team. The successful candidate will help driving Climate X's product development efforts and report to the company's CPO.
+You will be a crucial link between a team of superstar scientists, engineers and the CPO, ensuring innovation and competitive edge go hand in hand with continuous feature and product deployments.
+The role will be trailblazing and super rewarding!
+
+The impact you’ll own
+· Drive product initiatives from prototype to productionisation, coordinating deployments between tech and science teams.
+· Deep-dive into climate impact and vulnerability modelling that feeds into the product.
+· Provide robust user acceptance testing of new products and features.
+· Produce business requirements for the tech team.
+· Understand the market customer needs and support exploration of new product opportunities.
+
+What you bring
+· Strong product and/or science background and willingness to learn the rest.
+· Comfortable using geospatial data.
+· Previous experience in applying Machine Learning models.
+· Great data analytics skills and skills in Python/SQL/QGIS.
+· Strong communication and project management (Agile) skills.
+· Hands-on, can-do attitude, great interpersonal skills and ability to collaborate effectively.
+· Passion, energy and wit.
+
+What makes you stand out
+· Previous experience in productionising climate intelligence.
+· Understanding of the current climate change landscape and interest in future trends.
+· Experience working at start-ups or scale-ups.
+· Strong academic credentials.
+
+Package
+· Base Salary – £60k - £70k per annum depending on experience
+· Green Pension
+· Employee Share Options Programme (ESOP)
+· Free subscription to mental healthcare https://www.oliva.health/
+· 25 days holiday per year + bank holidays
+· Half day ‘lie in’ + £75 spa treatment voucher on your birthday
+· Training budget of £1.5k

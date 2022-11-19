@@ -1,0 +1,44 @@
+Job Description
+
+Business Overview
+
+Rakuten group has almost 100 million customer base in Japan and 1 billion globally as well, providing more than 70 services in a variety such as ecommerce, payment services, financial services, telecommunication, media, sports, etc.
+
+Department Overview
+
+Following the strategic vision “Rakuten as a data-driven membership company”, we are expanding our data activities across our multiple Rakuten group companies. We are providing BI serviced to expand “data driven decision culture” by developing data mart environment and BI reports, using centralized data warehouse within Rakuten group.
+
+Why We Hire
+
+We would like to improve our service capability in terms of analytics so we opened this position to acquire professional data analysts.
+
+Position Details
+
+This role will support business users of the company in terms of data analysis. This position belong to BI development team and the team develops many BI reports. The position need to work with developing team to suggest new opportunities and do analysis against developed BI reports.
+
+This role will need to work with multiple business units inside company. And it is responsible for understanding various business user’s requirements and providing BI reports insights.
+
+Mandatory Qualifications
+
+Strong interest and understanding about data, data analysis, and making business value by utilizing data
+Experience at a data analysis specialized company or in a data analysis specialized department
+Analytical skills in utilizing data related tools or solution (Ex. SQL, Python, R)
+Deep understanding of various business model in relevant businesses (see above scope)
+Working experience of analytical research or strategic analysis
+Balance of standalone capability and team collaboration.
+3+ years overall IT work experience
+
+Desired Qualifications
+
+Statistics / Econometrics degrees or certifications
+Basic business knowledge to understand requirements (accounting, marketing etc.)
+More than 3 years of experience working at Data analyst section
+Experience of executive communication and presentation
+Strong communication skills
+Experience working with global teams
+
+#business #datascientist #researcher #technologyservicediv #Python
+
+Languages
+
+English (Overall - 3 - Advanced), Japanese (Overall - 3 - Advanced)

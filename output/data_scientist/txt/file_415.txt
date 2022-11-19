@@ -1,0 +1,63 @@
+Job Title: Lead Data Scientist
+Council: Richmond & Wandsworth Councils
+Salary: £42,105 to £54,054
+Advertising Closing date: 9 October 2022
+
+
+Would you like to apply your data skills to have a positive direct impact on the lives of half a million people in London?
+
+Richmond and Wandsworth Councils Insight and Analytics team is working on the projects to fight the impacts of climate change, tackle social and economic inequalities, prevent homelessness, keep our communities safe and offer targeted support to vulnerable residents during the cost-of-living crisis.
+
+We do this by using the extensive data holdings of the two Councils. In this role, you will see the impact your analyses have on improving lives.
+
+You will get to work with skilled and passionate people who are helpful and collaborative. We offer excellent benefits including flexible working, opportunities to train and go and 31 days of holidays from day 1!
+
+Come join us if you are passionate about using data to transform lives.
+
+Your role
+As the Lead Data Scientist for Wandsworth and Richmond Councils you will scope, manage, and deliver data science projects, take an active role in implementing our data and analytics strategy.
+You will
+Plan, lead, manage and deliver complex data science projects
+Use your excellent data skills and knowledge to solve novel and unique business problems
+Lead and inspire the uptake of best practices for data management, tools for analyses and improvements in data quality
+Work closely with IT, data engineers and architect, data scientists and others to identify and implement best practices
+Advocate, promote and drive the development and uptake of predictive analytics
+Further develop your leadership skills by mentoring, supporting, and supervising the work of data scientists and data science apprentices
+You have
+Strong quantitative background, skilled at the intersection of analysis, data science and data engineering
+Passion for advancing the use of data and data science skills and techniques by identifying and removing barriers, building partnerships, and inspiring uptake by demystifying complex concepts
+Skilled coder with advanced proficiency in using R and/or Python
+Accomplished in implementing machine learning and forecasting algorithms
+Proficient designing and developing scalable and reproducible data pipelines within cloud. IaaS/PaaS environments, delivering data models process automation to agreed standards
+Excellent communicator and able to explain data concepts to non-technical audiences
+Experienced leading and managing the development of data solutions
+2-4 years of experience as a data scientist or a similar advanced analytics role
+
+
+
+Want to know more about us and the role
+Set up an informal chat with Salman Klar, Insight and Analytics Manager, Richmond and Wandsworth Councils
+
+Flexible Working
+We recognise the importance of a good balance between work and home life so we do everything we can to accommodate flexible working including, working from home, compressed or part-time hours, term time only, job shares and other arrangements. Please just let us know in your application or at any stage throughout the process (and beyond) if these are options you’d like to explore.
+
+
+Benefits
+We also offer a generous holiday allowance of 31 paid days (pro rata) plus bank holidays and a wide range of learning and development opportunities.
+
+In addition, we offer a comprehensive range of staff benefits such as membership of the Local Government pension scheme, childcare vouchers, new technology scheme, interest-free loans on annual travel cards, discounts with many leisure activities, restaurants, shops and other establishments.
+
+Indicative Recruitment Timeline
+Closing Date: 9 October 2022
+Test Date: Rolling basis as applications are received
+Interview Date: 15 October 2022
+
+Useful Information:
+The closing date is given as a guide. We reserve the right to close this vacancy once a sufficient number of applications has been received. We strongly advise you to complete your application as soon as possible to avoid disappointment.
+Please note that the advertised dates for interviews may change. If they do, we will let you know as soon as possible.
+
+Richmond and Wandsworth Councils are committed to making our recruitment practices as inclusive as possible for everyone. We are committed to promoting equality and diversity and developing a culture that values differences, recognising that employees from a variety of backgrounds bring important and positive contributions to the Councils and can improve the way we deliver services. We are proud to be a Disability Confident employer.
+
+
+Important Information:
+Richmond and Wandsworth Councils are committed to safeguarding and promoting the welfare of children and young people/vulnerable adults and expects all staff and volunteers to share this commitment.

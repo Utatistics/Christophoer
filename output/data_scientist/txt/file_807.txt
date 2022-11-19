@@ -1,0 +1,23 @@
+The role requires consultants who can help Wipro’s clients to use data science and analytics to:
+Shape and evolve their customer experience
+Enhance and expand their service in insurance space
+Integrate and optimise their insurance practice across channels
+Innovate their business models and operations
+The Data Scientist will undertake a wide variety of challenging project work and help clients explore, visualise and mine their structured and unstructured data. The person will have the license to develop new ways of delivering value by:
+Using modelling and analytics-based techniques to solve business problems as part of a major business transformation.
+Developing and using modelling tools to support strategic decision making.
+Supporting client to design, build and implement analytics-based solutions.
+Delivering analytics advisory services to clients.
+Developing both thought leadership points of view and new service offerings to differentiate us in the marketplace.
+Working as a senior member of the analytics delivery team on a day to day basis.
+Coaching other team members in advanced analytical methods.
+Engaging with our client’s staff to develop use cases and user stories.
+Building analytical processes and code to meet client requirements.
+To succeed the person will possess and demonstrate a number of competencies:
+A track record of academic achievement (first degree in a numerate subject e.g. Maths, Stats, Engineering) and ideally a MSc. post-graduate qualification in an analytical subject
+Excellent programming skills in Python and deep learning frameworks (esp. Keras, TensorFlow or PyTorch)
+A proven ability to rigorously analyse complex issues and develop insights and solutions.
+Deep learning and Recurrent/convolutional neural nets experience.
+Experience of working in a blue-chip organisation or consultancy company – with experience in Banking, Capital Markets or Insurance sectors.
+An ability to provide creative thinking and innovative methods.
+A strong understanding of business combined with a track record of being part of delivering outstanding results.

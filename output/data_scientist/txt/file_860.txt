@@ -1,0 +1,25 @@
+The Company
+
+With their innovative business model, this company has been experienced massive year on year growth. Breaking the mould of traditional retail companies, this ecommerce business depends on innovative technology driven solutions, with a huge focus on data and analytics. With excellent avenues for progression across the business analytics functions.
+
+The Role
+
+As a senior data scientist, you will work closely with senior management to identify, scope, and prioritise projects as well as support the hand-off of prototype systems and algorithms to operational technology teams.
+
+Effective communication is critically important as you will relay complex technical issues and findings to a range of technical and non-technical internal audiences.
+
+As part of the insight team, you will enjoy working with one of the richest data sets in the industry and the ability to see your insights turned into real solutions on a regular basis. You will work on projects in all the areas touched by data science, dealing with real problems and having a real impact on the operational performance of the company. You will be given a high level of autonomy in how you approach these problems and will be encouraged to research and seek out innovative solutions.
+
+The Candidate
+
+To be successful in applying for this role, you will have:
+
+A strong academic record including a postgraduate degree in a STEM subject from a top-ranked university
+Advanced programming expertise in two or more of Python, Java and SQL
+Experience conducting analysis on large data sets and providing rigorous interpretations of the results
+Solid understanding of key statistical concepts
+Machine learning experience
+
+Job Owner: d.prosser
+
+Tagged as: Python, SQL

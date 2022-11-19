@@ -1,0 +1,60 @@
+About Code
+
+Code, part of Omnicom, exists to help clients invent a new future for their marketing through technology and data. Helping clients to build new capabilities to meet the challenges of an ever-changing marketing landscape, we do this by delivering customer centric, data driven, profitable experiences. Working at the intersection of marketing technology, data and user experience, our clients can use such services as: Transformation Consultancy, Marketing Science, Data Engineering, Customer Experience and Marketing technologies. We also develop and maintain our own Forrester recognized Marketing Technology solution, adZU, which is used by 10,000 businesses worldwide.
+
+Our key clients include Best Western, Christie's, Jaguar Land Rover, L'Oreal, Lilly, Mercedes-Benz, Medivet, Samsung and Telstra. Code has a global presence with 300+ employees spanning ten cities, located in the UK, Europe, North America, and Australia. To learn more visit www.codeworldwide.com
+
+At Code we believe everyone deserves a career journey that's tailored to suit their own personal needs. We are committed to ensuring all our colleagues have access to an environment that fosters a growth mind-set. Looking to use the most advanced marketing technology and data models we can be radical in our approach. We are a strong and diverse team of consultants, technologists, data scientists and customer success practitioners. What unites us is our shared purpose and desire to transform marketing.
+
+Culturally, Code is an innovative, fast moving, exciting and occasionally a demanding place to work.
+
+YOUR ROLE
+
+We want to make sure that CODE is the first choice for customers for marketing solutions and customer communications. It's our goal to be seen as the best in class for technical innovation – and the company that delivers a great customer experience for our clients' customers.
+
+Code's Data Science Product team specializes in identifying and productizing new ML/AI innovation, creating tools and platforms that advance the company's capabilities. This role will primarily support this team becoming an active participant in realizing the team's objectives by providing engineering, cloud, and data infrastructure as is required. As this team is all about applied innovation, so too will the approaches used in the role require constant agile thinking and new ways of addressing problems at all stages of the process.
+
+This role requires a candidate who is a self-starter and has a proactive approach to work and accepts new challenges. This is a technology and platform agnostic role with the candidate having experience or ready-to-learn mentality for delivering hybrid cloud solutions using multiple programming languages and constantly adapting to the changing requirements in the team. This role will be part of a team that is working towards enabling world-class customer experiences and marketing sciences at Code Worldwide.
+
+Your Responsibilities
+
+CORE SKILLS AND EXPERIENCE:
+Work in Data Science Product to deliver project that meet specification and business requirements
+Provide solutions to data challenges throughout the cycle of development of new solutions
+Collaborate with team and project leadership to identify and implement solutions that meet project defined standards, and escalate issues and challenges appropriately
+Offer support, forensic and troubleshooting assistance for the delivered project artefacts
+Collaborate with development teams in identifying new features and functionalities
+Function with integrity and in a highly collaborative, professional manner always
+General development and support programming involving investigation of code and data issues
+Proactively learn and adapt to new skills and platforms required for the job
+Strong excel skills and prioritise workloads
+
+ESSENTIAL:
+Cloud based API integration to access data from third party webservices (ex: Facebook, Instagram, Google Analytics etc.,)
+Development and Deployment of ML models on cloud-based platforms like Amazon Sagemaker or Azure ML or Google DataLab
+Multiple Programming/scripting languages like Java script, Python, Scala, .Net C#, Java
+Git for Version Control
+Web Scraping to extract data using different tools and technologies
+Experience working on one or more Cloud Platforms (GCP or AWS or Azure)
+Data Exploration and Analysis skills on Big Data to identify data pointers
+Understanding or Experience of using Products and APIs for Image and Video based content discovery (ex: Azure Computer Vision or Google's Video Intelligence API or AWS Content Analysis)
+Experience accessing and using data from RDBMS including MPP platforms using SQL
+Setup API integration on Cloud based managed services
+Experience in managing, assembling, storing, and using structured and unstructured data
+
+DESIRABLE:
+Data Visualisation
+Design algorithms and statistical and problem structuring methods
+Linear and Non-Linear Regression, Logistic Regression, Models and Classification techniques
+Data preparation, validation and curation using Python, PySpark, SQL
+Familiarity with web services technologies (SOAP, JSON)
+Unstructured databases/Hadoop
+Cloud based application and data hosting on GCP or AWS or Microsoft Azure
+
+SPEAKING UP ON RACISM AND DIVERSITY
+
+At Code we take a strong stand against racism and any type of discrimination. Our mission has always drawn strength from diversity and welcomed people from every walk of life around the world. We are committed to creating an equitable work environment and leading progress forward on inclusion and diversity. We hope that you have the same position and will also attempt to bring positive change in this endeavour and to transform marketing.
+
+LASTLY, BUT IMPORTANTLY…
+
+What we need from you: jump in, find problems. Fix them and build relationships. Imagine new solutions, invent them and manage them. Do whatever it takes to go above and beyond. And stand up for individuality.

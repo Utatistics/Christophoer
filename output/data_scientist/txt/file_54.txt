@@ -1,0 +1,59 @@
+Country
+
+Poland
+
+Job Family
+
+Technology
+
+For over 80 years, GfK has been a reliable and trusted insight partner for the world’s biggest companies and leading brands who make a difference in every consumer’s life - and we will continue to build on this. We connect data, science and innovative digital research solutions to provide answers for key business questions around consumers, markets, brands and media. With our headquarters in Germany and a presence in around 60 countries worldwide, you benefit from our global company with a diverse community of ~9,000 employees.
+
+Harnessing the power of our workforce, the greatest asset we have is our people. As part of GfK, you can take your future into your own hands. We value talent, skills and responsibility and support your development within our international teams. We are proud of our heritage and our future: Currently we are in the latter stages of a transformational journey from a traditional market research company to a trusted provider of prescriptive data analytics powered by innovative technology. This is only possible with extraordinary people and this is why we are looking for YOU to help create our future. For our employees as well as for our clients we pursue one goal: Growth from Knowledge!
+
+Summary
+
+Job Description
+
+As a Data Scientist you will contribute to develop end-to-end analytic solutions, shaping data and algorithms to deliver accurate and robust Predictive and Prescriptive Analytics. You will work within a cross functional team composed of machine learning engineers, developers, and client solution experts.
+
+You will be part of Global Data Science, a team of 80+ Scientists based in Nuremberg, London, and Warsaw with diverse backgrounds. Always eager to learn and share experience, the team is a great environment for your self-development.
+
+This is a Nuremberg, Warsaw, or London based position - there is no travel needed.
+
+Mission
+Develop end-to-end analytical products
+Work with GfK's Point of Sale / Media / third-party data to develop Data Science solutions for implementation and standardization in production environments.
+Screen the market for potential new / innovative Data Science approaches
+Represent GfK’s Data Science expertise at conferences and workshops
+Support the presentation of GfK’s Data Science capabilities in client-facing situations
+Responsibilities
+Create product driven Data Science solutions for our new prescriptive / AI flagship product by closely collaborating with product manager / owner
+Contribute to Data Science projects by developing and implementing Data Science & machine learning models that are reproducible, well documented, and follow prescribed coding guidelines
+Participate in Communities of Practice
+Present GfK’s Data Science expertise at conferences and workshops
+Create and improve methods and tools and contribute to best practices in Data Science
+Foster Data Science related knowledge exchange within GfK
+Be a methodological referent for more junior colleagues and working students
+Essential Skills
+
+Qualifications
+Master or PhD degree that reflects strong statistical / mathematical / computer science skills
+Strong statistical skills. Either in survey statistics (sampling, non-response adjustments, Bayesian statistics), or econometric modeling (program evaluation, forecasting, economic theory, panel data), or causal inference
+Solid knowledge of optimization and / or machine learning algorithms and / or deep learning algorithms
+Solid knowledge of Python and the respective development tools / IDEs (e.g., Jupyter, PyCharm)
+Desirable skills
+Solid experience and working knowledge of the constantly evolving Data Science ecosystem and popular machine learning frameworks
+Experience with common software engineering practices and framework (version control, testing, agile development / Scrum)
+Familiarity with cloud computing environments (e.g., GCP) and productionizing machine learning models (e.g., expose as REST API, containerization, scalability, performance optimization)
+Prior experience in pricing, revenue assurance, and media consumption patterns is valuable but not mandatory
+About You
+Ability to estimate the complexity of a Data Science solution compared to value provided and inform project planning
+Ability to work without supervision, help other team members with errors / tool setup and constantly strive to learn and improve
+Ability to think creatively in addressing analytical objectives
+Ability to fluidly communicate in an English business environment
+Typically, 3+ years of work experience
+We are an ethical and honest company that is wholly committed to its clients and employees. We are proud to be an inclusive workplace for all and are committed to equal opportunity in employment which focuses on all of our employees reaching their full potential. At GfK we work collaboratively with our colleagues but offer a flexible working approach, including dividing our time between office & remote working as well as the opportunity to flex our working hours around team core hours.
+
+We offer an exciting work environment that brings people together. We encourage an entrepreneurial and innovative spirit. We make use of the latest digital technologies. We are looking for self-starters, who accept challenges and create solutions.
+
+Can there be a better place to take center stage in the digital revolution? We are excited to get to know you!

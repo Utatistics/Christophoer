@@ -1,0 +1,14 @@
+As a data scientist working in the Campus on international development, you will be responsible for directly supporting the growth of data science in developing countries and supporting UK Government decision making in development settings.
+
+You Will Achieve This Through a Combination Of
+Building data science capability in National Statistics Offices of international partners (currently: Ghana, Kenya, Namibia, and Rwanda) to embed data science methods in their statistics production processes. This may involve mentoring/training data scientists in technical skill development or helping the organisation to strategically identify new opportunities to use data science. Past example: mentoring the Vanuatu National Statistics Office to automate their trade statistics reporting,
+Delivering impactful data science projects that answer priority questions to support international partners, and the UK Foreign Commonwealth and Development Office (FCDO). Past example: using neural networks to identify cattle camps in South Sudan from satellite images.
+Around half of your time will be spent on building data science capability in partner organisations, and half on high impact data science project work.
+
+You will have the opportunity to automate analytical/statistical production and also gain exposure to GitHub for developing, sharing, and maintaining reproducible code.
+
+We are currently prioritising projects that align with the themes: Health, Climate, and Inequality.
+
+About The Data Science Campus
+
+We tackle the issues that matter. We deliver a wide range of data science projects across the public sector and lead international collaborations. We work with academia and industry experts. We champion openness, publishing reports, papers, and open-source code related to our projects. We abide by the highest standards of data ethics. We have teams of data scientists working on topics that really matter for the UK, such as international development, population mobility, health, net zero, insights about the economy, EU exit, synthetic data, and levelling up.

@@ -1,0 +1,32 @@
+We’re looking for a Data Scientist to join our growing Security / FinCrime Teams in London or Tallinn.
+
+This role is a unique opportunity to work behind the scenes of company transactions, understand how we mitigate risk and at the same time provide our customers with the seamless service they deserve. What you build will have a direct impact on Wise’s mission and millions of our customers.
+
+Your mission:
+
+At Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free. Whether our customers are sending money to another country, spending money abroad, or making and receiving international business payments, Wise is on a mission to make their lives easier and save them money.
+
+Here’s how you’ll be contributing:
+You will help automate compliance operational decisions, digging into huge volume of data to find insights and create production grade models that can be clearly monitored by our operations team
+You will help the data science team develop models for anomaly detection through prototyping model features and develop them into production ready pipelines
+You will use the most recent tech stack (Airflow, AWS Sagemaker, Flink, Spark, etc..) to build machine-learning workflows for automatic model training, testing, monitoring and deployment
+Your average day will include building new models, maintaining production models, evaluating new ideas, putting out fires etc.
+
+A bit about you:
+You have 2-3+ years experience in building machine learning models on large datasets, using the right tools depending on the data volumes (we use Python, Spark, SQL, etc.)
+You have a solid knowledge of Python, and are able to make and justify design decisions in your code. You know how to use Git to collaborate with others (e.g. opening Pull Requests on GitHub) and are able to review code
+You have experience with mining into event logs to identify patterns and associations
+You are familiar with a range of model types, and know when and why to use gradient boosting, neural networks, regression, autoencoders, clustering or a blend of these
+You have a good understanding of statistics and can use experiments to derive decisions with degrees of certainty
+
+Some extra skills that are great (but not essential):
+You have a Mathematics/Exact sciences/Engineering/finance background
+Domain knowledge of network security, identity and access management and OSINT frameworks
+Experience with Kafka and Flink streaming
+Understanding of Object Oriented programming and ability to read Java code.
+
+We’re people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if you’re passionate about learning new things and keen to join our mission, you’ll fit right in.
+
+Also, qualifications aren’t that important to us. If you’ve got great experience, and you’re great at articulating your thinking, we’d like to hear from you.
+
+And because we believe that diverse teams build better products, we’d especially love to hear from you if you’re from an under-represented demographic.

@@ -1,0 +1,44 @@
+Position Summary
+
+S&P Global is a global market leader in providing information, analytics and solutions for industries and markets that drive economies worldwide. The Market Intelligence (MI) division is the largest division within the company.
+
+This is an opportunity to join the MI Data Science Team where you can directly contribute to the value we deliver to our clients in Financial Services.
+
+At S&P Global, we have extraordinary and unique data spanning Market Intelligence, Ratings, Indices, Commodities and Energy, Economic Country Risk, Mobility and Automotive, Maritime & Trade, Supply Chain, Climate Change Risk and others.
+
+If, like us, you are excited by what can be done to improve our products and services by intelligently combining this data, then you could be a great addition to the team.
+
+Responsibilities
+Develop models, algorithms and data pipelines that leverage wealth of S&P Global data to provide actionable insights to clients
+Lead data science product development end to end: from POC to productization
+Actively explore and identify the latest relevant techniques
+Identify opportunities for innovation across Market Intelligence
+
+Requirements and Skills
+5+ years of professional experience in Advanced Analytics / Data Science / Machine Learning / Quant, including in the Financial Services sector
+Hands on project lifecycle experience, from business analysis to productization
+Coding experience (preferably Python) to write robust and high standard code; experience with version control (preferably Git)
+Experience working with databases (e.g. SQL)
+Ability to quickly acquire new technical skills
+Experience of working with large data sets and distributed computing
+Good understanding of mathematical foundations of Machine Learning models
+Able to translate business problems into problems that can be solved with Data Science
+
+Desirable Skills
+Econometrics / Financial Engineering background
+Natural Language Processing
+Time series modelling
+Cloud (AWS, GCP, Azure)
+Experience with model visualization and explainability
+
+-----------------------------------------------
+
+Equal Opportunity Employer:
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only:
+
+The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.

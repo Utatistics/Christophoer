@@ -1,0 +1,50 @@
+Please note that this role is based in Saudi Arabia on a permanent, residential basis.
+
+Job Req ID: 6099
+
+Description:
+Aramco energizes the world economy.
+Aramco occupies a unique position in the global energy industry. We are the world's largest producer of hydrocarbons (oil and gas), with the lowest upstream carbon intensity of any major producer.
+
+With our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.
+
+Headquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.
+
+We are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.
+
+Overview
+We are seeking a Data Analytics Scientist to join Reservoir Engineering Systems Division of Petroleum Engineering Applications Services Department.
+
+Reservoir Engineering Systems Division (RESD) supports various Petroleum Engineering departments within Upstream to provide advanced solutions that serve major upstream domains such as reserves assessment and reporting, business planning, formation evaluation, well delivery, and reservoir management.
+
+As a Data Analytics Scientist working in RESD, you will be involved in developing various reservoir engineering business intelligence dashboards with advanced analytics and visualization capabilities. You will also be able to collect, organize and interpret statistical information to help customers utilize data insights and make informed decisions. In addition, you will implement state of the art data management life cycle and adopt latest artificial intelligence and machine learning technologies.
+
+Key Responsibilities
+You will be required to perform the following:
+Design and Implement smart business intelligence dashboards to visualize huge datasets from multiple data sources
+Serve as point of reference for business intelligence packages
+Develop artificial intelligence solutions utilizing machine learning and advanced modeling
+Research and develop innovative solutions for Upstream supported organizations
+Ensure that applications and business intelligence dashboards are implemented in accordance with governing models, data life cycle and security
+Align with business stakeholders to understand the needs and objectives to propose and implement solutions
+Mentor junior personnel and provide consultancy in business intelligence, machine learning and data science technologies
+Lead development projects to address challenges experienced by Aramco Upstream professionals
+File patents and present achievements at national and international events
+Publish technical findings in journal articles and at intra-company meetings
+
+Minimum Requirements
+As a successful candidate, you:
+Should hold a Bachelor’s degree in Computer Science/Software Engineering or related fields
+Have at least 8 years in data analytics and data science technologies with two years in oil and gas industry developing data driven solutions
+Have a solid data science experience focusing on upstream data and systems to recognize and identify patterns and anomalies
+Have strong programming expertise using SQL, Python, R, Java, Shell Scripting, Statistical Packages, and Javascript
+Are adept in data processing platforms like Hadoop and Apache Spark
+Have strong knowledge with data visualization software like Spotfire, Tableau and Power BI
+Have strong mathematical skills to help collect, measure, organize and analyze data
+
+Working environment
+Our high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.
+
+At Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.
+
+We have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.

@@ -1,0 +1,36 @@
+Principal Data Scientist - Home-based
+
+A small and rapidly-growing Microsoft Gold Partner & Databricks Partner Consultancy are recruiting for a Principal Data Scientist to join their growing team.
+
+They are highly-regarded in the Data Science and Data Engineering industry, and specialise in delivering cutting-edge analytical solutions primarily on the Azure cloud platform, leveraging their expertise in areas such as Machine Learning, Artificial Intelligence, Big Data and Databricks.
+
+You'll be joining an esteemed team of industry experts and Microsoft MVPs who are extremely passionate about what they do and are real pioneers within the industry, striving to push the boundaries of what's possible. They're extremely active in the data community and regularly sponsor and speak at multiple well-known events which you will have the opportunity to get involved in too!
+
+In this role you will work across end-to-end projects, helping to solve advanced questions for some of the largest organisations in the world. You should be someone who enjoys being technically hands-on as well as using your softer skills to articulate complex ideas and get others excited about data!
+
+Their team is spread across the UK, so you will work predominantly from home and travel to client site when required, as well as having company away days to connect with your colleagues.
+
+To be a good fit for this role you should have experience with most of the below, but most importantly a real passion and enthusiasm for what you do!
+
+Requirements:
+
+Strong experience with both SQL and Python
+Apache Spark - Open Source / Databricks would be ideal
+Azure Analytics experience - including Azure Data Factory, Azure Data Lake, Azure Databricks, Synapse Analytics
+Power BI development experience
+Knowledge of ML and AI
+Experience working in line with DevOps methodologies
+Very strong communication and evident passion for what you do!
+
+Benefits:
+
+Salary up to �85,000 depending upon experience
+Generous bonus scheme
+25 days' holiday
+5% matched pension
+Private medical and dental
+Significant investment in your learning and development
+
+Please Note: This is a permanent role for UK residents only. This role does not offer Sponsorship. You must have the right to work in the UK with no restrictions. Some of our roles may be subject to successful background checks including a DBS and Credit Check.
+
+Nigel Frank are the go-to recruiter for Power BI and Azure Data Platform roles in the UK, offering more opportunities across the country than any other. We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group. To find out more and speak confidentially about your job search or hiring needs, please contact me directly at v.simpson@nigelfrank.com.

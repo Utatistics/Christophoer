@@ -1,0 +1,72 @@
+Company Description
+
+Who are Experian?
+
+We are the world’s leading global information services company. During life’s big moments – from buying a home or a car, to sending a child to college, to growing a business by connecting with new customers – we empower consumers and our clients to manage their data with confidence. We help individuals to take financial control and access financial services, businesses to make smarter decisions and thrive, lenders to lend more responsibly, and organisations to prevent identity fraud and crime.
+
+We have 20,000 people operating across 44 countries and every day we’re investing in new technologies, talented people, and innovation to help all our clients maximise every opportunity. We are listed on the London Stock Exchange (EXPN) and are a constituent of the FTSE 100 Index.
+
+Our approach to flexible working
+
+We care about work that works, whether that’s about where you work or adjusting your hours to fit better with your life. Our flexible working practices, including our hybrid working model where you can split your working time between the office and your home, support our belief that this balance brings long-lasting benefits for our business as well as ensuring that our people can balance successful careers with their commitments and interests outside of work. So that you can love where you work, please discuss what works for you with your recruiter during the hiring process.
+
+Accepting you, for you.
+
+We want you to feel accepted for who you are and to feel safe, valued and to help us build a culture of true belonging. Experian is proud to be an equal opportunity employer and we take affirmative action to create a more inclusive and equitable world of work. We are committed to equal employment opportunities regardless of age, disability, gender identity, marital status, race, ethnicity, faith or belief, sexual orientation, socioeconomic background, Veteran status or whether you’re pregnant or on family leave.
+
+Job Description
+
+The Experian DataLabs UK&I and EMEA are based in Heron Tower at Liverpool St., London. The team is dedicated to advanced research and development, incubating new products for Experian. It benefits from the mentality and drive of a start-up, combined with the backing of a resourceful corporation. This environment encourages innovation by supporting ambitious, rewarding and risky projects.
+
+Position Summary
+
+You will be part of the Experian DataLabs UK&I and EMEA. This is a hands-on position where you will be empowered to be ambitious and bold, using whatever tools and methodologies to contribute in developing models and solutions that solve challenging problems and have the potential to directly and substantially impact Experian’s future. The role requires that you have appreciable exposure in machine learning and statistics. To understand more about our work, please consult our blog post, our papers, and some of our incubated products: Fairness-as-a-service and Transactional-data-categorization-service.
+
+Key Job Functions
+Create machine learning models, modifying algorithms where needed, that generate predictions and insights.
+Keep up to date with Data Science literature and bring expert knowledge to product ideation.
+Validating model score and performance.
+Developing tools for data processing, information retrieval and model development.
+Prepare project/model documentation and present results to stakeholders.
+Analysing, processing, evaluating and documenting large data sets.
+Conducting ROI and benefit analysis.
+Engage and influence business leaders in solution path design.
+Champion a culture where the fair treatment of customers is at the heart of the Experian business.
+Desired Skills And Experience
+
+We are looking for ambitious scientists with a strong academic background, or alternatively appreciable industrial experience, along with an ideal blend of coding, machine learning and statistics. We are searching for a colleague with whom we can share the enjoyment of being curious, the interest in difficult mathematical and algorithmic problems, and the drive to be innovative in building predictive models as well as in the way society deals with sensitive data.
+
+We would like you to have
+Multi-years’ (3+) post-PhD experience in machine learning, data mining, analytics and/or predictive modelling, both in academia (2+) and in industry (1+).
+An advanced degree (PhD preferred) in Computer Science, Physics, Engineering, Mathematics or a similarly quantitative field.
+A scientific mentality with the ability to ask the right questions, as well as answer them.
+A proven track record in developing, innovating, and applying advanced Machine Learning/Statistical algorithms to address practical problems.
+Proficiency in Python
+Familiarity with object-oriented programming and testing.
+Linux
+Familiarity with Agile methods for software development. It would be fantastic if you also have
+Experience in applying advanced algorithms and building analytical products in a commercial setting, ideally in industries such as finance, insurance, healthcare, energy or telecommunications.
+Experience with docker, micro-service infrastructures or other big-data technologies (e.g., Spark, Hadoop)
+Additional Information
+
+Why choose us?
+
+Our colleagues’ health and wellbeing is a top priority for us, that’s why our reward, benefits and wellbeing programmes are designed so you can come to work feeling your very best self. Our benefits focus on health, money and lifestyle so you can tailor your benefits to your own personal needs. Whether it’s your physical and mental wellness, getting to work or planning for the future, we have a range of flexible options to have you covered!
+
+We are committed to building an inclusive culture and to creating an environment where people can balance successful careers with their commitments and interests outside of work. Our flexible working practices support our belief that this balance brings long-lasting benefits for our business as well as our people. Some roles lend themselves to flexible options more than others, and if this is important to you, we are open to discussing agile working opportunities during the hiring process.
+
+Who are Experian?
+
+We unlock the power of data to create opportunities for consumers, businesses and society. At life’s big moments – from buying a home or car, to sending a child to university, to growing a business exponentially by connecting it with new customers – we empower consumers and our clients to manage their data with confidence so they can maximize every opportunity.
+
+For more than 125 years, we’ve helped consumers and clients prosper, and economies and communities flourish – and we’re not done.
+
+Our 17,000 people in 44 countries believe the possibilities for you, and our world, are growing. We’re investing in new technologies, talented people and innovation so we can help create a better tomorrow.
+
+Could this be the role for you? Apply now to start your journey with Experian.
+
+To learn more about our culture and what it’s really like to work here, check out our interactive guide here: https://view.pagetiger.com/experianguideforcandidates/1
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here

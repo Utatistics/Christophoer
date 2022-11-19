@@ -1,0 +1,67 @@
+Position Description
+
+Discover where complex meets meaningful as a Senior Data Scientist in our Advisory Services team. You will be part of a team that combines subject matter and technical expertise with business understanding, providing our clients with the insights to build next generation IT services and operating models.
+
+Help tackle once-in-a-generation challenges across the public and private sector. Work alongside clients as we shape the future of how fundamental technologies connect and transform the user experience in the UK.
+
+CGI was voted ‘Best Workplace’ by Great Place To Work in 2021, and offers a competitive salary, excellent pension, private healthcare, plus a share scheme (3% + 3% matching) which makes you a member, not just an employee.
+
+Your future duties and responsibilities
+
+As a Senior Data Scientist, you’ll join a small forward-thinking team focused specifically on the evaluation, assurance and acceptance of secure IT services. You will work closely with selecting features, data-mining using state-of-the-art methods, extending CGI’s data with third party sources of information and enhancing data collection procedures relevant for building analytic systems.
+
+You will be involved in the end-to-end sourcing, processing, cleansing, visualisation and verification of the integrity of data used for analysis. You will also be able to create automated anomaly detection systems, track performance and extract meaningful insights. Using agile methodology, you’ll be working to meet rapidly evolving client requirements.
+
+You’ll also discover:
+
+A unique level of variety across different clients and industry sectors
+Complex, interesting and challenging projects to stretch your skills
+Impactful work that makes a real difference across the UK
+Training and support – whether you’re highly experienced or if you feel that your skills
+
+aren’t a perfect match, we can provide the training and further development to help you
+
+reach your full potential.
+
+Required Qualifications To Be Successful In This Role
+
+Experience as a Data Scientist, demonstrating an excellent understanding of machine
+
+learning techniques and algorithms (neural networks and some of: k-NN, Naive Bayes,
+
+SVM, Decision Forests, etc.)
+
+Solid applied statistics skills
+Experience with common data science toolkits and core skills in one of Python, NumPy,
+
+MatLab, Tensorflow, keras, etc.
+
+Knowledge of distributed storage, processing frameworks and visualisation tools would
+
+be ideal
+
+Knowledge of any of these skills would be useful but not essential:
+
+○ Open-source data processing and management frameworks
+
+○ Query languages (SQL, Hive, Pig, etc.)
+
+○ NoSQL databases (such as MongoDB, Cassandra, HBase, etc.)
+
+All applicants must hold or be prepared to undergo National Security Vetting (NSV) Security Check (SC) level.
+
+Our working approach is built around our clients’ needs. That’s not to say yours aren’t important too and in a post-pandemic world, we want to extend the offer of an open discussion to you as to whether a role can be office or home-based, flexible or hybrid.
+
+We celebrate and reward our members through a variety of methods, and we promote their health and well-being through a range of programmes and activities. We are also committed to ensuring a safe work environment through the prevention of harmful workplace incidents including physical harm, harassment and violence.
+
+Unconditionally inclusive – we know diversity brings a greater variety of ideas, perspectives and experiences to the workplace. We actively encourage diversity at CGI and inclusivity is one of our top priorities, with support networks for Parents, Women, LGBT+, BAME, Neurodiversity and Disability.
+
+Insights you can act on
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.

@@ -1,0 +1,50 @@
+Are you a problem solver, explorer, and knowledge seeker – always asking, “What if?”
+
+If so, then you may be the new team member we’re looking for. Because at SAS, your curiosity matters – whether you’re developing algorithms, creating customer experiences, or answering critical questions. Curiosity is our code, and the opportunities here are endless.
+
+What We Do
+
+We’re the leader in analytics. Through our software and services, we inspire customers around the world to transform data into intelligence. Our curiosity fuels innovation, pushing boundaries, challenging the status quo, and changing the way we live.
+
+What You’ll Do
+
+We’re looking for a Senior Data Scientist with knowledge or experiences in some combination of the following: predictive analytics, machine learning, knowledge discovery in databases, optimization, statistical theory, experimentation and/or time series analysis. You will play a vital role in providing analytical services to current and prospective customers. Typically has or is developing industry expertise alongside their core duties.
+
+You will
+Provide statistical and/or analytical consulting services for customer engagements.
+Develop statistical and analytical applications including SAS software.
+Conduct customer facing sessions for requirements gathering, data discovery, analysis, reporting, and presentation.
+Demonstrate proficiency in use of SAS Analytical Solutions (e.g., Data Mining, Machine Learning, Predictive Modelling or Forecasting).
+Support data acquisition, validation, cleaning/preparation, and management from incoming data sources to facilitate analysis.
+Provide analytical support for responses to RFI/RFP tender processes utilising industry and technical knowledge.
+Support Account Teams in positioning SAS’ analytical capabilities and approach to deliver value.
+Provide coaching and knowledge transfer in all aspects of data science and analytics to our early career and graduates intake.
+Working as part of the Solutions Consulting team in UKI will present you with the opportunity to drive change, delivery strategic value and broaden your knowledge in Analytics & AI. You will work with market leading solutions and a variety of leading customers on interesting and challenging projects.
+
+What We’re Looking For
+Strong knowledge of applied statistics, probability, data modelling techniques, predictive modelling techniques and in-sample and out-of-sample model assessment.
+Knowledge of programming languages in Opensource like R or Python. SAS would be a distinctive advantage.
+Working knowledge of relational databases such as Teradata, Oracle, SQL Server, Postgres etc.
+Good knowledge of operating systems supported by SAS and other analytical software tools (Windows, Linux).
+Ability to relate analytical concepts and applications to statistical and non-statistical users.
+Excellent written and oral communication, problem solving and time management skills.
+Possess a strong desire to succeed and excel at solving complex problems.
+Be a self-starter, who thinks outside of the box.
+Degree (or equivalent) Data Science, Mathematics, Statistics, Natural Science or related discipline.
+You’re curious, passionate, authentic, and accountable. These are our values and influence everything we do.
+Why SAS
+SAS is recognised by industry analysts as a leader in analytics, data science, data management and risk management. Working directly with customers, you will deliver solutions that deliver transformational value.
+You will work in a company that encourages curiosity and innovation.
+We love living the #SASlife and believe that happy, healthy people have a passion for life, and bring that energy to work. No matter what your specialty or where you are in the world, your unique contributions will make a difference.
+Our multi-dimensional culture blends our different backgrounds, experiences, and perspectives. Here, it isn’t about fitting into our culture, it’s about adding to it - and we can’t wait to see what you’ll bring.
+Location
+SAS headquarters in UK is in Marlow with flexible working . Travel will be required as business requirements dictate. We have a modern working environment with superb facilities designed to promote wellbeing, creativity, and collaboration.
+Additional Information
+
+SAS is an equal opportunity employer. All qualified applicants are considered for employment without regard to race, color, religion, gender, sexual orientation, gender identity, age, national origin, disability status, protected veteran status or any other characteristic protected by law.
+
+The level of this position will be determined based on the applicant's education, skills and experience. Resumes may be considered in the order they are received. SAS employees performing certain job functions may require access to technology or software subject to export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.
+
+All valid SAS job openings are located on the Careers page at www.sas.com . SAS only sends emails from verified “sas.com” email addresses and never asks for sensitive, personal information or money. Should you have any doubts about the authenticity of any type of communication from, for, or on behalf of SAS, please contact us at Recruitingsupport@sas.com before taking any further action
+
+/

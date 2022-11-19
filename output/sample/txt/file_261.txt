@@ -1,0 +1,59 @@
+Job Description
+
+Department Overview
+
+The EC Incubation Development Department (ECID) which this position belongs to has responsibilities of development and operation of various emerging EC services including Rakuma (flea market app), Rakuten Pay Online, Rakuten hometown tax support, Rakuten Car etc.
+
+Although each development group is independently contributing to each service, we regularly hold meetups which are events for information sharing across the group and have committee scheme which members gather based on their common interests for improving their skills.
+
+This is the department you can feel both business growth and self-growth through contributing to the teamwork.
+
+About Rakuma
+
+Since its launch in 2012 (under the name of Fril) as the first flea market service in Japan, Rakuma has continued to grow and is now a large-scale service with an annual transaction value of over 140 billion yen.
+
+About The Rakuma Development Team
+
+With the mission of "Re:valuation - Redefining the value of things", we are working on development as a team of producers, designers, and engineers.
+
+Engineers at Rakuma are not just writing codes according to the specifications, but we are dedicated to improve our service always questioning "What are the issues that we should solve for our users?" "What should we do to make more users happier?".
+
+Each member of the development team makes use of his or her own expertise and strives every day to create a better service.
+
+Position
+
+Why We Hire
+
+As a data analyst for Rakuten's flea market app "Rakuma", you will be in charge of environment and operation management for analyzing user behavior and attribute data, and short-term, medium- and long-term improvement proposals based on the data.In order to further evolve the product, we are looking for people who can extract issues based on data and promote improvement plans.Please join Rakuten's flea market app "Rakuma" and offer new value to "Rakuma" with us!
+
+Position Details
+
+This position will lead the following tasks for Rakuma.
+
+Rakuten's flea market application "Rakuma" issue research and product analysis (Web, App)
+User analysis
+KPI design and data analysis support within the product
+Construction of access analysis environment using Google Analytics, KARTE, etc. (event design, tool operation, etc.)
+Collaboration with other departments and construction of data management/utilization environment
+
+Mandatory Qualifications
+
+Experience of product (Web, App) analysis using access analysis tools such as Google Analytics and KARTE (approx.: 3 years or more)
+Experience in promoting internal introduction and utilization of access analysis tools
+Communication with stakeholders to promote business / facilitation skills
+Knowledge about SQL
+KPI design experience
+
+Desired Qualifications
+
+TOEIC Score 600+
+Basic knowledge of application/web development
+Experience with usability test/user interviews
+Abilities in problem solving, logical thinking, hypothesizing, and structured thinking
+Skilled in documentation, presentation, quantitative and project management
+
+#business #jobcategory01 #datascientist #jobsubcategory05 #commerce #organization01 #Rakuma #servicename08
+
+Languages
+
+Japanese (Overall - 4 - Fluent)

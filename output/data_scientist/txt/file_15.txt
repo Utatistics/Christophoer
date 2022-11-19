@@ -1,0 +1,42 @@
+Data Scientist/Senior Data Scientist
+Science and Technology Facilities Council
+Salary range: Band D is £31,931 - £39,915 and for Band E is £39,748 - £50,790.
+Plus a recruitment and retention allowance of up to £4,000 per annum
+Contract Type: Permanent
+Hours: Full time/Part Time (minimum of 25 hours a week)
+Location: STFC Rutherford Appleton Laboratory, Harwell, Oxfordshire
+Closing date: 9th October 2022
+
+Rutherford Appleton Laboratory (RAL) of the Science and Technologies Facilities Council (STFC), a part of the UK Research and Innovation, is home to the UK research community’s large-scale experimental Facilities, including the Diamond Light Source, ISIS Neutron and Muon Source, Central Laser Facility, and the Centre for Environmental Data Analysis (CEDA).
+
+Researchers from universities and from industry use these facilities for a very wide range of scientific applications ranging from revealing ancient fossils and improving battery technology, to characterising materials to understand the impact of climate change.
+
+Data science and AI plays a crucial role here and the Scientific Machine Learning (SciML) Group, situated within the Scientific Computing Department in RAL, works very closely with these large-scale experimental facilities, and their users, in applying and developing state-of-the-art AI and machine learning methods to translate their data into innovative science.
+
+The Group is also a ‘Turing Hub’ – a component of the Alan Turing Institute’s ‘AI for Science’ initiative. The SciML Group is seeking a number of positions to fulfil these roles (both at Band D and E).
+
+Work Programme:
+
+The successful applicant will be applying and developing novel and state-of-the-art machine learning (ML) and data analysis techniques to analyse large-scale experimental datasets, collected with the view of advancing science.
+
+These involve, not only applying and developing novel ML techniques, but also combining multiple datasets, maximising the information extraction, visualising them, and most importantly collaboratively working with scientists in understanding or characterising fundamental science. As such, by working as part of a team, you will be developing and implementing (e.g., in Python) ML techniques to understand, interpret and extract features and knowledge from experimental datasets, standardising the developed techniques as benchmarks, wherever possible, assisting in building automated systems underpinned by ML models and relevant statistical models, wherever applicable, contributing to learning and development activities at STFC, and will disseminating our work internally and externally, by publishing or presenting our work in peer-reviewed journals and conferences.
+
+Personal Skills and Attributes
+
+PhD in computer science, electrical engineering, or in a relevant scientific subject (mathematics, materials science, physics, chemistry, or life sciences) or equivalent experience
+Experience in machine learning or Bayesian methods or signal/image processing or statistical methods.
+Experience in using one or more machine learning frameworks (e.g., PyTorch)
+Awareness of software engineering principles, with regard to robustness, portability, and usability
+Optionally:
+Experience in using high performance or AI computing systems
+Experience in one of the following areas: reinforcement learning, surrogate models, hardware code optimisation, benchmarking, and visualisation.
+Domain expertise in one of the following areas: Materials Physics or Chemistry especially around density functional theory (DFT), Life and Environmental Sciences, Astronomy, or Particle Physics.
+
+In addition to these, applicants for the senior role (band E) must demonstrate strong leadership skills with strong experience in one of the areas above and with the ability to lead, motivate and develop others.
+
+What we can offer you
+STFC is an open and inclusive work environment, committed to promoting equality, diversity, and inclusion, and we are committed to developing our staff, and training will be provided in relevant areas.
+
+STFC offers a working environment and benefits package designed to provide an excellent work/life balance. For this opportunity, we welcome applications on a full-time, part-time (minimum 25 hours), or term-time only basis and we also offer a flexible working scheme, with additional benefits including an exceptional index linked pension scheme, 30 days leave plus 10 public holidays, an onsite subsidised nursery, access to employee shopping/travel discounts, salary sacrifice cycle to work scheme, and social activities and societies.
+
+Further more information see the departmental and group pages

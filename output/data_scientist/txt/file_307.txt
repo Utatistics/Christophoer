@@ -1,0 +1,45 @@
+REQ ID: 87799
+
+JOB TITLE: Product Owner Data Science
+
+SALARY: Competitive
+
+LOCATION: Manchester
+
+Jaguar Land Rover is harnessing technology to make driving smarter, safer and cleaner. You can help create a world in which responsible, sustainable vehicles revolutionise the driving experience for generations. Our vision is to leverage the incredible potential of technology to build vehicles that not only offer a premium, all-encompassing digital experience, but that also make our customers lives better.
+
+The Opportunity
+
+Product owner for the engineering function's centralised data science development team, which sits within the electrical and vehicle engineering department, part of Jaguar Land Rover's product engineering function.
+
+Key Accountabilities And Responsibilities
+
+Identify opportunities for new development projects using engineering data (and sometimes augmented additional data) to feed engineering decisions, engineering (and other functions’) teams' processes and product development workstreams and solve engineering (and vehicle) problems.
+Gather requirements for use of this data to analyse trends, faults as well as general vehicle behaviours.
+Breaking down and refining these requirements for the engineering data science team's backlog through the use of technical engineering knowledge to achieve better outcomes and increase value delivered.
+Prioritise the backlog of work and requirements within the team to maximise value delivery.
+Owner of the engineering vehicle telematics dataset. Maintain access as well as plan and identify future development work on the dataset to better enable teams within JLR to make better engineering, quality and business decisions, as well as develop better vehicles and customer experiences (given the increased quality of information and analysis provided).
+Proactively maintain relationships with the other engineering product owners ensuring transparency in work as well efficiencies in work completed, and identification of further engineering and customer value opportunities.
+
+What You’ll Need
+
+Essential:
+
+Experience identifying opportunities for data science: - Machine Learning and Analytics
+Experience gathering, refining and communicating requirements
+Experience developing and maintaining strategic relationships with key business and technical stakeholders
+
+Desirable:
+
+Experience working with Python and/or SQL
+Experience working as a Data Scientist
+
+SO WHY US?
+
+Bring all this to the home of premium innovation, and you’ll find the opportunities to further your career with a world-class team, a discounted car purchase and lease scheme for you and your family, membership of a competitive pension plan and performance related bonus scheme. All this and more makes Jaguar Land Rover the perfect place to continue your journey.
+
+This role may offer the opportunity for hybrid working where you can split your time between working from home and in the office. At Jaguar Land Rover, hybrid working is a voluntary, non-contractual arrangement providing employees with more choice and flexibility around how, when and where they work, if suitable for their role. Further details can be discussed with the Hiring Manager at interview stage.
+
+Please be aware that we may close this vacancy for applications before the stated deadline if we receive a high volume of interest. We strongly advise you to submit your application as early as possible.
+
+Jaguar Land Rover is committed to equal opportunity for all.

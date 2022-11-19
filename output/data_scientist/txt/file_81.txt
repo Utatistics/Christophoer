@@ -1,0 +1,82 @@
+Role Overview
+
+Heard of us?
+
+We’re an ambitious, forward-thinking global business who build transformative solutions for our customers to deliver best-in-class sustainable mobility, connectivity and technology solutions. We support our customers with a range of products and services to meet their needs.
+
+Since 1990 our ambition has never wavered. From humble beginnings, our vision and drive has seen us venture into new markets with confidence and stay ahead of market trends. Our mission is to help businesses of all sizes adapt to the future and take advantage of the opportunities that change brings. Sustainability is at the core of our offering. With our leading e-mobility solutions, we’re committed to guiding businesses through the energy transition, building solutions for a more sustainable, connected future.
+
+This is where you come in. We are on a journey of growth, with over 2000 colleagues and counting. We pride ourselves on being at the forefront of technology innovation and we invite you along on this journey.
+
+The role …
+
+We receive and process a huge amount of data daily, and always seek to make informed decisions based on data-driven insights.
+
+We are now seeking a motivated, creative, and focussed Associate Data Scientist to join the Data Science team within our Marketing function.
+
+The aim of the Data Science team here is to empower all Radius divisions with smart insights to drive strategy and decision-making in Marketing and Sales operations. We aim to deliver those insights through deploying predictive and propensity models, segmentation analysis, and much more.
+
+If you’re curious about data, and creative in how you derive insights and features for machine learning models, this role could be perfect for you. Please note that we are currently hiring for people who already have some commercial experience.
+
+What would your day to day look like?
+
+As an Associate Data Scientist, you’ll help build, deploy, and maintain Machine Learning models across different systems and data environments.
+Exploratory data analysis on 1st party data to aid customer profiling and segmentation
+Predictive Analytics on leads and opportunities to aid Marketing and Sales activities
+Deploy and optimise Lead Scoring solutions across different divisions and products
+Measure performance of data initiatives and help implement optimisations
+Help build Machine Learning algorithms that aid strategic decision-making and provide unique insights into data
+
+What do we expect of you?
+
+We are looking for someone who already has some commercial experience in a Data Science / Machine Learning role, who we can then provide with the platform and support to develop their skills further.
+
+Your Experience Should Include
+Minimum 12 months commercial experience in a Data Science role
+Proficient with Python or R for Data Science
+Proficient with SQL
+Good knowledge of Statistics, Applied Mathematics, and Machine Learning models
+Ability to communicate findings through presentations and dashboards
+Good organisation and time-management skills
+
+What can you expect of us?
+
+We have plans to double in size over the next 5 years, and our marketing function will be one of the driving forces behind that.
+
+Joining us as an Associate Data Scientist will put you at the forefront of our journey. For you that means ongoing learning, interesting work, and real career potential.
+
+You Can Expect
+A friendly culture that mirrors our proposition to our customers.
+A fast-growing organisation that defines itself as being agile and innovative.
+A drive for continuous improvement, which you will be empowered to get behind from day one.
+A commitment to building a working environment that values inclusivity, innovation, agility, and drive.
+An accessible and approachable management team.
+A modern purpose-built head office in Crewe, complete with onsite gym, canteen, games rooms, and coffee bar style break out areas.
+
+And of course, you will be compensated competitively, with a good range of core benefits.
+
+Still curious?
+
+If you think we’re a good match for each other, apply online today!
+
+If you’re interested but not sure if you have all the criteria listed... have a chat with us. We are open to applications from varied backgrounds. You can reach Tom in our Talent Team via tom.brookshaw@radiuspaymentsolutions.com
+
+Radius is an equal opportunities employer. We are committed to welcome people regardless of age, disability, gender identity, race, faith or belief, sexual orientation or socioeconomic background.
+
+We do not accept speculative agency CVs. Any CV received by Radius will be treated as a gift and not eligible for an agency fee. PSL agencies should only send CVs if authorised to do so by our Talent Team.
+
+Department
+
+Marketing
+
+Contract type
+
+Permanent
+
+Hours
+
+37.5
+
+Salary
+
+Competitive

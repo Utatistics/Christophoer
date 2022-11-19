@@ -1,0 +1,51 @@
+The APEM Group is a global environmental consultancy, we work with a range of clients including large corporations and governments to help them understand and solve a wide variety of environmental projects in the UK and globally.
+
+Our successful pioneering work has attracted investment and enabled us to grow and combine forces with other businesses who share our ethos and integrity. At our core, our people are working towards the protection of the environment across the globe.
+
+Why join us?
+At APEM, we are passionate about helping businesses use data to manage their environmental risks and impacts, and address some of the biggest environmental challenges of our time.
+
+We help our clients move beyond data accumulation and realise the full potential of environmental data to understand the past, optimise the present, and predict the future. With expertise in statistical, machine learning and GIS techniques, our data science team work closely with domain knowledge experts to help clients across the water, energy and environment sectors enhance the environment, save money, reduce risk and achieve compliance.
+
+Driven by the requirements of the Water Framework and Habitats Directives, we have a large and increasing portfolio of freshwater ecology and hydro-ecology projects that require senior-level data scientist support to help design, optimise and analyse large scale environmental monitoring programmes. Typical clients include the UK environment and conservation agencies, water and energy utility companies, and infrastructure developers
+
+About the role
+Working as part of multi-disciplinary team of scientists with cross-cutting expertise in data analytics, freshwater ecology, hydrology, invasive non-native species and water quality, your responsibilities will include:
+Leading and managing the delivery of data-intensive consultancy projects to time, budget and quality;
+Collating, cleaning, processing and analysing diverse environmental datasets;
+Applying and interpreting statistical and machine learning techniques;
+Designing and developing database, dashboard and data visualisation tools;
+Communicating results to clients via presentations and reports;
+Promoting and sharing good practice in data management and analytical work flows;
+Developing new and improved internal systems for collecting and managing data;
+Supporting, training and mentoring junior data analysts;
+Cultivating relationships with existing clients and identifying new work opportunities; and
+Providing technical and commercial support to the preparation of tenders.
+
+About you
+With a BSc or MSc degree in a relevant subject and at least five years’ professional experience in an analytical role, you will have a passion for data, an eye for detail, and enjoy finding creative and efficient solutions to clients’ problems.
+
+You will be a highly-motivated and organised self-starter, holding expertise in R programming & proficiency with MS Excel, who proactively keeps abreast of new developments in environmental data science and has a demonstrated commitment to ongoing personal development.
+
+You will be required to work both independently and as a leader of project teams to plan and deliver analytical projects on time and within budget. In addition to providing specialist technical input, you will be expected to communicate effectively to clients and within multi-disciplinary project teams using strong, creative problem-solving, organisational and analytical skills.
+
+You will need to demonstrate your ability to apply your skills in a commercial consultancy environment through experience of managing projects and dealing with people effectively and professionally.
+
+You will also have a solid understanding of concepts such as predictive modelling, model validation data quality and version control, along with excellent report writing skills.
+
+In addition, you should be prepared to travel to attend meetings across the UK. A valid driving licence is therefore essential, along with excellent numerical and report writing skills and a proven ability to deliver projects on time and within budget.
+
+Desirable skills:
+Experience of working with environmental, catchment or freshwater datasets, including geospatial and time series data.
+Proficiency with ArcGIS/QGIS, R Shiny, PowerBI, Python, MS Access, SQL, or similar.
+Experience using cloud platforms such as AWS or Azure and associated machine learning tools.
+Experience of working in a commercial consultancy environment.
+Experience of preparing proposals and tenders.
+Knowledge of policy, legislation and issues relating to freshwater ecosystems or water resources.
+Experience of aquatic ecological impact assessment.
+Membership of a relevant professional body.
+
+Next steps
+We are focused on creating a diverse and inclusive team. If you can’t tick every box above, then we are still keen to hear from you and are open to supporting your development. That may be working part time or supporting you to gain experience in a specific area – we are a growing company and are able to adapt roles to reflect individual skills. We may also have an associated role that might be of interest.
+
+We expect significant interest in this flexible and rewarding role. If you think you have what it takes to join our fast-growing business, then please apply immediately on our website. All we need some basic information and your CV, we will review all applications quickly and will respond to all applications.

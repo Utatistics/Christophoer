@@ -1,0 +1,18 @@
+BettingJobs.com are currently recruiting US Sports Data Scientist based in London for a leading sports betting forecasting company.
+
+Responsibilities:
+Create statistical and machine learning models for different US Sports predictions
+Integrate your brand new models into production in our odds engine and maintain it
+Implement innovative algorithms to allow our trading team to adjust the odds while keeping a consistent pricing
+Research new approaches to optimize the performance of all models and data science processes
+Build the tools you will need in order to achieve your goals
+Work in our strong and diverse Data Science team, in which you will take full ownership of your work
+
+Qualifications:
+PhD or Master in statistics, data science, computer science, mathematics or a related field
+Strong interest in modeling, probability and statistics (time series predictions, bayesian inference, machine learning among other hot topics)
+Experience forecasting US sport events
+Highly proficient in Python and the main data science libraries
+Interest in US Sports
+Creative & autonomous, you enjoy working in a fast paced environment
+.

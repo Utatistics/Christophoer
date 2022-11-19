@@ -1,0 +1,63 @@
+Position Description
+
+We are working on the next generation of medical systems which is a high profile, challenging and successful programme in the UK Defence sector for MoD. The end user community are the Defence Medical Services (DMS) an umbrella organisation within the Ministry of Defence in the United Kingdom, which organises all medical, dental and nursing services within the British Armed Forces.
+
+The primary purposes of our Agile Data Scientist role are to:
+progress stakeholder understanding of the client business requirement through analysis and processing of data, and
+enable stakeholders to progress agile business decisions by providing actionable insights, recommendations and options from that data analysis.
+
+Your future duties and responsibilities
+
+Leading the use of data analysis and predictive analysis with the agile processes to develop the programme understanding of business challenges.
+
+Driving the capture and development clients' needs and requirements relating to the data aspects of their transformation programmes.
+
+Driving improvements in shared understanding of client business through data analysis, and the resulting best value options for transformation workstrreams relating.
+
+Collating, maintaining and reporting baseline datasets to facilitate effective business decision making.
+
+Preparing and presenting data to support business needs including business development, management support and design and development activities.
+
+Leading on introduction of data tooling.
+
+Required Qualifications To Be Successful In This Role
+
+Experience of big data, its analysis and use in evaluting business change and driving decision making
+
+Experience collating and bringing together big datasets.
+
+Proficiency in manipulating big data environments with with appropriate technologies such as Python or R, SQL etc.
+
+We are looking for a track record in the following areas...
+
+Designing and developing distributed applications with big data
+
+Healthcare data sets
+
+Automated and statistical machine learning models, tools and lifecycle through to production use.
+
+Cloud platforms
+
+Ability to quickly establish best practice within complex environment
+
+Successful delivery in scaled Agile teams and healthcare projects.
+
+We celebrate and reward our colleagues through a variety of methods, and we promote the health and well-being of our members through a range of programs and activities. We are also committed to ensuring a safe work environment through the prevention of harmful workplace incidents including physical harm, harassment and violence.
+
+Unconditionally inclusive – we know diversity brings a great greater variety of ideas, perspectives and experiences to the workplace. We actively encourage diversity at CGI and inclusivity is one of our top priorities, with support networks for Parents, Women, LGBT+, BAME, Neurodiversity and Disability.
+
+#bepartofourstory
+
+#ExperienceCGI
+
+#INDCGI
+
+Insights you can act on
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees "members" because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.

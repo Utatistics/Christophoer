@@ -1,0 +1,70 @@
+Pave FinTech (formerly Portify) is looking for a Data Scientist to join its growing Data Science team.
+
+At Pave we are developing exciting technologies with the goal of eliminating financial inequality. Our Direct-to-Consumer product offers a new way to build credit health through a simple subscription service, but we’re not content with stopping there… We are currently building out Business-to-Business products that will change the way businesses collect revenue, how customers manage their bills, and the future of credit building as we know it.
+
+We’re looking for vibrant, forward-thinking individuals to join us on our journey!
+
+Role Description
+
+As a Data Scientist at Pave you will have a unique opportunity to use open-banking, credit-history, and app-usage data to generate predictive models and insights that can be used to transform the future of credit decisioning. Far from being an afterthought, our Data Science team lies at the centre of the business. Pave is a place where you can make a big difference on day one and create real value to the business and ultimately the customer.
+
+Responsibilities
+
+In the next 12 months you will:
+
+Research and develop improvements to our open-banking transaction-enrichment pipeline
+Research new feature generation and model development for credit risk prediction
+Productionize and monitor models on AWS
+
+Minimum Qualifications
+
+Master’s degree in computer science, mathematics, physics, machine learning, engineering or similar quantitative field
+Industry or research experience in a related discipline (2+ years)
+Self-starter and strong sense of ownership
+Experience developing and serving Natural Language Processing models in industry
+Sound analytical thinking, communication skills and attention to detail
+Strong programming skills in Python
+
+If you don’t quite meet all these criteria but think you’re the real deal we’d still love to hear from you.
+
+Bonus Qualifications
+
+Previous experience with open-banking data
+Previous experience with consumer or SME credit risk models
+Experience with AWS cloud architecture (Lambda, Sagemaker Pipelines, ECS, ECR) or Google Cloud Platform
+Interview Process
+
+There are 3 stages for you to get to know Pave and help us determine if you’re a great fit:
+
+Stage 1: An introductory phone call with members of our Data Science team to run through your experience and ambitions;
+
+Stage 2: A follow-up technical interview with our Data Science team;
+
+Stage 3: A final values-based interview with our CEO, Sho.
+
+Benefits
+
+Flexible-, remote- and office-working
+The ability to work remotely abroad for up to 20 working days a year
+A free subscription to Pave Plus
+Private healthcare insurance with Vitality
+ClassPass Membership
+3% Pension Contribution
+Season-ticket loan and cycle-to-work scheme
+Carbon offsetting
+25 days holiday + 3 days off during Christmas and NY
+Learning & Development budget
+
+Salary
+
+Salary - £50k - 60k
+
+Equity: 0.0% - 0.1%
+
+We can sponsor visas for this role
+
+Please note: We will make competitive offers tailored to each individual
+
+Hybrid Working
+
+We offer all team members a fully flexible working approach, however you want to work is cool with us and each has their own perks. But don’t worry, we still bring the team together in-person through routine offsites.

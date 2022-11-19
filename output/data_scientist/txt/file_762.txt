@@ -1,0 +1,47 @@
+The Company
+
+Cover Genius is a Series C global Insurtech with a vision to protect all the customers of the world’s largest digital companies. Partners such as Booking.com , eBay, Shopee, Ola, Wayfair and AXS have integrated XCover, our insurance distribution platform that embeds protection for millions of worldwide customers each year.
+
+Our team and products have been recognised with dozens of awards including by the Financial Times who ranked Cover Genius as the #1 fastest growing company in APAC in 2020. Our diverse team across 10 countries and many language groups commits itself to diverse cultural programs, in particular “CG Gives” which makes social entrepreneurs out of us all and funds development initiatives in global communities.
+
+Our People are Bold, Authentic, Purposeful and Inspired
+
+Our People are not Perfect, Traditional, Complacent or Cautious
+
+What are we looking for?
+
+A Data Scientist (pricing and analytics) to help us take our BrightWrite product to the next level. BrightWrite is the brain behind all CoverGenius' products, it is the powerhouse behind our experimentations, pricing optimisations and product recommendations. BrightWrite is used both internally and by our external partners.
+
+As a Data Scientist, you should be comfortable talking about probability distributions, you "probably" have a strong opinion on the Frequentists vs. Bayesian debate. You have a few years of experience working with Machine Learning systems and understand the ins and outs of the algorithm (not just how to use the tools). You will use SQL to find insights from our dataset and form hypotheses as well as design and explore different algorithms and pricing strategies to better optimise yield.
+
+Want to know more about our tech stack? Check out what we have adopted, are trialling and assessing.
+
+What The Ideal Profile Looks Like
+
+Practical, hands-on experience with a variety of Machine Learning and statistical testing techniques
+Master's or PhD in Physics, Statistics, Mathematics, Computer Science or other Quantitative fields
+Production level experience with experiment design and A/B testing
+5+ years of experience in manipulating data sets using Python & SQL and building statistical models
+Strong problem-solving skills with an emphasis on product delivery
+Great communication, be able to tailor explanations of statistical concepts to a variety of audiences
+Quick learner, welcomes new challenges and is not afraid to push the boundaries.
+
+Nice to have
+
+Revenue Management methods in real applications
+Deep knowledge of data warehousing and running ETL
+Experience with Recommender systems
+Experience with Deep Reinforcement learning
+
+Why Cover Genius?
+
+Cover Genius not only cares about being the best in our industry, we care about our team. We’re a business that understands life can be fluid and so we flex to ensure we provide the environment to suit that. What does that mean?
+
+Flexible Work Environment - we are outcome focussed and understand that for our people to perform at their best flexibility is critical. Soon after the declaration of the COVID-19 global pandemic the entire CG team was granted an extra 15 days of Wellness Leave to take throughout 2020.
+Employee Stock Options - we want our people to share in our success, we reward them with ownership for their contribution in creating a world-class company.
+Work with like-minded people who are passionate about both the work we're doing and giving back. Our CG Gives programs enables us to all become philanthropists through our peer recognition and rewards system.
+Social Initiatives - pictures speak a thousand words!
+
+Sound interesting? If you think you have the best composition of the above, send us your resume and let's chat!
+
+The health and safety of our people, family and communities is our number one priority. This means that we require all of our employees to be fully vaccinated against COVID-19 if they are not subject to an applicable legal exemption; therefore all offers will be subject to proof of vaccination or an attestation of exemption. Please speak to us if you have any questions regarding our reasonable accommodations process based on your individual circumstances.

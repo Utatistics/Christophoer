@@ -1,0 +1,58 @@
+#Hybrid
+
+Evaluate is a global company providing outstanding market intelligence services for the Pharmaceutical, Medical Device, Financial and Consulting sectors, through the Evaluate Pharma®, Evaluate Medtech®, Evaluate Omnium and Evaluate Vantage® online brands. Our international clients in Pharma and Biotech, Medtech, Banking and Consultancy regard Evaluate Pharma® as the industry’s gold standard for timely and accurate analysis of reported drug sales, consensus sales forecasts, R&D pipeline, markets and comprehensive company financials.
+
+THE TEAM
+
+In this role as a Data Scientist you will report into the Lead Data Scientist and will be part of our Data Science team. You will help create and deploy cutting-edge models to enrich our datasets with high-confidence predictive analytics and NLP.
+
+As part of our growth, we are looking for new data scientists to help support the production of new products. We have small multi-functional teams consisting of pharmaceutical industry experts, R&D, data engineering and data scientists to rapidly prototype new visualisations and interactive reports using both our existing and newly acquired datasets.
+
+SCOPE OF THE ROLE
+
+In this role as a Data Scientist you will:
+Use Python and AWS SageMaker to create machine learning algorithms applied to pharmaceutical products;
+Apply your fundamental knowledge of regression, classification, clustering and other DS techniques to identify opportunities and help shape product development;
+Visualise the performance of your models with common python plotting libraries;
+Work with data engineers to deploy your models into production environments;
+Contribute to our growing in-house data science library of useful functions, data handlers, APIs and other modules.
+
+How You’ll Succeed
+
+Ultimately our goal is to smooth patient access to life-saving therapies. You will work with R&D pharma specialists to understand a problem which is hindering developing and releasing effective new pharma products which we believe we can help with.
+
+After understanding the problem and how it can be solved, you will work with data engineers to develop training datasets from historical data. The data is often widely-sourced and involves collaboration with data engineering. Then you will select a subset of the available ML techniques most suited to the task and build predictive models, classifiers or other knowledge-generation algorithms, and deliver these into datasets for visualisation and exploration by the broader team as part of product development. You will perform code reviews with the other data scientists to explain your approach and its strengths and weaknesses.
+
+After iterating the design with the visualisation team, the prototype will be demoed and if suitable converted into a full production product. This will involve containerisation and deployment of your algorithm, usually as an API in SageMaker, as well as periodic batch runs. Over time you may revisit this product and re-evaluate its performance and retrain/improve as required.
+
+Requirements
+
+WHAT IT TAKES
+Degree in a STEM field such as Maths, Physics, Computer Science, Engineering, or equivalent practical experience;
+Hands-on experience of Python and excellent knowledge of core data science libraries including pandas, NumPy, Sklearn, SciPy, CatBoost, XGBoost and other similar libraries;
+Ability to perform and iterate design work in Jupyter notebooks, and also convert successful code into .py files with appropriate use of in-built classes, modules, high/mid/low level functions, and other python best practice;
+Excellent statistical knowledge especially in relation to training dataset weaknesses and DS model scoring;
+Ability to explain your technical decisions on a project to non-data scientists.
+
+Nice to have
+Experience with AWS especially in relation to serverless compute and storage such as S3 and Snowflake;
+Knowledge of the pharmaceutical industry, in particular the stages of pharmaceutical product development;
+Data visualisation skills with Matplotlib, Bokeh, Seaborn, Plotly or similar libraries.
+
+Benefits
+
+WHAT WE OFFER YOU
+25 days holiday (increasing to 30 over 9 years) + 8 bank holidays
+Value You Day - one additional wellbeing day on top of your holiday allowance
+Pension plan - company contribution of 6.7% rising to 10% after 12 months service
+Life Assurance 4 x salary
+Employee Assistance Programme (EAP)
+Private Medical Insurance*
+Corporate Gym Membership/Discount*
+Flexible working and flexitime policies
+Season Ticket Loan*
+Cycle to Work Scheme
+Maternity, Paternity & Adoption leave – including enhanced leave for 2+ years’ service
+Shared parental leave
+
+Evaluate is an equal opportunities employer and do not discriminate on the grounds of gender, sexual orientation, marital or civil partner status, pregnancy or maternity, gender reassignment, race, colour, nationality, ethnic or national origin, religion or belief, disability or age. Our ethos is to respect and value people’s differences, to help everyone achieve more at work as well as in their personal lives so that they feel proud of the part they play in our success. We believe that all decisions about people at work should be based on the individual’s abilities, skills, performance and behaviour and our business requirements. Evaluate operates a zero tolerance policy to any form of discrimination, abuse or harassment.

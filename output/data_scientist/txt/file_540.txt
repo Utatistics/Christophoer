@@ -1,0 +1,87 @@
+WELCOME TO UTOPIA
+
+Music is incredible. It can excite hundreds, and unite thousands. But as an industry, it has been slow, complicated, and disparate. While the tech world has moved into the future, the music industry continues to be shaped by inefficient systems of the past. At Utopia we believe there is a better way. Which is why today we are setting out to transform the entire industry; creating new revenue streams, consolidating the data and decluttering the admin. Unlocking the industry’s full potential by unifying it all in one truly holistic space. Some might call that a Utopia.
+
+Funnily enough, so do we. Welcome to Utopia. Where music lives.
+
+WHAT UTOPIANS DO
+
+The open secret is that the music industry is struggling with the very basics of music accounting: What was played, when and where? Who should get paid and how much?
+
+Utopia Music is bridging the data gap by connecting global consumption, accurate metadata, and fast payments to an industry-wide trust platform. Our goal is to unlock creative value and enable Fair Pay For Every Play to make a better world for Music. The solutions we offer do not threaten to usurp the role of industry incumbents - it is about bringing transparency in the industry and supporting efficient royalty collection for all.
+
+THE ROLE
+
+
+
+We are looking for Data Scientists / Machine Learning / AI Specialists who would like to join our team to deliver the best ML/AI-based solutions for the entire music industry. Our use cases include royalty & copyright tracking and forecasting, music fingerprinting, metadata matching and enhancement, audio-based music tagging & search and emotion-based music recommendation. On our journey to deliver best-in-class services on a global scale, we want to leverage AI methods to go beyond solutions that are available today, and would love it if you’d like to join us on fulfilling that mission!
+
+
+RESPONSIBILITIES
+
+
+
+
+Research and keep up to date with state-of-the-art machine learning and/or deep learning techniques applicable to various use cases in music (data) analysis (ranging from royalty & copyright tracking and forecasting to metadata enhancement to audio-based music tagging) as well as other more business related use cases
+Prototype new algorithms and train models with state-of-the-art machine learning / deep learning frameworks in Python
+Define appropriate metrics and evaluate proposed approaches continuously
+Propose inference & prediction pipelines aimed at being used in production at scale
+Implement working, deployable and scalable systems for large-scale data analysis
+Collaborate and thrive in a cross-functional team environment including AI experts, data engineers, musicologists as well as business and commercial leads
+Meet with product managers regarding product requirements and roadmap
+Liaise with Data Engineering leads and Data Engineers on the requirements in terms of data analysis and machine learning and according data pipelines
+Define requirements and deliver input for our DataOps and MLops teams
+
+
+
+REQUIREMENTS
+
+
+MSc or PhD in Computer Science, Machine Learning, AI or related fields
+2+ years of industry experience in Data Science / Machine Learning
+Strong understanding of ML related problems and approaches (including data preparation, cleaning, data splits, etc.)
+Strong knowledge of Python and good knowledge of relevant frameworks (such as pandas, numpy, scikit-learn, Tensorflow, Keras, PyTorch ...)
+Good programming skills and rigor in documentation and testing
+Experience with Agile methodologies / SCRUM
+Goal-driven and a product-oriented mindset
+Ability to work independently, but also as a good team-worker
+Proficiency in English
+BONUS SKILLS
+
+
+experience with AWS, Google Cloud, databases, data pipelines, CI/CD, MLOps, …
+Industry (fintech or music) experience with big data environments
+WHAT WE OFFER
+
+Great atmosphere - we live, love & breathe music & tech!
+Working in a passionate and impact oriented team at the intersection of music & AI.
+The opportunity to work in a real-world setting, building products with and for the largest companies in music industry, and a wealth of data at the scale of the entire global music catalog
+An experienced team to learn from, with experience in multiple domains, startups and big tech companies.
+Nice offices in London, Stockholm, Helsinki, Vienna and Zug (Switzerland) (more to come…) + option to work remotely if you are in another country
+Flexible remote policy so if you prefer working from home - we’re fine with that too.
+Participation in scientific, music or tech conferences.
+Benefits such as health benefits etc. depend on location.
+We are supporting work permits for employees that have already moved to Europe from countries outside the EU. However, we do not support relocation at the moment.
+
+
+
+THE HIRING PROCESS
+
+You send us your CV in English
+We invite you for an introductory video call with the Talent Acquisition team to get to know you better and share more about us
+Written Assignment
+Technical Interview
+Behavioural Interview
+UTOPIANS
+
+
+As we want to bring transparency, trust, and clarity to the music industry we serve, we know a change comes from within. Utopia is a transparent, trust-based organization striving to have clarity in thinking and doing what we set out to do.
+
+We execute urgently and innovate to grow faster. We ship things that make a difference today, so we can make them better tomorrow. We embrace fairness and are all accountable.
+
+Strictly diverse and inclusive. We are an equal opportunity employer.
+
+We celebrate our diverse backgrounds and we welcome everyone who identifies with the above to apply. Welcome to Utopia - Where Music Lives!
+
+
+We’re eager to meet You! :)

@@ -1,0 +1,59 @@
+会社概要：
+
+This company is a global healthcare leader
+
+業務内容：
+
+Provide business outcomes that drive change management: Not only design solutions leveraging analytical approaches and best practices, but also write code, build prototypes, create and present documents, and deliver data-driven, actionable insights and business outcomes to stakeholders and management.
+
+Implement technology modernization: Implement modern technologies related to Advanced Analytics, Machine Learning and AI, to improve business processes and efficiency of our company.
+
+Drive agile delivery: Leverage our new ways of working to deliver business outcomes with agility and significant productivity, based on iteration and experimentation principles.
+
+Foster global collaboration: Establish effective trust partnerships with cross-functional teams and global communities.
+
+Lead decision making: Make and execute decisions by using Data Science techniques and data architecture, to solve critical business problems and achieve business goals.
+
+Uphold behavior standards: Maintain behavior standards and mindset built on principles of collaboration, learning, and sharing.
+
+Focus on what matters: Simplify your work and prioritize your resources on what matters the most, to create the greatest value for our business stakeholders.
+
+Act with urgency: Be a self-starter, working with speed, rigor, and determination, to deliver data-driven solutions to our business stakeholders.
+
+Embrace diversity and inclusion: Help us create fully diverse teams to deliver our best innovations and cultivate an inclusive environment where everyone is able to contribute their best ideas.
+
+Speak up and be open-minded: Voice your opinions, engage in healthy debate and encourage curiosity to improve ideas and decisions to achieve better outcomes.
+
+応募条件：
+
+・At least 5 years of broad experience in the domains of Advanced Data Analytics, Data Science, Machine Learning and AI in the Sales and Marketing domain.
+
+・Knowledge and experience with best practices and frameworks utilized in the fields of Advanced Data Analytics and Data Mining.
+
+・Self-starter, able to clearly understand business requirements and translate them into data-driven processes and solutions, as well as to consult business stakeholders on optimal solutions, and to manage expectations.
+
+・Experience with leading, mentoring, nurturing, and supporting Junior Data Scientists team members.
+
+・Experience with designing analytical solutions, as well as storytelling and presentation of insights and outcomes to senior business stakeholders (Directors and/or Senior Managers).
+
+・Experience in summarizing his / her own analytical processes and results in a PowerPoint, by using diagrams, charts, etc., and explaining them to people with limited knowledge of Data Science.
+
+・Hands-on experience within the end-to-end Advanced Data Analytics process, from data extraction, EDA, data preparation and preprocessing, to predictive model building, validation, and deployment.
+
+・At least 5 years of strong, hands-on programing experience with Python, as a Data Scientist, using libraries like NumPy, SciPy, Pandas, Matplotlib, SciKit-Learn, Seaborn, TensorFlow, Keras, PyTorch, as well as constructing classes, functions, and objects.
+
+・Hands-on experience with modern Data and Analytics technologies, ecosystems, cloud environments and services, such as AWS (SageMaker, S3, Glue, Step Functions, etc.), Azure or GCP, as well as understanding of Big Data foundations.
+
+・Ability to extract, design and link datasets from diverse internal and external data sources, by writing SQL queries as a part of the ETL process, and to prepare master datasets for modeling and analysis.
+
+・Superior analytical maturity to provide business outcomes with proficiency in a broad range of marketing methodologies, quantitative approach, Advanced Data Analysis, and statistics.
+
+・Strong interpersonal and communications skills.
+
+・Ability to lead data-driven initiatives, which sometimes include changing existing systems, operations or mindsets of others, based on prioritization.
+
+・Native-level of Japanese proficiency, and business-level or higher of English proficiency.
+
+・At least 3 years of experience of actively communicating (e.g., through presentations, etc.) with business stakeholders in the Sales and Marketing / Commercial domain.
+
+・Degree(s) in Computer Sciences, Statistics, Physics, Engineering, Mathematics, Economics, Public Health, (Pharmaco-)Epidemiology, Pharmacy.

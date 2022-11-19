@@ -1,0 +1,28 @@
+Applied Data & Technology: a team of technologists, data scientists, engineers, software engineers, service designers and researchers.Places become more populated, responding to emergent agendas around net zero, regional economic growth, post-pandemic recovery and resilience there is a need to make use of data for new technological innovations.
+
+Key Responsibilities
+
+Line manage the Data Science and Software Engineering Team, caring for team culture, establishing best practise and supporting the team to develop as a group stronger than the sum of its parts
+Use your expertise to provide hands-on insight, technical support and input into project work – taking a technical leadership role on projects and acting as decision making support for the team on projects
+Develop and grow the capacity, skills and service offering of the Data Science and Software Engineering Team to match the needs of our project pipeline
+Develop, embed and promote the tools and processes the Data Science and Software Engineering Team use to deliver their work effectively and sustainably
+Help develop and scope new project opportunities to ensure quality, strategic fit and feasibility
+Have oversight across projects where the Data Science and Software Engineering Team has a role, and provide regular updates on these
+Ensure the delivery of high-quality work, understanding project requirements, coordinating to make sure the right data science expertise is identified, and where necessary, taking the project in the right direction. It is anticipated that at least 50% of the candidates’ time will be allocated to projects.
+Work to align the Data Science and Software Engineering team’s work and strategy, spotting opportunities for adding new value across teams focused on housing, transport and our other "place" domains
+Be a thought leader in technology and data, playing a driving role in formulating our data and technology vision on current place-based issues. We are very keen on problem-first, collaborative approaches and putting ethics at the heart of our work in the team.
+
+Required Skills And Experience
+
+Qualifications in a scientific, mathematical or engineering subject or equivalent experience
+Understanding of different methodologies/ approaches across data science including exploratory analysis, statistical testing, data visualisation, machine learning, modelling and simulation approaches as well as concepts such as open data, data models, ethics, standards, etc. and an openness to continued learning and exploration
+Background and/or exposure to software engineering principles and experience working with software engineering teams
+Significant work experience outside academia, applying data analytics and/or modelling to real-world projects
+Experience leading projects and guiding a technical team through the design, development, testing and deployment stages
+Experience providing mentorship to a team within previous roles, good interpersonal skills
+Collaborative style and experience communicating across a diverse business at various levels, being persuasive and approachable
+
+Desired Skills
+
+Good programming skills in multiple, data science or software development relevant languages from Python and R, or JavaScript (we default to python for data science, and a MERN stack for Web Apps)
+Experience managing teams, driving engagement, growing skills, as well as working with team members on development plans and career paths

@@ -1,0 +1,54 @@
+About The Team
+
+We deliver actionable, data-driven insights to help our clients better understand their customers and how to market to them. We combine unrivalled external and internal data sets to solve problems for clients across sectors such as retail, consumer goods, financial services and leisure & tourism. Our team of data scientists and industry experts use machine learning techniques and proprietary models to uncover the rich profile of customers’ current and future behaviours to inform how clients can better serve and communicate with their customers.
+
+The role
+
+We are seeking candidates with strong data science experience to deliver projects in the customer and front office domain.
+
+Duties And Responsibilities
+
+Propose data science problem solving approaches
+Co-create approaches to meet user needs with clients and colleagues
+Prototype, test and improve new data science models
+Work with colleagues to deploy your models, to document and present them to business users, and to retain ownership of them in production
+Provide guidance to peers and other team members
+Develop materials for assisting in client pitches
+Engage in thought leadership activities, and to contribute to the learning and development of colleagues
+
+Skills & Experience
+
+Experience providing advanced analytics in a customer, retail & consumer, marketing or other front office context
+Professional record demonstrating business impact; domain experience in areas such as customer analytics, CRM, customer acquisition and retention, marketing effectiveness, consumer sentiment and retail businesses will be beneficial.
+Excellent communication and presentation skills, including the ability to explain and present the findings of technical work to non-expert audiences
+End to end project delivery
+Proven ability to handle multiple project commitments simultaneously
+Fluency with Python machine learning and data science packages (Scikit-learn, Apache Spark, DASK, Tensorflow, etc.)
+Strong technical expertise in data science, statistical modelling and/or machine learning
+Academic background in a relevant quantitative field, e.g. statistics, engineering, computer science, with an advanced degree (PhD / MSc) in one of these disciplines preferred.
+
+Risk
+
+Risk is all around us and in our complex world, is changing all the time. Our teams bring people from diverse backgrounds together, using their skills and cutting-edge technology, to help solve complex problems. We are pioneers in a world of changing risk and our market leading services build resilient organisations. Join us and together, we can support our clients to rethink risk.
+
+Not the role for you?
+
+Did you know PwC offers flexible career arrangements and contract work? Learn more.
+
+The Skills We Look For
+
+The PwC Professional is our global framework for defining and encouraging leadership at all levels. Learn more.
+
+The Deal
+
+‘The Deal’, our firmwide Employee Value Proposition’ empowers our people to be the best they can be. Learn more.
+
+Our commitment to you
+
+We’re committed to building a culture that empowers all of our people to thrive and feel a sense of belonging at PwC. Learn more.
+
+Application support
+
+If you’re a person with a disability, if you’re neurodivergent, or if you have a condition that you believe may affect your performance during our selection process, we’ll be happy to make reasonable adjustments to our processes for you. Learn more.
+
+Risk

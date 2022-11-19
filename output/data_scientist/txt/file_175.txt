@@ -1,0 +1,37 @@
+Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
+
+Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?
+
+Binance is looking to expand it's data analysis team to research, analyse and improve the understanding our data to even greater lengths. This provides valuable insight which can be harnessed to help guide business decisions for all areas including compliance, security, product and marketing.
+
+We are looking for talented and experienced members who can join our team who have a passion for big data.
+
+Responsibilities
+
+User behavior and pattern analysis: KYC, Anti-Money Laundry and abnormal user automated recognition to provide our users with safe and more accurate information service.
+Digital data asset: obtain the blockchain based data to perform chain-based data analysis, prediction and recommendations.
+Personalized recommender system: leverage of our PB-scale data warehouse to perform in-depth analysis and recommender system for our end-users.
+Data driven customer feedback and satisfaction analysis: leverage of machine learning techniques to understand customer’s feedback and satisfaction with proven data evidence and analysis.
+
+Requirements
+
+4 + year experience developing machine learning models at scale from inception to business impact.
+Deep understanding of modern machine learning techniques and mathematical underpinning, such as classifications, recommendation systems, optimization and etc.
+Working with data size from Terabyte to Petabyte scale
+Good experience with Python, Java and/or Scala is preferred (2+ years) with solid project experiences.
+Excellent communication skills (English Reading/Writing skills are required)
+Master’s Degree with at least 2 years machine learning experience or PhD.
+Experience in Deep Learning is a plus.
+Experience in productionizing machine learning model is a plus.
+
+Working at Binance
+
+Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry
+Fast moving, challenging and unique business problems
+International work environment and flat organisation
+Great career development opportunities in a growing company
+Possibility for relocation and international transfers mid-career
+Competitive salary
+Flexible working hours, Casual work attire
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice .

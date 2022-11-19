@@ -1,0 +1,30 @@
+Informed Solutions is a multi-award-winning Digital, IT and Management Consultancy practice based in the UK and Australia – clients appoint us as professional problem solvers to help them deliver cutting edge projects. We are people who like making a real contribution and difference in our professional lives, and aren’t scared of a challenge or managing uncertainty. Informed’s corporate values of “Innovation, Excellence, Integrity” are at the core of everything we stand for and deliver.
+
+Our people are effective communicators who play an active role in teams and are excited by shaping ideas and delivering complex solutions working with others. We are grounded and responsible professionals who understand that leading edge, fast-paced projects require sustained commitment and energy, and that achievement can be demanding as well as highly rewarding.
+
+Position:
+
+We are now seeking a talented and ambitious Senior Data Scientist to join our team.
+
+Role and responsibilities:
+Use AI techniques and Machine Learning to solve complex business problems in various domains
+Undertake exploratory analysis and modelling to identify opportunities for us to use data to deliver new insights and capabilities for our clients
+Produce compelling data stories backed by powerful visualisations
+Contribute to an open, progressive and passionate data community focussed on the safe and ethical application of new technologies
+Contribute subject matter mentorship and steering within the InformedENGINEERING team
+Requirements:
+
+Desirable Experience:
+A track record of delivering successful outcomes through Data Science
+An excellent understanding of ML frameworks, algorithms and statistical methods
+Deep experience of Python, R, leading open source and commercial offerings (AWS, Microsoft, GCP and others)
+Experience of integrating structured and non-structured data from a range of sources
+Excellent written and verbal communication skills, with the ability to influence and inspire others
+An open-minded and collaborative approach with a desire to listen and understand
+Able to work constructively and collaboratively with their colleagues under pressure
+A strong commercial data science background building and operating models in real business contexts
+Have, or be able to undertake, BPSS clearance
+Critically, a passion to do amazing things with data science in a collaborative environment
+Other information:
+
+We are happy to consider applicants with a variety of experience levels. First and foremost, we seek the best people, driven by purpose and motivated by the opportunity to grow and develop. If your aspirations and values match ours and you enjoy being part of a supportive, high-performing team, then please contact People Services.

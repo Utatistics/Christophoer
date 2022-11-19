@@ -1,0 +1,29 @@
+Main Scope Of Role
+
+As a DMPK data scientist you will support the day-to-day running of BioRails workflows used within the DMPK department, build enhancements to existing templates and design new templates or workflows as required. You will work closely with DMPK scientists and Scientific Data Management teams worldwide to deliver BioRails workflows that align with global DMPK strategies and support internal drug discovery projects.
+
+Ideal Candidate Profile
+
+This role would suit a data scientist with a keen interest in learning the requirements for DMPK data processing, or an assay scientist experienced in designing and implementing data processing templates, with an interest in data management
+
+Key Responsibilities Include
+Design and implementation of new DMPK data processing templates using BioRails/Morphit software
+Day-to-day support for existing BioRails workflows used within the DMPK team
+Interacting with DMPK scientists worldwide to understand the data management requirements of each team
+Collaboration with scientific data management teams to ensure accurate and timely data transfer to other informatics systems to aid drug discovery projects
+Continuous improvement of existing workflows to meet new standards of quality, automation, throughput and scientific understanding
+Establishing constructive and collaborative relationships with colleagues across the global business
+Adhering to policies/guidelines regarding our change management process providing accurate documentation
+Interaction with external vendors and solution specialists as required
+
+Essential Knowledge, Skills And Abilities
+Self-motivated, enthusiastic, co-operative and reliable with strong organisational and time-management skills
+Ability to work well independently and as part of a team, with good interpersonal, verbal and written communication skills
+Ability to adapt to changing priorities, manage multiple activities simultaneously and achieve challenging timelines
+A methodical approach, well organised with a high level of attention to detail
+Honours in a relevant degree (e.g. computer science, bio-informatics, chemistry, biology or related field) or equivalent with relevant industry experience
+
+Desirable
+Experience using spreadsheets and implementing spreadsheet solutions
+
+Worker

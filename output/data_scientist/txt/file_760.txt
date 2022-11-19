@@ -1,0 +1,26 @@
+OVERVIEW
+A tech-driven company is hiring a senior data scientist to join their team and to work on a cutting-edge platform to provide end-to-end machine learning solutions.
+
+Your responsibilities as a senior data scientist will include but not be limited to:
+Support the delivery of predictive analytics to provide insights on reserves, capital, and the key drivers of underwriting performance.
+Support the implementation of best practice actuarial modeling techniques and processes (including machine learning)
+Assist in the development of new methods to enhance understanding of the key drivers of performance and predict the future performance of the company.
+Present results of an analysis to a variety of audiences, both internal and external, with differing levels of experience and knowledge of both data science (and tools and techniques) and insurance.
+
+YOUR SKILLS AND EXPERIENCE
+A successful candidate will have the following;
+3 years of commercial experience within the field of data science and machine learning.
+Advanced knowledge of tools and techniques used to manipulate and analyse large volumes of data.
+Basic to intermediate level knowledge of insurance principles and practices
+Experience working with Python, R, SQL and other specialist data science tooling
+A Master's degree in a STEM subject
+Excellent communication skills
+
+Benefits
+Salary of up to £85,000
+Annual bonus
+Life assurance
+Healthcare Insurance
+
+HOW TO APPLY
+Please register your interest by sending your CV to Mane Grigoryan via the Apply Link below.

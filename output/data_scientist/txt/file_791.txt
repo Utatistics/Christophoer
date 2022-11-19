@@ -1,0 +1,55 @@
+OPT nation is one of the most prominent US-based OPT CPT job portal, which offers the best jobs on OPT for international students in USA.
+
+We are one stop destination for different CPT Jobs, OPT Jobs in USA, and internships for F1 visa students looking for career opportunities.
+
+The Role
+
+Job Description
+
+Roles and Responsibilities
+
+Design algorithms to infer key transportation patterns from various data sources
+Research and implement suitable strategies (e.g. regression models, neural networks, etc.) for solving data science problems
+Find and build real-world data sets for training various models and doing quality checks
+Productize data science algorithms within the StreetLight InSight platform, in collaboration with the Application Engineering team
+Create visualizations and dashboards to help tell stories with data
+Define and implement customized and/or cutting-edge solutions for customers
+
+Ideal Profile
+
+Desired Candidate Profile
+
+BS/MS in Mathematics, Computer Science or an Engineering discipline from a top university. Alternatively, a PhD focused on quantitative research and discovering insights from data is acceptable in lieu of a BS/MS plus experience.
+0-2 years of experience in data science and/or statistics, using tools such as R or Python
+1+ years of experience in SQL and relational databases (PostgreSQL preferred), and good understanding of relational concepts
+Strong understanding of techniques in data science (machine learning algorithms, regression analysis, etc.)
+Strong data analysis skills, knowing what can/cannot be possible, and ability to visualize data in the best way possible
+Good communication skills - written, visual (presentations), and verbal
+Ability to deliver adequate results on deadline, and make compromises to enable scalability and productization of algorithms
+Geo-spatial skills are a plus
+Knowledge of transportation data / industry is a plus
+Quick learner, and a strong team player
+
+Role - Data Scientist
+
+Industry Type - Software Product
+
+Functional Area - Data Science & Analytics
+
+Employment Type - Full Time, Permanent
+
+Role Category - Data Science & Machine Learning
+
+Education
+
+UG : B.Sc in Math, Computers, B.Tech/B.E. in Any Specialization
+
+Key Skills
+
+python data science statistics
+
+What's on Offer?
+
+Opportunity to make a positive impact
+Attractive salary & benefits
+Work within a company with a solid track record of success

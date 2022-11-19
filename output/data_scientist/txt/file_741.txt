@@ -1,0 +1,27 @@
+Summary:
+
+A globally leading technology firm are looking for a hands-on, engineering and data-focussed Senior Data Scientist to join their engineering team in London. Working in a heavily data-driven role, with platforms that can handle over 15 million queries/ second and multiple petabytes of data, the successful Senior Data Scientist will be joining a highly agile, London-based engineering team. The successful Senior Data Scientist will be working very close to the business, and directly collaborating with engineers, product managers, researchers in an end-to-end role that will involve design, architecture, development and delivery.
+
+Requirements:
+MSc or BSc in Computer Science, AI, ML, Mathematics, Physics or related hard science subject
+Commercial experience as a Data Scientist
+Interest and / or experience working with NLP, Machine Learning, graph mining, algo optimization, causal inference, etc. is beneficial
+Programming experience with Python, Scala, Java, or strong knowledge of another OO or functional language
+Experience with AWS, Spark, SQL
+
+Benefits:
+Market-leading base salary and restricted stock units
+Market-leading benefits package
+Hybrid in office (London) and work-from-home environment
+
+Contact
+
+If you're interested in Data Science positions in London, please get in touch!
+
+Rosie Griggs
+
+rosie.griggs@oxfordknight.co.uk
+
+020 3137 9577
+
+linkedin.com/in/rosie-oxfordknight

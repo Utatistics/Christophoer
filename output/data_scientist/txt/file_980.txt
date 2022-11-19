@@ -1,0 +1,99 @@
+Senior Data Scientist / Data Scientist - F1 Motorsport
+
+Location: Oxfordshire (four days in the office, one day working from home).
+
+Package: £50-70k for mid-level Data Scientist, £70-90k for Senior Data Scientist + Championship bonus scheme, bike-to-work scheme (worth up to £3k), healthcare & life assurance options, and pension contribution (5% matched).
+
+_______________________________________________________________
+
+2.62 seconds. The time it takes to service an entire F1 racing car at the pit stop.
+
+2 weeks. The time you have as a Data Scientist to optimise that racing car's performance.
+
+Your data could make or break lap time for one of the world's leading F1 teams.
+
+A lap time that over 500 million people will see at the most-watched annual sporting series in the world.
+
+As a Data Scientist, you'll provide data services to the rest of the company to continuously improve their F1 racing car design and performance.
+
+You'll work in an incredibly high-profile, competitive environment where you collaborate closely with your teammates in friendly and innovative surroundings. Ideas are turned around in mere minutes or hours, from proposal - to concept - to result.
+
+And in this ever-changing landscape, you'll do whatever it takes to find the solution and hit the deadline.
+
+Because ultimately, you're all working towards the same goal: to improve the F1 racing car's performance.
+
+To drive you to hit those deadlines, you'll benefit from:
+
+Variety of work - every day is different, with projects determined by the needs of upcoming tests and races, and turnaround is rapid.
+
+High impact - you'll have the unique opportunity to quickly see the impact of your work in as little as two weeks.
+
+A collaborative culture - join a fast-paced, harmonised and rewarding culture where everyone has one clear goal, and the passion for what they do is infectious.
+
+Ownership and equipment - you'll have control of your data, from transfer to access, plus the software and hardware you need to enable you to turn ideas into production.
+
+Rare opportunity - to work in one of the world's most prestigious and high-profile industries, where succeeding in your role could seriously boost your career.
+
+_______________________________________________________________
+
+Could you handle the speed?
+
+What's the Role?
+
+You'll join a tight community of 120 colleagues, where your team has one collective goal: to maximise downforce, minimise drag and improve the racing car's performance.
+
+Reporting to the Head of Aerodynamic Technology, you’ll have access to data from state-of-the-art aerodynamic testing environments, across wind tunnel, computational fluid dynamics and track – with all the software and hardware you need to do the job.
+
+Your role will primarily involve:
+
+Developing systems for automated data capture and analysis.
+
+Mathematical optimisation of trajectories and data capture strategies to optimise the operating point with the Quality/Time/Coverage triangle.
+
+Developing existing methodologies for processing force/moment, pressure and flow field data sources.
+
+Refining measurement technologies.
+
+Specifying and implementing algorithms (machine learning & deep learning techniques) to analyse captured data and provide performance information to aerodynamicists.
+
+Mining historical data to provide new insights to assist in defining development strategies for tools and aero surfaces.
+
+Develop interoperable APIs for data exchange.
+
+Develop, refine and apply data analysis techniques across the domains to provide aerodynamicists with actionable information.
+
+Building the next generation tools across the department to improve integration and standardisation.
+
+Enabling 65 internal end-users to have more self-help with their expert tools.
+
+_______________________________________________________________
+
+What You'll Add
+
+You won't be afraid to try new things or ask for help when you don't know the answer - leading with a flexible and experimental approach is key to success in this role.
+
+You'll be naturally inquisitive and keen to try out different ideas for testing, problem-solving and using data across various domains.
+
+And you'll add the following skills and experience:
+
+At least two years of industry experience for the mid-level Data Scientist role or five years of experience for the Senior Data Scientist role.
+
+Proactive development of detailed specifications based on business requirements.
+
+Experience with Python and related data science machine-learning libraries (currently working with Matlab, but moving away from using this platform).
+
+Excellent communication skills at both conceptual and technical levels.
+
+Natural problem-solving abilities.
+
+A high degree of attention to detail.
+
+A thorough grounding in modern software development practices (source control, change management, automated testing, release procedures).
+
+Beneficial to have experience working with Microsoft Azure services or related cloud-based platforms.
+
+_______________________________________________________________
+
+Find Out More
+
+To find out more, hit the Easy Apply button at the top of the page.

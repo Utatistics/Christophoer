@@ -1,0 +1,59 @@
+会社概要：
+
+Client is a leading Tokyo fintech company innovating the way customers interact with their e-commerce favorites. A newly-minted Japanese unicorn startup, they are expanding very quickly. A highly-international office environment with people from all over the world, they have been very heavily funded and are on their way to a successful IPO.
+
+業務内容：
+
+Our firm Risk & Analytics team supports decision-making and operations in all parts of Our firm’s business through data analytics and also designs the models and tools to reduce the company’s credit and fraud risk.
+
+Our firm's Risk & Analytics team is currently looking for a Data Scientist to help combat fraud within the Our firm payment ecosystem. The fraud team’s role is to use payment and consumer behavior data to identify fraudulent patterns, understand how bad actors are abusing Our firm and set rules to prevent losses.
+
+To be a successful member of the team, you should be highly adaptable and can demonstrate past achievements working in the financial, e-commerce or telecom industry. Previous experience or exposure to fraud within the e-commerce industry would be a big advantage. This position requires somebody with a keen eye for detail and an out of the box way of thinking.
+
+Key Role and Responsibilities
+
+Use Data Science Tools And Techniques To
+
+Detect new patterns of abuse and fraud within Our firm’s payment ecosystem
+
+Create and maintain scripts to pull out suspicious cases for manual review by the fraud operations
+
+team
+
+Create and monitor fraud policy rules within the risk engine to block fraudulent activity
+
+Maintain the fraud database
+
+Identify new sources of data and new ways of using existing data to better detect fraudulent activity
+
+Build and maintain operational and management reporting
+
+Work cross-functionally with credit risk, operations, sales and other departments to create and automate robust
+
+processes that help detect, prevent and react to fraud attacks.
+
+Keep up to date with latest industry fraud trends
+
+応募条件：
+
+Skills And Requirements
+
+Bachelor’s degree or higher, preferably in a quantitative field, or equivalent experience
+
+Ability to deliver under pressure
+
+More than 2 years work experience in a related role (data science, data analysis, business intelligence)
+
+Experience extracting insights about user behavior in the Japanese marketplace
+
+Experience in payment fraud is a big plus
+
+Proven ability to translate technical findings from analysis into simple takeaways for a non-technical audience
+
+Experience working with common data science query and general languages (e.g. SQL + Python)
+
+Experience with common machine learning tools (e.g. SKLearn, Keras, XGBoost) is a big plus
+
+Fluent in English
+
+Business level Japanese language ability or higher is a must

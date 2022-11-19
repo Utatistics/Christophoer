@@ -1,0 +1,5 @@
+As a capability, we develop and use novel analytical methodologies and techniques and undertake exciting research and experimentation at the forefront of defence and security research.
+
+As a statistical data scientist you will have the opportunity to work on a range of statistically focused data science projects, helping to increase the use of machine learning, artificial intelligence and increase the data science capability across the division.
+
+We are looking for people to help develop an in silico capability leveraging emerging Digital Twin technology, advances in modular multi-fidelity modelling and AI powered uncertainty quantification to support and provide advice for even the most complex problems. Also you will be able to provide advice and carry out analysis for complex statistical research and help to develop tools for analysis, exploration and visualisation of CBR data.

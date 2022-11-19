@@ -1,0 +1,68 @@
+The role provides the unique opportunity to combine technical work, developing data science innovation solutions with managing a portfolio of digital projects within the Renewable & Energy Solutions business.
+
+In that way, you will help Shell address the Energy Transition challenge by offering cutting-edge digital solutions to our customers and developing new business models to help them decarbonize.
+
+Where you fit in
+
+The Senior Data Scientist will be working closely with data scientists across the data science community, scientists from the Technology organization and product owners and managers from Renewable and Energy Solutions (R&ES) business and Information & Digital Technology (IDT).
+
+You will actively contribute to projects that include several Shell businesses and technology stakeholders, scope projects based on the business problems, and develop solutions that contribute to Shell’s ambition for Energy Transition.
+
+Based on your stakeholder engagements, you will also contribute to the R&ES data science innovation roadmap, populating the innovation funnel of the technology theme you are supporting and leading the delivery of projects out of it.
+
+What’s the role?
+
+As a Senior Data Scientist, you will be contributing to high-potential, digital innovation projects in the R&ES space, using your in-depth knowledge about data science technology.
+
+The role will be involved in projects throughout their development cycle means and you will be responsible for scoping and framing as well as for the end-to-end modelling approach and model lifecycle. All the work needs to be carried out in natural teams and in a complex stakeholder environment– in line with R&ES business, Digital IT strategy and Technology Innovation roadmaps.
+
+You will thrive on providing a structural approach to the development of early-stage digital products, ensuring best use of available data, mathematical and statistical methods, optimization, and machine learning methods.
+
+More specifically, your role will include:
+
+Scope and frame data science projects
+Contribute hands-on to data science project development and -together with IT and digital teams in the business- support operationalization and further collaboration
+Provide technical leadership to junior data scientists, reviewing code and assisting with methodology development
+Manage a portfolio of digital projects (part of a technology program) in coordination with the R&ES business and the Technology organization
+Engage with external stakeholders to scout and evaluate technology developments in the data science space
+
+What We Need From You
+
+Your capability to translate a complex business problem into a science problem and your ability to define data science model requirements for novel and R&D technologies will be key for success in this role.
+
+Furthermore, you should have:
+
+Masters or PhD degree (preferred) in quantitative subjects like Physics, Engineering, Mathematics, Statistics, Data science, Computer Science etc.
+Proven experience in general linear modelling, multivariate analysis, statistical modelling
+Knowledge of time series modelling, and optimization is preferred
+Experience in the electricity sector (i.e. power system, power markets, grid and utilities operation) is preferred
+Advanced skills in programming in Python and/or R
+High standards of code quality, making use of version control tools
+Proven track record of delivering value adding data science products or consultancy services
+Comfortable in an early-stage development environment, with frequently changing demands, building and managing relationships with cross-functional stakeholders and circumstances
+Experience managing projects with diverse stakeholders across technology and the business
+
+Company Description
+
+Shell started operations in the United Kingdom more than 110 years ago. Since then, we have grown into a leading innovative Oil & Energy company that rewards its employees by investing heavily in their careers and learning. Our people are our greatest asset, and our commitment to your career will see you thrive in a work environment that offers an industry-leading development programme. When your ideas travel, Shell will benefit, and innovation will thrive. Shell has a key role to play in helping meet the UK’s growing energy demand, whilst using innovative technologies to develop cleaner energy. We are the largest FTSE 100 company in the UK by market capitalisation and make a significant contribution to the UK economy. As well as processing 35% of the gas coming into the UK, we serve more than four million customers at our filling stations each week. Shell employs some 6,400 skilled staff as well as many contractors.
+
+An innovative place to work
+
+There’s never been a more exciting time to work at Shell.
+
+Join us and you’ll be adding your talent and imagination to a business with the ambition to shape the future – whether by investing in oil, gas and renewable energy to meet demand, exploring new ways to store energy, or developing technology that helps the world to use energy more efficiently, everyone at Shell does their part.
+
+An inclusive place to work
+
+To power progress, we need to attract and develop the brightest minds and make sure every voice is heard. Here are just some of the ways we are nurturing an inclusive environment – one where you can express your ideas, extend your skills, and reach your potential.
+
+We’re creating a space where people with disabilities can excel through transparent recruitment process, workplace adjustments and ongoing support in their roles. Feel free to let us know about your circumstances when you apply, and we’ll take it from there.
+We’re closing the gender gap – whether that’s through action on equal pay or by enabling more women to reach senior roles in engineering and technology.
+We’re striving to be a pioneer of an inclusive and diverse workplace, promoting equality for employees regardless of sexual orientation or gender identity.
+We consider ourselves a flexible employer and want to support you finding the right balance. We encourage you to discuss this with us in your application.
+
+A rewarding place to work
+
+Combine our creative, collaborative environment and global operations with an impressive range of benefits and joining Shell becomes an inspired career choice.
+
+We’re huge advocates for career development. We’ll encourage you to try new roles and experience new settings. By pushing people to reach their potential, we frequently help them find skills they never knew they had, or make career moves they never thought possible.

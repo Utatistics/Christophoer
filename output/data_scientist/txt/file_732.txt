@@ -1,0 +1,54 @@
+Location
+
+UK Wide
+
+An Overview Of The Role
+
+The Insights practice is part of Capgemini’s global Insights & Data group; our goal is to help the organisations we work with become truly ‘insight driven’, to fully exploit their data using the convergence of Cloud and Artificial Intelligence to deliver real business value. We marry the most innovative insights solutions with rock solid, industrialised engineering.
+
+The role
+
+Collaboration/Innovation
+
+If we believed all the stories about AI, then we’d be looking for budding magicians, wizards and sorcerers; but we don’t. So, whilst the reality is still, quite frankly, amazing, that’s achieved through a lot of ‘smarts’, rather than magic fairy dust. We want passionate, energetic people who live and breathe all things AI, whether that be machine learning, deep learning, computer vision and so on, combined with great software engineering skills…no point creating great models if we can’t deploy them! We want you to be thinking “how can I use what I know?”, “what do I need to learn?” in order to help your client achieve their business goals.
+
+We take career progression seriously; many of the Insights & Data UK management and the Smart Analytics practice leads did not join in senior positions, rather they were given the opportunities from within to progress. We really do try to balance the needs of the business with the needs and aspirations of the individual…it is in our interests for our people to be happy and successful.
+
+The work
+
+We don’t really have a typical day or typical project at Capgemini. Our clients expect advise, proof-of-values, industrialised solutions; we work on small and very large engagements and we work across several different sectors, including public, CPG, retail, manufacturing and utilities. If you aren’t on a project, you could instead be involved in a bid, doing some training, working on a point-of-view, building a demo or contributing to our blog series (tips from recent new joiners, who we are happy for you to speak with, is just ‘get stuck in’). In recent months, we’ve done some pretty cool stuff, like used Tensor Flow in a model looking at acoustics of voice recordings, used ESA radar data to classify UK vegetation and massive scale Spark for image processing at an O&G client.
+
+Why You?
+
+We are looking to bring in people at senior level, so whilst the list of skills below is fairly heavy, we want some who can excel in some of the below and lead by example.
+
+Detailed knowledge on a range of AI techniques (e.g. supervised and un-supervised machine learning techniques, deep learning, graph data analytics, statistical analysis, time series, geospatial, NLP, sentiment analysis, pattern detection, etc.)
+Experience using Python, R or Spark to extract insights from data
+Knowledge of SQL for accessing and processing data (PostgreSQL preferred but general SQL knowledge more important)
+Experience using the latest Data Science platforms (e.g. Databricks, Dataiku, AzureML, SageMaker) and frameworks (e.g. Tensorflow, MXNet, scikit-learn)
+Software engineering practices (coding practices to DS, unit testing, version control, code review)
+Hadoop (especially the Cloudera and Hortonworks distributions), other NoSQL (especially Neo4j and Elastic), and streaming technologies (especially Spark Streaming)
+Alchemy, spell casting and potion making
+Deep understanding of data manipulation/wrangling techniques
+Experience using development and deployment technologies, for instance virtualisation and management (e.g. Vagrant, Virtualbox), continuous integration tools (e.g. Jenkins, Concourse, Drone, Bamboo), configuration management tooling (e.g. Ansible) and containerisation technologies (e.g. Docker, Kubernetes, Swarm)
+Delivering insights using visualisation tools or libraries (Javascript preferred)
+Experience building and deploying solutions to Cloud (AWS, Azure, Google Cloud) including Cloud provisioning tools (e.g. Terraform)
+Strong interpersonal skills with the ability to work with clients to establish requirements in non-technical language.
+Ability to translate business requirements into plausible technical solutions for articulation to other development staff.
+Experience designing Data Science deliveries, planning projects and/or leading team
+
+Why Us?
+
+While we’re a global consultancy, we’re made up of supportive, close-knit communities. Everyone wants to get the best solutions for our customers and create the best working environment.
+
+Upskilling
+
+Potential is just as important to us as having the required skills. If you have the right mindset, we might be able to provide you with bespoke training. So if you’re not sure you have all the skills you need, but you’re still passionate about the role, please apply and we’ll see if we can support you.
+
+Diversity
+
+Capgemini positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender identity, religion or belief, marital status, or pregnancy and maternity. We are committed to hiring, developing and retaining the best people to deliver innovative, world-class solutions for our clients. We foster an inclusive culture that enables everyone to achieve their full potential and enjoy a fulfilling career with us. Our comprehensive flexible benefits package and lifestyle policies enable our employees to balance their individual, family and work-life needs.
+
+About Capgemini
+
+Capgemini is a global leader in consulting, digital transformation, technology and engineering services. The Group is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital and platforms. Building on its strong 50-year+ heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. Today, it is a multicultural company of 270,000 team members in almost 50 countries. With Altran, the Group reported 2019 combined revenues of €17billion.

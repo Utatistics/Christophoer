@@ -1,0 +1,60 @@
+Kantar is the world’s leading data, insights and consulting company. We understand more about how people think, feel, shop, share, vote and view than anyone else. Combining our expertise in human understanding with advanced technologies. Kantar’s 25,000 people based in more than 100 countries help the world’s leading organisations succeed and grow. Nobody knows people better than Kantar. We provide insight and inspiration to help our clients, our people and society to create and flourish in an extraordinary world.
+
+Our media colleagues are expert in understanding the changing media landscape. This includes audience measurement, consumer targeting and in-depth intelligence into paid, owned and earned media. Their global coverage and local expertise enable clients to better understand media audiences and their relationships with brands to optimise investment.
+
+Job Title: Data Scientist – with Python
+Location: London, Gray’s Inn Road, or Westgate
+Salary: Competitive
+Full time/Permanent
+
+Kantar is the leader in providing audience and advertising measurement tools and intelligence. With a track record in audience research services across 50+ countries, Kantar is at the forefront of technological developments in audience measurement in the media industry, working with broadcasters and advertisers, media agencies and industry committees.
+
+About the Project/Role
+The key area of focus for the role is the development and improvement of mathematical and statistical models using different data sets possibly, panel level, census level and other datasets.
+
+A major area of interest and development over the last few years involves the integration of multiple data sources, with a view of creating new Hybrid Datasets that leverage and extract the best out of both original datasets.
+
+The goal is to have individual level information, providing all the usual features such as demographic profiles, reach and frequency estimates for highly granular and accurate viewing insight, without the limitations of panel sizes.
+
+Job Role Requirements
+Develop new mathematical and statistical algorithms and enhance existing ones.
+Interact with other members of the research team, locally and globally, in the definition, improvement and implementation of data integration algorithms and strategies
+To take lead in data science projects, liaising with clients and stakeholders as appropriate.
+To research and test new Integration data modelling and methodology approaches
+Produce initial prototyping and testing Specify development requirements for implementation by the Software Development team.
+Provide data analysis and interpretation for algorithm implementations and evaluation of the resulting hybrid datasets.
+To support, develop and enhance methodologies for Kantar services worldwide and expand Kantar’s ability to conduct statistically sophisticated analysis.
+To provide expertise and technical insight into new metrics for audience data
+
+Role Requirements
+Develop new mathematical and statistical algorithms and enhance existing ones.
+Interact with other members of the research team, locally and globally, in the definition, improvement and implementation of data integration algorithms and strategies
+To take lead in data science projects, collaborating with clients and stakeholders as appropriate.
+Designing predicative models using classical and modern machine learning techniques
+Participating in team knowledge sharing and presentations
+To research and test new data modelling and methodology approaches, by initial prototyping and testing
+Provide data analysis and interpretation for algorithm implementations and evaluation of the resulting hybrid datasets.
+To support, develop and improve methodologies for Kantar services worldwide and expand Kantar’s ability to conduct statistically sophisticated analysis.
+To provide expertise and technical insight into new metrics for audience data
+
+Skills and Knowledge Required
+Very strong mathematical and statistical skills, and with a passion for the development and implementation of new algorithms
+A PhD/Master’s degree in Statistics, Mathematics, or a highly numerate discipline
+Programming/data analysis experience, preferably Python
+Skilled in working with large and complex datasets with a keen eye for detail and accuracy
+A passion in statistical and research methods
+Experience using pattern recognition methods
+A strong track record and demonstrable interest in analysing data and looking for stories, patterns, trends, and insights.
+A minimum of 2-year experience
+
+At Kantar we have an integrated way of rewarding our people based around a simple, clear, and consistent set of principles. Our approach helps to ensure we are market competitive and to support a pay for performance culture, where your reward and career progression opportunities are linked to what you deliver.
+
+We go beyond the obvious, using intelligence, passion, and creativity to inspire new thinking and shape the world we live in. Apply for a career that’s out of the ordinary and join us.
+
+We want to create an equality of opportunity in a fair and supportive working environment where people feel included, accepted, and are allowed to flourish in a space where their mental health and wellbeing is taken into consideration. We want to create a more diverse community to expand our talent pool, be locally representative, drive diversity of thinking and better commercial outcomes.
+
+At Kantar, the diversity of our employees provides a richer environment for our employees and broader depth and breadth of thinking for our clients. Kantar is committed to inclusion and diversity; therefore, we welcome applications from all sections of society and do not discriminate based on age, race, religion, gender, pregnancy, sexual orientation, gender identity, disability, marital status, or any other legally protected characteristics.
+
+Privacy and Legal Statement
+
+PRIVACY DISCLOSURE: Please note that by applying to this opportunity you consent to the personal data you provide to us to be processed and retained by The Kantar Group Limited (“Kantar”). Your details will be kept on our Internal ATS (Applicant Tracking System) for as long as is necessary for the purposes of recruitment, which may include your details being shared with the hiring manager(s) and for consideration for potential future opportunities by Kantar and its affiliate Kantar group companies. For full details of our privacy policy please visit www.kantar.comr privacy policy please visit www.kantar.com

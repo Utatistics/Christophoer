@@ -1,0 +1,24 @@
+Please apply if you are an innovative and ambitious individual who wants to help build an organisation that makes a positive global impact on society and the environment.
+
+Invenia Labs is looking for a Data Scientist who will collaborate closely with our research team to explore and understand electricity grid-related data. We will rely on you to ask questions, connect the dots, and uncover interesting and surprising relationships between time series, geographic data, and other diverse and complex types of data. Much of this work will involve analysing data on past events to identify relationships and driving factors, and to then determine which features could be used to increase forecasting accuracy of future events.
+
+From creating experiments and prototyping implementations, to testing and deploying promising ideas quickly and safely, our researchers work on real-world problems with a focus on understanding and improving the efficiency of electricity grids. They are also active in the wider research community by partnering with universities, publishing research papers, and attending conferences.
+
+Role Description
+Work with the research team using statistical techniques, machine learning tools, and visualisation tools to organise, clean, interlink, analyse, explore, and interpret data.
+Work within individual research projects to propose new features and forecasting models.
+Work with the Infrastructure team to prioritise new sources of data and develop requirements for storing and connecting various forms of data.
+Communicate results in the form of discussions and reports to other team members.
+Collaborate with and maintain relationships with external research labs, publish research papers, and attend conferences.Keep current with technical and industry developments.
+
+Desirable Qualifications
+A STEM degree is required.
+Proven previous experience as a Data Scientist.
+Familiarity with machine learning and statistics.
+Knowledge of SQL and R/Python.
+Familiarity with Bayesian methods, probabilistic modelling, and statistical inference on complex data.
+Knowledge of the electricity sector (optional).
+Experience with GIS (optional)
+Familiarity with Julia programming language (optional)
+
+Please note that while this is a flexible hybrid role, it cannot be performed fully remotely. We only consider candidates who already live, or are willing to relocate to our office locations in either Winnipeg, Canada or Cambridge, UK.

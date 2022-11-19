@@ -1,0 +1,28 @@
+The Company
+
+An exciting fin-tech company in central London. They help young people learn how to manage money responsibly under the guidance of their parents. This is achieved through combining web and mobile apps, with a pre-paid debit card with parental controls.
+
+They have offices in London, America, Canada and are looking to grow their European presence in the next few years.
+
+The Role
+
+Sat within the the finance team you will be critical in delivering, enhancing and maintaining their rolling forecast financial model together with the CFO, Head of FPandA and data analytics team.
+
+You will be a key technical lead in the evolution and extension of the model, currently based on python code that includes a cohort-based attrition model, a channel-based customer acquisition model in addition to
+
+a more traditional forecasting model.
+
+This role is central to the business and will enable you to acquire an in-depth understanding of the business and its key drivers with the view of creating their next generation of financial tools.
+
+The Candidate
+
+Strong academic profile including with subject areas of mathematics, physics or computer science required
+Proven experience in building and maintaining rolling forecast models ideally in fin-tech and or a consumer B-C business
+Strong skills in Python with advanced knowledge of statistical and mathematical functions
+Advanced level of expertise in SQL
+Strong data analysis skills with ability to drill down into complex dataset
+Excellent problem-solving ability and capable of clearly articulating specific technical problems
+
+Job Owner: d.prosser
+
+Tagged as: Python, SQL

@@ -1,0 +1,27 @@
+The Vacancy
+
+At Bromford, we invest in homes and relationships so that people can thrive. We believe that data will play a big role in helping us do this in an ever-more sophisticated manner. We are aware that we many opportunities, for instance predicting issues within people’s home before they happen, and even interacting with customers with personalised information about how they might best avoid problems with their habitat themselves. We are at the beginning of this journey and have created a new team within our current structure to support in the implementation of this.
+
+The Data Science Lead is an exciting newly created position. Within the role, you will manage, coach and motivate a team of scientists and others across the business on data science tools and techniques. You will also be responsible for leading planning, delivery and testing data models and implementing deployment technology and methods. You will work closely with teams across the business to identify and create hypotheses as to how data models can make people’s lives better and improve our business performance.
+
+As the Data Science Lead, you will continuously evolve our technology, tools and methods. You will be responsible for leading on the selection and implementation of the entire toolset including cloud-based machine learning platform/frameworks, programming languages and development studios, storage and compute facilities and algorithmic, statistical and predictive modelling techniques. By applying these tools and methodology, you will create automated analytical and predictive models to prove or disprove hypotheses, present insight, publish events and deploy to scale, leading on the development of more complex conventional data models.
+
+We are looking for someone who:
+
+Has a Bachelor’s degree or above in Computer Science, Data Science, Mathematics, Statistics or similar discipline
+Experience of implementing and using tools and techniques outlined within role profile
+Experience of leading high-performing, innovating teams and methods
+Deep understanding and practical exposure of modern DevOps-based deployment techniques, data visualisation and Agile delivery
+Mastery of multiple data-centred programming languages including SQL, R and Python
+Advanced mathematical skills
+Effective communicator both written and oral
+
+As this is a roaming role there will be a mix of office and home working, but we have offices in Lichfield, Wolverhampton, Tewkesbury and Chipping Sodbury.
+
+Closing date for applications is Friday 30th September with interviews taking place from w/c Monday 3rd October
+NB Due to the nature of this role, we reserve the right to close this vacancy before the closing date so early application is encouraged.
+
+About Us
+
+We are a housing association – one of the biggest in the country, with almost 45,000 homes spread across central and south west England. We believe in providing warm, safe and secure homes. But ultimately, we’re a people business. Not only do we care about the 100,000 people who live in our homes, we want them to thrive.
+We believe that having a great place to call home is just the start and with the right relationships and someone who believes in your potential, almost anything is possible. Our customers are the people that live in our homes for rent and shared ownership. Our customers are also those who rent our garages and our commercial buildings and those buying one of our homes for outright sale. That’s why we will continue to make a difference by investing in relationships and in connecting people, so our customers get to where they want to be. Because when they succeed, we succeed and that success drives us to do even more.

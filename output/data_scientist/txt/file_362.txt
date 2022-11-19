@@ -1,0 +1,58 @@
+Data Scientist - Central Data Team
+
+Job Description:
+
+We are looking for a data scientist who will support all the areas of our business, (from retail, central leadership, merchandising and logistics) who can find insights in our data that will empower the organisation.
+
+This role will suit a person with a curious mindset and a passion for data-driven problem-solving. Using data to drive business decisions and understand our processes is a key strategic focus for JD.
+You will be working in a multidisciplinary team, alongside data engineers, analysts and subject matter experts to develop data solutions that deliver value to our stakeholders.
+You will be expected to be involved in all aspects of the data science journey, from exploration of the data, modelling and deployment of models into live.
+As a data scientist, you will have a strong understanding of databases and data analysis techniques. You will be technically confident and have the ability to communicate your findings both verbally and in writing.
+
+A typical week could include:
+
+Identify opportunities to apply data science, internally within the team and in the wider business community, to drive sustainable growth.
+Participate in / lead data discovery with stakeholders and technical peers
+Extending company’s data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Utilise data analysis techniques and statistical models to develop insights and drive actionable activity
+Look at data processes and become a champion of data quality and accuracy at JD
+Explore data conflicts between core systems and the data analytics platform
+Work with the business users, peers and architects to develop data solutions
+Interact with team members and business users
+Peer review of analytical products
+Doing ad-hoc analysis and presenting results in a clear manner
+Contribute to and support the data science community within JD
+
+Experience, Skills and Knowledge:
+
+Good understanding of statistical methods, algorithms and machine learning concepts (ranging from EDA, data science methods (regression, classification, segmentation), autoML techniques and predictive modelling).
+Experience of common data science frameworks and tools like Python, java, C, Go and R. Understand how to use auto ML packages (datarobot / Vertex AI).
+Strong Proficiency in database languages, such as SQL, against large datasets
+Excellent communication and collaboration skills, including the ability to prepare reports, presentations, executive summaries and analysis.
+Understanding of version control (preferably Git and SVN)
+Background of working with large and complex datasets
+Data-oriented personality with strong sense of curiosity and collaboration to overcome challenges
+Prefered experience:
+Hands-on professional experience with applied machine learning
+Experience of working with a data analytics team in a retail environment
+Experience in producing ETL data flows
+Qualification in mathematics, computer science or related field
+Technical skills:
+Database technologies
+GCP BigQuery
+Oracle database (v12 onwards) or equivalent
+MS SQL Server
+SQL (Stored procedures, query optimization, etc)
+Program languages:
+Python
+R
+Java / Javascript
+BI tool(s)
+Looker
+Data studio
+Thoughtspot
+GCP AI platform - Vertex AI
+GCP
+Source control (Git, SVN)
+Excel / Sheets

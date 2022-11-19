@@ -1,0 +1,5 @@
+Let’s face it, as good as the tech age has been thus far, it has not been without its hiccups. Much like in the real world, theft and fraud happens, and can happen to virtually anyone. In the insurance world, this can mean thousands of pounds being misallocated to those who do not deserve it, and achieved it through fraudulent means. How would you fight this using data science?
+
+By using your skills in machine learning, AI, and python of course! I’m working with one of the UK’s leading insurance companies (15.5 million customers), to help them find a data scientist who can use machine learning and develop AI algorithms to help flag fraudulent insurance claims. The role can be hybrid or fully remote, offices are located in various cities around the UK.
+
+If you like the sound of that, click apply, connect with me, or shoot me an email directly on mgojzewski@trg-uk.com to discuss!

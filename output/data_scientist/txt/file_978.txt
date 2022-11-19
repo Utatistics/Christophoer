@@ -1,0 +1,24 @@
+Senior/Data Scientist – UK Remote - Permanent - £70,000-£80,000
+PySpark, GCP, Machine Learning, Fintech, Finance, Private Banking, Technology
+
+I'm partnered up with an innovative fintech company spread across Europe (in Geneva, London and Rome), providing digital private banking to customers through the convenience of a hassle-free, bespoke mobile app. They are on a mission to make banking & investing easy, transparent, familiar and meaningful, via an awesome digital client experience, in order to make a difference for a better future.
+
+They are looking for a Data Scientist to join their team (ideally with fluency in Italian, but not essential), with strengths in SQL, Python (PySpark), and experience with Machine Learning too.
+
+You will be part of a fast-growing & diverse company, very open to innovation and that favors out-of-the-box thinking.
+
+Responsibilities:
+Applying complex algorithms producing readable reports using BI tools and online KPIs
+Creating machine learning tools to generate predictions and insights, from data analysis to API development
+Create end-to-end data pipelines to gather required data
+
+Essentials:
+3+ years experience within Data Science.
+Knowledge of advanced statistical techniques.
+Background and experience in the financial/fintech space.
+Ability with pandas, (py)Spark, scikit-learn, Keras and/or Tensorflow frameworks
+
+If you’re an experienced individual in both the data science and financial sectors, and you're looking for a challenge at an innovative and exciting company, please apply below or get in touch at tom.hannah@opusrs.com with your most up to date CV and I will be in touch.
+
+Senior/Data Scientist – UK Remote - Permanent - £70,000-£80,000
+PySpark, GCP, Machine Learning, Fintech, Finance, Private Banking, Technology

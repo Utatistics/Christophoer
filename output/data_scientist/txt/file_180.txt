@@ -1,0 +1,48 @@
+If you wish to be at the heart of advising, designing and deploying innovative solutions to some of the key challenges facing the business today, then this is the role for you!
+
+Group Business Services (GBS), within the COO structure of British Gas Services & Solutions business, is looking to hire an experienced Data Scientist to join our Data Solutions Team, adding to and evolving our existing data science capabilities.
+
+Within GBS we provide a shared service solution to many areas within the business including HR, Metering, Procurement and Supply Chain. Our legacy of delivering on key strategic programmes and driving business results speaks for itself.
+
+There is increasing and sustained demand for the data science skill set and capabilities within our team given our track record, so we are creating this brand new position.
+
+This role would suit an established Data Scientist looking to apply their thinking, passion for discovering solutions and expertise towards creating and deploying tangible, lasting and real solutions addressing the everyday and often overlooked challenges in our business.
+
+The GBS Data Scientist will:
+
+Design, develop and program methods, processes, and systems to consolidate and analyse unstructured, diverse “big data” sources to generate actionable insights and solutions for service, process and product enhancement
+Interact with product and service teams to identify questions and issues for data analysis and experiments
+Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources
+Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers
+
+The aim of the role is to apply data science to help the company deliver major transformation.
+
+Key accountabilities:
+
+Identify opportunities to deploy data science to business challenges
+Gather and extracting key requirements, investigate solutions, and generate feasibility reports with accurate estimates of timelines for delivery
+Implement your solutions within your defined timeline
+Working in collaboration with wider support services and teams across the business to deploy solutions
+Partner with key internal and external stakeholders to understand problem statements and collaborate on suitable end point solutions
+Applying data science methodologies (modelling, feature engineering, data extraction and time series etc)
+Bringing conceptual ideas and solutions to fruition
+Presenting solutions effectively to decision makers to enable deployment
+
+Key capabilities, expertise and experience:
+
+Strong problem solving skills with an emphasis on solution development
+Strong stakeholder management and engagement
+Extensive experience using statistical computer languages (R, Python etc.) to manipulate data and draw insights from large data sets is essential
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Excellent written and verbal communication skills for coordinating across teams
+Excellent presentation skills and ability to make complex information accessible to the relevant audience
+A drive to learn and master new technologies and techniques is essential
+Project management from concept to delivery, exploiting existing and developing robust methodologies
+The ability to interrogate code/project documentation material effectively
+The ability to understand programming errors and identify solutions
+The ability to work both independently and within a pair-programming paradigm
+The ability to create meaningful code and project documentation (Docstring, UML Diagrams, Entity Relationship Diagrams).
+Prior experience with Azure Cloud Services (AzureML, DataBricks, DataFactory, LogicApps) preferred
+Experience with Hadoop, Apache Spark, and ODBC or equivalent
+
+Centrica operates a Flex First working arrangement which enables remote working from home, with the opportunity to collaborate from office locations. In this role you will be assigned to your local office and will work flexibly between there and your home.

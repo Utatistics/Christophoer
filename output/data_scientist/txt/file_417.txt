@@ -1,0 +1,73 @@
+Location: Twinkl HQ, Sheffield (remote working optional)
+
+Annual Salary: £30,000 - £35,000
+
+Contract: Permanent
+
+Line Manager: George Mulroy
+
+Recruiter: Rikki Spencer-Cox
+
+As a new member of the Twinkl data team you’ll be joining our established analytics network of 15+ data scientists and data analysts during an exciting period of growth (10 additional hires planned!). Working closely with the Head of Data and other experienced data scientists, you will be at the forefront of how analytics is used at Twinkl; tasked with ensuring that we derive the maximum value possible from our rich and varied datasets (over 10 trillion data points at the last count!).
+
+Dependant on your interests and experience, you will work in one or more of the following data scientist teams:
+The Key Algorithms team: ensuring that every one of our key customer-facing algorithms (recommendations, internal search, etc) is providing the best possible website experience for every one of our customers.
+The Key Subscription Metrics team: making sure that our product helps as many customers as possible by maximising subscription uptake measures such as activation, retention, upgrade and winback rate.
+The Data Reporting Team: finding new ways to take data reporting to the next level and facilitate the entire business to make data-driven decisions.
+The Projects team: prioritising high value data-driven projects on an ad-hoc basis to ensure that our data assets are continuously being leveraged to add the highest level of value to the organisation.
+
+In the data team how you achieve your task is 100% over to you: no one is going to be prescribing exactly what to do, or exactly how to do it (although you’ll have a strong network of experienced Data Scientists to help you out!). To be successful you’ll need to innovate, chat with key stakeholders, and read up on best practices in order to identify and implement the most appropriate data-led solution (see ‘ongoing projects’ below to see the exciting projects the current team are working on!)
+
+You will find the data team regularly using SQL, Python, GA, Elasticsearch and BigQuery; as well as Jira and GSheets for project management. Depending on the challenge at hand, we also use Tableau for in-depth visualisations, and big data technologies to implement machine learning solutions that Python can’t handle. Don’t worry if you’ve not used all these techs before - we’re not necessarily looking for someone with lots of experience with these languages specifically, it’s an insatiable curiosity and innate ability to think logically that we’re most interested in.
+
+Ongoing projects:
+Leveraging our recommendation systems to preempt customer need and email them the teaching resources they need for the coming week, before they know they need them.
+Continuous collaboration with the conversion rate optimisation team to test and improve all touchpoints of the user experience in a data led progression.
+Blending traditional search engine logic (think TF-IDF) with cutting edge machine techniques in order to provide the best possible search experience.
+Using a hybrid collaborative-filtering approach to show the most relevant resource page recommendations on each of our 500 000 resource pages.
+Engineering data pipelines that analyse customer need in real-time to automatically flag (and address!) gaps in our product offering as soon as they arise.
+Visit our Data Science Blog to find out more
+
+To succeed in the role, you will:
+Have a strong analytical mindset and relentless attention to detail.
+Have the ability to see projects through from conception to delivery, bringing actionable insight to bear.
+Have the ability to break down complex problems into manageable parts that can be actioned step by step.
+Have excellent communication skills, including being able to explain complicated concepts in layman’s terms.
+Be able to identify viable business opportunities that can be actioned using data
+
+In this role, you will have the opportunity to:
+Compose complex queries; pulling the information you need from our huge data sets (the biggest of which has more than a trillion data points!)
+Implement machine learning techniques using a flexible variety of tooling and programming languages.
+Work closely with senior leaders, experienced data scientists and a range of others across all levels of the organisation; partnering with them to deliver concrete results on a data led project.
+Attend in-house bi weekly training sessions, covering a range of key technical and soft skills
+Apply for one of our fully funded spaces on the part-time Developer Academy Data Science course (usually costs £5000)
+
+You’ll work with:
+George Mulroy (Head of Data) - George started his career as an infant school teacher before retraining as a Data Scientist (Sheffield Uni Data Science MSc). George now works as Twinkl’s Head of Data, as well as doing occasional contract Data Science Consultancy work.
+Thomas Gibbs - leading our Key Algorithms team
+Leopold Price - leading our Projects team
+Ryan Borthwick - leading our Data Reporting team
+
+Requirements
+
+We're interested in anyone who meets one or more of the following criteria:
+Is excited and passionate about Twinkl’s mission
+Holds a degree (or equivalent) in a quantitative field (e.g. Maths, Computer Science, etc)
+Has 1+ years employed in a role with an analytical focus, including a clear track record of adding value
+Experience of programming in SQL or Python
+Has experience in, or can demonstrate a keen interest in learning machine learning techniques
+
+Not sure you fit all those criteria? Then please feel free to check out our Graduate Data Scientist role.
+
+Twinkl are proud to be an Equal Opportunities Employer. We celebrate diversity within all of our teams and are committed to continuing to build an inclusive workplace for all. If you require a reasonable adjustment to the application/selection process to enable you to demonstrate your ability to perform the job requirements please include this at the foot of your covering letter. This will help us to understand any modifications we may need to make to support you throughout our selection process.
+
+Benefits
+
+In return for everything you can bring, we can offer you an exciting role in a fast-growing and dynamic business, with plenty of career opportunities.
+
+Here’s a couple of the things that make Twinkl a great place to be:
+A friendly, welcoming and supportive culture. We believe work should be fun and always put people before process
+Diversity, inclusion and belonging - our Employee Network Program includes working groups for LGBTQ+, People of Colour, Disabilities (visible and invisible), Women in Tech and Working Parents.
+From day 1 - Westfield Health, 29 annual leave days per year plus up to four additional days that may be awarded each year by the company, flexible working policy with opportunities to work from home, Twinkl subscription, access to a financial wellbeing coach and platform
+After probation - company sick pay and cycle to work scheme
+Long term service reward after 2+ years of service - Life insurance, enhanced pension contribution, enhanced maternity pay, enhanced adoption pay and enhanced paternity pay.

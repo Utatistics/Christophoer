@@ -1,0 +1,81 @@
+MANDATORY
+
+・Applicants must have permission to work in Japan
+
+・Applicants must be able to speak fluent ~ native level Japanese (Equivalent to JLPT N1)
+
+☑Foreign business ☑English language required ☑Japanese language required ☑Remote ☑Flex time
+
+[Position]
+
+Data Science Engineer
+
+[Company Description]
+
+Startup Global Payment Company
+
+What We Offer You
+Diversified team with 150+ colleagues from 30+ countries
+Exciting work opportunities in a rapid-growing organization
+Cross-functional collaboration
+Flexible work-from-home arrangement
+Competitive salary and benefits
+[Responsibilities]
+
+About Position
+
+Data science is a key part of strategic decision-making in the areas of marketing, fraud prevention and credit risk management, and product development. The Data Science Foundations team is looking for a Data Science Engineer with a passion for building scalable, robust, and flexible data pipelines and analytical tools to join our team and make a visible contribution to the company. Your mission will be to understand the needs of our data scientists, and independently develop data pipelines and tools that enable them to build a deeper understanding of our customers and help our grow.
+
+The data engineering products you will build will power dashboards and data products viewed by Executives on a daily basis for strategic decision-making. You will work to build brand new data pipelines from a variety of external data sources like Hubspot, Appsflyer, Onesignal, and more that will serve as the basis for critical data products and some of the first predictive modeling efforts at our company. Your expertise and experience will shape not only the Data & Risk department but impact our strategy for years to come.
+
+Key Role and Responsibilities
+Identify the data needs of data scientists, document their requirements, and develop robust, secure, and scalable data pipelines to enable and accelerate their analyses.
+Own critical data pipelines, help ensure their continued operations, and extend them to meet the needs of the business.
+Be on the lookout for potential improvements to our data marts and aggregations that improve their scalability, make them easier for data scientists to use, and reduce potentially dangerous duplication.
+Help with maintenance and extension of our internal ETL frameworks built on Python and Scala.
+Contribute to the development of documentation and educational materials on tools and data pipelines owned by Data Science Foundations. Provide 1-on-1 project support to data scientists and help them get the most of our tools and data.
+[Requirements]
+
+Skills And Requirements
+You enjoy problem-solving, learning new technologies, and helping others get their work done.
+You are excited to work with data-scientists and business stakeholders to deliver real and visible business value. You like to take ownership of your projects and independently build something new and immediately usable.
+You have worked as a data engineer handling millions of records per day.
+You have experience in SQL and Spark that goes beyond the basics and have worked with Python and/or Scala.
+You have experience with using a batch job tool such as Prefect or Airflow (we use Prefect)
+You are comfortable working with existing code using git or another VCS in a team-setting.
+You must be eligible to work in Japan and be able to conduct business in English to communicate with stakeholders and team members.
+Nice To Have
+Experience with AWS or cloud computing and cloud infrastructure in general. Experience with SageMaker, Glue, EMR, S3, RDS, Redshift are a big plus.
+You know how to maintain and optimize a PostgreSQL database.
+Experience as a data scientist, scientific researcher, or in a data analytics role.
+Worked with Terraform or similar Infrastructure as Code technologies.
+You are familiar with the concept of CI/CD (CircleCI, Jenkins, ...).
+You have worked on a payment platform or other financial technology field.
+You have worked with and understand the concept of NoSQL databases and message brokers. Experience with ElasticSearch, Kafka, Cassandra would be useful.
+[Salary]
+
+8-11 million JPY
+
+[Welfare]
+
+Social insurance
+
+[Holidays]
+
+Full 2 holiday week system (Sat/Sun) national holidays
+
+New year's holiday
+
+Annual Leave
+
+Please click "apply" if you are interested in the job.
+
+We will review your profile and contact you within five business days should we find that you satisfy the requirements of the hiring company.
+
+Further details about the company and position will be notified at a later date.
+
+Reference: JO-2208-473093
+
+Seniority Level: Associate
+
+Job Function: Information Technology, Analyst

@@ -1,0 +1,64 @@
+Job Description
+
+Business Overview
+
+Rakuten Bank, the online-based bank of Rakuten Group, was the first internet bank in Japan to reach 11 million accounts.
+
+Department Overview
+
+The Rakuten Bank Data Intelligence Department was established in 2017 and aims to strategically utilize our data. We are supporting decision-making such as strategy planning, marketing measures, investment, and credit administration by analyzing big data owned by Rakuten Bank and Rakuten Group. Our mission is to contribute to improving profitability and operational efficiency through these activities.
+
+We do more than just aggregate data. Recently, we have been focusing on AI development. Some of our models and algorithms have been built based on machine learning and are utilized for predicting things such as exchange rates and incoming customer calls. At the same time, we also have a mission to foster an analytical culture that enables Rakuten Bank to grow as a data-driven organization.
+
+We are the department that leads the company from the perspective of data utilization.
+
+Why We Hire
+
+We are looking for personnel for advanced data analysis and strengthening the data analysis platform for all of Rakuten Bank. In addition to big data analysis, it is possible to gain a wide range of experience relating to data including AI development, application development, and organizing study sessions.
+
+Position Details
+
+Responsibilities
+
+Service planning and proposal based on data analysis: We perform multi-faceted analysis using Rakuten Bank, Rakuten Group, and external data. In addition, we support front office decision-making, and plan and propose new services based on analysis results.
+Development of data infrastructure / fostering a culture of data analysis: We are preparing an environment where every department can use cross-sectional data. For this, we are developing a database for analysis and introducing BI tools in-house. We organize study sessions and actively promote the sharing of knowledge.
+
+Stakeholders
+
+We have the opportunity to interact with various departments within the company, such as the Sales (retail/corporate), Account Management, and Customer Center. In addition, we are collaborating and actively discussing data utilization with group companies such as Rakuten Group and Rakuten Card.
+
+Mandatory Qualifications
+
+5+ years work experience with data analysis using Python / R / SQL
+Experience with data extraction and data analysis using database (SQL)
+Experience with Linux command usage (shell / shell script)
+Basic knowledge of statistics / machine learning
+Experience creating reports and dashboards using BI tools (Tableau / MicroStrategy / Power BI, etc.)
+Communication skills that allow you to listen to and understand the other person's story and convey your thoughts in an easy-to-understand manner
+Logical thinking that can make decisions efficiently and rationally
+Problem-solving ability to understand the essential needs of the other party and lead to a solution through hypothesis and verification
+
+Desired Qualifications
+
+Experience with data analysis and development in the banking industry
+Experience with analysis project promotion
+Experience with public cloud usage (AWS, etc.)
+Experience with web access analysis experience
+Experience building, operating, and maintaining data warehouses / data marts
+Experience with VBA development
+Experience with Model development
+Experience with data processing (ETL / ELT)
+
+Additional Information on Location
+
+Tokyo (Shinagawa)
+
+Additional Information On Secondment
+
+This position will be employed by Rakuten Group, Inc. and seconded to Rakuten Bank, Ltd.
+
+#engineer #datascientist #researcher #fintechgroup #RakutenBank #Python
+
+Languages
+
+Japanese (Overall - 4 - Fluent)

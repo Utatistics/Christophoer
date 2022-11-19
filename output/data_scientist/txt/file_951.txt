@@ -1,0 +1,81 @@
+Job Id: 22442853
+
+Overview of Citi:
+
+Citi, the world leading global bank, has approximately 200 million customer accounts and a presence in more than 160 countries and jurisdictions worldwide. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. Citi enables clients to achieve their strategic financial objectives by providing them with cutting-edge ideas, best-in-class products and solutions, and unparalleled access to capital and liquidity.
+
+Team/Function Overview:
+
+Compliance Technology is building sophisticated surveillance solutions on top of a distributed data platform. The volume and variety of data involved in surveillance and the complexity of identification in one of most challenging and appropriate use cases for big data technologies. Hands on Markets Analyst required for a key role in the delivery of industry leading financial markets fraud detection solutions.
+
+Development Value:
+The successful candidate will get global exposure to senior leaders in the Institutional Compliance space
+The candidate will become proficient at operating within a Big Data environment applying cutting edge techniques to enhance and on-board new
+The candidate will increase their knowledge of traded product across Equities, Rates, FX and Commodities
+Job Description:
+The Compliance Technology Traded Markets Data Science team is expanding our reach into more effective surveillance methods to be delivered using our strategic platforms
+These platforms allow users to monitor trading activity across multiple asset classes and information barriers, on an end of day and ideally a real-time basis for indications of various forms of market abuse
+The team is seeking an AI/ML Data Analyst to join the team in Belfast
+The proper hire will be part of a team responsible for producing models using both existing methodologies and next generation heuristic and AI/ML techniques to assist our Global Compliance stakeholders in meeting growing regulatory surveillance requirements
+Tasks will include:
+Proper advanced data analytics
+Warehousing of best practices in data wrangling
+Building data accuracy techniques
+Working closely with data scientists, developers, data analysts, business analysts and architects to guide the implementation and validation of the solutions at scale in a big data production environment.
+This role will provide an excellent opportunity to become a key player in the design, prototype, and implementation of new industry leading surveillance techniques based on advanced data analytics and behavioural analytics.
+Experience/Knowledge/Responsibilities:
+The successful candidate must have knowledge of institutional traded products with outstanding attention to detail
+Exposure to a Big Data environment and the complete suite of python libraries
+Excellent written and oral communication skills and ability to express ideas to people from various business and technology backgrounds
+Delivers analytics initiatives to address business problems with the ability to identify data required, assess time & effort required and establish a project plan
+Demonstrable knowledge of data processing and collection related to various types of data evaluations
+In addition, the following will be a distinct advantage:
+Experience with Capital Markets traded products
+Deep SQL, adequate Python experience and the various python libraries related to financial analysis
+Experience working with Big Data technologies; Hive, Hadoop, Spark
+Bachelor’s degree in business, finance, and/or engineering
+Master and/or Ph.D. ideal
+What we Offer:
+
+As well as a competitive salary and consideration for a yearly discretionary bonus Citi offer;
+23 days paid annual leave
+Award winning pension scheme,
+Life assurance and
+Private medical insurance with Bupa healthcare.
+In addition, we offer a competitive maternity, paternity and adoption leave scheme. We pride ourselves on our ability to offer employees a number of lifestyle benefits including; on site restaurant and coffee shops, online shopping and concierge service and subsidised clubs and societies.
+
+Our Select benefit package offers you the opportunity to customise your benefits according to your own lifestyle preferences and includes corporate discounts, memberships and a range of additional extras.
+
+Our vast range of diversity networks and on site multi faith room demonstrates Citi’s commitment to growing a diverse workforce.
+
+-------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+-------------------------------------------------
+
+Job Family:
+
+Applications Development
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting

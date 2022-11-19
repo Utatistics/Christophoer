@@ -1,0 +1,71 @@
+Lead the planning, design and execution of data projects,
+Manage a team (3-5 members) consisting of data scientists, analysts, and potentially engineers, providing mentorship and guidance as appropriate.
+Work closely with internal consultants and business stakeholders to ideate, evaluate and execute projects, ensuring work is aligned with organizational goals.
+Design and execute experiments and otherwise design and implement appropriate evaluation approaches.
+Prioritize tasks for yourself and your team members.
+Take a hands-on role in analytics and coding work as appropriate.
+Investigate and experiment with new models and techniques
+
+【求められる経験・スキル / Required Experience And Skills】
+
+At 1 year of experience in managing a data team (3+ members)
+3+ years of overall DS/ML/AI work experience.
+Experience designing and implementing (or leading the implementation of) data science solutions for real business problems.
+Solid understanding of foundational concepts in statistics and ML: probability, regression, random forest, etc.
+Interest in continued learning (new problem domains, algorithms, tools, etc).
+Fluency in Python (pandas, scikit-learn or equivalent tools) for data analysis and model building.
+Experience working with big data, e.g. via Hadoop, Spark, AWS, GCP, etc.
+High familiarity with using SQL for data analysis purposes.
+Ability to work collaboratively in a team environment and work effectively with people at all levels in an organization.
+Ability to distill complex data and findings into clear, presentable reports.
+Ability to effectively communicate with non-technical as well as technical audiences.
+
+【学歴】
+
+大学卒業以上
+
+【職種 / type of occupation】
+
+データサイエンティスト
+
+【給与 / salary】
+
+年収 1,200 〜 1,600万円
+
+【賞与】
+
+【雇用形態 / employment status】
+
+正社員
+
+【就業時間 / working hours】
+
+09:00～18:00
+
+【休日休暇 / holiday】
+
+日曜日,土曜日,祝日
+
+【保険 / social insurance】
+
+健康保険,厚生年金保険,介護保険,雇用保険,労災保険
+
+【待遇・福利厚生】
+
+休憩室,更衣室,食堂
+
+受動喫煙防止措置
+
+敷地内禁煙
+
+【特長 / features】
+
+上場企業, 海外勤務あり, 女性活躍中, 服装自由, 土日祝休み, 完全週休2日制, 年間休日120日以上, 月平均残業時間20時間以内, フレックスタイム制, 語学力を活かす, グローバル人材歓迎
+
+【業種 / industry】
+
+ソフトウェア・情報処理
+
+Job ID: VAC-237725/
+
+Seniority Level: Mid-Senior level

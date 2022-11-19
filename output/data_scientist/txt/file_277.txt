@@ -1,0 +1,50 @@
+Opportunity to collaborate with worldwide stakeholders in a global company|Wide variety of analytics activities using advanced algorithms
+
+
+About Our Client
+
+Global Chemicals Specialist, driving sustainability, eliminating waste and helping their customers consume responsibly.
+
+Job Description
+
+We are seeking a Data Scientist like you, to join our Data Science & Analytics team.
+
+In this role you will have the opportunity to be involved in a wide variety of data analytics activities. This includes using advanced algorithms to create predictive models, in addition to work that supports/enhances our systems, processes and tools.
+
+In addition, you will consult with subject area experts on data and statistical matters. Work will be both self-directed and under the guidance of more senior data scientists.
+
+Your ability to create high quality statistical models and to assess and interpret data, processes and complex systems is critical, as is, strong interaction and communication skills.
+
+The role will have a high level of autonomy, freedom to manage your own time, and the opportunity to collaborate with highly skilled teams and individuals including project managers, formulators, chemists, and engineers along with other data scientists.
+
+Objectives-
+
+Create predictive models by mining complex data. In your role you will use advanced methods to dive into intricate chemical data and build empirical models that will be used by the business in product development and deployment, manufacturing and/or supply chain.
+
+Support analytics systems including the development and maintenance of systems, processes, and algorithms. You will contribute to the integration, enhancement, and deployment of our analytics systems and tools which provide insightful information and enable our engineers, formulators, and program managers to make timely, data-driven decisions.
+
+Collaborate and consult with data scientists and subject-area experts on statistics and data analytics problems. As a member of the Data Science & Analytics group, you will participate in diverse project work in partnership with other departments throughout the company, including manufacturing, operations, supply chain, and businesses across the organization. Your ability to communicate well will help to provide our customers, functional groups, and management team with meaningful insights from data.
+
+Research and implement new statistical, machine learning and optimization approaches. You will contribute to the enhancement of our modelling approaches and analytics systems and tools to enable timely, data-driven decisions. Research areas may include machine learning modelling, feature selection, transfer learning, nonlinear optimisation, reinforcement learning, forecasting, auto-updating models, and more
+
+The Successful Applicant
+
+Bachelor's, Master's or PhD in statistics, operations research, data analytics, data science or closely related field
+Ability to effectively use advanced algorithms to assess complex data resulting in practical insights
+Highly skilled in R or Python
+Strong problem solving and deductive reasoning skills
+Creativity and curiosity with the ability to learn and apply new concepts quickly
+Ability to interact effectively with a wide variety of individuals
+
+Desirable -
+Strong background, or for PhD candidates, research in one or more of the following areas: Bayesian modelling, machine learning, optimisation, reinforcement learning or time series.
+What's on Offer
+
+We offer a comprehensive benefits package including discretionary annual bonus, competitive pension scheme and private medical cover. We will support you to develop your own skills and progress as part of a global organisation.
+£60,000 + Bonus
+Hybrid Working
+Excellent progression and development
+
+Contact: Lloyd Hayward
+
+Quote job ref: JN-072022-5687815

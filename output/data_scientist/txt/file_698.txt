@@ -1,0 +1,29 @@
+Warwick
+
+Hybrid working
+
+As Senior Data Scientist youll be working within the Data Science group to deliver the objectives regarding handling, analysis and reporting of data for all processes relating to the companys dialysis systems operating in the field.
+
+Quanta Dialysis Technologies is a pioneering medical device company based in Warwickshire. We are on a mission to become the world's leading provider of self-care solutions for haemodialysis patients, and we are only at the beginning of our story.
+
+Quanta is focused on the commercialisation and ongoing development of SC+, an innovative cartridge-based haemodialysis system. SC+ is a high performance, compact haemodialysis system which is revolutionising this market sector.
+
+We operate an ever-increasing number of dialysis systems in the market. It is essential, that such data is handled, analysed and reported in a timely manner to maintain clear visibility on the progress against company objectives and highlight any issues.
+
+Requirements
+
+As the preferred candidate for the role of Senior Data Scientist youll:
+Have a background in data science in a medical device organisation.
+Be an Expert programmer in a language suitable to technical computing (e.g. Matlab, Python, R, etc.)
+Have a proven track record at applying signal processing techniques
+Be familiar with descriptive statistics and machine learning techniques.
+In Return We Offer
+
+Benefits
+Competitive base salaries dependant on experience
+Company bonus scheme
+Life Assurance
+Income Protection
+Flexible working conditions
+Perkbox
+If you meet the criteria for Senior Data Scientist and would like to be part of our journey, apply with a CV now. Your next career move could be just around the corner!

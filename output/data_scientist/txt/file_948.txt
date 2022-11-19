@@ -1,0 +1,35 @@
+The Company
+
+An incredibly exciting performance data analytics platform company. They identify what data can make the biggest impact for a company, transform it quickly and cost-effectively from a wide range of sources and ultimately make it clear, reliable and easy to manage.
+
+They are always reaching for the latest approaches, tools and technology to enable themselves to move fast and deliver more value. As well as being an extremely intelligent group, this is a really sociable company – both inside of work, through knowledge sharing sessions and outside of work.
+
+The Role
+
+As this is a small, yet expanding data science team, they are still defining how they work and how their platform should function, which means there’s plenty of new ground to explore!
+
+As a member of the data science team you will:
+
+Develop use-cases directly with their customers and steer their implementations to drive at the most valuable outcomes.
+Shape their data science culture and how they work. They would like to learn from your experience.
+Keep up-to-date with the latest developments in research, applications, and technologies.
+Teach and learn from other members of the team.
+Make material contributions to automation capabilities of our in-built Decision Engine platform.
+
+The data science infrastructure is based in AWS and integrated with Sagemaker. Pipelines are built with Python, SQL (via DBT), Pyspark, and productionised in Docker. Models are built in multiple frameworks (ScikitLearn, XGBoost, Pytorch, and Tensorflow) – you will pick the best tool for the job. The team
+
+works across the whole lifecycle of model development, from exploration and prototyping in Notebooks through to deployment and maintenance in their Decision Engine platform.
+
+The Individual
+
+This organisation is looking for experienced data scientists to build up the core team, as they need to
+
+grow their capacity to mentor before hiring less experienced team members.
+
+You should come with experience of the entire machine learning lifecycle, including managing productionised workflows. Python and cloud experience is highly preferential.
+
+As an individual, key attributes include; curiosity, collaboration, clarity and trustworthiness.
+
+Job Owner: d.prosser
+
+Tagged as: AWS, Python, Spark

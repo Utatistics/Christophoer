@@ -1,0 +1,33 @@
+Accountabilities
+
+Gathers and identifies local data analytics possibilities/initiatives/requests in collaboration with stakeholders at site, IT and global GMSGQ data analytics.
+Drives creating roadmap of site and execute local implementation in alignment with GMSGQ data analytics roadmap initiatives.
+Drives local data analytics initiatives, such as for Predictive Maintenance, Down Time Analysis and respective Database management.
+Manages and drives local process monitoring and process improvement in collaboration with global GMSGQ data analytics (e.g. descriptive statistics and visualization, statistical process control, out-of-the-box-tools)
+Manages, drives and executes respective reporting in collaboration with global GMSGQ data analytics (e.g. automated daily/monthly/annual, Stability Analysis Targets)
+Supports and participates in global/functional/local GMSGQ data analytics community.
+Coach and support not only data scientists (relatively junior), machine learning engineers and data scinece specialists, but also people in production/manufacturing science to accelerate Digital Transformation with increasing knowledge and capability of data analysis
+
+DIMENSIONS AND ASPECTS
+
+Technical/Functional(Line)Expertise
+
+Excellent organizational and coaching skills essential Expertise and experience in Digital / Data sceince / Artificial Intelligence / Machine Learning:
+Expertise in Signal Processing, Control Systems, Mechatronics
+Knowledge of Statistical Process Control
+Experience in Machine Learning algorithms (CNN, SVM, LSTM, etc.)
+Respective programming knowledge of either MATLAB/Python/R required, further skills such as C++, SQL etc. are advantageous
+Experience in quality mapping of parameters is a plus
+Expertise in Bayesian statistics:
+Experience in Density estimation
+Knowledge in Bayesian Hypothesis Testing,
+Knowledge in ANOVA and forecasting techniques (ARIMA, ARMA, NARX)
+Prior experience of Biostatistics, stochastic modellingand decision trees is a strong asset
+
+Computer Futures is part of the larger SThree K.K group
+
+To find out more about Computer Futures, please visit www.computerfutures.com | Computer Futures についてもっと詳しく知りたい方はこちらへ→ www. computerfutures.com
+
+Award Winner Of
+
+Great Place to Work 2019 | Growth Company of the Year by TALint Recruitment Awards 2019 | Best IT & Technology Recruitment Company of the Year by Recruitment International Awards 2018

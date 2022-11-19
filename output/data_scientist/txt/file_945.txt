@@ -1,0 +1,38 @@
+If you need assistance during the recruiting process due to a disability, please reach out to our Recruiting Accommodations Team through the Accommodation Request form . This form is used only by individuals with disabilities who require assistance or adjustments in applying and interviewing for a job. This form is not for inquiring about a position or the status of an application.
+
+Are you passionate about solving real world problems with advanced machine learning methods?
+
+Expedia is looking for a Machine Learning Scientist/Practitioner to join the core data science team that powers marketplace design and yield management for Expedia Group. Our mission spans many areas that are core to our business, including search and sort, referral marketing, revenue management and geography. Your work will affect millions of our customers and will have a direct impact on our business results.
+
+This position will anchor the core data science team that builds algorithms for Travel Ads, our in-house performance marketing solution. Our challenges include mechanism design, optimizing the balance between advertising and transactional revenue and using behavioral data for segmentation, personalization and more. This is an applied research role – your models will be deployed to our production systems and your results will be measured objectively via A|B testing.
+
+Expedia has deep and rich data sets, many still untapped, and your passion for the craft of statistics and machine learning has the power to unlock tangible growth for our business. We are looking for someone with hands on experience building machine learning models, either in an academic or industrial setting. You should have an advanced degree (PhD preferred) in machine learning / computer science or other quantitative discipline. The ideal candidate will have experience in online advertising models, especially click-based ones.
+
+What You Will Do
+Understand the business problem, identify the key challenges, formulate the machine learning problem and provide/prototype solutions
+Be able to debug and correct your data assumption through AB testing
+Document the technical details of your work
+Collaborate and brainstorm with other team members
+Collaborate extensively with stakeholders, program management, and software development team members to ensure that solutions meet business needs, permit valid inferences, and have functional feasibility.
+Who you are:
+PhD or MS in computer science or equivalent quantitative fields with background both machine learning (PhD preferred) and software development
+3+ years industry experience and hands on experience building machine learning models
+Strong algorithm design and programming skills in at least one high level language like C++/Java/Scala, and scripting languages like Python/R
+Experience with distributed computing (Hadoop/Spark)
+Hands-on experience with deep learning technologies are a plus
+Passion for solving interesting and meaningful real-world problems using principled techniques and practices
+2+ years’ experience of working with live data (data cleaning, data visualization and modeling)
+Collaborates well in a team and sensitive to clients' needs, while developing warm relationships
+Experience with documenting, synthesizing, and communicating results.
+Willingness to think through ambiguous problems with others
+Published original work in Machine Learning
+Experience with online advertised models would be ideal!
+About Expedia Group
+
+Expedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™.
+
+© 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+
+Employment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals to whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is lifeatexpediagroup.com/jobs .
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, gender, sexual orientation, national origin, disability or age.

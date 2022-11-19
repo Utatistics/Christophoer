@@ -1,0 +1,88 @@
+Job description:
+
+
+
+Senior Data Scientist
+
+
+
+About GFT
+
+As a pioneer for digital transformation GFT develops sustainable solutions across new technologies – from cloud engineering and artificial intelligence to blockchain/DLT. With its deep technological expertise, strong partnerships and comprehensive market know-how GFT offers advice to the financial and insurance sectors, as well as in the manufacturing industry.
+
+We have been recognised for our engineering excellence and work side by side with our clients in an agile way to solve their most challenging problems. Companies gain easy and safe access to scalable IT applications and innovative business models.
+
+Who are we?
+
+GFT are a modern company with a passion for technology that thrives on collaboration with our clients and celebrates success with our team. We are an organisation that empowers you to not only explore but raise your potential and seek out opportunities that add value. You will work in a supportive environment with a diverse and inclusive team that is always learning and developing whilst working closely with our colleagues across the globe. Most importantly we care about people, cultures and opinions, and show everyone equal respect.
+
+
+
+Role Summary
+
+We are looking for a technologist to join the GFT team and help deliver AI, ML and Data Science solutions with our team in Cambridge or London. This position will be based in Cambridge but national and international travel may be required, you may be expected to travel to London for 1 or 2 days a week.
+
+
+
+Role Responsibilities
+
+Strong development track record with Python and Agile development practices.
+Experience of systematically organising and migrating analytic or machine learning systems.
+Understanding of statistics and statistical methods (i.e.. Bayes).
+Team management and leadership (3-4 people).
+Demonstrates understanding of testing and release to production processes.
+Demonstrated thought leadership in emerging technologies.
+Familiarity with cutting edge Data Science, AI and ML technology.
+A strong grasp of data architectures and big data technologies and solutions.
+Experience of delivering real world systems that have substantial AI or ML components.
+Understanding of the limitations and drawbacks of novel AI and ML technology and the mitigations that can be used to manage these.
+Ability to identify and manage complex technical deliverables to meet program requirements, can prioritise and plan work.
+Balancing best of breed technical implementation with the commercial / business schedule and work within budget imperatives.
+Stakeholder engagement and influencing.
+
+
+Competencies and Skills Needed
+
+Behavioural Skills:
+
+A desire for learning and a willingness to experiment and work with new technologies and ideas.
+Always positive about new ideas but able to think critically and practically.
+An ability to apply structured thinking, simplifying complex problems into component parts, to the resolution of project challenges.
+Working practices; thorough with high standards of work.
+Effective communication and interpersonal skills to be able to establish rapport with people at all levels.
+An eye for detail and accuracy, and an affinity with design issues and the ability to help establish an own a vision for our solutions.
+The ability to work in teams and knowledge of agile processes & ceremonies such as Scrum, SaFe and Kanban.
+The ability to size and scope stores at an appropriate level to support completion within a sprint.
+Organizational ability and tenacity; able to think ahead in order to establish an efficient and appropriate course of action for self and others.
+Take a proactive approach to work, good with handling uncertainty and can manage their work without close supervision.
+A strong sense of ownership and a desire to deliver quality outcomes for the business.
+Demonstrated strong oral and written communication skills.
+Provide industry thought leadership via speaking at conferences and events, writing blogs posts and white papers.
+
+
+Essential Technical Skills:
+
+Strong technical architectural and design skills combined with a confident white board manner
+Python, SQL, Pandas, Scikit-learn and Spark – (Essential)
+
+
+Desired Knowledge of:
+
+Programming languages: Java, Scala.
+Deep learning frameworks : TensorFlow, Pytorch
+Cloud architectures : especially GCP.
+Big data frameworks: EMR, Hadoop.
+Streaming frameworks: Spark streaming, Apache Flink, Apache Kafka.
+ETL/ELT: Airflow, Nifi, AWS Glue, GCP Pub Sub.
+Serverless architecture knowledge: Lambda, Kubeless, Cloud functions.
+Documentation and Process: Jira, Confluence, GitHub.
+Infrastructure as code: Cloud Formation, Chef, Terraform, Ansible.
+
+
+What we offer you
+
+You will be working with some of the brightest people in business and technology on challenging and rewarding projects in a team of likeminded individuals. GFT prides itself on its international environment that promotes professional and cultural exchange and encourages further individual development.
+
+
+
+Founded in 1987 and located in 15 countries to ensure close proximity to its clients, GFT employs over 10,000 people. GFT provides our people with career opportunities in all areas of software engineering and innovation. The GFT Technologies SE share is listed in the Prime Standard segment of the Frankfurt Stock Exchange.

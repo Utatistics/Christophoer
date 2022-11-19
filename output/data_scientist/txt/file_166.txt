@@ -1,0 +1,42 @@
+Data Scientist in Decision Science
+
+JPMorgan Chase & Co. is expanding its consumer business by launching a new digital bank in the UK. We will offer consumers a completely new banking choice when we launch in the coming months. Using the Chase brand, the bank will provide products and features tailored to meet the needs of customers in the U.K., delivered via an innovative mobile app.
+
+Our team is at the heart of building this new venture, focused on developing offerings that put the customer at the center. We have created a new organization and we are looking for solution-oriented, commercially minded, customer-focused data scientists, used to working in an agile environment who want to be a part of building something new from the ground up within a diverse and inclusive team.
+
+Culture is as important to us and we are looking for intellectually curious, new technology passionate individuals who would like to expand their skills whilst working on a new exciting venture for the firm. Your work will have a massive impact, both on us as a company, as well as our clients and our business partners around the world.
+
+This is a hands-on data scientist role within a digital and data-driven green-field initiative. We leverage the latest technologies and machine learning techniques and the best industry practices to deliver an end-to-end cutting-edge solution to our clients.
+
+Your Skills Should Include
+
+Qualifications
+MSc or PhD in a computer science or STEM (science, technology, engineering or mathematics) related field or the foreign equivalent
+Desired:
+Evidence of real-life experience with end-to-end machine learning projects
+Statistics and Machine Learning
+In-depth knowledge of statistics and machine learning (required: supervised and unsupervised learning)
+Understanding of current challenges surrounding artificial intelligence: A.I. ethics, fairness, data leakage, model drift, etc.
+Desired:
+Reinforcement learning (including multi-armed bandits)
+Multi-task learning
+Transfer learning
+Semi-supervised learning
+Software
+Experience using Python and related libraries (required: TensorFlow; desired: PyTorch, TF probability, GPFlow)
+Desired
+Understanding of distributed systems and cloud technologies (AWS, GCP, Azure, etc.)
+Understanding of relational databases
+Understanding of data streaming and messaging frameworks (Kafka, Spark Structured Streaming, Flink, etc.)
+Experience with SQL (any dialect)
+E xperience with containers and container-based deployment environment (Docker, Kubernetes, etc.)
+Soft Skills
+Ability to work in a collaborative environment and coach other team members on coding practices, design principles, and implementation patterns that lead to high-quality maintainable solutions.
+Ability to work in a dynamic, agile environment within a geographically distributed team
+Ability to focus on promptly addressing customer needs
+Ability to work within a diverse and inclusive team
+Technically curious, self-motivated, versatile and solution oriented
+Excellent written and verbal communication skills in English
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

@@ -1,0 +1,78 @@
+At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and make a difference.
+
+Around the world, we are passionate about making an impact on the lives of patients with serious diseases. Empowered to apply our individual talents and diverse perspectives in an inclusive culture, our shared values of passion, innovation, urgency, accountability, inclusion, and integrity bring out the highest potential of each of our colleagues.
+
+At Bristol Myers Squibb, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology, and cardiovascular disease – and one of the most diverse and promising pipelines in the industry – each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer. Join us and let’s make a difference together.
+
+Functional Area Description
+
+Department Business Insights & Analytics (BI&A)
+
+Functional role of BI&A is to provide analytical insights to the commercial business units Oncology, Hematology and Immunology via market research and other exploratory data analysis. Data Science & Decision Analytics (reporting to BI&A) focusses on analytics leveraging the advanced machine learning methodologies to support the overall commercial strategy and other business programs.
+
+Job Title
+
+Data Scientist / Senior Manager (Data Science Team)
+
+Position Summary/Objective
+
+To support BMS Japan Commercial Strategy, the data scientist develops and delivers advanced analytics and modeling capabilities to Japan commercial team to drive analytically informed decision making. The position’s primary focus is on AI based advanced analytics to support the organization’s growing omni-channel activities for quality customer engagement, incremental sales, new opportunity identification etc.
+The position also supports developments in AI based advanced analytics applied to Real World Evidence datasets to generate patient-centric insights informing commercial strategy and hypotheses for evidence generation.
+
+Roles & Responsibilities
+Provide commercial teams actionable insights into commercial strategies and tactics for key products in key markets. Help make better business decisions derived through strategic data analysis and complex statistical techniques.
+With strong knowledge of data science pipeline management, hands-on solution development starting from the definition of key business questions and hypotheses collection, data sourcing and preparation, statistical model development, insight generation, testing and deployment and finally followed by feedback collection for continuous enhancement.
+Leverage classical and advanced deep learning methodologies (cloud-based machine learning platforms such as Domino DataLab) to develop and optimize ML models in the areas of
+Customer Profile Enrichment (NLP of journal publication, in-house activity data etc.)
+Customer Segmentation for Effective Omni-Channel Engagement
+Account Level Sales Prediction
+Patient Related Prediction
+Drug Prescribing Potential
+Customer Propensity Scoring
+Next Best Actions
+And many other analytical activities.
+Execute hands-on analytics (Proof of Concepts, MVP Pilots etc.) while possibly managing 3rd party vendors and consultants.
+Identify relevant data sources and coordinate acquisition with procurement teams.
+Liaise with worldwide, other geographies and functional teams for efficient sharing and strategic adoption of learnings and capabilities. Contribute to the development and deployment of innovative analytical approaches and best practices.
+Employ disruptive thinking to improve value to the business and our patients through deepened market understanding, streamlined business engagement and practically applied, data driven analytics.
+Translate complex analytics into actionable recommendations and propose feasible solutions. Communicate concisely using the most appropriate approach for different stakeholder.
+Demonstrate thought leadership and contribute to designing the future-state of advanced analytics use-case pipeline.
+Work together with onshore and offshore resources, as well as external consultants.
+
+Note These responsibilities are only a summary and other responsibilities will be assigned as required.
+
+Qualifications & Skills Required
+
+Graduate degree in quantitative field (Statistics, Computer Science, Economics, Engineering, Finance, Applied Mathematics, Business Administration etc.)
+5+ years of experience as a hands-on data scientist and driving advanced analytics implementation.
+Passionate about initiating new ideas and executing them. Strong interest to continuously learn & grow.
+Strong communication and presentation skills. Fluency in English and Japanese.
+Strategic and creative thinker. Ability to seek innovative solutions to complex business problems
+Strong inter-personal skills and ability to influence cross-functional teams supported by facts and insights for impactful decision making. Agility and comfort with ambiguous situations.
+Proven track record of professional success in advanced analytics role.
+Very good Knowledge of the most important classical machine learning models (Classification, Regression, Clustering, Time-Series Analysis, Dimensionality Reduction etc.)
+Knowledge of deep learning models (Convolutional Neural Network, Recurrent Neural Network etc.) and other neural networks.
+Deep knowledge of Python/R/SAS (JupyterLab, Jupyter Notebooks etc.)/SQL and high-level knowledge of data warehouse platforms.
+Knowledge of the most common ML/DL frameworks (Scikit-Learn, Pandas, Tensorflow, Transformers, PyTorch, Keras, Matplotlib)
+Experience in Natural Language Processing (BERT based models) of both Japanese and English language data sources is a huge plus.
+Intensive experience in data modeling, data manipulation and visualization. Basic concept of visualization with Tableau, Qlik, Spotfire, PowerBI or with open-source based frameworks such as R/Shiny, Python Plotly Dash, Python Streamlit is a huge plus.
+BMS BioPharma Behaviors Required Integrity, Innovation, Urgency, Passion, Accountability, Inclusion
+
+Nice-To-Haves
+
+Pharma industry background
+Experience with Data Management Platforms
+
+Key Stakeholders
+
+Other teams under BI&A
+Business Units, Strategic Program, Field Force, Medical, Digital Marketing
+Major Market Commercial Teams
+US Data Science
+On-Shore and Off-Shore Analytics Delivery Resources
+
+Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives.
+
+Around the world, we are passionate about making an impact on the lives of patients with serious diseases. Empowered to apply our individual talents and diverse perspectives in an inclusive culture, our shared values of passion, innovation, urgency, accountability, inclusion and integrity bring out the highest potential of each of our colleagues.
+
+Bristol Myers Squibb recognizes the importance of balance and flexibility in our work environment. We offer a wide variety of competitive benefits, services and programs that provide our employees with the resources to pursue their goals, both at work and in their personal lives.

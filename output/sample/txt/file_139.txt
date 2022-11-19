@@ -1,0 +1,53 @@
+Job Description
+
+Business Overview
+
+Are you interested in building the next generation of Internet services that will impact hundreds of millions of users across the globe every day?
+
+Rakuten is one of the leading e-commerce companies in the world. We provide several Internet services such as EC marketplace, travel booking services, digital contents and FinTech. Our mission is to empower people and society through the internet as a Global Innovation Company.
+
+Department Overview
+
+Our department, the Membership Platform Department (MPD) is thinking big: we build scalable platforms that empower the Rakuten Ecosystem worldwide.
+
+The Fraud Prevention Section is responsible for building the fraud platforms and investigating various forms of fraud.
+
+We combine the latest technology, architecture solutions, and fraud modeling capabilities to develop a scalable, high-performing system which processes billions of transactions in real-time.
+
+Position
+
+Why We Hire
+
+The core responsibility is to protect accounts and transactions from fraud in real-time.
+
+Position Details / Responsibilities
+
+Expected to produce production quality models and engineering designed from scratch, or in conjunction with 3rd party organizations to reduce fraud using a variety of languages and technologies such as Python, Go, Java, Spark, Cloud.
+Acquiring and analyzing new signals, devices, telemetry for the purposes of reducing fraud.
+May need to support emergencies on-call 24/7 situations.
+
+Mandatory Qualifications
+
+M.S. in Applied Mathematics, Statistics, Physics, Computer Science, Engineering, or other scientific field.
+Overall 7+ years experience in quantitative models design, engineering, production deployment, experimentation, visualization and presentation.
+Comfortable with intermediate to advanced topics in probability, statistics, applied mathematics, physics and other related scientific disciplines.
+
+Desired Qualifications
+
+Ph.D. or PostDoctorate in Applied Mathematics, Statistics, Physics, Computer Science, Engineering, or other scientific field.
+Substantial research experience with publications in top double-blind peer reviewed journals (e.g. IEEE, ACM, etc.) or grants.
+Prior specialized engineering or research in Captcha, Biometrics, Multi-Factor Authentication (MFA), Cryptography, etc.
+Prior employment in a fraud prevention organization, large R&D facility or large finance organization.
+Prior experience in languages such as Fortran or C for writing optimized code.
+
+Other Information
+
+Additional information on Location
+
+Tokyo or Osaka
+
+#engineer #jobcategory02 #datascientist #researcher #jobsubcategory12 #technologyplatformdiv #organization13 #Java #programminglanguage02 #Python #programminglanguage06 #Go #programminglanguage08
+
+Languages
+
+English (Overall - 3 - Advanced)

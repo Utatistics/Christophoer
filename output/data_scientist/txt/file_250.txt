@@ -1,0 +1,53 @@
+About this opportunity:
+
+Supply Chains rely on visibility and transparency to effectively manage processes and changing customers’ demands. Though, the “changing” aspect of this process, requires us to constantly evaluate multiple scenarios and simulate different alternatives needed to make effective decisions. Here is where we want to apply technology, in terms of Artificial Intelligence and Machine Learning models, to optimize our costs, improve our processes and automate our decisions. We have around 25 use-cases now and a results-oriented agenda to onboard excellent talent to complete our plans.
+
+We are looking for an experienced, dynamic, customer focused, techno-commercially skilled Senior Data Scientist to lead discussions with customers End-to-End and take a consultative approach with responsibilities for scope, defining and designing solution offerings for our customers along with Cross-selling and delivering on data projects for key clients, growing revenue and producing case studies. As Senior Data Scientist you will be developing scientific methods, processes, and systems to extract knowledge or insights to drive the future of applied analytics. You will provide thought leadership, perform sophisticated statistical analytics, and build insights into data to deliver to the business useful insights, identify trends, and measure performance which address business problems, whilst collaborating with the business, process owners and our customers to understand business issues, and with engineers to implement and deploy scalable solutions, where applicable.
+
+What you will do:
+Lead discussions with customers End-to-End and take consultative approach
+Be part of use cases, drive discussions with Customers, Stakeholders, develop AI/ML Models and Industrialise them
+Create consulting proposals for customers based on their requirements
+Choose relevant data science approach
+Work closely with the Business in Supply
+Be part of the NextGen AI initiatives in Supply
+Be part of setting the strategy and work closely with Digital Advisors
+Convert data into meaningful insights
+Build Enterprise ready solutions
+You will bring:
+A Master’s or higher degree in Computer Science, Statistics, Mathematics, or relevant technical experience
+Deep/broad knowledge of machine learning, statistics, optimisation, or related field
+A genuine curiosity about new and applied technologies and software engineering coupled with a high degree of business understanding
+Experience working in Azure, DataBricks and also ability to create visualizations
+Experience in MLOps
+Any applied research contributions to the community in terms of technical papers and patents, are encouraged
+Experience with Agile, Scrum and Design Thinking methodologies
+Previous experience in Logistics, Manufacturing and Supply Chain are highly beneficial to succeed in this role
+Change and improvement leadership skills
+Demonstrated skills in Machine Learning, e.g., linear/logistics regression discriminant analysis, bagging, random forest, Bayesian model, SVM, neural networks, etc.
+Programming skills in various languages (Python, C++, Scala, Java, R)
+Skills in the use of current innovative machine learning frameworks such as Scikit-Learn, H2O, Keras, TensorFlow, and Spark
+Worked in Cloud Native Technology
+What´s in it for you?
+
+Here at Ericsson, our culture is built on over a century of courageous decisions. With us, you will no longer be dreaming of what the future holds – you will be redefining it. You won’t develop for the status quo but will build what replaces it. Joining us is a way to move your career in any direction you want; with hundreds of career opportunities in locations all over the world, in a place where co-creation and collaboration are embedded into the walls. You will find yourself in a speak-up environment where empathy and humanness serve as cornerstones for how we work, and where work-life balance is a priority. Welcome to an inclusive, global company where your opportunity to make an impact is endless.
+
+In the UK, Ericsson apply a policy of hybrid and flexible working as standard. Our aim is to support our employees to have a healthy work life balance. When joining our team you are empowered to learn, lead and perform at your best, shaping the future of technology. This is a place where you're welcomed as your own perfectly unique self, and celebrated for the skills, talent, and perspective you bring to the team.
+
+Hybrid working means that whilst office based in either Reading and Coventry you will come together to collaborate and innovate to deliver for our customers and you will be supported to work from home for part of the working week. As the tech firm that created the mobile world, and with more than 54,000 life enhancing patents to our name, we’ve made it our business to set the bar for technology to be inclusive and accessible; empowering an intelligent, balanced and connected world.
+
+What happens once you apply?
+
+To prepare yourself for next steps, please explore here: https://www.ericsson.com/en/careers/job-opportunities/hiring-process
+
+Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we nurture it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team.
+
+Ericsson is proud to be an Equal Opportunity and Affirmative Action employer.
+
+Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we nurture it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team.
+
+Ericsson is proud to be an Equal Opportunity and Affirmative Action employer, learn more.
+
+Primary country and city: United Kingdom (GB) || United Kingdom : Greater London : Chiswick-London || United Kingdom : Avon : Bristol || United Kingdom : Berkshire : Maidenhead || United Kingdom : Berkshire : Newbury || United Kingdom : Berkshire : Reading || United Kingdom : Buckinghamshire : High Wycombe || United Kingdom : Cheshire : Manchester || United Kingdom : Cheshire : Warrington || United Kingdom : Glamorgan : Merythr Tydfil || United Kingdom : Greater Manchester : Salford || United Kingdom : Hampshire : Basingstoke || United Kingdom : Hampshire : Southampton || United Kingdom : Hayes : Middlesex || United Kingdom : Hertfordshire : Hatfield || United Kingdom : Hertfordshire : Hemel Hempstead || United Kingdom : Lanarkshire : Glasgow || United Kingdom : Lancashire : Manchester || United Kingdom : London : Horseferry Road, SW London || United Kingdom : London : London || United Kingdom : Surrey : Guildford || United Kingdom : Surrey : Sunbury || United Kingdom : West London : Ealing || United Kingdom : West London : White City || United Kingdom : West Midlands : Coventry || United Kingdom : West Midlands : Solihull || United Kingdom : West Midlands : Wednesbury || United Kingdom : West Midlands : West Bromwich || United Kingdom : West Yorkshire : Leeds
+
+Req ID: 696218

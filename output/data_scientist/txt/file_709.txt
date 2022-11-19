@@ -1,0 +1,77 @@
+Description
+
+Position at Creative Assembly
+
+Creative Assembly is looking for an experienced Data Scientist/Machine Learning (ML) Scientist to join our talented R&D Team, based at our studio in Horsham, in the heart of West Sussex.
+
+As a Data Scientist /ML scientist at CA, you will contribute to increasing the quality of CA’s games and game development processes through new innovations.
+
+You will be collaborating with game teams to tackle complex challenges within Total War games, and development workflows. Some examples of potential areas would be data-driven AI behaviour in turn based or real time strategy games, data-centred decision making, player modelling, automation, and testing.
+
+You will have the opportunity to bring novel ideas to the table and educate people on the topics you will be working on across the franchise.
+
+Flexible working at Creative Assembly includes hybrid, fully remote within country of employment for eligible roles, and in-studio. We recognise that there is no one-size-fits-all approach and empower our teams to define the working patterns which work best for them, which may mean different things for different teams and roles and at different times.
+
+This role can be offered as hybrid / in-studio / fully remote depending on candidate requirements. Further details can be discussed during the recruitment process.
+
+On a Day-to-day Basis, You Will
+
+Key Responsibilities
+
+Influence and contribute to our R&D roadmap and develop research projects
+Carry out the ML focused research needed to launch new features for our games, or for our development processes
+Work in collaboration with game development teams, to innovate and bring CA’s games to a next level
+Help improve the R&D culture at CA through staying current with new research contributing to training materials and mentoring more junior members and graduate students.
+We strive to complete successful projects and share it with the world – You can be a part of this journey by contributing to publishing papers, presenting at conferences, and demonstrations in blogs.
+
+Essential
+
+Knowledge, Skill and Experience
+
+Work experience in data science with a focus on machine learning and familiarity with standard techniques, relevant tools and libraries
+Having delivered one released product with machine learning
+Deep understanding of modern supervised and unsupervised machine learning techniques and algorithms
+Strong analytical skills working with data and data visualisation
+Experience with modern machine learning frameworks (e.g. Pytorch, Tensorflow, Keras)
+Experience with programming languages such as Python or R
+Ability to focus on work independently but also comfortable working in a collaborative environment
+Being able to work well across teams and other disciplines
+Good communication skills
+Creative problem-solving abilities.
+Desirable
+
+Experience in Gaming industry
+Ph.D. or M.S. degree in a relevant field
+Published work in known publications and/or conferences.
+
+About Creative Assembly
+
+It’s an exciting time to be a part of our craft-led studio as we push boundaries, creating deep and detailed experiences that last.
+
+Our teams are diverse from across the world, from trainees to industry veterans who constantly challenge us and make sure we are striving for the best within our games and our studio life. We are united through our shared values of Quality, Focus, Teamwork, Respect and Trust and we win awards for our culture and our people-centric approach, having won a Best Place to Work Award for six consecutive years. We invest in our people, the studio, and our projects. We are a company that’s secure and safe – you don’t need to worry about job security at CA.
+
+We’ll give you the creative freedom, tools, support, and development to achieve your potential.
+
+Our studios are based in Horsham, UK and Sofia, Bulgaria, including several bespoke state-of-the-art audio suites and a dedicated motion capture facility.
+
+We offer many benefits to support you and your family including:
+
+Flexible working: hybrid, fully remote within country of employment for eligible roles, and in-studio working
+Work from Anywhere for a temporary period each year (restrictions apply such as VISAs)
+Enhanced holiday allowance, maternity and paternity breaks, flexibility with our core hours, and no-notice holidays
+Bespoke relocation package for you and your dependents, with support throughout the process from our dedicated Relocation Specialists
+Private medical and dental insurance, life insurance, permanent health insurance, critical illness cover and free health care screening
+Generous holiday allowance plus full studio closure over the Christmas and New Year period, and all UK Bank holidays
+Annual discretionary studio bonus
+Join our award-winning education and social responsibility programme; the Legacy Project, as an industry ambassador to mentor and educate others
+Defined career development pathways and personalised training support including SEGA Dev Day, internal masterclasses, prestigious creative workshops, on-site training with renowned specialists and global conference attendance
+Opportunity to join our Diversity and Inclusion Network – an employee-led group
+Season ticket travel loans and cycle to work scheme with free bike servicing and discounted car valet service on site
+Free games and merchandise plus access to our extensive games library
+Free breakfast in the studio every day - toast, bagels, pancakes, cereals, yoghurts, fresh fruit, smoothies, juices, milkshakes and more in our fully stocked kitchen
+Wellbeing support with an employee assistance programme and onsite confidential sessions
+In-studio heavily subsidised massage therapy
+Discounts for home technology, travel insurance, corporate gym membership, cinema tickets, holidays, trips out and Ikea vouchers, and many local businesses including estate agents
+Studio parties for you and your family; such as our Summer Festival, Christmas Party plus a separate Children’s Christmas Party. We also have Cinema days and wrap parties for game releases
+Studio community activities such as life drawing, creative writing, Pilates, Walking Challenges, Couch to 5k, basketball, game and movie evenings, board game club, 5-a-side football, CA Choir, Sword fighting (yes, sword fighting) and loads more.
+Our studio sites have disabled access. We are an equal opportunities employer and encourage applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, marriage or civil partnership, pregnancy or maternity, religion or belief.

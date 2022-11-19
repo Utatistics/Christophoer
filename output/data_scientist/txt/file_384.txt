@@ -1,0 +1,32 @@
+Overview
+
+At Kingfisher our customers come from all walks of life, and so do we. We want to ensure that all colleagues, future colleagues, and applicants to Kingfisher are treated equally regardless of age, gender, marital or civil partnership status, colour, ethnic or national origin, culture, religious belief, philosophical belief, political opinion, disability, gender identity, gender expression or sexual orientation.
+
+If you require any additional support or adjustments to help you make an application, please contact us at kingfisher.recruitment@kingfisher.com
+
+We advocate the benefits of a flexible and hybrid working environment, recognising that this means different things, to different people, in different roles. Want to apply as a job share, or propose a way of working that isn’t the traditional 9am – 5.30pm, Monday through to Friday? We’re all ears.
+
+We’re Kingfisher. You might know us as B&Q, Screwfix, Castorama, Brico Depot or Koçtaş. We’re made up of over 79,000 passionate people, call over 1,300 stores home and operate in 8 countries. That’s right, we’re big, but we have ambitions to become even bigger and even better. We want to become the top tier home improvement company and grow the largest community of home improvers in the world. And that’s where you come in.
+
+Kingfisher is an exciting, inspiring place to be. We establish the strategy that leads the business. We drive innovation to encourage our customers. We set the tone of our global business. It can be exciting, but that goes hand in hand with the ability to make a difference – to the business, to the many people around the world that work for us, and to our customers
+
+Responsibilities
+
+Reporting to the Lead Data Scientist We are looking for a talented Data scientist to help Develop and deploying core ML/AI algorithms required to tackle data science challenges in Kingfisher group.
+Lead the implementation of data science projects – innovating the development of algorithms and use of data science approaches to support commercial goals.
+Providing technical leadership and support for the junior members of the team
+Work across with banners and group functions to support building a data science roadmap that minimises time to value and improves long term efficiency.
+Support teams with varied strengths in translating between business and data in the design of project work, and in the synthesis and communication of recommendations and results.
+Collaborate with tech, product and data teams to develop the data platforms that allow us to apply data science and embed the use of data science directly in our products and processes.
+Support the data science leadership team in developing a “data culture” and demonstrating the value of data in our decision making.
+Qualifications
+Solid understanding of computer science fundamentals, including data structures, algorithms, data modelling and software architecture
+Excellent understanding of classical Machine Learning algorithms (e.g. Logistic Regression, Random Forest, XGBoost, etc.) as well as innovative research area (e.g. NLP, Transfer Learning etc.) and Deep Learning algorithms (e.g. BERT, LSTM, etc.)
+Solid knowledge of SQL and Python's ecosystem for data analysis (Jupyter, Pandas, Scikit Learn, Matplotlib).
+Solid understanding of model evaluation, data pre-processing techniques, such as standardisation, normalisation, and handling missing data.
+Solid understanding of summary, robust, and nonparametric statistics; hypothesis testing, probability distributions, sampling techniques, and stochastic processes.
+Proven experience of delivering several high-quality AI-based products and experience of productionisation of Machine Learning based products
+Proven experience of developing cloud-based machine learning services using one or more cloud providers (preferably GCP).
+Ability to work on multiple projects and manage results
+Solid communications and soft skills to manage partners demands
+This is an exciting opportunity to join our global business. In return, we provide an inspirational working environment, a competitive benefits package and opportunities to stretch and grow your career. Interested? Great, apply now!

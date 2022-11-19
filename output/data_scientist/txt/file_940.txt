@@ -1,0 +1,36 @@
+Here at JPMorgan Chase & Co., we know that people want great value combined with an excellent experience, from a bank they can trust. So we launched a new digital bank called Chase - to revolutionise mobile banking by creating seamless digital journeys that our customers love.
+
+JPMorgan Chase & Co. has expanded its consumer business and we have launched a new digital retail bank in the UK. We are offering consumers a completely new banking experience. Under the Chase brand, the bank provides products and features tailored to meet the needs of customers in the UK, made available via an innovative mobile app.
+
+Our team is at the heart of building this new venture, focused on developing offerings that put the customer at the center. We have created a new organization and we are looking for solution-oriented, commercially minded, customer-focused engineers, used to working in a true agile environment who want to be a part of something new, built from the ground up as a green-field with zero legacy initiative within a global, diverse and inclusive team.
+
+Culture is as important to us and we are looking for intellectually curious, new technology passionate individuals who would like to expand their skills whilst working on a new exciting venture for the firm. Your work will have a direct impact to our customers as our business expands around the world.
+
+Key Responsibilities
+
+Collaborate with key stakeholders, business partners, and research teams to understand business problem
+Help the LOB stakeholders innovate through data-driven decisioning by querying data and merging information from diverse data sources to create rich datasets that enable better decision-making
+Work with other Analytics teams and multi-task on projects to summarize and synthesize data and present recommendations to the businesses in a clear and logical manner
+Identify unexplored data opportunities for the business to unlock and maximize the potential of digital data within the organization
+Support ongoing technology evaluation process and proof of concept projects
+
+Qualifications
+
+Experience in scripting with SQL with a strong ability to write complex queries to extract information
+Experience with statistics and big data
+Experience with customer analytics such as user behavioral analysis, survey analysis, etc.
+Experience in articulating product, user research or marketing questions, pulling data from datasets (SQL) and using statistics to arrive at an answer.
+Competent in data analysis in Python
+Familiarity with basic concepts on modelling and ML.
+Distinctive problem-solving skills and impeccable business judgment
+Ability to translate analysis results into business recommendations, and excellent written and confident verbal communication skills
+Adept at queries, report writing and presenting findings
+Experience with relational databases utilizing SQL to pull and summarize large datasets, report creation and ad-hoc analyses
+Demonstrated ability to think beyond raw data and to understand the underlying business context and sense business opportunities hidden in data
+Strong written and oral communication skills; ability to communicate effectively with all levels of management and partners from a variety of business functions
+Self-starter who can provide insights and drive results in a dynamic and fast evolving environment
+Adept at multi-tasking and meeting deadlines in high-pressure environment
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

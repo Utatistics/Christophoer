@@ -1,0 +1,21 @@
+We are recruiting a person with the ability to manage multiple complex projects, initiatives, and work streams with minimal guidance from their manager and technical mentors. You will act as a source of technical and creative expertise on cross functional project teams and will recommend, design, and influence the business to implement new product/ technical solutions for application globally.
+
+Qualifications And Experience Required
+
+3-5 years’ experience & knowledge in Data Science or Machine Learning Algorithms
+Bachelor’s degree in Engineering/ Technology/ Statistics/ Economics.
+Hands on experience in solving various advanced analytics use cases such as segmentation, forecasting, market basket analysis, optimization, key driver/causal analysis, recommendation systems, up-sell cross-sell, predictive modelling, etc.
+Both theoretical & hands on knowledge of application of different advanced analytics methodologies like: Clustering, Time Series Forecasting, Multivariate Regression, Logistic Regression, Linear & Non-Linear Optimization, ML Models like Random Forest, GBM, SVM, XGBoost, etc.
+Experience delivering solutions using Agile methods
+Knowledge & experience in SQL database & MLOps
+Solid knowledge of various statistical techniques and experience using machine learning algorithms
+Proven experience building Machine Learning models
+Strong programming skills in languages such as Python, R
+
+Top 3-5 Accountabilities
+
+Support in the creation of data models
+Support the operation of existing models
+Recommend areas for improvement and innovation
+Possess a good understanding of data management processes and an ability to perform
+Basic analytics

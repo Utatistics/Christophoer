@@ -1,0 +1,15 @@
+At my client they believe every organisation should do amazing things with data to evidence decisions and identify opportunities. They provide their clients with actionable solutions to complex problems and pride ourselves in having market-leading capabilities in all key areas of service - 'doing the right thing’ for their clients to ensure long-lasting relationships.
+
+You will be working with the leading Location Intelligence team across the world, responsible for delivering advanced spatial analysis and insight to major organisations across a range of sectors and countries.
+
+They provide consultancy, cutting edge software and the latest data to help our clients optimise their location strategies across both the physical and digital landscape. Projects typically last between a week and 6 months, ranging from performance analysis, customer insight, defining network strategies, BI & visualisation and advanced predictive modelling.
+
+Core Skills, Knowledge, Experience Required
+
+A degree in a numerate discipline and strong understanding of statistics
+Familiar with programming languages (e.g. R, Python) and experience with, learning to write and maintain programming code and database scripts
+Knowledge and experience building spatial and non-spatial predictive models in real-world applications.
+Can demonstrate skills in algorithm development, data manipulation and visualisation
+Familiar with analytics and business intelligence platforms (e.g. Alteryx, Tableau, Power BI, QlikView/Sense)
+You are a self-starter, creative and willing to challenge the status quo
+Demonstrate an intellectual curiosity and passion for learning data science, exploring the fields of data engineering and machine learning

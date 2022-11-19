@@ -1,0 +1,39 @@
+Job Description
+
+Global company with more than 50 years of presence in the world being a leader in a fast-paced industry, is looking for:
+Sr. Data Scientist with experience in NLP.
+Are you ready to accept the challenge?
+
+Main responsibilities
+
+The Main Responsibilities Are To
+Have experience delivering production-grade ML/NLP models and systems on Consumer and Digital Analytics (including website, E-commerce, Audience segmentation, marketing campaigns etc).
+Expert delivering solutions in Python and/or R languages, and experience with ML/NLP tools, frameworks and libraries such as scikit-learn, PyTorch, TensorFlow, spaCy, Hugging Face, Keras, etc. for both transfer learning and learning from scratch.
+Deep understanding of various aspects of NLU and statistical NLP (including tokens, semantic embeddings, n-grams, regex etc.)
+Mine and analyze data from various data sets/sources and/or new databases using different techniques and programming languages such as SQL, R, Phyton to query & manage various large data sets.
+Requirements And Skills
+Educational qualifications: Graduate in Engineering / Statistics / Economics / Maths / Analytics or other quantitative discipline.
+Minimum of 7 years of hands-on working experience in data science.
+Subject matter expert and hands-on experience in the following areas:
+Fluency and expertise in R and/or Python are a must.
+Proven experience over modelling AI, ML and NLP and other modern techniques.
+Experience in AWS/Databricks or any other cloud ML environments.
+Medium to advance in programming languages SQL, Pl/SQL, Java, etc.
+Proficient story teller and a curious self-starter, flexible problem solver, and embrace an agile mentality.
+Fluent English is a must, since the role is regarding the US market.
+Additional information
+Direct contract with the company
+Attractive benefits package (Major medical expenses insurance, grocery coupons, +20 days of Christmas bonus, etc.)
+Acerca de Page Resourcing
+
+Page Resourcing es una marca de PageGroup, líder mundial de reclutamiento y selección especializada.
+
+Trabajamos en conjunto con grandes clientes a nivel nacional y mundial, apoyándoles con todas sus necesidades de reclutamiento, desde niveles junior como contrataciones de becarios hasta directores de empresas.
+
+Con el ADN de PageGroup, Page Resourcing cuenta con el amplio conocimiento de mercado para dar la consultoría que sus clientes y candidatos requieren para sus procesos de reclutamiento y selección.
+
+Conócenos
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,46 @@
+Smile Identity builds trust.
+
+Smile Identity is Africa's leading digital KYC and Identification provider. We're building the tools that make it easier for millions of Africans to prove their identity online, anywhere they are in the world.
+
+Our products are used by our partners across a wide range of industries such as Banking, Fintech, Social Welfare, Telecoms, and the Shared Economy. We are backed by US and African investors including Costanoa, CRE, Future Africa, Susa Ventures, and Vinod Khosla.
+
+Our team is diverse, spanning 5 offices, 10 countries and 8 time zones. We believe in truth, hard work, fun, and ownership. Every Smiler has the intellectual freedom and autonomy to do their best work. We'd love for you to come with us on this amazing journey!
+
+The Role
+
+We are looking for a Data Scientist to join our Growth & Analytics department. Someone who thrives at leveraging data to solve problems.
+
+The ideal candidate will have a strong analytical background, and has the ambition to make companies grow, regardless of the 'how'. Being very comfortable with data, you will drive the analytical insight necessary to understand our products and customers' needs to maximize impact, while figuring out how to get things done without relying on others to do the job.
+
+You are familiar with structuring problems with data, understanding how to measure performance, and uncovering opportunities to improve products, the business, and the company. You are detail-oriented, enjoy empowering teams with data, and can rapidly earn trust and credibility with stakeholders. This person will be asked to demonstrate leadership, strategic thinking, and executional excellence.
+
+Responsibilities:
+Define and analyze metrics that inform the success of our products and business, allowing us to monitor the health of our activities.
+Develop data centric strategies and frameworks to deliver value, whether it's driving acquisition programs, supporting product go-to-market activities, or providing product insights for customers.
+Understand funnels, user behaviours, and trends in the adoption of our products to identify opportunities for step-changes and angle changes in growth.
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our customers interact with our products.
+Empower stakeholders with data to support growth and expansion initiatives.
+Suggest improvements to the data models and logging where you see opportunities.
+Analyze and communicate results in order to rapidly scale successful programs and learnings.
+
+Requirements:
+3+ years of experience with SQL, quantitative analysis experience, Tableau or other data visualization tools
+3-5 years of experience as a Data Analyst, Data Scientist or Data Engineer, or hands-on experience analyzing and interpreting data, drawing conclusions, defining recommended actions, and reporting results across stakeholders
+A proactive "can-do" attitude, with the ability to work autonomously, managing, prioritising and delivering multiple projects in a fast-paced, cross-functional environment
+A proactive communication style; you do not shy away from speaking up and sharing your ideas in bigger group settings and an executive level
+Strong project management skills with an ability to prioritize according to highest business impact
+
+Successes in your first 3 months include:
+Develop expertise and familiarity with company data sets, tools, dashboards, and metrics methodologies.
+Deliver time-sensitive analyses at the right time to support stakeholders in making critical decisions.
+Understand the performance of all existing products and business activities, and come up with 1-2 actionable suggestions of what is working well and what needs to be improved.
+
+In your first 6 months
+By now you should be familiar with the company data sets and tools, enabling you to proactively develop metrics to inform product and business strategies.
+You are able to suggest improvements to our data infrastructure or new / better ways to measure our existing metrics.
+You are able to independently uncover new opportunities to improve our products & the business and influence teams to adopt your suggestions.
+
+In your first 12 months
+You can be tasked with structuring a data-centric strategy to tackle new business problems / product opportunities.
+You can be called an expert for all things data related to a specific product / business area matching your interest and where we want to double down as a company.
+You are a thought leader in defining how we would measure success in your product / business area.

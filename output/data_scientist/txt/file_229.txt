@@ -1,0 +1,62 @@
+Join us. Let’s care for tomorrow.
+
+At Allianz Global Investors our people enjoy motivating, fulfilling careers. If you are looking for a fast-paced working environment, you are resolved to cultivate and expand your talents and relish a challenge, then join us now!
+
+We are committed to giving our people – experienced and energetic professionals alike – the opportunities and experiences they seek to thrive and gain personal fulfilment. We will work with you to craft your own career, develop your personal growth, and align your achievements with your ambitions.
+
+Data Scientist
+
+Location: London
+
+Investment Technology Equity team is leading the adoption of technology and quantitative framework for Equity team. We are bringing the best of technology world for the portfolio management and the equity research. Using the extensive data pipeline, software development and research, we ensure that we build leading technology that becomes core of the overall process. The team focus on AI to advance the platform so we can look beyond the traditional to develop creative solutions for the investment teams. We are very experienced team who work with senior portfolio managers, and analyst to build solution using technology & AI.
+
+We are currently hiring a forward-thinking and results-oriented Data Scientist in our Equity team. In this exciting role you will focus on two key deliverables: Firstly, to build an NLP based model for the team and expand to the broader team. Secondly support the equity team with their broader AI requirements.
+
+This role develops AI using structured and unstructured data which will be utilized as a part of a portfolio construction process, and fundamental research.
+
+The role requires use of large amounts of data and will train and deploy models that can be employed by various teams and also requires regular retraining of the existing AI models.
+
+Role and Responsibilities:
+
+Develop effective techniques and infrastructure, from the initial idea to the running of prototype and product
+Deploy and integrate sentiments analysis and NLP model for investment teams
+Write code using the latest machine learning tools and run experiments and generally develop techniques and processes to improve our understanding of how financial data influences the world around us
+Partner with teams to implement original ideas into their products
+Remain connected to the broader research community by partnering with internal and external collaborators and participate in relevant conferences
+Report and present research findings and developments clearly and efficiently, both internally and externally, verbally and in writing
+
+Experience, Qualifications and Skills:
+
+Required:
+
+Several years of experience in independently developing and deploying NLP models, machine learning, Deep learning, and optimization – ideally obtained within financial services
+MSc or similar qualification in a highly quantitative subject (Maths, Stats, Physics, Computer Science etc). A PhD would be advantageous
+Excellent programming skills in Python, R, C++, Tensorflow, PyTorch or similar languages
+Proven work experience with machine learning with large amounts of noisy data, deep learning, reinforcement learning
+Relevant research experience (publications at NeurIPS, ICML, ICLR or similar are preferred)
+Experience with cloud environments and multi-machine setups
+Problem-solving aptitude
+Excellent communicate skills to share findings to stakeholders
+
+Preferred:
+
+Familiarity with quantitative approaches to equity investing, portfolio optimization, risk diversification, performance attribution etc
+Demonstrated understanding of data vendors (Dow Jones, Refinitiv, Bloomberg, MSCI, etc.), optimization techniques, quantitative and fundamental equity research
+Understanding of the business logic, which ranges from factor investing to AI signals to portfolio construction and risk models
+Great teammate with the ability to coordinate multiple partners and teams that provide inputs and requirements
+Experience in sustainable investing and ESG concepts would be a plus
+Ability to work in an international environment
+
+About Allianz Global Investors
+
+Allianz Global Investors is a leading active asset manager with over 600 investment professionals in over 20 offices worldwide and managing EUR 578 billion in assets. Data as of 30 June 2022
+
+We invest for the long term and seek to generate value for clients every step of the way. We do this by being active – in how we partner with clients and anticipate their changing needs, and build solutions based on capabilities across public and private markets. Our focus on protecting and enhancing our clients’ assets leads naturally to a commitment to sustainability to drive positive change. Our goal is to elevate the investment experience for clients, whatever their location or objectives.
+
+Putting our clients' needs first, behaving in an open and transparent way and treating people fairly means acting with integrity. We respect difference and diversity and reward individual performance as well as teamwork. We offer a collegial culture based on strong values, taking individual responsibility, and dedication to mastering challenging tasks. To harness the power of innovation, we invest in the development of our employees. We encourage you to make an impact in a diverse, international, technology-enabled, and increasingly agile environment. If you feel inspired to elevate the active asset management experience, this is the place for you.
+
+We are committed to the principles of Equal Employment Opportunity and to providing assistance to applicants with physical and/or mental disabilities. If you need support to navigate our websites or to complete your application, please send an e-mail with your request to recruiting@allianzgi.com.
+
+Active is: Allianz Global Investors
+
+AllianzGI completed the transfer of investment teams (including 87 Investment Professionals) and USD 101bn of assets they manage to Voya Investment Management as part of a strategic partnership. Two thirds of the assets continue to be managed on behalf of AllianzGI clients outside of the US.

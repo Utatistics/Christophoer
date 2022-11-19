@@ -1,0 +1,24 @@
+Senior Data Scientist - Stoke-on-Trent - Onsite - £85,000 per annum
+DataBuzz are recruiting on behalf of a prestigious organization who are currently looking for Senior Data Scientist.
+As Senior Data Scientist you will prototype models in spreadsheet form, working with market and data analysts to ensure commercial realism and tested accuracy. You will document and handover model specifications to our technical developers, and you will play an active role in the implementation of these models into our codebase. Modelling will involve determining relationships between input and output variables, which describe data efficiently and are consistent with economic principles. Curve fitting, using regression analysis and other optimisation techniques, and application of heuristics and constraints to model less quantitative phenomena will be used.
+Responsibilities:
+Develop, prototype and document automated mathematical models for applications
+Conduct statistical analysis on data.
+Assist with the design and creation of products and systems.
+Interpret and explain key mathematical concepts and methodology.
+Collaborate with members of other teams including subject experts, software developers, analysts and data researchers.
+Apply advanced mathematical techniques.
+Manage projects and/or staff.
+Communicate methodology externally.
+Essential Skills:
+Bachelor's degree in mathematics, physics, statistics, computer science or other highly quantitative discipline.
+Ability to communicate complex concepts to people without a specialist mathematical background
+Advanced knowledge of Excel and familiarity with Excel VBA.
+Experience of statistical techniques such as regression analysis.
+Practical experience of a programming language.
+Benefits:
+24 days holiday (increases with service) + public holidays
+Pension scheme
+Company Benefits including Group Life Assurance and Healthcare Scheme (subject to terms)
+Desired Skills and Experience
+Mathematical models, Statistical Analysis

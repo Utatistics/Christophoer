@@ -1,0 +1,95 @@
+The Bank of England is the UK's central bank. Our mission is to deliver monetary and financial stability for the British people.
+
+The Bank of England is a diverse organisation. Each of its 4,000 people are committed to public service and dedicated to promoting the good of the people of the United Kingdom by maintaining monetary and financial stability.
+
+On 1 April 2013 the Prudential Regulation Authority (PRA) became responsible for the prudential regulation and supervision of banks, building societies, credit unions, insurers and major investment firms. The PRA was created by the Financial Services Act (2012) and is part of the Bank of England.
+
+As a directorate of the PRA, Risk and Operations supports and compliments the work of the Supervision and Policy areas of the Bank. It ensures that the PRA can execute its operational responsibilities, facilitating the smooth running of the organisation.
+
+Risk and Operations is split into two main divisions:
+Chief Operating Office Division
+PRA Risk Governance & Controls Division
+
+Department Overview
+
+The Systems Change and Banking Data team sits within the PRA COO and consists of a number of teams: BSMR product owner; Business Change, Systems change, Risk & Work management project, PRA Rulebook and Data Science and Support.
+
+The Data Science and Support team enables access and analysis of regulatory banking data. We develop banking regulatory tools and systems such as regulatory data analytics. As part of this, we provide the associated training and support to users of those tools. We are also engaged in high profile programmes of work. The team is currently updating one of its major systems.
+
+Job Description
+
+You will be responsible for leading on work that develops and maintains changes to a data analytics tool using R and VBA coding. You will provide support to our end-users on the data analysis tools.
+
+The key responsibilities of the role are:
+Maintain and develop changes to our data analysis tools and provide support to supervisors.
+Support the team, supervision and wider data community on ad-hoc regulatory data analysis from COREP, FINREP and other data sources
+Support the data analuytics governance group
+Support the delivery of training on the use of the analytical tools
+Communications for the data analytics tool
+Providing users with access to the data analytics tool
+Recording changes to systems and processes.
+
+Role Requirements
+
+Minimum Criteria
+Experienced R coding
+Excel / VBA coding
+Functional knowledge of SQL
+Familiarity with prudential regulatory knowledge (capital or liquidity)
+
+Essential Criteria
+Demonstrate excellent workload management and interpersonal skills!
+Be able to communicate and translate technical IT terminology to business users. And conversely, be able to explain technical business terminology to our colleagues in technology.
+Ability to own and lead work with minimal supervision.
+
+Desirable Criteria
+Experience developing/deploying R packages
+R Shiny Dashboard development experience
+Prudential regulatory knowledge (capital or liquidity)
+Knowledge of COREP & FINREP data
+Bank regulation and supervisory processes
+Stakeholder management skills
+have an awareness of the regulatory data landscape for Banks, including both content and processes
+Flexibility and willingness to respond to new/unfamiliar requests.
+Good presentation skills and willingness to deliver introductory training to data systems.
+
+The Bank values diversity and inclusion – we want to reflect the society we serve better, we want the best people to work for us and we want our workplace to be inclusive. We value all forms of diversity, including but not limited to age, disability, ethnicity, gender, gender identity, race, religion and sexual orientation. One way we support diversity and inclusion is through our staff-run networks, which are summarised here.
+
+We are fully committed to having a diverse and inclusive working environment, and are open to considering how the role might be carried out with flexible working. This role is therefore open to flexible working patterns.
+
+Where a role can be carried out from home, we are working towards colleagues spending at least half of their time in the office, so that we can all benefit from working together in person, while maintaining the flexibility offered by home working. From 6 June 2022, we expect colleagues to spend a minimum of 40% of their working time in the office per month. Subject to that minimum requirement, individuals and managers should work together to find what works best for them and their team.
+
+We are also committed to making workplace adjustments for all of our employees as needed, and also for candidates throughout all stages of the selection process. We are a member of the Disability Confident scheme, summarised here, and people who wish to apply under this scheme should check the box in the ‘Candidate Personal Information’ under the ‘Disability Confident Scheme’ section of the application.
+
+We anonymise applications so hiring managers will not be able to see your personal information when reviewing your submission, including your CV. Please fully complete the application form questions as requested, as any incomplete submissions may not be reviewed.
+
+The closing date for applications is 29 September 2022 .
+
+Reward Package
+
+The Bank of England is a distinctive institution and our rewards are one of the things that set us apart. As well as enjoying a competitive salary you will work in a collaborative, inclusive environment, with a subsidised restaurant, flexible working opportunities and plenty of wellbeing initiatives.
+
+The salary range for this vacancy is approximately £45,900 - £59,040 dependent on relevant skills and experience. In addition, the total reward package also includes:
+A non-contributory, career average pension giving you a guaranteed retirement benefit of 1/95th of your annual salary for every year worked. There is the option to increase your pension (to 1/50th) or decrease (to 1/120th) in exchange for salary through our flexible benefits programme each year.
+A discretionary performance award based on a current award pool.
+A 7% benefits allowance with the option to take as salary or purchase a wide range of flexible benefits.
+25 days annual leave with option to buy up to 13 additional days through flexible benefits.
+Private medical insurance and income protection.
+
+Please apply online, ensuring that you answer the application questions, complete the work history and submit your CV.
+
+Primary Location
+
+UK-ENG-London
+
+Job
+
+Policy
+
+Organisation
+
+612000 - COO DIVISION
+
+Job Posting
+
+08-Sep-2022, 12:02:03 PM

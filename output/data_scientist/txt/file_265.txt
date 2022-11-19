@@ -1,0 +1,55 @@
+Data Scientist – we are hiring two positions
+
+This role will be remote, working up to 4 days from home and 1 day in the office a week to liaise with our teams in our Malvern and Bristol offices
+
+Once a month, we have a 'Data Science Day' where all the team will be together to support our working culture and bounce our intrinsic ideas to one another
+
+Hours: 37.5 (This role operates in a flexi-time scheme. Overtime is unpaid)
+
+Flexitime: (core hours 10.00am - 12.00pm and 2.00pm - 3.00pm) to help you to achieve a good work-life balance
+
+Package: Competitive Salary + Benefits + 25 days (plus Bank Holidays) + Pension Scheme
+
+Summary
+
+Can you develop predictive and prescriptive solutions in a scientific environment?
+
+Are you looking for a position to utilize advanced Machine Learning technologies to deliver cloud-based digital services?
+
+Do you want to do this in an ambitious, fast-growing, international company with a friendly and inclusive culture?
+
+Then this might be your chance to become a part of our data science team!
+
+Our Culture?
+
+Your career will take flight with a comprehensive induction program and value entrepreneurship and commitment by offering real career possibilities. We continue to support and develop our employees by improving their skills, knowledge, and performance with in-house, on-the-job, and external training.
+
+About Malvern Panalytical Data Science Team
+
+Malvern Panalytical’s Data Science team drives business growth by delivering digital customer-focused products and services to a wide variety of markets augmenting our class leading scientific instruments. The Software and Data Science Hub in Bristol, UK, is responsible for developing products and solutions within our Digital Services portfolio. Projects range from small incremental improvements and optimisations to next generation and are represent the cutting edge of multi-discipline engineering.
+
+The Role
+
+As a Data Scientist, you'll become a core member of our data science team executing our digital transformation strategy to provide new digital services to our customer base. You will work on challenging data analytics and modelling problems across exciting scientific fields, including chemometric modelling and machine learning technologies defining our state-of-the-art products.
+
+What are your responsibilities?
+
+Be a commercially astute computing/data science professional with a high level of technical competence
+Utilizing Python as the core development language, you will build models which can run in the cloud or onboard an instrument which will enhance the capabilities of our world-class scientific solutions portfolio
+
+What do you need to be successful in this role?
+
+Degree educated in Mathematics, Statistics, Computer Science, Data Science or Machine Learning Engineering, preferably a PhD
+Proficiency in Python programming languages
+Experienced in DS modelling techniques
+A proven track record with 3+ years of experience in data science in commercial environments
+Pragmatic versatile self-starter: a dynamic over-achiever with a curious mind and a thirst for new challenges
+Possess an analytical mind:
+Competent in Microsoft Azure technologies
+
+Great to have?
+
+Experience in scientific or engineering fields
+An "anything is possible" mentality: we aim high!
+Experience working in an Agile environment with cross-functional teams.
+Experience with MLOps

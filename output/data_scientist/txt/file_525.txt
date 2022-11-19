@@ -1,0 +1,34 @@
+Opportunity to work for a leading Media agency|Data Scientist | Machine Learning | Media Agency | Marketing Campaigns | £55k
+
+
+About Our Client
+
+One of the world's leading media communications specialists
+
+Job Description
+
+As a Data Scientist you will be building tools and models in R to support our planning teams in building effective marketing campaigns. Initially you will be responsible for maintaining our existing set of products. Once familiar with them you will move on to improving them where appropriate and developing new products when you've got a sense of how Systems Technology works with the broader agency.
+
+Responsibilities:
+Maintaining existing R models and tools
+Building models and running statistical analyses
+Visualising datasets and model outputs for understanding by a non-technical audience
+Progressing towards statistical model design and creating interactive applications
+Coach and develop junior team member(s), where applicable, so they maximise their potential
+The Successful Applicant
+
+Data Science
+Data/Mathematical Modelling
+Experience with R, or comparable experience with Python and willingness to learn to contribute to the maintenance of existing R-based tools
+SQL
+Google Cloud/A
+What's on Offer
+£55k
+Remote working/Hybrid working
+25 days holiday (+ bank holidays) rising gradually to 30 days after 4 years service
+Life assurance, pension, etc.
+Private medial cover
+Season ticket loan
+Contact: Zeeshan Safdar
+
+Quote job ref: JN-042022-5426660

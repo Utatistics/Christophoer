@@ -1,0 +1,19 @@
+Data Scientist - NLP & Machine Learning Solutions SME
+
+James CarreraofDigital Data Foundationis recruiting aData Science SME to advise and deliver on complex consulting projects for an international Law Firm, specifically where they require Natural Language Processing or Machine Learning solutions or input.
+
+Responsibilities
+
+Working in collaboration with software engineers, business analysts and external stakeholders you will;
+Develop prototypes and minimum viable products to meet client's needs, writing custom scripts, reviewing technical data processing and task automation
+Processing and analysing large volumes of data for client projects to discover patterns, opportunities and develop and apply market leading NLP and ML algorithms.
+Maintenance, evaluation and iteration of existing analytics systems.
+Experience
+
+Educated to degree level with progressive experience implementing NLP & Machine Learning solutions in (ideally) a Professional or Legal Services organisation, as well as;
+Detail-orientated with solid analytical and problem-solving skills.
+Willingness to learn new technologies, techniques and information.
+Data storage and analysis technologies including SQL.
+Elasticsearch, Logstash and graph databases
+Amazon Web Services and other Cloud infrastructure provider
+Desirable;Docker & container technologies and / or Amazon Sagemaker

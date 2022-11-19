@@ -1,0 +1,32 @@
+Remote Role
+
+Position Summary:
+
+This position will be responsible for maintaining and improving our data science program that leverages digital technologies to create a virtual commercial presence. This role will play a critical role in driving the evolution and updates of data science to enable the commercial team to make data-driven decisions. The ideal candidate will understand Commercial and Digital technologies, and will have modeling and machine learning skills to support the implementation of new models and technologies. This role is fast-paced, data-driven and a successful candidate possess the ability to navigate the matrixed program effectively. This role manages multiple projects at once, coordinating cross-functionally and requires strong organizational and time-management skills.
+
+Key Responsibilities:
+Collaborate with Digital Commercialization Manager and Data Scientist to align on priorities and coordinate strategies leveraging data science capabilities
+Define strategy for SFDC talking points aligned with best practices and Commercial feedback
+Work closely with the Data Scientist and Data Analysts in the definition, creation and improvement of new and existent data science models
+Collaborate with IT, Sales and Sales Effectiveness to ensure Data Science platform is aligned with program strategy and user needs. Maintain platform by requesting and managing all feature requests
+Coordinate integrations between Data Science Platform and Salesforce.com, ensuring they are aligned with RSD process and strategies
+Drive Data Science Platform and adoption and provide reporting for Managers, communications to Sales Team and weekly reporting for key stakeholders
+
+Minimum Requirements/Qualifications:
+Relevant experience in data science, analytics, statistics, applied math or related
+Business analytics required, pricing or marketing analytics a plus
+Exposure to SQL and other languages is expected.
+Experience with Salesforce.com and PowerBI
+Experience driving strategic initiatives for customers of varying scope preferred, spanning from large scale customers to small- mid opportunities
+Ability to function in a complex, matrix business environment is essential
+Experience working with sales reps and supporting their efforts to sell more effectively and efficiently would be an extra
+
+Non-Negotiable Hiring Criteria:
+5+ years of digital marketing experience, preferably in lab related industry
+Oral and written communication skills
+Organization and project management abilities
+Ability to manage multiple priorities.
+Experience with Eloqua - MANDATORY
+Excellent at managing complexity. Able to make sense of complex, high quantity and sometimes contradictory information to effectively solve problems
+Capacity to work well across multiple functional areas
+Proficient at problem solving skills; creative thinker

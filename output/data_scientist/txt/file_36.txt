@@ -1,0 +1,37 @@
+Our purpose is to make great financial decision making a breeze for everyone, and that purpose drives us every day.
+
+It’s why we’re on a mission to create an automated quoting engine, with the simplest of experiences, wrapped in a brand everyone loves!
+
+We change lives by making it simple to switch and save money and that’s why good things happen when you meerkat.
+
+We’d love you to be part of our journey.
+
+As a tech business, Data Science and Machine learning is key to our success and we’re continuing to invest in people and tools that allow us to unlock the potential of our data and our platform. We believe that people are our biggest asset so we’re currently recruiting for Data Scientists to join our growing team at Comparethemarket (CTM).
+
+Our Data Scientist role will be pivotal in the development of new applications of Data Science and Machine Learning, enhancing our existing models and developing new ones to enrich our customer experiences and maximise the impact of data. Your work will directly enhance our customer propositions using a variety of supervised and unsupervised machine learning methods and will be responsible for the end-to-end delivery of Data Science initiatives. This is a highly collaborative role and you will have opportunities to work with a wide range of teams to embed Data Science across the business. For example, you might be enriching our understanding about customer lifetime value, identifying key behaviours/triggers, creating behavioural clusters, developing propensity or pricing models. You will be working with a large and rich customer dataset, using a cloud-based data platform and will have the opportunity to lead on improvements to our Data Science capabilities, through identifying opportunities to improve existing data structures and identifying and validating potential new data sources.
+
+Everyone is welcome.
+
+We have a culture of creativity. We approach our work passionately, improve constantly and celebrate our wins at every turn. We are an inclusive workplace and our employees are comfortable bringing their authentic, whole selves to work. Everyone is welcome. Be you.
+
+This means we’re excited to hear from people with a range of skills, experiences and ideas. We don’t expect you to tick all the boxes, but would love to hear what makes you great for this role.
+
+You’ll:
+
+Have a passion and motivation for using Data Science to solve real-world customer problems
+Have demonstrable experience in end-to-end AI / machine learning model development
+Be proficiency in both Python & SQL
+Be outcome/impact focussed
+Be naturally curious and self-motivated learner
+Have effective communication skills with an appreciation for both the power and limits of data
+Have knowledge of AWS, Databricks or Spark would be beneficial
+
+Our people bring our purpose to life.
+
+The Data Science team plays an essential role in personalising the customer experience and improving our commercial performance through predictive modelling and advanced analytics. The team utilises machine learning techniques to develop and implement end-to-end solutions, enlisting best practices across model design, development, and management. We have large, rich customer data base as well as broad range of other data sources to explore and use a tech stack incorporating AWS Cloud, Databricks, Python, Spark and SQL. Data Science is at the heart of business in CTM, with project teams centred around embedding our models into our everyday practices. This is a chance to make a real impact on the customer and the business.
+
+There’s something for everyone.
+
+We’re a place of opportunity. You’ll have the tools and autonomy to drive your own career, supported by a team of amazingly talented people.
+
+And then there’s our benefits. For us, it’s not just about a competitive salary and hybrid working, we care about what matters to you. From a generous holiday allowance and private healthcare to an electric car scheme and paid development, wellbeing and CSR days, we’ve pretty much got you covered!

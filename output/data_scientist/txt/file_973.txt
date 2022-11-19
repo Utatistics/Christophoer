@@ -1,0 +1,15 @@
+We are looking for a Senior Data Scientist to build and productionise end-to-end Data Science solutions (from classic classification and regression models for retention and price optimisation, to state-of-the-art recommendation engines with NLP, Computer Vision layers and third party data- driven sophisticated enhancements) and to participate in a rapid expansion of our client list.
+As a business we’ve grown every year during the pandemic. In the last 12 months we’ve won the biggest pitches in our category.
+Here is a list of skills and experiences for Senior Data Scientists in our Team – this is both, the list of requirements and the list you would look forward to developing and advancing once you join. Data Science field is vast – so, a healthy subset of the below is sufficient to apply. From our side – we will do our best to help you to expand on it.
+In no particular order:
+• Classic algorithms and approaches – clustering, classification, regression – from k-Means to XGBoost
+• Time Series – well beyond (S)ARIMA(X)
+• Recommendation Engines
+• NLP and Computer Vision, including Deep Learning, including application of GANs
+• Production level Python code, experience in C/C++, Linux Shell, SQL, Spark/Databricks
+• DevOps/MLOps approaches and techniques with implementation in AWS (Azure, GCP)
+• Statistics, including reasoning around algorithms and underlying math
+• Explainability and bias detection/avoidance
+• Git, GitFlow, MLflow, Agile development, config-driven implementations, CI/CD
+• Solution ownership, stakeholder management
+We offer very flexible working, great progression and salaries.

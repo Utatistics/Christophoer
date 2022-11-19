@@ -1,0 +1,24 @@
+As a Data Scientist, you will play an integral role in delivering LMAX’s goal of shaping the future of the global FX and crypto marketplace. With data from trading, liquidity and risk, you will support and drive decision making across the business.
+
+The Liquidity team manages the exchange and the structuring of liquidity for some of the most sophisticated trading participants in financial markets. You will be responsible for activity monitoring, analysing market microstructure and designing and implementing trading research. Our job is to push forward Liquidity’s capability, understanding and effectiveness to deliver more for our clients.
+
+Responsibilities:
+
+Work with the liquidity and sales team to understand their work and their clients
+Assist the monitoring of trading through MI and automated tracking
+Expand our analytical tool suite to improve data accessibility and automate analysis
+Deliver analysis and research into exchange activity for adhoc and large scale requirements
+Identify patterns and behaviours that are indicative of future performance and activity
+Contribute to advanced analytics and statistical modelling
+
+Essential Skills / Experience:
+
+A STEM degree, or equivalent
+A highly analytical mindset with a strong desire to learn
+Commercial experience with Python and SQL
+Commercial application of statistical modelling and machine learning methods
+A great team player with excellent communication skills
+
+Desirable Skills / Experience:
+
+Experience or knowledge of the finance industry

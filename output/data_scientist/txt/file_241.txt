@@ -1,0 +1,14 @@
+Beacon is a digital supply chain and finance platform. Our mission is to help businesses simplify and optimise their supply chains with end-to-end visibility, payments, and insights. As many of the problems our customers face have persisted for decades, we’re looking for problem solvers, big thinkers and curious optimists to help us build the future of logistics and finance.
+
+What You Will Do
+Work as part of a team of Data Scientists and ML Engineers developing ML and AI models that power Beacon’s customer and operations platforms - a focus on delivery and getting solutions into production and adding value is critical
+Own the modelling aspect of our AI/ML pipeline including selecting the best algorithm/tool for the task and partnering with our ML Engineers on the design for the end to end pipeline.
+Extract and manipulate data from existing data stores. Also recommend ways to overcome data quality and data shortage issues - work with the Data Integration team to ensure the BeaconAI data needs are on their roadmap
+Work with our Data Engineers to drive best practices around utilising the data we have.
+Work with our ML Engineers to contribute to the continuous deployment, productionisation and monitoring aspects of reliable machine learning-powered services.
+What You Will Need
+Strong problem solving and analytical skills.
+Hands-on experience in building, developing and testing machine learning and/or optimisation solutions and models, as well as writing high quality, tested, monitored, production-grade Python.
+Experience in data cleansing, data preparation, data processing, and data analysis.
+Experience in extracting metrics, monitoring and maintaining models.
+We believe collaboration between people from differing and all backgrounds is key to developing innovative ideas towards success. We’re committed to providing equal opportunities to everyone, no matter who you are, regardless of your gender, race, sexuality, religion or anything that makes you who you are.

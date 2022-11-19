@@ -1,0 +1,48 @@
+Site Name: Japan - Tochigi - Imaichi
+
+Posted Date: Sep 20 2022
+
+Job Purpose
+
+The Data Scientist will be responsible for developing capability, infrastructure, and knowledge to ensure data science techniques deliver significant business benefit for Imaichi site. This role will utilize data science techniques to drive process improvements--delivering quality, safety, compliance, and productivity improvements across the site. Decision making will be improved and supported by setting up systems to ingest data from multiple data sources and providing advanced analysis and data visualization techniques. The Data Scientist will work across the GSK network to ensure the site can deliver appropriate data technology throughout a product lifecycle, from process development through to commercial manufacturing, to improve quality and yield while reducing cost of waste. The Data Scientist will also be responsible for decreasing workload at the site through automation of workflow processes, to deliver productivity improvements.
+
+Key Responsibilities
+Lead the execution of a robust data pipeline, data storage systems and data science solutions to drive process improvements in line with site digital strategy.
+Lead and support continuous improvement programs aimed at improving product quality and business processes
+Ensure all digital solutions are fully aligned to GSK principles and are built upon Lean Processes
+Influence and support teams to adopt Digital ways of working
+Support day-to-day deployment of performance improvement activities at site.
+Mentor & teach individuals at all levels of site to develop & sustain continuous improvement mindsets and behaviours, based on data and delivered through digital tools
+必要な条件Basic Qualification
+
+スキル Skill
+Developing knowledge and practical application of Python/ R coding, Business Intelligence reporting, Microsoft power platform tools, statistical analysis Product Lifecycle Management tools, data trending and data analytics.
+Problem-solving skills, ability to visualize, and interpret data to aid decision making.
+Good communication skills (written / oral) at different levels across an organization including communicating complex information in logical and simplified terms.
+経験 Experience
+At least 1-5-years’ experience of Pharmaceutical/FMCG or other regulated industry (製造関連）Experience in authoring and or review of technical reports.
+Experience of providing training in data analytics solutions/ systems across a broad range of applications
+Experience of working in and leading multi-functional collaborations or team
+学位/資格/語学力 Education/certification/Language
+Education: University Degree (BSc) or equivalent in Data Science, Computer Science, Applied Statistics or equivalent technical discipline with 3 years of relevant technical experience
+English and Japanese: Business level
+望ましい条件 Preferred Qualification
+
+スキル Skill
+Proficient programming skills in Python, SQL and SAS
+Proficient in MS Power Stack (Power BI, PowerApps, Flow)
+Ability to automate data aggregation from multiple information systems
+Excellent interpersonal skills to relay the digital journey
+経験 Experience
+Demonstrated delivery of improvement initiatives and/or culture change year on year resulting in both financial and non-financial benefit, and behavioural change
+Developing knowledge of pharmaceutical manufacturing and the associated materials, components, unit operations, critical parameters, and controls.
+Experience with design and implementation of databases objects: Database design and stored procedures
+学位/資格/語学力 Education/certification/Language
+Education: University Degree (MSc) or equivalent in Data Science, Computer Science, Applied Statistics or equivalent technical discipline with 5 years of relevant technical experience
+GSK is a global biopharma company with a special purpose – to unite science, technology and talent to get ahead of disease together – so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns – as an organisation where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to impact the health of 2.5 billion people around the world in the next 10 years.
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a place where people feel inspired, encouraged and challenged to be the best they can be. A place where they can be themselves – feeling welcome, valued and included. Where they can keep growing and look after their wellbeing. So, if you share our ambition, join us at this exciting moment in our journey to get Ahead Together.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.

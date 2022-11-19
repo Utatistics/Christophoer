@@ -1,0 +1,62 @@
+Data Scientist
+
+
+Ebury is a FinTech success story, positioned among the fastest-growing international companies in its sector. Headquartered in London, we have more than 1,000 staff covering over 50 nationalities (and counting!) working across more than 27 offices worldwide and serving more than 45,000 clients every day.
+
+Ebury’s strategic growth plan wouldn’t be possible without our award-winning Data Science team and we are seeking enthusiastic, proactive and curious Data Scientists willing to thrive in a challenging environment to join us! We aim to push the boundaries of the company with innovative solutions such as our Dynamic Pricing, which uses reinforcement learning to give the best possible prices to our customers.
+
+We are looking for candidates with experience in forecasting, NLP, Anomaly detection and Graph Analytics. The candidates will work closely with Front Office and Back Office teams, helping in the definition, design and implementation of innovative solutions in areas such as Customer Experience, FinCrime, Credit Risk, Finance and Capital Markets.
+
+Location
+
+London or Madrid (hybrid, 2 to 3 days in the office)
+What The Role will look like
+
+First month:
+Understand how an area of the business works (eg. Credit Risk or Sales)
+Learn the team Technology stack and tools (Python, GCP, MLFramework)
+Gain knowledge on key initiatives and projects (Team initiatives and Business initiatives)
+Familiarize yourself with the Data Model and the different company systems (CRM, transactional database, Data Warehouse,...)
+Three months:
+Be part of the definition, development and implementation of new initiatives in a business area
+Help the team with the ML/AI solutions mapping (algorithms, state-of-the-art, upcoming technologies)
+Engage with business stakeholders with a fluent understanding of the core business
+Six months:
+Research new techniques and propose ways to apply them to existing problems
+Bring ideas of new solutions to support the business in new ways
+Prepare presentations and talks both inside and outside of the team and organization
+Key responsibilities include
+
+Work with other Data Scientists to develop AI solutions (Python, GCP)
+Work with stakeholders from Front Office and Back Office teams to define, track and implement new initiatives
+Become knowledgeable in data sources and expected outputs in specific domains (including but not limited to Finance, Capital Markets, FinCrime, Operations, Credit Risk)
+Build dashboards and/or web apps to visualize model results and success of solutions implemented (DataStudio, Dash, –HTML, CSS–, Streamlit)
+Identify, analyze and prepare data available for business problems in collaboration with business stakeholders (SQL)
+Skills and requirements
+
+3+ years of experience using Python. Data manipulation and OOP are a plus
+3+ years of experience in Machine Learning and statistics fields
+Financial Services and Capital Markets Experience (FX, Payments, Money Markets, Treasury Management, Credit Risk Underwriting, etc.), very desirable
+Experience in NLP, Graph Analysis and Reinforcement Learning, very desirable
+Experience managing and querying large datasets using SQL, a plus
+Experience with cloud environments (Google Cloud Platform, AWS), a plus
+Fluency in written and spoken English
+Clear and direct communication skills about complex, technical topics
+Track record of working autonomously with time management skills
+Strong problem solving and analytical skills with excellent attention to detail
+Be enthusiastic and proactive to find new ways to solve problems
+Comfortable working in a fast-paced and demanding work environment
+
+
+What Ebury Offers You
+
+Competitive salary conditions
+An environment with challenging problems in different business areas and freedom to find solutions with different techniques
+Support to progress your career in the Data world
+Work in a collaborative environment and contribute to state-of-the-art projects in the financial service sector
+Flexible workplace environment - in-person or hybrid you choose
+Monthly team-building events
+Attend conferences and training sessions
+On site English & Chinese classes with native teachers
+Access to wellbeing and mental health support sessions
+We believe in inclusion. We stand against discrimination in all forms and have no tolerance for the intolerance of differences that makes us a modern and successful organisation. At Ebury, you can be whoever you want to be and still feel a sense of belonging no matter your story because we want you and your uniqueness to help write our future.

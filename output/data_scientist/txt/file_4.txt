@@ -1,0 +1,56 @@
+End Date
+
+Wednesday 05 October 2022
+
+Salary Range
+
+£44,568 - £55,710
+
+We support agile working – click here for more information on agile working options.
+
+Agile Working Options
+
+Flexible / Variable Hours, Other Agile Working Arrangements / Open to Discussion
+
+Job Description Summary
+
+An exciting opportunity to join the Risk division.
+
+Job Description
+
+At Lloyds Banking Group, we have a clear purpose; to help Britain prosper and to become the best Financial Services provider for our customers. Through our brands, our Group has a relationship with just about every household and community in the UK. We underpin the lives of millions of individuals and businesses, and play a key role in helping to build a growing UK economy.
+
+An exciting opportunity to join part of a specialist modelling team focused on building and delivering industry leading models within the Group. Responsible for ensuring specific models are appropriately validated, monitored and managed in line with Group and regulatory standards regulatory standards.
+
+What you'll be doing..!
+Develop experimental models and machine learning applications in Python in order to help tackle business problems within the Risk Division.
+Perform data extraction and mining from various sources to develop new insight solutions. Manipulating, interpreting and challenging data using a variety of data modelling tools (such as Teradata / SQL and Python).
+Deploy models and applications within our development/experimentation environment
+Collaborating in cross-functional teams and communicating key findings to our business partners
+What we need from you...!
+Experience in using data science and predictive modelling (Logistic Regression, Random Forests, XGBoost and etc) to solve business problems, preferably in banking.
+Background in maths/stats, computer science.
+Working in a project environment with time bound deliverables
+Experience in Python (including pandas and scikit-learn) and SQL plus GCP desirable
+What You’d Get In Return
+
+We’ll give you a broad remuneration package which includes:
+A generous salary (dependent upon location)
+A performance share award
+A generous pension contribution
+28 days holiday plus bank holidays
+A flexible cash pot (4% of base salary) you can adjust to suit your lifestyle
+Private health cover
+In return for your expertise, you'll enjoy our total dedication to your ongoing personal and professional development. We'll help you perform at your best today, so you can fulfil all your potential in the future.
+
+We're committed to building a workforce which reflects the diversity of the customers and communities we serve, and to building an inclusive environment where all our colleagues can be themselves and succeed on merit. We're an equal opportunity employer and deeply value diversity within our organisation.
+
+We’ll ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process and to perform in their role.
+
+If you have the skills we’re seeking and you’re looking for your next step, we’d love to hear from you
+
+Together we make it possible
+
+At Lloyds Banking Group, we're driven by a clear purpose; to help Britain recover. Across the Group, our colleagues are focused on making a difference to customers, businesses and communities. With us you'll have a key role to play in shaping the financial services of the future, whilst the scale and reach of our Group means you'll have many opportunities to learn, grow and develop.
+
+We're focused on creating a values-led culture and are committed to building a workforce which reflects the diversity of the customers and communities we serve. Together we’re building a truly inclusive workplace where all of our colleagues have the opportunity to make a real difference.

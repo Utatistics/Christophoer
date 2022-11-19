@@ -1,0 +1,48 @@
+Job Description
+
+Business Overview
+
+Rakuten is one of the leading e-commerce companies in the world.
+
+Department Overview
+
+Our mission is to empower people and society through the internet while aiming at becoming the Global Innovation Company.
+
+Position
+
+Why We Hire
+
+We are looking for a talented engineer to work in a cross functional teams environment
+
+(operators, developers, search experts, end-users, etc.) to deliver search services on our platform. The services you will administer support some of the largest e-commerce sites in Japan and across the world. To do so, you will be a key contributor to improve our processes, practices and tools as well as our infrastructure, software delivery and operations.
+
+Position Details
+
+Configuration, tuning and deployment of our search platform, as well as search services on it
+Tailor and tune search services according to its users' requirements
+Trouble shooting and investigating of issues on the search platform
+Continuously improve the operational work flow through automation
+Continuously monitor, and maintain our services within their SLAs
+Act as a critical part of a multi-team effort to deliver, manage and maintain configuration automation to meet user requirements
+Document, design various processes geared toward continuously improving our services
+
+Only need to take a part of above responsibilities
+
+Mandatory Qualifications
+
+3 years' Linux system administration experience
+Programming fundamentals (preferably in Java or Python)
+CI/CD fundamentals (preferably in Jenkins)
+
+Desired Qualifications
+
+Experience with operating or administering self-healing systems
+Production experience with large-scale systems
+Knowledge/Experience of infrastructure/network
+Knowledge/Experience of big data or search systems (such as Hadoop, Cassandra, Solr.)
+
+#engineer #jobcategory02 #infrastructureengineer #jobsubcategory10 #technologyplatformdiv #organization13 #Java #programminglanguage02 #Python #programminglanguage06
+
+Languages
+
+English (Overall - 4 - Fluent)

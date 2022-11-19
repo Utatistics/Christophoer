@@ -1,0 +1,35 @@
+The Job
+
+This is an exciting time to join the MI & Data Analytics team within our Information Management & Information Technology (IM&IT) team here at Defence Equipment & Support (DE&S), as we grow the community with the hire of several Data Analysts who will support our continued journey to transform the usage and quality of data across the organisation.
+
+The work of a DE&S Data Analyst is within UK Defence Standardisation (DStan), to lead on the presentation of complex data to stakeholders in a user-friendly format as a basis for future business decisions and to coordinate and assure all activities across DStan business applications.
+
+You will work with the industry standard Microsoft Business Intelligence (MS BI) stack and will have the opportunity to explore an increasing number of complex data sets, solving interesting problems, forming new questions, challenging the established narrative, and informing stakeholders in key functions across the organisation with compelling visualisations.
+
+If you have professional experience of producing Management Information (MI) and the analysis of data, this could be the perfect opportunity to progress your career. We offer outstanding training and development opportunities, defined progression routes, and a host of other benefits including our 'Smarter Working' policy, which means that you will be able to enjoy a high degree of flexible working whilst also having the opportunity to work at our Ministry of Defence (MOD) Kentigern House, Glasgow.
+
+Responsibilities
+Gather, analyse, explore, and visualise the data to present the 'story' of the data in a meaningful way
+Build credible statistical models from the data and use best coding practices to generate reproducible work
+Identify complex business problems whilst leveraging data value, use an evolving range of data analysis tools
+Support the development and application of the data governance processes
+Validate, store, process and protect data to make it dependable, highlighting any discrepancies and ensuring it is accessible to users in a secure authorised way
+Identify patterns and trends to share insights with the team to inform business decisions
+Advise team members working on application development with the details for data structures, associated components, and methods of extraction
+Extensively use intellectual curiosity to explore data, models, and software applications to support data mining and more efficient data manipulation and visualisation
+Collaborate with team members and actively grow your analytical and data handling knowledge
+Be an active part of the Management Information (MI) & Data Analytics community, attend meetings and participate in working groups
+What You Will Be Assessed Against
+
+To be successful with your application you must demonstrate that you meet the following essential criteria:
+Experience of analysis of data or production of management information in an organisation.
+Experience of Power BI utilisation in a business environment.
+Practical experience of report creation and communication
+Ability to present and communicate clearly verbally and in writing with and between the business and relevant staff to capture, record and understand how the data provides value to the organisation
+It will also benefit your application if you are able to demonstrate the following desirable criteria:
+Working knowledge of data identification, validation, and visualisation
+In addition to the responsibilities above, the following technical competencies and behaviours will be assessed at interview:
+MI & Analytics
+Data Literacy
+Changing and improving
+Communicating and influencing

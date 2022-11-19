@@ -1,0 +1,48 @@
+At Rockstar Games, we create world-class entertainment experiences.
+
+A career at Rockstar Games is about being part of a team working on some of the most creatively rewarding and ambitious projects to be found in any entertainment medium. You would be welcomed to a dedicated and inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.
+
+Rockstar London is on the lookout for talented Senior Data Scientist, Machine Learning who possess a passion for both games, and big data. This is a full-time permanent position based out of Rockstar’s unique studio in the heart of London.
+
+What We Do
+The Rockstar Analytics team provide insights and actionable results to a wide variety of stakeholders across the organization in support of their decision making.
+We partner with multiple departments across the company to design and implement data and pipelines.
+We collaborate as a global team to develop cutting-edge data pipelines, data products, data models, reports, analyses, and machine learning applications.
+Responsibilities
+Assure Rockstar’s ongoing competitive advantage through best-in-class data science initiatives that have a high potential of applicability in industry.
+Provide strategic insights to stakeholders who work in varying aspects of the business such as Code, UXR and Design.
+Identify and contribute to analytical experiments aligned with long-term strategic initiatives.
+Design, build, and participate in validation tests to assess the efficiency of the model (or algorithm) in place
+Conduct proactive in-depth analysis and predictive modeling on player behaviors.
+Partner with data analysts, data engineers, data scientists, and stakeholders to better understand requirements, find bottlenecks, and implement resolutions.
+Collaborate with the Analytics Tech leads to establish best practices for repeated application.
+Qualifications
+5+ years in data science or similar role in the gaming, marketing, finance, or technology fields required.
+5+ years of experience in machine learning / statistical languages and systems such as Python, R.
+Bachelor’s degree in Computer Science or related field, with a strong quantitative background.
+Passion for Rockstar Games and our titles.
+Skills
+Experience in communicating results to a variety of stakeholders.
+Knowledge of machine learning techniques such as k-NN, Naive Bayes, SVM, Decision Forests, Data Mining, Clustering, and Classification.
+Proficiency in statistics such as distributions, predictive modeling, data validation, statistical testing, and regression.
+Ability to develop and maintain good relations and communicate with people at all hierarchical levels.
+Strong problem-solving skills.
+Ability to reconcile technical and business perspectives.
+Autonomy and entrepreneurship.
+Strong team spirit.
+PLUSES
+
+Please note that these are desirable skills and are not required to apply for the position.
+2+ years using SQL (or a SQL-like language) required, other programming experience highly preferred.
+Experience with Hadoop and PySpark.
+Experience with Snowflake.
+Experience with Azure ML.
+Graduate degree (MBA, MSc or Master’s, PHD), an asset.
+Game industry experience strongly desired.
+How To Apply
+
+Please apply with a CV and cover letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.
+
+Rockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.
+
+If you’ve got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.

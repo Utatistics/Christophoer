@@ -1,0 +1,61 @@
+Role Summary
+
+Do you want to make an impact on patient health around the world? Do you thrive in a fast-paced environment that brings together scientific, clinical and commercial domains together through data and analytics? Then join Pfizer Digital’s Enterprise Data Science and Advanced Analytics COE organization where you can leverage cutting-edge technology including AI and ML to inform critical business decisions and improve customer experiences for our patients and physicians.
+
+Our collection of global teams drives insights to action for some of the most critical business questions for the company. Our analytics professionals are based in over 30 countries around the world and come from diverse backgrounds including: market research, data science, digital analytics, finance, investment banking, corporate development, and consulting. Join one of our teams and be at the forefront of Pfizer’s digital transformation, driving innovation and bringing advance analytics to change patients’ lives.
+
+As a Data Science and Advanced Analytics Senior Manager, you will be part of a team to develop new capabilities that leverage AI/ML to solve complex problems across Pfizer’s commercial business. In this role, you will work on the strategy and roadmap for developing new capabilities and integrating them into our analytics platform. In this process, you will work on diverse projects as use cases to identify unmet need in various domains, to guide the strategic roadmap for developing new capabilities. You will also identify opportunities to translate and elevate analytics capabilities research to organizational or enterprise processes and/or best practices for AI/analytics use at Pfizer. The ideal candidate is an expert in data science with experience working in diverse and cross-functional teams, bridging the gap between data, technology, and people, to deliver the promise of AI/ML to improve patients’ lives.
+
+Role Responsibilities
+
+Provide thought leadership in envisioning and developing scalable data science solutions to transform Pfizer's go-to-market model
+
+Lead data science work streams in broader organizational initiatives by providing operational support as well as thought leadership on technical and strategic objectives
+
+Design and execute advanced analytics and predictive modeling projects using rigorous statistical methods and machine learning techniques
+
+Oversee the execution of reusable assets and custom pipelines to optimize operational efficiencies in analytics execution
+
+Manage junior team members through technical and organizational thought leadership and innovation
+
+Research, identify, and apply new algorithms and technologies to solve complex problems and systematize solutions into reusable assets and capabilities
+
+Lead Agile-based project management standards (i.e. daily check-in procedures, workload status, and cost overruns/projections)
+
+Inform data science product development and activation in commercial markets
+
+Basic Qualifications
+
+7-8 years of work experience as a data scientist and project lead for a diverse range of projects
+
+5 years of hands on expertise to lead teams, software engineering and data science projects.
+
+2-3 years of project and stakeholder management experience
+
+STEM (Science, Technology, Engineering, Mathematics) majors with quantitative emphasis – Statistics, Computer Science, Economics, Engineering etc.
+
+Expert proficiency in R, Python, and analytics platforms
+
+Applied knowledge of statistical analysis, experience with R, Excel, etc.
+
+Strong background in computer science: algorithms, data structures, machine learning, and distributed systems
+
+Superior analytical skills required; Strong verbal and written communication skills
+
+Demonstrated experience interfacing with other internal and external teams to incorporate their innovations and vice versa
+
+Experience in one or more of the following areas: machine learning, statistics, healthcare, life sciences
+
+Experience working in Agile processes and practices
+
+Preferred Qualifications
+
+Knowledge of business processes in one or more of discovery, research, clinical, regulatory or safety domains would be strong plus
+
+Industry or consulting experience, along with project management skills strongly preferred
+
+Work Location Assignment: Flexible
+
+Pfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates.
+
+Marketing and Market Research

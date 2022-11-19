@@ -1,0 +1,73 @@
+📍 Location | UK Remote
+
+About Us
+
+We’re here to make money work for everyone and we're doing things differently. For too long, banking has been obtuse, complex and opaque.
+
+We want to change that and build a bank with everyone, for everyone. Our amazing community suggests features, test the app and give us constant feedback so we can build something everyone loves.
+
+We're focused on solving problems, rather than selling financial products. We want to make the world a better place and change people's lives through Monzo.
+
+About Our Monzo Flex Team
+
+We're looking for a Product Data Scientist excited to help us revolutionise the way people manage their finances. A key part of this role is product development our recently launched Monzo Flex, a product that gives customers a better way to pay later. You’ll help us understand and improve the user experience for a new product, help drive growth (we have over five million current account customers), and how we consider cross product dynamics across the range of borrowing products.
+
+At Monzo, we're building a bank that is fair, transparent and a delight to use. We’re growing extremely fast and have over five million customers in the UK. We’ve built a product that people love and more than 80% of our growth comes from word of mouth and referrals.
+
+Our Product Analytics team's mission is to Enable Monzo to Make Better Decisions, Faster
+
+We have a strong culture of data-driven decision making across the whole company - and want to embed this into Monzo Flex, using powerful, real-time analytics to drive how we think about product development, growth hacking, and ongoing customer engagement.
+
+Your day-to-day
+Work within a Product squad within the Borrowing Collective, collaborating closely with designers, PMs, and engineers to develop the testing and product roadmap for Monzo Flex.
+Actively explore uptake and engagement of Monzo Flex and our other borrowing products, to make sure we can offer the right product and features to our customers
+Be the expert on running simple and more complex experiments so that we can reliably measure the impact of changes we make to our borrowing products
+Scale your knowledge and impact across data in borrowing by sharing your knowledge and working with others on projects and experiments
+Find enjoyment in contributing to data across Monzo by sharing your insights, contributing to our core data pipelines and proactively spotting opportunities for applications of your work in other areas of the business
+You should apply if:
+What we’re doing here at Monzo excites you!
+You're impact driven and eager to have a real positive impact on the company, product, users and very importantly your colleagues as well
+You're commercially minded and can put numbers into business perspective
+You’re as comfortable getting hands-on as taking a step back and thinking strategically
+You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so
+You're a team player whom your colleagues can rely on
+You have solid grounding in SQL and preferably Python
+You have experience in conducting large scale A/B experiments
+Nice to haves:
+You have multiple years of experience in product or growth analytics, preferably in a fast moving tech company
+You have experience working in financial services
+The Interview Process:
+
+Our Interview Process Involves Three Main Stages
+Initial Call
+Take home task or pair coding exercise
+Final interview including a system design and a behavioural interview
+Our average process takes around 2-3 weeks but we will always work around your availability.
+
+You will have the chance to speak to our recruitment team at various points during your process but if you
+
+do have any specific questions or want to talk through reasonable adjustments ahead of or during application please us at any point on tech-hiring@monzo.com
+
+What’s In It For You
+
+✈️ We can help you relocate to the UK
+
+✅ We can sponsor visas
+
+📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).
+
+⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.
+
+📚 Learning budget of £1,000 a year for books, training courses and conferences
+
+➕And much more, see our full list of benefits here
+
+If you prefer to work part-time, we'll make this happen whenever we can - whether this is to help you meet other commitments or strike a great work-life balance.
+
+Equal Opportunity Statement
+
+We are actively creating an equitable environment for every Monzonaut to thrive.
+
+Diversity and inclusion are a priority for us and we are making sure we have lots of support for all of our people to grow at Monzo. At Monzo, embracing diversity in all of its forms and fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog , 2021 Diversity and Inclusion Report and 2021 Gender Pay Gap Report .
+
+We're an equal opportunity employer. All applicants will be considered for employment without attention to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity status or disability status.

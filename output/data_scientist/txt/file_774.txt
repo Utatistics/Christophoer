@@ -1,0 +1,60 @@
+Job Purpose And Background In Summary
+
+Are you passionate about using data to drive change? Do you have excellent Data Science skills alongside the ability and desire to work with users of data and to communicate well?
+
+We are looking for a Junior Data Scientist to be responsible for delivering the goals of the new data platform and further automate our Corporate and Cities Scoring process. The successful candidate will work on designing and delivering scripts to automatically score responses to CDP’s Climate Change, Water Security, Forest and Cities questionnaires, helping to incentivize and guide companies and cities on their journey through disclosure towards becoming leaders on environmental transparency and action.
+
+This role requires experience in constructing automated scripts in a programming language such as Python, building and monitoring of pipelines, as well as sourcing and preparation of data working together with the data engineering team. The successful candidate will need to demonstrate capability to work and communicate effectively with others, including stakeholders and thematic teams to translate CDPs scoring methodologies in to coded logic, while ensuring processes are followed, deliverables are aligned to milestones and outputs are built to agreed quality standards.
+
+About CDP
+
+CDP is a not-for-profit charity that runs the global disclosure system for investors, companies, cities, states and regions to manage their environmental impacts. The world’s economy looks to CDP as the gold standard of environmental reporting with the richest and most comprehensive dataset on corporate and city action. In 2021 we launched our new five-year strategy: Accelerating the Rate of Change - find out more here. Visit  https://cdp.net/en or follow us @CDP to find out more.
+
+Key responsibilities include:
+
+Delivery of python scripts automating repetitive tasks and closely following the environmental scoring methodology designed by scoring experts
+Integration of scripts into wider data pipelines and automated testing procedures
+Company specific performance and disclosure tracking with dashboarding and visualizations
+Delivery of automated data quality assessment and outlier detection-based data cleaning algorithms
+Assistance in 3rd party provisioning and preparation of data
+Assistance in the productionising of analysis pipelines through a cloud toolset while hosting static and dynamic presentations of the generated insight.
+Assistance in the re-development of scripts to take advantage of the new data platform – e.g., Data Bricks capabilities and script orchestration with Azure Data Factory
+
+Required skills and experience:
+
+BSc/MSc educated in Computer Science, Statistics and Mathematics or similar.
+At least 1 years of experience using open-source programming languages for large scale analysis (Python and R) and querying of relational databases (e.g., SQL)
+Experience with well-known code libraries for data pre-processing (pandas, dplyr, tidyr, SciPy, feature-engine, beautiful soup, scrapy, spacy, nltk, TextBlob, fastText, polyglot, requests, Json, functools).
+A strong mathematical and statistical background with a deep understanding of statistical inference, experimental design, sampling, and simulation
+Good technical communication & presentation skills in English.
+Be able to work in a matrix environment within a virtual team.
+Excellent problem-solving skills.
+structured and unstructured data in big data pipelines, e.g., in Azure tech stack
+Experience with managing and deploying models using Azure Data Bricks, Azure Data Lake, Azure Data Factory.
+Project experience with NLP, text analytics and other relevant areas (e.g., text classification, topic detection, information extraction, Named Entity recognition, entity resolution, Question-Answering, sentiment analysis, event detection, language modelling).
+Experience with version control (e.g., Git) and shell scripting
+
+Desired skills and experience:
+
+Experience working as part of a scrum team.
+A good understanding of GHG and sustainability data.
+An awareness of environmental issues, particularly as they relate to our core themes of Climate Change, Deforestation and Water Security.
+Knowledge of the financial system and capital markets.
+Experience with automatic testing scripts and environmental promotion pipelines (e.g., azure DevOps pipeline).
+Experience in the training and production of machine learning models using both structured and unstructured data in big data pipelines, e.g., in Azure tech stack
+Ambition to start to enable and coach colleagues as part of an expanding organization within a growing data science organization.
+Excellent data visualization skills using Power BI or similar tools.
+
+This is a full time role based at CDP’s London office reporting to The Head of Data Science and Products in Berlin
+
+Salary and benefits: £28,000- £30,000 per annum, 30 days’ holiday plus bank holidays, generous non-contributory pension provision, Employee Assistance Programme, life assurance, training and development, flexible working opportunities and other benefits.
+
+Interested applicants must be eligible to work legally in the UK. We cannot sponsor this role.
+
+Before you apply
+
+We’ll only use the information you provide to process your application. For more details on how we use your information, see our applicant’s privacy notice. By uploading your CV and covering letter, you are permitting CDP to use the information you have provided for recruitment purposes.
+
+How to apply:
+
+Please upload your CV in the application form along with a covering letter as an additional document setting out how you meet the required skills and experience or key responsibilities, which should be no more than two pages. The deadline is 9th October 2022.

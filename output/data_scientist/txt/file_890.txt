@@ -1,0 +1,69 @@
+Department: Technology
+Reporting to: Decision Science Manager
+Location: Milton Keynes (hybrid)
+
+Who are we?
+
+Life is sometimes messy, unpredictable, and surprising — that’s where we come in. 118 118 Money is a fast-growing tech enabled disruptor in the financial services market. Our mission is to help our customers handle whatever lands in their path, so they can get back out there and get on.
+
+We hit the ground running in 2013 with our revolutionary unsecured personal loans and credit cards, giving UK residents access to credit at fair and affordable rates that we believe they deserve.
+
+We have offices in Cardiff, Milton Keynes, with our HQ in London, the UK. Our customers teams are based in Manila, the Philippines.
+
+Our people
+
+Our people are the heart of our business, this is a theme we all share as we look to build our people capability for the future. We recognise, reward, and celebrate great performance and behaviour. We provide a positive environment for our people to collaborate and thrive. We recruit great talent who share our values and ambition.
+
+The Opportunity
+
+Job purpose:
+An Key member of the analytics team, the role of Data Scientist will evolve around the development, deployment and monitoring of best-in-class models and statistical algorithms. The individual should be able to understand the business needs and use a variety of modelling techniques to deliver strong sustainable growth, within risk appetite, and to ensure best outcomes for customers.
+
+Key responsibilities and objectives:
+Work on the creation and deployment of best in class segmented credit models that are appropriate for unsecured consumer lending products
+Work closely with the wider Analytics team to drive improvement to the overall value of the portfolio by adapting data sources, modeling strategies, cut-offs and application processes
+Interact with external parties such as credit reference agencies
+Produce written summary of analysis and recommendations and present those to senior technical or non-technical audiences
+Produce MI in order to monitor the adequacy of models already in place
+Alert the management team of any model degradation, propose and own remediation actions
+Work closely with colleagues across the group to deliver projects and the change agenda
+
+Who you are:
+You will have a very strong background in Data science and Statistics, ideally from a lending institution, with knowledge of external data sources such as Credit Bureau data. You should be able to understand business needs and use a variety of modelling techniques to deliver strong sustainable growth, within risk appetite, and ensure best outcomes for customers.
+
+What you'll need:
+Experience:
+Prior experience of modelling, data science, or decision science in the context of risk management
+Hands-on strong knowledge of data manipulation and modelling languages – SQL, SAS or R
+Highly proficient using Excel and other analysis tools
+Excellent verbal and written communication skills and ability to convey complex concepts to non-technical members of the team
+Ability to work in an extremely fast paced start-up environment
+Extremely self-motivated and ability to operate independently
+
+Qualifications:
+Degree educated or equivalent in technical numerical field (e.g. statistics, mathematics, physics, operational research)
+What’s in it for you?
+
+A competitive salary
+Company bonus scheme - if the business does well, you should get rewarded for your hard work
+25 days' annual leave (plus bank holidays) – your balance stars from day 1 so don’t delay and start planning your time off!
+Company pension scheme – we provide an enhanced pension scheme with generous employer contributions to set you up for the future which includes life cover of 4x your base salary
+Eye test – you can claim a freebie each year, or if your needs change
+Employee Assistance Programme - we offer membership to a recognised scheme to support you and your wellbeing
+A strong ethos of equality, diversity, and inclusion
+Wide business exposure, in terms of business disciplines, projects and stakeholders
+Direct contribution to business transformation and growth
+Huge learning and career progression opportunities
+Being valued as an individual from our team
+Full training, support and mentoring to develop a successful career in financial services
+
+Equal Opportunity Employer
+At 118 118 Money we are passionate about equality, diversity, and inclusion. We are committed to being representative of different cultures, background, lifestyles, and groups, where everyone has an equal chance to succeed. It is our policy to treat everyone fairly and to ensure no one is disadvantaged or receives less favourable treatment.
+
+How we handle your data
+
+118 118 Money requires your personal data to process your application for a position within our Company. If your application is successful through to telephone screening/interview, and you are not selected for a role, we may store your personal data for 12 months to enable our HR team to contact you should future roles be advertised.
+Where you apply, but are not selected for telephone screening/interview, we will delete your personal data once the position is filled.
+118 118 Money does not use automated decisioning or profiling when selecting candidates.
+For your rights under GDPR please see our Privacy Policy
+Please be aware that should we pursue your application, all our Financial Services employees will be expected to complete background checks to assess suitability for employment, these include; a criminal record, identity, sanctions, adverse finance, fraud prevention and reference checks to comply with our regulatory requirements.

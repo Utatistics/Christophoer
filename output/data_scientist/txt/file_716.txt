@@ -1,0 +1,3 @@
+Physics Programmer PhD/MPhys/MSc, Software Engineer C++, Computer Scientist C++ or Mathematician Matlab to implement software for control and data acquisition applications used for the science industry.
+
+Scientists/Software Engineers will have experience or training in developing scientific or technical software with C++, Java or matlab or python. A background in physics or astrophysics or physical sciences will be advantageous. Experience of control or real-time software, motion/servo control or using LabVIEW would be useful.This is a rare opportunity to use both your scientific and software skills Scientists with an interest in data science, or machine learning are encouraged to apply. Training around software development (C++) can be provided

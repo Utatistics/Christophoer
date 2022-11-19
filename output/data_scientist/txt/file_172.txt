@@ -1,0 +1,169 @@
+Location
+
+We operate a hybrid working model and fully support flexibility with colleagues already based across the UK working from home and linked to one of our core locations in Newport, Titchfield (Fareham), Darlington, Edinburgh or East Kilbride.
+
+For this role you will be linked to one of the core locations, the frequency of attendance at our offices is agreed with you as relevant to your role.
+
+Summary
+
+About the job
+
+Do you have a passion for using data science for the public good? We are looking for a Data Scientist to work as part of a cross-disciplinary team to deliver innovative data science projects and help build data science capability for international development.
+
+You will join the Data Science Campus where we apply data science, and build skills, for the public good across the UK and internationally.
+
+To find out more about the Data Science Campus and our projects, please visit our website:
+
+We’re committed to supporting your wellbeing by offering flexible ways of working that support a healthy work-life balance. We’re happy to explore opportunities with you about working flexibly in line with our policies.
+
+Job Description
+
+As a data scientist working in the Campus on international development, you will be responsible for directly supporting the growth of data science in developing countries and supporting UK Government decision making in development settings.
+
+You Will Achieve This Through a Combination Of
+Building data science capability in National Statistics Offices of international partners (currently: Ghana, Kenya, Namibia, and Rwanda) to embed data science methods in their statistics production processes. This may involve mentoring/training data scientists in technical skill development or helping the organisation to strategically identify new opportunities to use data science. Past example:
+Delivering impactful data science projects that answer priority questions to support international partners, and the UK Foreign Commonwealth and Development Office (FCDO). Past example:
+Around half of your time will be spent on building data science capability in partner organisations, and half on high impact data science project work.
+
+You will have the opportunity to automate analytical/statistical production and also gain exposure to GitHub for developing, sharing, and maintaining reproducible code.
+
+We are currently prioritising projects that align with the themes: Health, Climate, and Inequality.
+
+About The Data Science Campus
+
+We tackle the issues that matter. We deliver a wide range of data science projects across the public sector and lead international collaborations. We work with academia and industry experts. We champion openness, publishing reports, papers, and open-source code related to our projects. We abide by the highest standards of data ethics. We have teams of data scientists working on topics that really matter for the UK, such as international development, population mobility, health, net zero, insights about the economy, EU exit, synthetic data, and levelling up.
+
+Responsibilities
+Deliver high impact projects demonstrating the benefits of data science in international development settings.
+Create and deliver data science training and mentoring to build sustainable data science capability within international partnering organisations.
+Work within a multi-disciplinary data science team, using agile project delivery methods to ensure your work delivers value by understanding and addressing user needs
+Proactively identify opportunities for applying data science to solving challenging real-world problems.
+Promote and present data science work both within the organisation, across government, and internationally.
+Develop your technical and non-technical skills, and support others in developing new skills. You will be given 10% of your time actively focused on skills development.
+Within this role, you may line manage and mentor less experienced data scientists.
+
+Some travel to other Campus and Government locations will be required, and there may be opportunities for international travel to work with partnering organisations.
+
+Essential Criteria
+
+Person Specification:
+A track record of delivering high impact data science projects. You are not expected to have experience of all areas, but should have experience of more than one of: automation, statistical modelling, machine learning, and working with unstructured data (for example, text).
+Experience in using R and/or Python; knowledge of coding standards and their application; experience sharing expertise with others.
+Experience in data visualisation and communicating insights from data.
+Ability toindependently identify appropriate analytical approaches to problems and justify your proposals.
+Experience working in a flexible manner adapting to the changing needs of stakeholders, for example by using agile processes.
+Experience regularly communicating complex concepts and tailoring that communication to a diverse range of audiences.
+Experience working effectively in a collaborative environment and sharing progress and expertise across a diverse team.
+Strong inter-personal skills, experienced in communicating complex concepts, and mentoring qualities.
+Desirable Criteria
+Package design and management, algorithm and implementation optimisation, user interface design, and the software development lifecycle.
+Data management and engineering manipulation and analysis of complex, high volume and high dimensional data, distributed processing, relational and non-relational databases, and cloud computing and storage.
+Behaviours
+
+We'll assess you against these behaviours during the selection process:
+Communicating and Influencing
+Delivering at Pace
+Leadership
+Technical Skills
+
+We'll assess you against these technical skills during the selection process:
+A technical presentation will be required at interview where we will assess your ability to present and discuss a data science project you've been involved with. Successful candidates will be given full details in advance of their interview.
+Benefits
+
+The
+
+Whether you are hearing about us for the first time or already know a bit about our organisation, we hope that the benefits pack attached (bottom of page) will give you a great insight into the benefits and facilities available to our colleagues, and our fantastic working culture.
+
+We are an organisation that takes well-being seriously and lives and breathes the desire to modernise the workplace of the future. Everyone, from our office-based colleagues across our office sites, to our field interviewers and airports and ports passenger survey teams, are part of a diverse and inclusive family.
+
+Inclusion & Accessibility
+
+At ONS we are always looking to attract the very best people from the widest possible talent pool, and we are proud to be an inclusive, equal opportunities employer. As a member of the Business Disability Forum and a Disability Confident Leader we’re committed to ensuring that all candidates are treated fairly throughout the recruitment process.
+
+As part of our application process, you will be prompted to provide details of any reasonable adjustments to our recruitment process that you need. If you would like to discuss any reasonable adjustments before applying, please contact the recruitment team in the first instance.
+
+If you would like an accessible version of any of the attachments or recruitment documents below or linked to in this advert, please contact the recruitment team who will be happy to assist.
+
+Things you need to know
+
+Security
+
+Successful candidates must pass a disclosure and barring security check.
+
+Successful candidates must meet the security requirements before they can be appointed. The level of security needed is
+
+People working with government assets must complete
+
+Selection process details
+
+This vacancy is using
+
+The ONS regularly run webinars and support sessions for candidates. You can find details on all our upcoming webinars on our
+
+At application stage you will be assessed on your CV and personal statement submission.
+
+Your CV should be tailored to demonstrate any skills, knowledge and experience that are relevant to the content of the role.
+
+Your personal statement should be no longer than 1250 words. You should use this space to provide evidence for each essential skill criteria within the person specification. As the criteria are scored, we would recommend that you give clear examples for each including the impact of your actions.
+
+Success Profiles Behaviour examples are not required at this stage.
+
+In cases where there is a high number of applications the sift pass mark may be adjusted and candidates will be invited to interview in merit order, i.e., those scoring the highest.
+
+Should you be invited to interview, you will be assessed using various assessment techniques aligned to the Civil Service Success Profiles, where you'll be assessed against all the behaviours outlined in the advert.
+
+A technical presentation may be required at interview. Successful candidates will be given full details in advance of their interview.
+
+Interviews will be held with those who pass the sift via video conferencing.
+
+Sift will take place – from 13th October 2022
+
+Interviews will take place – w/c 24th October 2022
+
+Dates are subject to change.
+
+For full terms and conditions, please see the attachment at the end of this advert.
+
+The successful candidate is required to carry out all their duties from a UK location, and cannot do so from an overseas location at any time, unless this has been specified as a part of the role. This presence will vary and have flexibility built around the following:
+Needs of the role and business objectives.
+Personal Preferences.
+Successful collaboration and effective partnerships with teams/customers and stakeholders.
+Disability and wellbeing considerations.
+Feedback will only be provided if you attend an interview or assessment.
+
+Nationality Requirements
+
+This job is broadly open to the following groups:
+UK nationals
+nationals of Commonwealth countries who have the right to work in the UK
+nationals of the Republic of Ireland
+nationals from the EU, EEA or Switzerland with settled or pre-settled status or who apply for either status by the deadline of the
+relevant EU, EEA, Swiss or Turkish nationals working in the Civil Service
+relevant EU, EEA, Swiss or Turkish nationals who have built up the right to work in the Civil Service
+certain family members of the relevant EU, EEA, Swiss or Turkish nationals
+Working for the Civil Service
+
+The
+
+We recruit by merit on the basis of fair and open competition, as outlined in the Civil Service Commission's
+
+The Civil Service embraces diversity and promotes equal opportunities. As such, we run a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+
+The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+
+Apply and further information
+
+This vacancy is part of the
+
+Once this job has closed, the job advert will no longer be available. You may want to save a copy for your records.
+
+Contact point for applicants
+
+Job Contact
+Name : Joseph Crispell
+Email : Joseph.Crispell@ons.gov.uk
+Recruitment team :
+Email : Vicky.Lord@ons.gov.uk
+Further information
+
+If you feel your application has not been treated in accordance with the Recruitment Principles and you wish to make a complaint, in the first instance, you should contact recruitment.complaints@ons.gov.uk. If you are not satisfied with the response you receive from the Department, you can contact the

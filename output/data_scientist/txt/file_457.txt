@@ -1,0 +1,30 @@
+Data Scientist - Home Based - �50-60k
+
+Please note - you must have the unrestricted right to work in the UK to be eligible for this role, this organisation is not able to offer sponsorship.
+
+A fantastic organisation operating within the housing and building management sector are looking to recruit a talented Data Scientist to join their well established Data Analytics function.
+
+In this role you will work within an Agile environment and as part of a small Data Science team of 5. You will report in to the Data Science Manager and work closely with other teams within the Data Analytics function including the Business Intelligence and Reporting teams.
+
+You will work on a basis of 2 week Agile sprints and your responsibilities will include:
+
+Building Machine Learning models
+Creating Machine Learning Algorithms
+Building data pipelines using Python, Pyspark and Databricks in MS Azure
+Assisting in the development of the overarching data landscape and architecture
+Ad hoc data governance, assurance, and quality tasks
+Ensure that all work is carried out in line with best practice guidelines
+Work closely with stakeholders
+Contribution to various automation focused projects
+
+To be a good fit for this role you should have experience working within a Data Scientist capacity and have excellent communication skills, both written and verbal. You should also have the following technical experience:
+
+Strong experience with MS Azure technologies
+Strong experience with Python or Spark
+Experience using Data Bricks or Pyspark
+Strong hands-on coding background
+Solid understanding of SQL Server
+
+To apply for this role submit your CV or contact David Airey on 0191 338 7508 or at d.airey@nigelfrank.com.
+
+Nigel Frank International are the go-to recruiter for Power BI and Azure Data Platform roles in the UK offering more opportunities across the country than any other recruitment agency. We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group. We are the global leaders in Microsoft recruitment.

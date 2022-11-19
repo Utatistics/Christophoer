@@ -1,0 +1,42 @@
+Job Description
+
+Major Tasks
+
+* Customer micro-segmentation: uncover customer behaviors, preferences, and micro-segments by analyzing available customer data in innovative ways * Growth drivers: applying analytical methods to identify sales growth drivers with the potential to help our business units change their marketing strategy to drive business outcomes and sales growth
+
+* KPI design: designing smart leading/lagging KPI structures, simplifying the job of marketing and sales teams to readily identify issues or opportunities in their go-to-market activities and campaigns
+
+* Investment allocation (ROI): create analytical ROI models that help marketing functions identify the right allocation of resources/investments across brands, marketing channels and campaigns
+
+* Data science Business Partnering: develop a close understanding of business strategy and market environment, and co-create Data Science solutions with business unit (marketing & sales) leaders that can make a difference to drive business growth (sales)
+
+* Analytical process excellence: advance automation of data collection and ETL processes to be used for standard analytic solutions or KPI dashboards to enhance delivery efficiency
+
+Next-level advanced priorities:
+
+* Machine learning: explore the use of Machine Learning and other algorithms to segment, categorize and build predictive models (including sales forecasting) and recommendation engines for answering high priority business needs and enabling adjustments to strategic ortactical decision making
+
+* Natural language processing: develop a set of toolbox to analyze and mine textual information in Japanese so that such tools can speed up insight generation and be used (as an API) for multiple services internally
+
+* Data wrangling:
+
+identify opportunities to utilize alternative data sources such as Online Data Mining (Web crawling) and Open Data initiatives and consider how we could use them to better answer business questions or create better models
+
+* Data visualization: create data visualization tools that enable marketing and sales team members seamlessly grasp the market & customer situation; thus, powering our ambition to become a data-driven marketing & sales organization
+
+* Business growth: explore new technologies or tools to generate efficiency enhancing business recommendations, e.g. for day-to-day operations of the sales force, predicting target customer potential, channel preferences etc. Guiding principle is to answer the key business questions: "right customer, right channel, right message right timing and right frequency"
+
+
+
+Computer Futures is part of the larger SThree K.K group
+
+To find out more about Computer Futures, please visit www.computerfutures.com | Computer Futures についてもっと詳しく知りたい方はこちらへ→ www.computerfutures.com
+
+
+
+
+
+Award winner of:
+
+
+Great Place to Work 2019 | Growth Company of the Year by TALint Recruitment Awards 2019 | Best IT & Technology Recruitment Company of the Year by Recruitment International Awards 2018

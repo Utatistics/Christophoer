@@ -1,0 +1,18 @@
+Data Scientist - Sustainable Energy
+
+Build Machine Learning models to forecast demand, market prices and participant behaviour within the renewable energy space.
+
+As a Data Scientist on the team you will be responsible for building decision making agents to act autonomously in the power markets, enabling the expansion of a world-class forecasting and algorithmic trading platform.
+
+They are looking for someone who has experience or knowledge of the following:
+
+You have a passion for time-series forecasting and a desire to apply that within the energy sector
+You have experience building algorithmic decision tools (e.g. mixed-integer linear programming)
+You have exposure to energy markets or battery systems modelling
+You have experience with Python and its wider numerical ecosystem (Pandas, Numpy, SciKit-learn, etc.)
+
+They offer long term development, and training budgets to allow you to continue growing in the role, along with further, competitive, financial benefits.
+
+If you want to have serious impact within the Data Science space, this is the role for you!
+
+The team are based in Oxford, and looking for someone to visit the office once per week.

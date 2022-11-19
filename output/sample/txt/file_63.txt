@@ -1,0 +1,82 @@
+Job Description
+
+Business Overview
+
+Rakuten group has almost 100 million customer base in Japan and 1 billion globally as well, providing more than 70 services in a variety such as e-commerce, payment services, financial services, telecommunication, media, sports, etc.
+
+Department Overview
+
+Following the strategic vision “Rakuten as a data-driven membership company”, we are expanding our data activities across our multiple Rakuten group companies.
+
+Our mission is to provide data/AI related products to users to improve marketing efficiency and effectiveness.
+
+Position
+
+Why We Hire
+
+In order for our section to expand the business further, we are looking for a professional Data Analyst/Scientist.
+
+Position Details
+
+Overview
+
+The Data Analyst will be handling consumer analysis and building client proposals for both internal and external companies. This is an opportunity to understand and respond to client pain point in varied industries, working with both sales and data scientists.
+
+The Main Responsibilities Include But Are Not Limited To
+
+Extract and analyze data required for analyses from internal/external sources
+Use visualization tools (e.g. Tableau, Python Seaborn package, Excel) and build presentation decks to provide clear insights to improve the client’s marketing strategy and execution
+Perform statistical analyses (e.g. Python) and build machine-learning models to deliver further insights
+Deliver insights to clients through presentations (using Keynote, B2B model)
+Contribute to the development of products and services which maximizes business value
+Collaborate with business managers, engineers, and R&D teams to effectively identify new opportunities and systemize development operations/process
+Follow trends in modern technology (AI) and propose innovative approaches
+
+Title
+
+Data Analyst/Scientist
+
+Job Level
+
+Mid-Intermediate to Senior
+
+Work Environment
+
+Team
+
+International and diverse team with highly skilled engineers, business professionals, data analyst and scientist (around 30 members in total)
+
+Mandatory Qualifications
+
+Data Analytics knowledge and experience:
+
+Bachelor’s degree in Computer Science, Mathematics, Statistics, or related field
+3+ years experience as a Data Analyst or Data Scientist
+Experience in a statistical computer language: ideally Python and its related data science and visualization libraries (Pandas, Numpy, Scikit-learn, Matplotlib, etc.).
+Knowledge of SQL
+Ability to identify, summarize, and visualize business issues
+
+Fundamental Business Skills
+
+Excellent problem-solving ability (with problem-oriented thinking, critical thinking, logical thinking, hypothetical thinking ability, etc.)
+Excellent professional characteristics (with Intrapersonal Intelligence, Personal Impact, Leadership, and Entrepreneurial Drive)
+
+English Language
+
+Business Level English
+Intermediate to Business Level Japanese
+
+Desired Qualifications
+
+Experience in sales, working directly with customers or business clients
+Knowledge of a variety of machine learning techniques (regression, decision tree, bagging, boosting, deep neural networks) and the underlying theory: use cases, advantages/drawbacks, hyperparameter tuning, model performance interpretation
+Knowledge in E-Commerce / Digital marketing
+Experience with big data tools (Trino, Hadoop, Hive, etc.)
+
+#engineer
+
+#datascientist #technologyservicediv
+
+Languages
+
+English (Overall - 4 - Fluent)

@@ -1,0 +1,68 @@
+We are seeking for a Data Analyst to support our commercial teams and specifically, Dr.Ci:Labo. As part of Data analysis team, you must be proactive, detail-oriented, and eager to learn and keep up with quickly evolving business landscape.
+
+Our team, Impact Insight is positioned between the business and IT, transforming Big Data into Smart Data, converting Data into Insight. Working closely with commercial and IT, we provide actionable insights based on high quality analysis and understanding of our industry, in order to meet the objectives from our clients and grow our business. Our initiatives have concrete and measurable impacts.
+
+By getting to use Data analysis technologies and solutions such as AWS, Redshift, Tableau, QlickView, R or Python, We contribute to develop the actionable results with our commercial partners and present it with them to our stakeholders.
+
+Key Responsibilities
+Deep dive to actively provide analytics insights and propose best scenarios to our clients to reach their KPIs and maximize their satisfaction, in close link with your commercial partners and other internal support teams
+Detect root causes of issues impacting the performance of our business team conducting campaigns through analysis of our huge data set, and propose concrete measures to fix them in link with our stakeholders on technical, commercial or product side
+Develop and apply your analytics skills by deep-diving on our data and coming up with advanced analysis, models, automation schemes and projects leveraging on SQL, Tableau, Python and other technologies to maximize impact and scalability
+
+Mission as a department
+Analyze product purchase data of Japan's No.1 doctor's cosmetics brand sold through multiple channels (web, mail order, directly managed department stores, and wholesale).
+Analyze product purchase data. We will approach consumer insights from the data and contribute to maximizing sales.
+Supporting marketing strategies to increase new customer acquisition, optimize CPA, and increase basket size and LTV of existing customers.
+Supporting marketing strategies to increase new customer acquisitions, optimize CPA, and increase the basket size and LTV of existing customers
+Provide real-time reporting with high accuracy through dashboards of various sales and user acquisition reports.
+The dashboards of various sales and user acquisition reports provide real-time reporting at high accuracy. Furthermore, our statistical forecasting model provides highly accurate sales forecasts, contributing to accurate and prompt business decisions.
+
+Working Attractiveness
+
+As an independent team of analytical experts under the direct control of top management, they are able to use data to impact business decisions. The team is well coordinated with the IT department and has free access to the vast multi-channel, in-house product purchasing data. In addition, they have access to market trend data, panel research data We are also able to cross-fertilize with external data such as market trend data, panel research data, and consumer segmentation data. The team also has access to data science to obtain consumer insights, such as persona acquisition through cross analysis with external data such as market trend data, panel research data, and consumer segmentation data, and predictive model building and customer segmentation through machine learning approaches.
+
+There are many places where data science skills can be utilized to obtain consumer insights. In addition to digital marketing, there are many other fields where data science skills can be utilized to gain consumer insights. We also have a wide range of experience in designing tests, analyzing, and planning creative for print media such as newsletters, as well as in finance and operations optimization, and product development. This position is unique in that you will be able to provide advice on a wide range of issues, from the optimization of finance and operations to product development. This is a unique opportunity to help in a wide range of areas from finance and operational optimization to product development.
+
+In addition, the ability to learn domain knowledge of the skincare industry, mail order business and marketing know-how is an attractive feature of working in a data analysis team in an operating company. data analysis team of an operating company. As a member of the Asia Pacific region, I often work closely with the Singapore team. As a member of the Asia Pacific region, you will frequently collaborate with the Singapore team, so if you are considering a career as a data scientist working in the global field, this is a challenging job for you. If you are considering a career as a data scientist in the global field, this is the perfect environment for you to challenge yourself.
+
+Career path
+Build a career as a data scientist in the current team at Dr. Ci:Labo or in a similar department at J&J Consumer.
+Build a career as a data scientist in other departments of Dr. Ci:Labo or J&J Consumer (marketing, corporate strategy, etc.) as a person with strong data analysis skills
+
+Qualifications
+
+Required skills and experience
+Technical Skills: Familiarity with SQL databases and willingness to learn new skills as needed. Willingness to learn new skills as needed
+3+ years of work experience in an analytical role or equivalent experience / practical work experience in B2C, preferably FMCG. B2C, preferably FMCG
+Languages: Japanese (business level) and English (reading and writing required, speaking is a plus)
+
+Preferred Skill And Experience
+Analytical Skills: Familiarity and passion for analytics, including business intelligence, statistics, and predictive approaches.
+Business Skills: Experience in data-based analysis and strategy planning (3C, SWOT analysis, etc.) in a corporate planning or marketing position. Experience in data-based analysis and strategy planning (3C, SWOT analysis, etc.) in a corporate planning or marketing position. Customer oriented, able to communicate and influence others with clear messages and easy-to-understand proposals. Able to manage vendors and projects appropriately.
+A degree or equivalent in a quantitative or business discipline (statistics, mathematics, physics, economics, finance, finance, engineering) with a focus on analytics. Graduate degree or equivalent in a quantitative or business field (statistics, mathematics, physics, economics, finance, finance, engineering, or engineering) with a focus on analytics.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+Johnson & Johnson Family of Companies in Japan strongly recommends prospective employees to complete the COVID-19 vaccination before or as soon as after joining our company to prevent the spread of infection among our employees and people around them as well as our customers and the community we serve, and to ensure our responsibilities are sustainably fulfilled as a healthcare company (except for those who cannot vaccinated with underlying medical conditions and other circumstances).
+
+Johnson & Johnson announced plans to separate our Consumer Health business to create a new publicly traded company. The process of the planned separation is anticipated to be completed within 24 months, and it will be subject to legal requirements including consultation with works councils and other employee representative bodies, as required, and other customary conditions and approvals.
+
+Should you accept this position, it is anticipated that, following conclusion of the transaction, you would be an employee of a new entity within New Consumer Health and your employment would be governed by New Consumer Health’s employment processes, programs, policies, and benefit plans. In that case, details of any planned changes would be provided to you by New Consumer Health at an appropriate time and subject to any necessary consultation processes.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+Primary Location
+
+Japan-Tokyo-To-Shibuya-
+
+Organization
+
+Dr. Ci:Labo Co. Ltd.
+
+Job Function
+
+Sales
+
+Requisition ID
+
+2206065469W

@@ -1,0 +1,55 @@
+Job Description
+
+Business Overview
+
+Are you interested in building the next generation of Internet services that will impact hundreds of millions of users across the globe every day?
+
+Rakuten is one of the leading e-commerce companies in the world. We provide several Internet services such as EC marketplace, travel booking services, digital contents and FinTech. Our mission is to empower people and society through the internet as a Global Innovation Company.
+
+Department Overview
+
+Our department, the Membership Platform Department (MPD) is thinking big: we build scalable platforms that empower the Rakuten Ecosystem worldwide.
+
+The Fraud Prevention Section is responsible for building the fraud platforms and investigating various forms of fraud.
+
+We combine the latest technology, architecture solutions, and fraud modeling capabilities to develop a scalable, high-performing system which processes billions of transactions in real-time.
+
+Position
+
+Why We Hire
+
+The core responsibility is to protect accounts and transactions from fraud in real-time.
+
+Position Details / Responsibilities
+
+Investigate accounts for identity theft and transactional fraud, execute queries and run scripts in dashboards, present / visualize / track the attack and solutions.
+Integrate, execute, evaluate and validate Proof-of Concepts from internal and external sources.
+Identify security vulnerabilities within existing applications and automate the solutions.
+Work closely with Business Stakeholders, Program Management, Software Engineers, DevOps Engineer, Infrastructure, Quality Assurance Engineers and other Fraud Investigators.
+Will need to support emergencies on-call 24/7 situations in a response function.
+
+Mandatory Qualifications
+
+B.S. in Computer Science, Engineering, or related field.
+Overall 2+ years investigating fraud in the online marketplace, fraud prevention, fintech, finance, government, healthcare, or security platform services.
+Strongly familiar with analytical toolboxes, dashboards and business intelligence tools.
+Ability to program analytical code and scripts in a variety of programming languages, identify new patterns which are significant to different businesses, and provide clear visualization and presentations.
+
+Desired Qualifications
+
+M.S. in Computer Science, Engineering, or related field.
+B.S., M.S. or Minor in cognitive science, psychology, sociology, law, philosophy, or economics.
+Prior employment in a fraud prevention organization, strong research background or related areas.
+Prior volunteer experience.
+
+Other Information
+
+Additional information on Location
+
+Tokyo or Osaka
+
+#engineer #jobcategory02 #datascientist #researcher #jobsubcategory12 #technologyplatformdiv #organization13
+
+Languages
+
+English (Overall - 4 - Fluent)

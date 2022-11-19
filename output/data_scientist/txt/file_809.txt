@@ -1,0 +1,37 @@
+Senior Data Scientist required for an for an internationally well known organisation, you will work on an extensive portfolio of projects, typically working with major clients across all sectors. This is an exciting opportunity to join the Data Analytics team, where the project portfolio will always keep you interested.
+
+
+*Please note this role will require you to secure SC Clearance.*
+
+
+Paying up to £75K + Benefits + hybrid working in the North West (Two office bases available)
+
+You will report to the global technology lead for data analytics and will join an expanding team – giving you the opportunity to mentor, learn from others and genuine career opportunities as this department continues to prove it’s value to the business and customers.
+
+They are looking for a Senior Data Scientist to help design, develop, write and regularly produce high quality deliverables for multiple clients across a range of industries. These can include National security, large infrastructure, energy, etc...
+
+This role will utilise plenty of Machine Learning and Natural language processing, as well as techniques such as linear regression in Python for a broad range of applications which I’d be happy to discuss with you.
+
+Experience will likely cover some of the following:
+
+- Extensive Machine Learning experience
+- Python experience (PyTorch, Pandas)
+- Experience with AI
+
+If you have previous experience in industries such as defence, infrastructure projects, and energy that would be nice to see but not essential
+
+Tech stack is open source and open to expanding on this:
+
+- Currently using python as a base language,
+- Open source tooling for ML, NLP, AI
+- SQL, Excel
+- R, TensorFlow
+- Cloud services (AWS or Azure)
+
+Large holiday entitlement, strong pension contributions, hybrid working, Life Assurance x 4, Private Health, and many more – this is an employee centric business and there for their employees
+
+Important information:
+
+- This role will require a Security Check Clearance
+- The candidate must be located in the North West
+- No sponsorship offered

@@ -1,0 +1,68 @@
+The Company:
+
+Wagestream is on a mission to bring better financial wellbeing to frontline workers.
+We partner with some of the world’s most famous employers, like Pizza Express, Hilton and the UK’s National Health Service, to give their teams access to fairer financial services - all built around flexible pay. Almost a million people can now choose how often they’re paid, track their shifts and earnings, start saving, use budgeting tools, get free financial coaching, and access fairer financial products. All in one financial wellbeing super-app.
+
+Wagestream is unique: VC-backed and growing at scale-up pace, but with a social conscience. The UK’s leading financial charities and impact funds were our founding investors, and we operate on a social charter - which means every product we build has to improve financial health and reduce the $5.6bn ‘premium’ lower-income earners pay for financial services each year.
+
+You’d be joining a team of 200 talented, ambitious people, growing in Europe, Australia and the USA, building a category-leading fintech product and all united by that same mission.
+
+The Opportunity:
+
+This is a very dynamic role within the company where you'll have the chance to join the data science function and deep dive into the way we look at our users behaviour. You’ll work primarily on behavioral and statistical analysis, building models to help us better understand our users and drive key business decisions. You’ll be able to help shape our vision and processes as Wagestream continues to scale. You’ll also have a big opportunity to impact multiple facets of a growing business.
+
+The Team:
+
+You’ll report directly into our Head of Data, and work alongside our UK based Data Team, consisting of our Senior Data Scientist and 3 Data Analysts. Expect to work closely with all internal teams, particularly Product, Strategy and Client Success.
+
+What will you be doing?:
+Dive deep into how users use our suite of financial well-being tools through quantitative analysis, data segmentation and marketing attribution
+Understand user behaviours and long-term trends, identifying new levers to move key metrics and drive KPIs
+Influence product decisions and product launches through data-based recommendations (e.g. A/B tests)
+Work with engineers to implement data instrumentation
+Regularly communicate findings to stakeholders and rest of company
+
+Must-haves:
+(But if you’re close… that’s still a conversation we would like to have!)
+
+We are looking for a self-starter, focused on business impact, with demonstrated success in using data to driving business and product decisions
+4+ years of experience as a data scientist, preferably in a product environment
+Excellent SQL skills
+Technical background and programming experience, especially in Python or R
+Applied statistical skills, e.g. distributions, statistical testing, regression
+Experience with anomaly detection and feature generation
+Experience conducting A/B experiments
+Experience working with stakeholders to gather requirements and understand needs
+A strong ability to communicate findings to non-technical stakeholders in a concise and engaging manner
+
+Nice to haves:
+Any exposure and background within the world of Payroll, HCM, HRIS or WFM
+
+Within 1 month you’ll have:
+Spent time understanding our business/product, and aligning with key stakeholders
+Got up to speed with our tools and technologies
+
+Within 3 months you’ll have:
+Start working with Product Managers, Engineers and Designers to leverage our data to improve decision-making
+
+Within 6 months you’ll have:
+Answered some of the biggest questions facing your squad
+Key dashboards developed and built for team members to access in a self serve manner
+
+Working Policy:
+We operate a hybrid policy with a requirement of two days a week in the office.
+
+Salary:
+£70k - £80k + Bonus + Equity
+
+Benefits
+A £250 "home office allowance" to buy anything to get your home office comfortable
+State of the art, brand new equipment - from Apple MacBook Pros, 34" curved monitors and Wagestream Swag!
+We'll help you manage your busy lifestyle with flexible working opportunities; most of the team work "core hours" to allow touchpoints with their team, but we also make sure you have the time to pick the kids up at 3pm, or go for that mid-morning run to boost your productivity. We want you to have the best of both worlds
+We offer 25 days annual leave in addition to public holidays (up to 5 day rollover), as well as flexible time off allowances for any ad-hoc childcare/family/caring needs
+We offer 12 weeks paid maternity leave and up to 4 weeks paid paternity leave for employees with over 12 months service
+We want to invest in you financially, so we have a pension scheme with Aviva
+If you love cycling as much as we do, keep yourself physically fit with our Evans Cycles Ride to Work scheme
+And after a long weeks' work, join us in undoing it all - with membership to The Wine Society. (They also do gin and beer!)
+We want everyone to achieve "zen mastery" with a free subscription to Calm — work can be stressful and we want to help you switch off
+And the best benefit of all... Free access to the Wagestream service - naturally

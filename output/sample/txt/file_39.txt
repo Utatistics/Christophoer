@@ -1,0 +1,34 @@
+Job Description
+
+As a Senior Data Scientist, you will perform analysis, and be responsible for the implementation and support of large scale data and analytics for our clients. You will work in a team whose data science efforts range from exploration and investigation to the design and development of analytic systems. Your technical leadership in extracting meaning from large scale, unstructured data is coupled to your ability to work with engineering teams to integrate with underlying systems as Teradata provides Big Data solutions to clients.
+
+Job Qualifications
+Experience managing client relationships
+Experience mentoring and training
+Experience in Client Facing
+Proven expert at software development
+Experience building complex and non-interactive systems (batch, distributed, etc.)
+Excellent verbal and written communications skills
+Adept at learning and applying new technologies
+Ability to analyze data
+Data integration
+Strong team player capable of working in a demand start-up environment
+Preferred Knowledge, Skills, And Abilities
+Generating data profiles including measures of central tendency, measures of deviation, and correlations in R, Python or other "non-big-data" technologies. Generation of basic charts (e.g. histograms, scatter plots, line charts) for data analysis purposes.
+Generating data profiles including measures of central tendency, measures of deviation, and correlations over Hadoop & Spark or other approved big-data technology. Generation of basic charts (e.g. histograms, scatter plots, line charts) for data analysis purposes.
+Design, develop and implement dashboards & reports using R-Shiny, Ipython Notebooks, Zeppelin or other approved open-source visualization technology.
+Design, develop and implement dashboards & reports using Qlik Sense and Tableau on top of the Dashboard Engine or leveraging another Big Data API such as Spark Livy or another approved API
+Calculating and interpreting ANOVA models, ANCOVA models, hypothesis tests, and confidence intervals.
+Creating and interpreting one of these models k-means, hierarchical agglomerative clustering, or approved another clustering model.
+Able to write technical reports for projects and/or internal collateral for training or internal assets.
+Able to write non-technical documents that describe our offer (or solutions) for a non-technical audience. This can include a delivery presentation for a non-technical audience, a conference presentation, or marketing material
+Able to deliver presentations during client meetings, conferences, or sales events to explain our offers, positioning, solutions to a technical and non-technical audience.
+Defining tasks required to complete project goals; estimating efforts and timelines.
+Teradata is an equal opportunity employer in all aspects of our business. We are excited by the unique qualities, abilities, and perspectives each person brings, and candidates are considered on all the fundamentals they may bring to the role and the team.
+Teradata is an equal opportunity employer in all aspects of our business. We are excited by the unique qualities, abilities, and perspectives each person brings, and candidates are considered on all the fundamentals they may bring to the role and the team.
+
+Our Company
+
+Teradata is the connected multi-cloud data platform for enterprise analytics company. Our enterprise analytics solve business challenges from start to scale. Only Teradata gives you the flexibility to handle the massive and mixed data workloads of the future, today.
+
+The Teradata Vantage architecture is cloud native, delivered as-a-service, and built on an open ecosystem. These design features make Vantage the ideal platform to optimize price performance in a multi-cloud environment.

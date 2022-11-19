@@ -1,0 +1,38 @@
+Fusion Cell Data Scientist
+
+London
+
+As a Barclays Fusion Cell Data Scientist, you will join us to become responsible for the analysis, enrichment and automation of large and complex data sets with the main purpose to identify opportunities to disrupt and detect cyber-enabled fraud. You will also be working with data scientists and analysts across Fraud and Financial crime, to influence, drive change and optimisation throughout processes and controls.
+
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+We are currently operating in a hybrid working environment, meaning that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. Please discuss the detail of the working pattern options for the role with the hiring manager.
+
+What will you be doing?
+
+Conducting deep-dive analysis on successful and near miss fraud cases to draw out cyber-enabled fraud trends and identify required changes to the banks fraud control systems
+Working with Fraud and Financial Crime teams in the analysis of large and often complex datasets linked to cyber-financial cases
+Generating research that identifies new controls to prevent and detect further attacks against Barclays’ customers
+Researching latest advancements in data science, modelling, analysis and mining in terms of tools, techniques and methodologies to facilitate innovation and maximise benefit
+Contributing to the growth of the team’s technical capability and understanding of data science and data engineering through research, learning and training
+Communicating complex analysis and research outcomes in a clear and straightforward manner, providing strong rational, product statement, KPIs and forward looking vision
+Driving and enhancing the operational activity of the Cybercrime team in the monitoring of digital channels to detect cybercrime attacks
+Using internally developed systems and industry-wide device profiling and behavioural biometric tools
+
+What We’ Re Looking For
+
+Experience working as a data scientist, with good analytical skills such as data mining traditional trend analysis and development of advanced machine learning models
+Practical experience in Relational and None-Relational databases, Python, Jupyter Notebook, Hadoop, Spark and Rest APIs, as minimum requirement
+Ability to design and build automated processes interlinking various sources and destinations in batch or real time including REST APIs, databases, SFTP and queues
+Knowledge of malicious tools used by cyber adversaries to target the financial sector including eBanking Trojans, mobile malware, webinjects, and phishing kits
+
+Skills That Will Help You In The Role
+
+Experience with fraud detection and prevention systems
+Ability to translate complex fraudsters modus operandi or behaviours into hypothesis and ML features
+Knowledge of latest social engineering tactics used by cybercriminals, particularly in the scams space
+Experience of using analytical tools and platforms such as Quantexa, i2, Palantir, Maltego, Elastic Search, SAS and MI tools like Tableau and Power BI
+
+Where will you be working?
+
+In the heart of Canary Wharf, our headquarters at Churchill Place boasts onsite amenities such as; a gym, staff restaurant and deli bar, and is easily accessible by tube and bus links. With a population of around 5000 staff the atmosphere is second to none with a real buzz being created around the offices within.

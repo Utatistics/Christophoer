@@ -1,0 +1,21 @@
+Salary: £80,000 - £90,000
+Location: London (W1B)
+Permanent
+
+I am currently working with one of the fastest-growing Private Equity backed Software testing businesses, who are looking to rapidly expand their data practice with a Data Scientist to help define and lead advanced analytical/Machine Learning projects. The role will require a candidate to drive innovation using AI and advanced modelling techniques, such as NLP, Regression and Clustering.
+Role:
+Utilise machine learning and NLP techniques to develop models and insights to solve business problems.
+Analysing data and generating statistical information to identify trends and patterns.
+Using a range of programming languages to transform big data into data sets.
+Translating technical data to simple language and giving recommendations and conclusions to stakeholders.
+Building scalable machine learning pipelines and using feature engineering and optimisation methods to improve data set performance.
+
+Requirements:
+Bsc degree preferably in Data Science or relevant STEM based subject.
+Hands on experience with Python, R, SQL, Tableau with beneficial certifications in Microsoft Azure stack (Databricks, Data Lake, DevOps).
+Ability to use linear and non-linear regression, logistic regression, models and classification techniques for data analysis, clustering, and pipeline.
+Proficiency in designing algorithms and using statistical and problem structuring methods.
+
+If this opportunity is of interest, or you know anyone who may be interested, please email your CV and contact details to: billy.reed@finatal.com
+
+#privateequity #dataanalytics #Datascience #Python #SQL #Databricks

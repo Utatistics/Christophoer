@@ -1,0 +1,49 @@
+会社概要：
+
+Our client is one of the world's largest providers for products and support instruments for the medical industry.
+
+業務内容：
+
+Key Objectives: This position is key strategic capabilities that Regulatory Affairs (RA) will build to strengthen the data-driven decision-making enabled by advanced data analytics. You will be responsible for crafting, developing, and fielding data solutions in Japan Regulatory Affairs to maximize our value with effect and efficiency. You will report to Senior Manager, Japan RA Strategy team.
+
+Responsibilities
+
+Mine and analyze data from function and/or company databases to drive optimization and improvement of regulatory activities, function strategies and function/company processes.
+Build projects and develop data solutions that support the execution of Japan RA activities to maximize our value.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Develop predictive model related to the resource allocation and performance.
+Lead and coordinate with different functional/regional teams to implement models and monitor outcomes.
+Lead and work effectively with different stakeholders in a cross functional team environment.
+Key Competencies:
+
+Teamwork/Communication – Able to effectively partner across functions and region. Able to influence across the organization to drive the higher performance of Regulatory Affairs.
+Goal setting – In case it’s under the unstable situation, proactively able to set the goal and take an action.
+Possible thinking – able to think how to make it happen by collaborating with others etc, not think about the reason why we cannot make it happen.
+
+応募条件：
+
+Educational Requirements
+
+M.S. in Computer Science with knowledge of Statistics, Machine Learning & Artificial Intelligence, Physics, Mathematics, Bioinformatics, Computational Informatics, Medical Informatics, Computational Biology or related disciplines.
+PHD or BSc in a STEM subject with equivalent knowledge is a plus.
+Qualifications Work Experience
+
+3+ years of experience in a business-related data science and/or advance analytics role
+Experience in leading cross functional project.
+Experience in collaborating with the external supplier
+Required Skills and Capabilities
+
+Strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations.
+Working knowledge and experience of machine learning techniques, such as regression, decision trees, probability networks, association rules, clustering, neural networks and Bayesian models, as well as skills in text mining and data visualization.
+Clear understanding of data analysis workflows and statistical methods such as hypothesis testing and probability modeling.
+Expertise in one or more programming languages, such as Python, R or SQL.
+Experience in delivering on data science projects using predictive technologies, data mining and/or text mining in a business context.
+Ability to translate business requirement into technical requirement
+Project management skills
+Comfortable working with a wide range of stakeholders and functional teams
+Business level in both English (TOEIC 800+) and fluent Japanese
+Preferred Qualifications
+
+Knowledge or experience working in the healthcare industry and/or Regulatory Affairs
+Change management skill

@@ -1,0 +1,46 @@
+If you need assistance during the recruiting process due to a disability, please reach out to our Recruiting Accommodations Team through the Accommodation Request form . This form is used only by individuals with disabilities who require assistance or adjustments in applying and interviewing for a job. This form is not for inquiring about a position or the status of an application.
+
+We are building a world-class growth team that combines a passion for travel, deep marketing expertise together with cutting-edge technology and data science to connect more travelers with our platform and help them find the perfect place to stay.
+
+We are hiring a Data Scientist - Analytics III in the SEM team to drive initiatives that accelerate our global Search Engine Marketing growth specifically around improving users’ web and mobile app experience. In this role, you will report to the Senior Manager, SEM Product Management and work closely with function leads in the Product, Mobile, Analytics, Strategy and Marketing technology teams to inform our strategic agenda and continuously improve our execution.
+
+What You Will Do
+Support landing page testing efforts for Expedia Group portfolio of brands in SEM
+Manage the SEM landing page optimization plan
+Building landing page variants for testing
+Manipulate data sets using Python / SQL to identify and prioritize optimization opportunities
+Create critical reporting dashboards in Tableau
+Partner with Google, Bing and other search engines to ensure Expedia Group is an early adopter of all product alphas and betas
+Deliver impactful analysis regarding key market forces and apply analytics to present tangible business problems/actions
+Communicate complex analytical topics in a clean & simple way to team
+Automate and/or streamline repetitive processes with the help of Product to improve individual and team productivity
+Document processes used across various projects
+Maintain internal/external relationships with partners (Google/Bing), Product, Analytics, Data science and SEO teams on strategic initiatives.
+Qualities
+You are curious and passionate for learning
+You are a self-starter
+You are focused on impact and have a bias for action
+You are flexible and comfortable with the ambiguity of a constantly evolving environment
+You are data driven and resourceful, able to find opportunities, propose solutions, and drive execution
+You are passionate about continuous improvement: constantly assessing the status quo, identifying opportunities for improvement, optimization and providing constructive solutions to simplify and accelerate current programs and processes
+Lead mostly with questions rather than opinions, thriving on the opportunity to own, innovate, create, and constantly re-evaluate
+Skills And Experiences
+Bachelor’s degree with strong analytical focus (Computer Science, Mathematics, Economics, Statistics, etc)
+Minimum 3 years of experience directly related to the duties and responsibilities specified
+Strong analytical skills, including data manipulation, financial analysis and processing large amounts of data to understand trends
+Strong communications skills (written and oral)
+Excellence in implementation, attention to detail and strong organizational skills
+Experience in quantitative, mathematics, statistics, science or other fields is preferred
+Familiarity with Google datasets and cloud platform is a plus
+Familiarity with Google Ads / Bing Ads API a plus
+Familiarity with Amazon Web Services a plus
+Experience in SEM, online advertising, paid search or e-commerce is a plus but not required
+About Expedia Group
+
+Expedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™.
+
+© 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+
+Employment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals to whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs .
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, gender, sexual orientation, national origin, disability or age.

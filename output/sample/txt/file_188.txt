@@ -1,0 +1,59 @@
+Job Description
+
+Department Overview
+
+We are looking for web analyst and data analyst at the Commerce Company, which is the core role of Rakuten Group.
+
+What we are expecting from you is analyzing user behavior in the Rakuten site and analyzing user attributes and making short-term and long-term improvement suggestions based on the data.
+
+We are waiting for those who have active communication skill with many stakeholders and have the driving force to discover the problem by yourself and lead to resolution.
+
+Position
+
+Why We Hire
+
+To strengthen the system for further business expansion.
+
+Position Details
+
+In this role, you will be responsible for conducting quantitative and qualitative analysis of Rakuten Ichiba's overall numerical analysis (including purchase data, but especially in terms of traffic data) and user surveys, and link the analysis results to improvement actions in collaboration with the teams in charge both inside and outside the department.
+
+Site analysis and user analysis to maximize the distribution scale of Rakuten Ichiba.
+Propose content improvements for various event pages.
+KPI tracking and its environment construction.
+Data analysis that contributes to strategic planning (purchase data analysis, traffic data analysis, NPS research, market research and industry analysis, etc.)
+Ad hoc data extraction and research survey support.
+Documentation of analysis results and presentation of proposals
+Sharing of specialized skills within the department (study sessions and training instructors)
+
+Mandatory Qualifications
+
+Experience in data processing and analysis at previous jobs (SQL experience and experience in site analysis using access analysis tools such as Adobe Analytics and Google Analytics)
+The ability to solve problems, think strategically, and design hypotheses
+The ability to balance individual and team work styles.
+
+Desired Qualifications
+
+The ability to communicate proactively with the team in charge and to promote the work.
+The ability to listen to and understand the situation and requirements of each team in charge, a hands-on sense of understanding the other team's situation, and a positive attitude toward discovering and solving problems on your own.
+Working experience with various BI tools such as DOMO.
+
+Others Information
+
+Additional information on English Qualification
+
+TOEIC Score exceeding 800 (or similar level of English ability)
+
+or a University Degree earned in an English-speaking country
+
+TOEIC Score of 600 or higher is acceptable for fixed-term employees.
+
+In this case, it is necessary to achieve a TOEIC Score exceeding 800 after joining Rakuten in order to be eligible to become a regular employee.
+
+If no evidence is available to prove the qualifications denoted above, taking an IP test, organized by Rakuten, during selection process is required.
+
+#business #jobcategory01 #datascientist #jobsubcategory05 #commerce #organization01 #RakutenIchiba #servicename01
+
+Languages
+
+English (Overall - 4 - Fluent), Japanese (Overall - 4 - Fluent)

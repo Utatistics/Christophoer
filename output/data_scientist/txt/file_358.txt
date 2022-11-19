@@ -1,0 +1,18 @@
+Growth Data Scientist
+Permanent
+Up to £100k
+London, Israel, Spain, Portugal or France (Fully remote)
+
+Xcede are excited to be partnering with series B streaming company.
+
+This is a unique opportunity to join their growth team and help lead creative growth strategy and projects.
+
+You will establish robust measurement practices to measure and forecast impact of growth efforts
+
+You will also have an opportunity to build LTV models, pricing and matchmaking algorithms.
+
+Key skills/experience required:
+- Proficiency working with large SQL and NO-SQL datasets, Python based ML experience preferred
+- Deep understanding of online metrics (Attribution methodologies, funnels, user acquisition KPIs)
+
+For more information, please send an up to date CV to daniel.wexler@xcede.com

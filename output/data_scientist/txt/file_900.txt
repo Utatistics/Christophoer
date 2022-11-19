@@ -1,0 +1,43 @@
+About The Role
+
+BrainStation is currently seeking a full-time Associate Educator to be part of our dynamic team delivering lessons for our Data Science program. BrainStation Educators have the unique opportunity to teach, research, and work on real analysis problems, while simultaneously building the future of education.
+
+Responsibilities
+Contribute to BrainStation's Data Science Diploma program that will positively impact the lives and careers of hundreds of individuals across our campuses
+Deliver lectures and mentor the next wave of Data Science talent
+Facilitate in-class activities, group discussions, demos and provide constructive feedback for evaluating student work
+Apply BrainStation's Agile Education methodologies to the program to continuously improve the educational experience for students
+Constantly improve your own skills, and apply these skills in collaboration with other BrainStation Faculty members to build the digital platform and tools needed to deliver cutting-edge content
+Define the education experience of the future
+
+Requirements
+2+ years experience as a Data Scientist or Analytics professional and a Bachelor's degree relevant to the subject matter
+Strong command of querying and programming languages SQL, R and python - numpy, pandas, sklearn, TensorFlow & Keras), and visualization tools (Excel, Tableau, matplotlib/seaborn/plotly in python packages
+Experience applying various methods of numerical and categorical modelling techniques and supervised and unsupervised machine learning methods (OLS regression and GLMs, logistic regression, KNN, SVM, decision trees/random forest, clustering and cluster analysis, dimensionality reduction, neural networks)
+Hands-on development experience working with version control systems (we use Git)
+Practical experience designing and applying data science processes to conduct experiments using a variety of tools and methods, and can speak to their complexities in a simple and logical manner
+Experience in a teaching or mentoring role, and are comfortable speaking to large groups
+Strong written and verbal communication skills
+A proven ability to work under pressure and meet deadlines
+An empathetic, friendly, and approachable demeanour
+A passion for education and creating positive learning experiences for others
+
+Perks And Benefits
+Comprehensive Health & Wellness Benefits Package
+Retirement Planning
+Parental Leave Program
+New Device Allowance
+Socials, Outings & Retreats
+Culture of Learning & Development
+Flexible Working Hours
+Work from Home Flexibility
+
+About BrainStation
+
+Established in 2012, BrainStation is the global leader in digital skills training and workforce transformation. BrainStation has worked with digital leaders from the most innovative companies in the world, developing cutting-edge, real-world digital education that has empowered more than 100,000+ professionals.
+
+Bonus: Have you been to a campus or joined an online learning opportunity? We are actively seeking individuals that believe in lifelong learning and that have taken part in our On Campus or Online offerings.
+
+NOTE: Only those applicants under consideration will be contacted. Please accept our utmost appreciation for your interest.
+
+BrainStation is committed to maintaining a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants, regardless of race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status will receive consideration for employment. If you have any accessibility requirements or concerns regarding the hiring process or employment with us, please notify us so we can provide suitable accommodation.

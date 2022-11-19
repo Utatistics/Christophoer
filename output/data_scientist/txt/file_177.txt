@@ -1,0 +1,37 @@
+At Deliveroo we have an outstanding data science organisation, with a mission to enable the highest quality human and machine decision-making. We work throughout the company - in product, business and platform teams - using analysis, experimentation, causal inference and machine learning techniques. We are uniquely placed to use data to help make better decisions and improve data literacy across Deliveroo.
+
+Data Scientists at Deliveroo report into our data science management team, and we have a highly active data science community, with guest lecturers, study groups, mentorship programmes, a robust technical review process, and plenty of opportunities to learn new things. Data Scientists can equally progress as technical leads (individual contributors) and as people managers.
+
+Our data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not. We celebrate difference and have a dedicated data science diversity committee.
+
+As a Senior Data Scientist at Deliveroo, your main goal is to maximise business impact within one of many business areas. You will help answer questions like:
+
+Which markets/cities should we enter next?
+How can we incentivise good rider behaviour?
+What is the impact of exclusive deals we have with restaurants?
+How do we optimise our compensation policy to keep our customers happy and ordering with Deliveroo?
+What are the trade-offs we face when choosing between growth and profitability? How should we decide between them?
+How much should our pricing vary by distance and by market?
+What is the optimum selection and variety of restaurants in a particular area?
+How do we adapt our consumer app to better suit grocery shoppers?
+
+The work you will do will have a direct, measurable impact on the bottom line of the company.
+
+Qualifications:
+
+Always curious and willing to learn new skills
+Great communication skills - in person, in writing, in code; to technical and non-technical audiences
+A problem solver with a deep analytical mindset
+Ability to think creatively and insightfully about business problems
+A critical thinker with very strong attention to detail
+Proficiency with analytical tools like R/Python and familiarity with SQL
+A pragmatic, flexible approach, where you most care about achieving impact
+Excellent people skills — you'll be meeting with stakeholders to translate business needs into data science problems
+
+At Deliveroo these are just some of the tough problems we are solving - and there is no challenge that cannot be yours. The scope for growth and personal impact is enormous.
+
+Benefits and Diversity
+
+At Deliveroo we know that people are the heart of the business and we prioritise their welfare. We offer a wide range of competitive benefits in areas including health, family, finance, community, convenience, growth, time away and relocation.
+
+We believe a great workplace is one that represents the world we live in and how beautifully diverse it can be. That means we have no judgement when it comes to any one of the things that make you who you are - your gender, race, sexuality, religion or a secret aversion to coriander. All you need is a passion for (most) food and a desire to be part of one of the fastest growing startups in an incredibly exciting space.

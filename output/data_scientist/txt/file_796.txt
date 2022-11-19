@@ -1,0 +1,58 @@
+Opportunity to build a Data Science Capability|Opportunity to influence decision making at Board Level
+
+
+About Our Client
+
+Leading Housing Association
+
+Job Description
+
+This Leading Housing Association require a Data Scientist to join their Data and Technology Department to support the Corporate Services Directorate. As a Data Scientist, you will be responsible for using advanced data modelling techniques & technology to assist the business in making insights driven decisions. The role will be at the forefront of enabling organisational change to evolve innovation, analytics and digital capabilities.Key Responsibilities:
+To find patterns and help solve problems faced by the organisation in innovative ways
+To extract, analyse and interpret large amounts of data from a range of sources, using algorithmic, data mining, artificial intelligence, machine learning and statistical tools, to make it accessible to the business. Present all findings back to key business areas in a clear and engaging manner.
+Advising business areas on any findings gleaned from utilising all available data sets and ensuring the Data environment is reliable, secure, cost efficient, and strategically sound
+Working with and advising a multi-disciplinary team providing expert analysis and advice in a professional manner at all times irrespective of the complexity of the environment
+Input into the overall management and development of data and develop the capability in the data science/insights area.
+Work on a variety of projects across the whole of the business (HR, Finance, Operations etc) to:
+Ensure colleagues spend more time using information rather than searching for it
+Increase efficiency savings: better use of data leading to more informed decision-making, less paper, reduced duplication of information and process
+Enhance Compliance with Government and regulator standards
+Improve staff skills and competencies
+Increase knowledge of stakeholders resulting in improved service and user satisfaction
+Support the delivery of strategic and operational plans to time and within budget, supported by appropriate data architecture
+Increase insight on supplier governance - building relationships with external parties and managing contracts.
+
+Key Skills / Experience:
+Bachelor's degree in mathematics, statistics, computer science or related field
+Strong maths and analytical skills are essential to complete job requirements successfully
+Experience operating as a Senior Data Scientist.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Solid knowledge of various statistical techniques and experience using machine learning algorithms
+Strong programming skills, especially R, Python and Java (C/C++ and Perl is desirable)
+Demonstrated complex critical thinking and ability to creatively solve problems with measurable business impact
+Able to compile and organise statistical information retrieved and present findings to senior leaders
+Excellent stakeholder management skills at all levels, with strong written and oral communication skills.
+Formal project management training and experience
+Experience of commissioning services from third parties and managing relationships with suppliers and contractors
+The Successful Applicant
+
+Bachelor's degree in mathematics, statistics, computer science or related field
+Strong maths and analytical skills are essential to complete job requirements successfully
+Experience operating as a Senior Data Scientist.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Solid knowledge of various statistical techniques and experience using machine learning algorithms
+Strong programming skills, especially R, Python and Java (C/C++ and Perl is desirable)
+Demonstrated complex critical thinking and ability to creatively solve problems with measurable business impact
+Able to compile and organise statistical information retrieved and present findings to senior leaders
+Excellent stakeholder management skills at all levels, with strong written and oral communication skills.
+Formal project management training and experience
+Experience of commissioning services from third parties and managing relationships with suppliers and contractors
+What's on Offer
+
+Opportunity to build a Data Science Capability
+
+Opportunity to influence decision making at Board Level
+
+Contact: James Hobson
+
+Quote job ref: JN-072022-5671613

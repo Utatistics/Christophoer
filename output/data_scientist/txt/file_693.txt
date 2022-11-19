@@ -1,0 +1,23 @@
+Data Scientist (Financial Services)
+
+Candidates should take the time to read all the elements of this job advert carefully Please make your application promptly.
+
+City of London
+
+£90,000 per annum
+
+Financial Services - Data Science - Data Analytics - Data Governance - Python - QLIK - PowerBI - Statistical Analysis
+
+I am currently working with a Financial Services client who is looking for a Data Scientist to join their Data Governance team.
+
+The role will involve you creating data pipelines, extracting and transforming data, analysing the data through statistical analysis, data visualization in dashboards like QLIK, PowerBI, etc.
+
+Key Skills
+2-3 years of experience
+Statistical analysis: Identify patterns and anomaly detection.
+Understanding of Data Governance tooling. (Solidatus, Collibra…)
+Programming: Write computer programs to analyse large data sets using SQL, R, Python and Java.
+Machine learning: Implement algorithms and statistical models to enable a computer to automatically learn from data.
+Our client has a very generous benefit package and theres lots of opportunity for career growth.
+
+For more details, please apply using the details below.

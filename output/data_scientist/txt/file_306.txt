@@ -1,0 +1,53 @@
+StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We are searching for a talented Data Scientist to join our engineering team as we continue to expand our data science efforts. Our platform is connected to thousands of publishers and advertisers worldwide and as a result, we're dealing with millions of requests each second, making billions of decisions. We utilize the latest technologies to solve challenges in traffic, data storage, machine learning, and scalability.
+
+Want to learn more about our Data Science Team: https://alldus.com/ie/blog/podcasts/aiinaction-ned-dimitrov-stackadapt/
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, and we are open to candidates in various of our operating locations throughout the globe!
+
+What you'll be doing:
+Innovate ML algorithms to maximize ROI and advertising performance. This ranges from creating entirely new algorithms, to improvements on state-of-the art methods, to development using a deep understanding of classic methods
+Write production code, sometimes collaborating with Data Engineers, to implement the novel ML algorithms
+Prototype potential algorithms and pipelines, test them using historical data, and iterate to modify based on insights
+
+We'll be reaching out to candidates who:
+Have a Masters degree or PhD in Computer Science, Statistics, Operations Research, or a related field, with dual degrees a plus.
+Have the ability to take an ambiguously defined task, and break it down into actionable steps
+Have a comprehensive understanding of statistics, optimization and machine learning
+Are proficient in coding, data structures, and algorithms
+Enjoy working in a friendly, collaborative environment with others
+
+StackAdapters enjoy:
+Competitive salary
+Private Medical Insurance cover
+Auto-enrolment into the company pension scheme
+Work from home reimbursements
+Coverage and support of personal development initiatives (conferences, courses, etc)
+An awesome parental leave policy
+A friendly, welcoming, and supportive culture
+Our social and team events (virtually!)
+
+StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. No matter who you are, where you are from, who you love, follow in faith, disability (or superpower) status, ethnicity, or the gender you identify with (if you’re comfortable, let us know your pronouns), you are welcome at StackAdapt. If you have any requests or requirements to support you throughout any part of the interview process, please let our Talent team know.
+
+About StackAdapt
+
+StackAdapt is a self-serve programmatic advertising platform used by the most exceptional digital marketers. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ad buyers plan, execute, and manage data-driven digital advertising campaigns across all devices, inventory, and publisher partners. StackAdapt is a Top 100 Software Product on G2, being the only DSP on the Best Software Products and Highest Satisfaction lists.
+
+We've been recognized for our high performing campaign conversion rates, award-winning customer service, and innovation by numerous industry publications including:
+
+#1 DSP on G2 and leader in the Video and Cross-Channel Advertising Categories
+
+Top 5 on Ad Age's 2022 Best Places to Work
+
+Great Place to Work® named StackAdapt as one of Canada’s Best Workplaces for Start-ups in 2021
+
+A Top Growing Company in Canada based on the Globe and Mail's 2020 Business Report
+
+Named a Technology Fast 50™ Program Winner for 2021

@@ -1,0 +1,20 @@
+Accelerate materials development with Data Science.
+Data scientists at MI-6 deals with multiple solutions including hands-on data analysis for client, research and development for MI algorithms, our software and autonomous robotics system.
+
+Responsibilities
+Research and implement appropriate algorithms in Materials Informatics projects
+Design and develop Materials Informatics applications
+Project management
+
+Qualifications
+Outstanding analytical and problem-solving skills
+Proven experience as a Data Scientist or similar role; Experience in Materials Informatics is a plus
+Fluency in a programming language (Python)
+Basic understanding of physics and chemistry; Proficiency in computational science is a plus
+
+Project Examples
+Molecular structure optimisation of organic compounds
+Optimal alloy composition / structure search
+Acceleration of computational science methods with machine learning
+
+<英語が堪能でない日本語話者の方も歓迎です>

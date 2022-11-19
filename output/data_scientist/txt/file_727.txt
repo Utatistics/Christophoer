@@ -1,0 +1,26 @@
+About Us
+
+QuantumLight is the investment firm built as a technology company by a team of tech unicorn founders, quant traders, AI scientists and engineers
+
+We are using technology to disrupt the world of venture and growth equity. The industry is still stuck in the 20th century, operating in a completely different way from the technology companies it tries to support. Leveraging our experience building a hyper-growing decacorn and a background in quantitative trading, we are building the investment firm of tomorrow. A firm with a product DNA and a heavily data-driven investment strategy.
+
+Role Description
+
+We’re looking for a Data Scientist to join our team. You will work under the direction of the Head of Data Science to build and refine ML models that identify the leading companies of the future.
+
+We operate a distributed team and are offering an opportunity to work remotely. Relocation to London, UK can also be considered.
+
+Responsibilities
+Own and drive the development of ML models to screen and identify investment targets, and to make investment decisions, under the direction of the Head of Data Science
+Collaborate closely with the investment team to backtest your results and evaluate the economic and business feasibility of your models
+Clean data and support design of data cleaning automation flows, in collaboration with data engineers
+Support operationalisation of ML flows
+
+Requirements
+Python proficiency
+Excellent knowledge of classic ML algorithms
+Excellent knowledge of statistics
+Practical knowledge of ML production processes
+Optional: experience with Spark
+2-3 years experience in a Data Science or Machine Learning based role
+Strong background / education in a quantitative discipline

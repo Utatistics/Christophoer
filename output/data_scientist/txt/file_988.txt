@@ -1,0 +1,103 @@
+About Adarga
+
+Adarga is one of the UK’s leading developers of artificial intelligence (AI) software. Its cutting-edge AI platform is helping organisations to rapidly identify threat and opportunity signals buried within huge volumes of information so they can mitigate risk, act at speed and gain a competitive edge.
+
+Adarga's platform, powered by natural language processing and network science technology, is currently supporting mission-critical decision-making across defence and national security in the UK, as well as expanding into new sectors.
+
+We are a remote first organisation with 100 people based across the United Kingdom.
+
+What will you be doing?
+
+We are looking for an experienced Data Scientist with a strong mathematical background and experience in NLP. You will be hands-on with day-to-day project work focused on developing the best solutions to deliver a roadmap which is aligned to core product features. You will also work alongside a product manager to develop new features. The senior data scientist will be working on projects which continually develop and improve our AI software using the appropriate MLOps tools to deploy, scale, and monitor models in production.
+
+As the Senior Data Scientist, you will report to the product tech lead and Data Science Manager.
+
+Essential Requirements
+
+Detailed knowledge of AI techniques, including how to train, fine tune and apply deep learning models.
+NLP research is advancing at a rapid pace, an enthusiasm for continual learning is required to maintain your expertise.
+An experimentation mindset to solve business problems.
+Experience building Data Science solutions in a commercial environment and the ability to quantify improvements based upon analysis.
+Good awareness of software engineering and coding best practices.
+Excellent communication skills and awareness of project management techniques, capable of operating within a team of 6-7 people to influence and develop best practice.
+Ability to thrive effectively in a predominantly remote working environment.
+PhD or equivalent professional experience in a data science role.
+
+Desirable
+
+Experience of modern NLP techniques is an advantage.
+Experience of using data science platforms and frameworks, for data tagging, model training and benchmarking.
+Experience building and deploying solutions to the Cloud.
+Experience of the following technologies would be beneficial, Python, Seldon, Helm, Pachyderm, AWS or other cloud technologies, Kubernetes, Docker, Knowledge graphs, Graph databases, SQL and Relational databases.
+
+Further information
+
+At Adarga we use Kanban principles and daily stand-ups to track work tasks and it will be your responsibility to attend these and document your work to ensure it is repeatable.
+
+It will be necessary to take part in cross functional and cross team communication to enhance collaboration, these will take the form of knowledge shares, reading groups, chapter group meetings, workshops and innovation projects. You will be set quarterly OKR’s and these will be reviewed frequently with your line manager. As a senior member of the team, you may be required to mentor junior team members, contribute to technology discussions, support academic and AI community engagements, marketing events, and recruitment activities.
+
+Contact
+
+careers@adarga.ai
+
+Find out more about Adarga: https://adarga.ai/careers
+
+Diversity & Inclusion at Adarga
+
+Adarga recruits, trains, promotes & employs regardless of race, background, gender, colour, religion, disability, age, gender identity or any other protected status. In addition to this, we actively promote and encourage diversity of thought through multiple avenues. Adarga is dedicated to building and maintaining an inclusive environment where people feel valued, appreciated, and free to be themselves without prejudice.
+
+Recruitment company statement
+
+We approach everything with transparency and integrity. To avoid wasting anyone’s time, here is our policy on working with recruitment companies:
+
+At present, we are not working with any new recruitment agencies, because we only want to work directly with individual applicants who can contact our People Team through careers@adarga.ai
+
+Recruitment Privacy Policy
+Desired Skills and Experience
+Essential Skills
+Detailed knowledge of AI techniques, including how to train, fine tune and apply deep learning models.
+NLP research is advancing at a rapid pace, an enthusiasm for continual learning is required to maintain your expertise.
+An experimentation mindset to solve business problems.
+Experience building Data Science solutions in a commercial environment and the ability to quantify improvements based upon analysis.
+Good awareness of software engineering and coding best practices.
+Excellent communication skills and awareness of project management techniques, capable of operating within a team of 6-7 people to influence and develop best practice.
+Ability to thrive effectively in predominantly remote working environment.
+PhD or equivalent professional experience in a data science role.
+Nice to have skills
+Experience of modern NLP techniques is an advantage.
+Experience of using data science platforms and frameworks, for data tagging, model training and benchmarking.
+Experience building and deploying solutions to the Cloud.
+Experience of the following technologies would be beneficial, Python, Seldon, Helm, Pachyderm, AWS or other cloud technologies, Kubernetes, Docker, Knowledge graphs, Graph databases, SQL and Relational databases.
+Further information
+
+At Adarga we use Kanban principles and daily stand-ups to track work tasks and it will be your responsibility to attend these and document your work to ensure it is repeatable.
+
+It will be necessary to take part in cross functional and cross team communication to enhance collaboration, these will take the form of knowledge shares, reading groups, chapter group meetings, workshops and innovation projects. You will be set quarterly OKR’s and these will be reviewed frequently with your line manager. As a senior member of the team, you may be required to mentor junior team members, contribute to technology discussions, support academic and AI community engagements, marketing events, and recruitment activities.
+
+Contact
+
+careers@adarga.ai
+
+Find out more about Adarga: https://adarga.ai/careers
+
+Adarga Benefits
+Hybrid working model available
+Adarga anywhere scheme offers you the chance to work wherever you like for part of the year
+Generous holiday package with an opportunity to buy and sell holiday
+Adarga share scheme available for all employees
+£1000 annual training budget
+Culture of knowledge sharing with Team Lunch and Learns
+Innovation Time- Collaborate with like-minded colleagues on projects that are important to you and the business
+Company MacBook
+Competitive Pension Scheme
+Diversity & Inclusion at Adarga
+
+Adarga recruits, trains, promotes & employs regardless of race, background, gender, colour, religion, disability, age, gender identity or any other protected status. In addition to this, we actively promote and encourage diversity of thought through multiple avenues. Adarga is dedicated to building and maintaining an inclusive environment where people feel valued, appreciated, and free to be themselves without prejudice.
+
+Recruitment company statement
+
+We approach everything with transparency and integrity. To avoid wasting anyone’s time, here is our policy on working with recruitment companies:
+
+At present, we are not working with any new recruitment agencies, because we only want to work directly with individual applicants who can contact our People Team through careers@adarga.ai
+
+Recruitment Privacy Policy

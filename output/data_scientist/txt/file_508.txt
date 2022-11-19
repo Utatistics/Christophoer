@@ -1,0 +1,39 @@
+About Us
+
+Where Innovation meets Excellence.
+
+Be a part of a globally renowned management consulting firm that is on the front-line of industry disruption. We are a mid-size player with a supportive, entrepreneurial spirit that works with a market-leading brand in every sector, while our parent organization Infosys is a top-5 powerhouse IT brand that is outperforming the market and experiencing rapid growth.
+
+Our consulting business is annually recognized as one of the UK's top firms by the Financial Times and Forbes due to our client innovations, our cultural diversity and dedicated training and career paths we offer to our consultants. We are committed to fostering an inclusive work culture that inspires everyone to deliver their best.
+
+The Team
+
+Our industry-leading multi-cultural AI and Automation solutions are helping some of the largest global firms realize operational excellence and tangible benefits in this radically evolving landscape. You'll have a passion for strategy, architecture and the latest technological breakthroughs. In this team you'll be able to see your own ideas transform into breakthrough results for some of the largest companies around the world. This role presents you with an opportunity to make a real difference.
+
+The Role
+
+Data Scientist
+
+Review academic and industry literature for applicable knowledge
+Educate others on statistical analysis and scientific investigation
+Design machine learning based prototype applications
+Analyze large data set to generate valuable insights
+Advise on data collection for machine learning models deployment
+Identify novel techniques for business process improvement and automation
+Educate others on statistical analysis and scientific investigation
+Collaborate with other members AI & Automation and clients
+About You
+
+BS/MS/PhD in Computer Science, Mathematics, Physics, or related field
+Proactive, intellectually curious and growth orientated
+A team player mindset, and adept at engaging senior stakeholders
+An excellent communicator with outstanding verbal and written communication skills
+A self-starter, able to lead workshops, work in matrix team structure and assume front end roles at client location
+Strong analytical and problem-solving ability
+In-depth understanding of machine learning concepts and algorithms
+Experience in at least one of the cloud platforms such as GCP, AWS, Azure will be advantage
+Knowledge of relational databases and good grasp of SQL
+Proficient data analytics in Python (Pandas, Numpy, Scipy, Scikit Learn)
+Why Join Us?
+
+Infosys Consulting strives to empower their employees from all backgrounds to thrive, to grow in their careers, and to make a real, visible impact within the organization and beyond. You will become an integral part of a diverse and creative team within an innovation-driven practice. You'll discover an inclusive and collaborative culture, working alongside highly motivated colleagues within a learning focused work environment. By joining Infosys Consulting you'll play a critical role in our ambitious and successful growth story - we're looking forward to taking this journey with you.

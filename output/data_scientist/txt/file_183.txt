@@ -1,0 +1,41 @@
+About The Role
+
+At Tesco, our Data Science team focuses on modelling complex business problems and deploying data products at scale. Our work spans across multiple areas including physical stores, online, supply chain, marketing and Clubcard, where we encourage rotation amongst our Data Scientists so they can gain expertise in different subjects.
+
+We work on several domains and problem types: forecasting, online, pricing, security, fulfilment, distribution, property, IoT and computer vision are just some. Our team members are encouraged to allocate working hours for learning and personal development every week and are provided with multiple learning resources and tools. Multiple academic collaborations enrich the team expertise; knowledge-sharing events are regular.
+
+Furthermore, we have got a great work-life balance, team days and relaxed but engaging culture.
+
+As a Senior Data Scientist you will mentor and support other team members and with our career framework you can either grow as either an individual contributor or as a manager.
+
+You will be responsible for
+
+This is a hands-on position where you will need to leverage your analytical mindset to find solutions to complex problems. As a Data Scientist, you will need to understand difficult business problems and prototype solutions with minimal support. Apply, modify and design algorithms and mathematical models to solve business problems on top of big data architectures (Hadoop, Spark) is a core component of the role. Our data scientists will need to be able to validate, document and present the modeling process and performances, as well as communicate complex solutions in a clear, understandable way to non-experts. Data Scientists are also responsible for promoting data science across Tesco and promote Tesco across the external Data Science community.
+
+You will need
+
+We are looking for ambitious individuals with a mix of statistics, programming and machine learning skills. The role requires that you have an extensive background in machine learning and data mining. A track record in modifying and designing advanced algorithms and applying them to large data sets is essential.
+
+An ideal candidate will have a scientific mentality with the ability to ask the right questions, as well as answer them. A strong numerical higher degree in a mathematical, scientific, engineering or computer science discipline is preferable, as well as a solid understanding of mathematics and statistical principles.
+
+Experience in one or more of the following fields is required: predictive modelling, operational research, deep learning and time series modelling. Finally, strong programming experience (Python is preferred).
+
+What’s In It For You
+
+We offer excellent benefits that help make Tesco a great place to work! These include but are not limited to:
+Annual bonus scheme
+Holiday starting at 25 days plus a personal day (and bank holidays)
+Great colleague discounts and deals, saving you money on everyday purchases, utility bills for the home and more
+Retirement savings plan – save between 4% and 7.5% and Tesco will match your contribution
+Buy as you earn and Save as you earn share schemes
+Opportunities to get on – take advantage of our ongoing learning opportunities and award-winning training to help you achieve the career you want
+
+About Us
+
+Our vision at Tesco is to become every customer’s favourite way to shop, whether they are at home or out on the move. Our core purpose is “Serving our customers, communities and planet a little better every day”. Serving means more than a transactional relationship with our customers. It means acting as a responsible and sustainable business for all stakeholders, for the communities we are part of, and for the planet.
+
+We are proud to have an inclusive culture at Tesco where everyone truly feels able to be themselves. At Tesco, we not only celebrate diversity, but recognise the value and opportunity it brings. We’re committed to creating a workplace where differences are valued, and make sure that all colleagues are given the same opportunities. We’re a big business with diverse working patterns and many business areas which means that we can find something that works for you. Everyone is welcome at Tesco.
+
+We have recently announced that we are moving to a more blended working week – combining office and remote working. Our offices continue to be where we connect, collaborate and innovate. Talk to us about how this can work for you.
+
+Note: Should you be successful in your application, your employment will be subject to and conditional upon you providing your bank account details on your agreed start date.

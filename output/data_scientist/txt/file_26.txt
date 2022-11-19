@@ -1,0 +1,66 @@
+Job Summary
+
+DESCRIPTION
+
+Do you have a builder’s mentality where “show me” means more than “tell me”? Are you passionate about technology, understand cloud architectures & platforms and quick to pick up emerging technologies? Are you adept at working with Customers to experiment with innovative approaches and the validate the technical feasibility of solutions?
+
+Key job responsibilities
+
+As a data scientist will partner with customers and other AWS teams to deliver projects in data science domain that address customer use cases and accelerate the adoption of AWS. You will help shape and build AI/ML prototypes across a range of industry verticals. The ability to learn new technology and develop solutions that meet a high quality bar and convey business value is critical to the role. In this role, it’s imperative that you’re self-guided and disciplined in managing your time to ensure success.
+
+About The Team
+
+As trusted customer advocates, the Solutions Prototyping team helps customers in creating the early iterations of products and solutions, often exploring new technical grounds. The team is looking for experienced and motivated technologists who possess a unique balance of technical depth and strong interpersonal and writing skills.
+
+
+Basic Qualifications
+
+Lead full life-cycle Data Science solutions from beginning to end.
+
+Deliver with independence on challenging large-scale problems with complexity and ambiguity.
+
+Write code (Python, R, Scala, SQL, etc.) to obtain, manipulate, and analyze data.
+
+Build Machine Learning and statistical models to solve specific business problems.
+
+Retrieve, synthesize, and present critical data in a format that is immediately useful to answering specific questions or improving system performance.
+
+Analyze historical data to identify trends and support optimal decision making.
+
+Apply statistical and machine learning knowledge to specific business problems and data.
+
+Formalize assumptions about how our systems should work, create statistical definitions of outliers, and develop methods to systematically identify outliers. Work out why such examples are outliers and define if any actions needed.
+
+Given anecdotes about anomalies or generate automatic scripts to define anomalies, deep dive to explain why they happen, and identify fixes.
+
+Build decision-making models and propose effective solutions for the business problems you define.
+
+Conduct written and verbal presentations to share insights to audiences of varying levels of technical sophistication.
+
+
+Preferred Qualifications
+
+Advanced degree in Computer Science, Mathematics, Statistics, Economics, or related quantitative field.
+
+Broad knowledge of AI/ML methods, statistical analysis, and problem-solving skills.
+
+Experience in data applications using large scale distributed systems (e.g. EMR, Spark, Elasticsearch, Hadoop, Pig, and Hive).
+
+Experience processing, filtering, and presenting large quantities (hundreds of millions/billions of rows) of data
+
+Combination of deep technical skills and business savvy enough to interface with all levels and disciplines within our customer’s organization.
+
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment.
+
+Excellent verbal and written communication skills with the ability to advocate technical solutions for science, engineering, and business audiences.
+
+Ability to develop experimental and analytical plans for data modeling, use effective baselines, and accurately determine cause-and-effect relations.
+
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need an adjustment during the application and hiring process, including support for the interview or onboarding process, please contact the Applicant-Candidate Accommodation Team (ACAT), Monday through Friday from 7:00 am GMT - 4:00 pm GMT. If calling directly from the United Kingdom, please dial +44 800 086 9884 (tel:+448000869884). If calling from Ireland, please dial +353 1800 851 489 (tel:+3531800851489).
+
+
+Company - AWS EMEA SARL (UK Branch)
+
+Job ID: A2250891

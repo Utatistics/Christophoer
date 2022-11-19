@@ -1,0 +1,67 @@
+About Paidy, Inc.
+
+Paidy is Japan's pioneer and leading BNPL service with the mission to spread trust through society and to give people room to dream.
+
+Paidy offers instant, monthly-consolidated credit to consumers by removing hassles from payment and purchase experiences. Paidy uses proprietary models and machine learning to underwrite transactions in seconds and guarantee payments to merchants. Paidy increases revenue for merchants by reducing the number of incomplete transactions, increasing conversion rates, boosting average order values, and facilitating repeat purchases from consumers.
+
+Paidy has reached an agreement to join PayPal, the global payments company. Paidy will continue to operate its existing business, maintain its brand and support a wide variety of consumer wallets and marketplaces by providing convenient and innovative services.
+
+Paidy continues to innovate to make shopping easier and more fun both online and offline. For more information, please visit http://www.paidy.com.
+
+About Position
+
+We are hiring Data Analyst(s), reporting to the Head of Data Platform Engineering, who will work closely with stakeholders across the company to turn data into information which in turn will be used for decision making. Insights can be provided back to product and business leaders to inform our product design and features. Will develop both analysis on source data systems as well as support reporting activities and capabilities. Our ambition is to be a Data Driven firm and you will assist in this endeavor in part by monitoring performance of source domain data systems, cleansing and identifying improvements.
+
+Key Role And Responsibilities
+
+Paidy is a dynamic company and a data analyst position requires many skills: data governance, data interpretation, databases, data cleansing, report data modeling, and others typically used in providing a solid data foundation to a data driven firm. Your responsibilities will be:
+Contribute to the definition, implementation, and monitoring of data governance.
+Key point of contacts for questions and requests for our data.
+Understand business model and processes to develop requirements used to develop our data systems
+With the engineering team write and maintain documentation
+Interpret data, analyze results using statistical techniques and provide ongoing reports
+Develop and implement data collection and analytics systems
+Develop and implement strategies that optimize statistical efficiency and quality
+Acquire data from source as well as other systems and maintain databases/pipelines
+Identify, analyze, and interpret trends or patterns in product domains in source data systems.
+Filter and clean data
+
+Skills And Requirements
+
+To succeed in this role, you need:
+5+ years of experience applying data to achieve business objectives.
+Experience with guidelines, regulations, and risk management frameworks including those from DAMA, Japan Privacy Act, and COSO.
+Business analysis and documentation
+Technical knowledge and experience regarding data models, pipelines, database design development, data mining and segmentation techniques.
+Good knowledge of and experience with reporting packages (Business Objects etc.), databases (Postgres, Elasticsearch, etc), programming (python, SCALA, etc)
+Experienced at queries, report writing and presenting findings.
+Softskills and business level English with an ability to communicate with stakeholders from multiple disciplines
+Paidy team will ask about your user experiences with Paidy Apps during the interview. Please download Paidy App and try it out!
+iOS: https://apps.apple.com/jp/app/paidy/id1220373112
+Android: https://play.google.com/store/apps/details?id=com.paidy.paidy&hl=en&gl=US
+For those who are not able to download Paidy App, due to the regional restrictions, please be advised that you download the similar App, such as Klarna, Afterpay, Affirm and so forth, and come up with your opinions on these applications and services.
+Please note that you must be eligible to work in Japan.
+
+What We Offer You
+Diversified team with 150+ colleagues from 30+ countries
+Exciting work opportunities in a rapid-growing organization
+Cross-functional collaboration
+Flexible work-from-home arrangement
+Competitive salary and benefits
+
+Paidy Values
+
+Be a winner / 勝ちにこだわる
+Beat expectations / 常に期待値を超える
+Display surprising speed / 人をスピードで驚かす
+Embrace risk / リスクを恐れない
+
+Own it and deliver / 結果を出す
+Commit to what, when and how to deliver/ 目的・やり方・期限にコミットする。
+Own the actions to deliver / 結果のためのアクションにこだわる
+Embrace conflict when needed to deliver results / 必要なら対立・衝突も恐れない
+
+Play an integral role / 大切なピースになる
+Make an irreplaceable contribution to our business / 替えの効かない貢献をする
+Embrace and bridge differences in language and culture / 皆が言語と文化の架け橋になる
+Raise the bar / スタンダードを上げ続ける

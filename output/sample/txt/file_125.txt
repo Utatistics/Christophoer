@@ -1,0 +1,22 @@
+案件紹介
+
+Leverage data techniques to deliver data pipelines integrate data from various information sources - both Commercial & Clinical Data.
+Translate data needs into easily understandable & usable documents & information
+Develop automated and self-monitoring data pipelines including automated QA/QC processes
+Conduct basic data profiling and quality checks
+Fine tune performance on datasets for visualization
+Work with stakeholders to assist with data-related technical issues and support data infrastructure needs.
+
+応募資格
+
+5 years of work experience as a data engineer
+2+ years working in a cloud based analytics ecosystem (AWS, Azure & similar... )
+Experience with working with structured & unstructured data
+Understanding of data ingestion, data warehousing, and data model concepts
+Proficient in SQL, Python & other...
+Strong hands-on skills in data software engineering (e.g., Python, industrialized ETL software)
+Strong hands-on skills in containerization (e.g. AWS EKS, Kubernetes)
+Strong hands-on skills for data pipeline orchestration (e.g. Airflow)
+Understanding of data science development lifecycle (e.g CRISP)
+
+求人詳細

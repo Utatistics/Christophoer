@@ -1,0 +1,67 @@
+Do you want to be a part of the world’s leading jewellery company while putting your experience in scaling Data and Analytics Products into use? If yes, then we might have an exciting opportunity for you! You will be part of an exciting business area and work in an international organisation of can-do spirited, passionate, and performance-driven people. We value flexibility and informal working, where you are trusted to deliver and to focus on outcomes, outputs and value delivered.
+
+About the Team:
+
+During the next year, we will continue to establish a world-class digital team of thinkers, makers, and doers to ensure digital and technology is at the heart of our business. And we want you to bring your expertise, knowledge, ideas, entrepreneurial spirit, and experience to make a significant impact, and help build and shape this with us from an early stage.
+
+Our Data Science & Machine Learning team in the Data & Analytics Center of Excellence at Pandora are a group of data-driven professionals who support business units across the full value chain with actionable insights and predictive analytics. We have a data lake, a unified analytics platform and solid communication skills that help us translate data into business value. Your new team consists of a diverse and happy group of analysts, scientists, engineers and product people with a clear mission: We are here to deliver data-driven experiences in all consumer journey touchpoints, develop actionable insights to inform business decisions across supply chain, product, marketing, commerce, finance, HR and more - and have fun while doing it.
+
+As part of expanding the Pandora Digital and Technology organization in London, we are looking for a Data Scientist, this will be one of our first roles in the new London Hub.
+
+Your role as Data Scientist:
+
+As Data Scientist, you will work with our stakeholders around the world to tackle both interesting and challenging problems using machine learning and optimization techniques. You will ensure that our prescriptive models are using state-of-the-art techniques to support and/or automate data driven decision making processes.
+
+In addition to this you will:
+Partner with our stakeholders to identify valuable insights and in depth understand business cases via data mangling and advanced statistical analysis
+Tackle business challenges using predictive modelling, forecasting and optimization techniques to provide actionable recommendations
+Work on end-to-end analytical products, from exploration and prototyping to testing and productionizing
+Participate in Scrum team and work in an agile manner applying principles from DevOps
+Participate in scrum teams working on developing analytical software solutions for various applications within the organization that drive development and innovation in the area of AI systems.
+
+What is needed to succeed:
+Ph.D. or a M.Sc. degree in computer science, physics, mathematics, operations research or related field or an equally strong analytical background
+Previous experience in programming using Python, R, or Matlab
+Experience in particular within big data application scenarios
+Worked with statistics, machine learning, forecasting, MIP numerical techniques, time series analysis, and scientific computing
+Working knowledge of Git, DevOps, Databricks, Docker, Kubernetes
+Experience with neural networks, deep learning, and reinforcement learning; but not required
+Strong strategic and economics skills; you have the ability to manage large sets of qualitative and quantitative data and present finding in a simple and actionable manner
+Result-driven and action-oriented individual. Focus on executing, getting things done and delivering on targets
+Fluent proficiency in both written and oral English
+
+About Pandora
+
+The largest jewellery company in the world, we craft incredible moments for millions of people every day. We sell three pieces of our hand-crafted jewellery every second and have the largest network in the industry, with almost 7,000 points of sale around the globe and a strong online business.
+
+We pursue sustainability In everything we do and have set ambitious and measurable targets across every touchpoint of our business, from sourcing through to the materials we use and the marketing of our products.
+
+Our people
+
+Our global workforce is made up of over 27,000 passionate people who, in 2021, helped Pandora record the highest earnings to date, led by a refreshed long-term growth strategy. The pace of our progress has created an energising, ambitious culture where we are empowered to be ourselves and equipped to deliver our very best.
+
+As we continue to grow, we also continue to invest in our talent. We’re looking for people who share our values and can make their own mark as we continue through the next chapter of our story.
+
+Why work with us?
+
+O ur people are an integral part of our success. Our commitment to unforgettable career progression is just the start. We offer a competitive rewards package that is second to none.
+
+Our generous benefits package includes:
+A highly competitive salary with regular salary reviews
+Generous bonus scheme
+Private healthcare
+Early finish Fridays (weekends with Pandora start every Friday at 3pm!)
+55% employee discount
+Free daily lunch credits
+33 days holiday (including bank holidays)
+Buy/sell holiday options
+Celebrate your birthday with a day off to celebrate!
+Join our Employee Wellbeing Centre, including access to our employee assistance programme, Cycle to Work scheme, gym discounts and more…
+Winniperks - Our online benefits platform with plentiful retail, hospitality and entertainment discounts
+At Pandora we love a party! Especially at Christmas, when you will receive an extra special gift
+
+If you are looking for a new challenge and feel you have the relevant skills then don’t miss out!
+
+Please understand that due to the large number of applications, we regret that only online applications can be considered. Please click apply to submit your application.
+
+*If you require reasonable adjustments in place during your interview(s), please make us aware as soon as possible*

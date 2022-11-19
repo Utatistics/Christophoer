@@ -1,0 +1,133 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+
+Job Description
+
+タケダの紹介
+
+タケダでは常に患者さんを中心に考え、世界中の人々により健やかで輝かしい未来をお届けすることを目指してきました。そして従業員一人ひとりにそれぞれの能力と熱意に応じた成長の機会を提供することにも組んで取り組んでいます。私たちと一緒に、世界中の人々のいのちに貢献し、さらなる成長と活躍を目指しませんか。
+
+タケダは業界を牽引するグローバルリーダーです。従業員は四つの優先順位（患者さん中心、社会との信頼関係構築、レピュテーションの向上、事業の発展）とタケダイズム（誠実＝公正・正直・不屈）のもと一致団結しています。タケダイズムは私たちの信念であり正しい方向へ導く羅針盤です。私たちは日々の業務においてタケダイズムを体現しています。
+
+※ チームの紹介動画：
+
+https //www.240.takeda.com/spotlight/05/
+
+Takeda is unwavering in our commitment to patients. With the patient at the center of everything we do, we continue to innovate and drive changes that will better their lives - we’re looking for like-minded professionals to join us.
+
+Takeda is a global industry leader –we are united by our four priorities (Patients, Trust, Reputation, and Business) and our shared values of Takeda-ism Integrity, Fairness, Honesty, and Perseverance. Takeda-ism is more than just a word. It’s a belief and a mindset which guides our decisions, behaviors, and interactions. It’s how we strive to work and live, every day.
+
+OBJECTIVES/PURPOSE
+
+Data scientists are on a mission to enhance performance through Advanced Data Analytics.
+
+The core purpose of this position is to drive the local execution and implementation of the GMSGQ Digital and Data science strategy and initiatives.
+
+The Data Scientist is responsible for executing local data analytics initiatives and provides the link between local and global GMSGQ data analytics.
+
+Accountabilities
+Gathers and identifies local data analytics possibilities/initiatives/requests in collaboration with stakeholders at site, IT and global GMSGQ data analytics.
+Drives creating roadmap of site and execute local implementation in alignment with GMSGQ data analytics roadmap initiatives.
+Drives local data analytics initiatives, such as for Predictive Maintenance, Down Time Analysis and respective Database management.
+Manages and drives local process monitoring and process improvement in collaboration with global GMSGQ data analytics (e.g. descriptive statistics and visualization, statistical process control, out-of-the-box-tools)
+Manages, drives and executes respective reporting in collaboration with global GMSGQ data analytics (e.g. automated daily/monthly/annual, Stability Analysis Targets)
+Supports and participates in global/functional/local GMSGQ data analytics community.
+Coach and support not only data scientists (relatively junior), machine learning engineers and data scinece specialists, but also people in production/manufacturing science to accelerate Digital Transformation with increasing knowledge and capability of data analysis.
+DIMENSIONS AND ASPECTS
+
+Technical/Functional (Line) Expertise
+Excellent organizational and coaching skills essential Expertise and experience in Digital / Data sceince / Artificial Intelligence / Machine Learning
+Expertise in Signal Processing, Control Systems, Mechatronics
+Knowledge of Statistical Process Control
+Experience in Machine Learning algorithms (CNN, SVM, LSTM, etc.)
+Respective programming knowledge of either MATLAB/Python/R required, further skills such as C++, SQL etc. are advantageous
+Experience in quality mapping of parameters is a plus
+Expertise in Bayesian statistics
+Experience in Density estimation
+Knowledge in Bayesian Hypothesis Testing,
+Knowledge in ANOVA and forecasting techniques (ARIMA, ARMA, NARX)
+Prior experience of Biostatistics, stochastic modelling and decision trees is a strong asset
+Leadership
+
+Takeda expects all employees to embody the following
+
+Values and Priorities
+Values – Integrity, Honesty, Fairness, Perseverance
+Priorities – Patient Trust, Reputation, Business
+Develop and execute site Big Data and analytics strategy
+Influence people at all levels in the business – demonstrated ability to influence at all levels
+Provide coaching, guidance and direction to members in day-to-day works
+Activate group members by excellent communication and team building skills
+Decision-making and Autonomy
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of product development.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Interaction
+Need to collaborate with global GMSGQ data analytics
+Work with stakeholders throughout the organization to identify opportunities for leveraging the site data to drive business solutions
+Coordinate with different functional teams to implement models and monitor outcomes
+Innovation
+Work in a dynamic cross-functional site setting to dliver results in a matrixed environment.
+Mine and analyze data from site databases to drive optimization and improvement of quality, productibity and business strategies
+Complexity
+Must have a combination of hard skills (like learning Python and SQL) and soft skills (like business skills or communication skills)
+Scientists are responsible for
+Advising companies on data potential
+Gaining new insights and transforming them into business goals
+Developing solutions that improve business performance through advanced statistical analysis, data mining, and data visualization technologies
+Education, Behavioural Competencies And Skills
+
+Education / experience
+University degree of science/business. BSc degree is required, e.g. in Engineering, Mathematics, IT or Physics background with focus on e.g. Control Theory/ Statistics/Mechatronics, Information/Operation, Technology, Innovation Management
+Capabilities to translate business needs into data analytics concepts and the other way
+Hands-on, able to implement and execute initiatives
+High level project management skills
+Ability to interface with international stakeholders and to connect internal and external data analytics experts of both academia and industries
+Fluent business English capability
+Fluent written and spoken Japanese mandatory
+EHS
+Preferred to have experience in managing team with applicable EHS perspectives such as waste, waste water, exhaust gas, noise, GHG reduction, health, and safety. (5 years for department head and 3 years for Group Managers)
+Preferred to have experience in ISO 14001/45001 management system to carry out continuous improvement of site.
+Additional Information
+Some international travel will be required.
+This job description is not designed to be a complete list of all duties and responsibilities required of the position.
+待遇
+
+諸手当：通勤交通費、借家補助費、勤務時間外手当など
+
+昇給：原則年1回
+
+賞与 原則年2回
+
+勤務時間：本社（大阪市中央区・東京都中央区）9 00～17 30 、工場（山口県光市・大阪市淀川区）8 00～16 45 、研究所（神奈川県藤沢市）9 00～17 45
+
+休日：土曜、日曜、祝日、メーデー、年末年始など（年間123日程度）
+
+働き方関連制度：フレックスタイム制、テレワーク勤務制導入（対象社員）
+
+休暇：年次有給休暇、特別有給休暇、傷病休暇、ファミリーサポート休暇、産前産後休暇、育児休暇、子の看護休暇、介護休暇
+
+タケダのDE＆I
+
+Empowering Our People to Shine
+
+Locations
+
+Osaka (Juso), Japan
+
+Hikari, Japan, Tokyo, Japan
+
+Worker Type
+
+Employee
+
+Worker Sub-Type
+
+Regular
+
+Time Type
+
+Full time

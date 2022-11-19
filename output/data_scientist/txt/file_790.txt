@@ -1,0 +1,29 @@
+This is an opportunity ideally suited to a postdoc data scientist interested in developing machine learning tools in mental health. We are a multi-disciplinary team based at University of Cambridge, spanning the departments of Psychiatry, Psychology, Computing and Mathematics, and working with a number of charity and industry partners (e.g. Anna Freud National Centre for Children and Families and Bitfount plc).
+
+We are building the linked data infrastructure to enable federated AI and will use this to build, validate and implement early identification tools for childhood mental health problems in Cambridge and with partners in Birmingham, Swansea and Essex. We are funded by Alan Turing, UKRI/MRC/HDR UK and What Works for Children's Social Care and are soon to start working in partnership with Birmingham on a Wellcome Trust Mental Health Data Prize. This post will initially continue work carried out in the Welsh Adolescent Data Platform where we have linked 17 longitudinal databases relating to health, education and social care relating to all children in Wales.
+
+The postholder will help in the work to develop approaches to measure ~80 risk factors as well as childhood MH outcomes, and use these to build prediction models. This work will then be translated into the Cambridge databases and via federation with partners (Birmingham, Essex and others). Additionally, the post will help with the final analysis of the largest evaluation of children's health services in the UK to date - a 20 site case-control study including data on over 200,000 children across England - a project run in partnership with UCL and the Anna Freud Centre. The post will work within the team built by Dr Anna Moore, and in close collaboration with Prof. Zoe Kourtzi. Other senior academics closely involved include Prof. Tamsin Ford, Prof. Peter Fonagy and Prof. Pietro Lio. The postholder will be encouraged to work across teams, have the opportunity to develop their expertise in ML for mental health as well as have a key role in developing and applying novel ML approaches within the group. They will be involved in supporting PhD and MPhil students in ML and data science.
+
+Informal enquiries are welcomed and should be directed to: Dr Anna Moore Email: am2708@medschl.cam.ac.uk'
+
+Fixed-term: The funds for this post are available for 1 years in the first instance.
+
+Click the 'Apply' button below to register an account with our recruitment system (if you have not already) and apply online.
+
+Closing Date: 3 October 2022
+
+Interview Date: TBC
+
+Please ensure that you upload a covering letter and CV in the Upload section of the online application. The covering letter should outline how you match the criteria for the post and why you are applying for this role. If you upload any additional documents which have not been requested, we will not be able to consider these as part of your application.
+
+Please include details of your referees, including e-mail address and phone number, one of which must be your most recent line manager.
+
+Please quote reference RN33157 on your application and in any correspondence about this vacancy.
+
+The University actively supports equality, diversity and inclusion and encourages applications from all sections of society.
+
+The University has a responsibility to ensure that all employees are eligible to live and work in the UK.
+
+Further information
+Further Particulars
+Apply online

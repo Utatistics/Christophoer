@@ -1,0 +1,34 @@
+Job Description
+
+Business Overview
+
+Rakuten group has almost 100 million customers in Japan and 1 billion globally, providing more than 70 services across multiple businesses such as ecommerce, payment services, financial services, telecommunication, media, sports, etc. Following the strategic vision “Rakuten as a data-driven membership company”, we are expanding our data activities across our Rakuten group companies.
+
+Department Overview
+
+Global Data Supervisory Department (GDSD) provides data science initiatives by leveraging Rakuten group’s data. The department has international culture created by excellent employees joined around the world and provides the cutting-edge data science. Data Science Consulting Department (DSCD) is a department in GDSD. It provides data-oriented consulting service based on Rakuten Group’s big data and analytic approach such as Machine Learning. Communication & Energy Consulting Section (CECS) is a section in DSCD. The section provides data-oriented consulting service for the growth of MNO (Mobile Network Operator) business which is focused in Rakuten Group.
+
+Why We Hire
+
+MNO business has been growing rapidly. In line with that, the scope of our initiative also has been expanded. We are looking for talented people who could contributes to the growth of MNO business.
+
+Position Details
+
+Geo Science Consultant leads new initiatives by leveraging Geo Science. The position is expected to define user requirement to propose new initiatives, then lead communication with the users/engineers.
+
+Mandatory Qualifications
+
+3+ year experience as Project Manager in consulting firm or equivalent experience in other industries.
+Capability of proactive communication with users in Japanese
+Proficient in English and Japanese (TOEIC: 800+)
+Experience as a people manager to organize a team and develop people.
+
+Desired Qualifications
+
+Experience in Geo Science related project(s).
+
+#engineer #datascientist #researcher #technologyservicediv
+
+Languages
+
+English (Overall - 3 - Advanced), Japanese (Overall - 3 - Advanced)

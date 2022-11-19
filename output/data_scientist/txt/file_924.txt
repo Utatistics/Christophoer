@@ -1,0 +1,40 @@
+Principal Data Scientist
+London
+£120,000 + Benefits
+
+THE COMPANY
+
+Harnham is working with a deep-tech company with technical specialists, developing machine learning applications to accelerate physics simulations. The company is small and growing and since its establishment has won multiple awards. This is a chance to work on some of the most advanced problems within machine learning and also deep learning!
+
+THE ROLE
+
+You will be:
+
+Build, deploy and optimize machine learning models for Deep learning
+Build complex models and work with neural networks
+Work with simulation data and also computer vision
+Deploy models into a production environment
+Collaborate with product, engineering and analytics teams to seek out new opportunities across the business
+Technical oversight of the team and coaching and mentoring individuals
+
+YOUR SKILLS AND EXPERIENCE
+
+You must have:
+
+An MSc or Ph.D. in Computer Science, Machine Learning, Statistics, Artificial Intelligence or Mathematics
+A deep understanding of deep learning
+Experience working with Deep learning
+Simulation experience
+Experience leading projects
+Experience working with GCP or AWS
+Good computer vision skills
+Experience in production-level machine learning
+Strong skills in Python, Spark, Hadoop, Tensorflow, Keras.
+
+HOW TO APPLY
+
+Please register your interest by sending your CV via the Apply link on this page. For more information about similar roles, please contact Charlotte York at Harnham
+
+KEYWORDS
+
+Python, Scala, SQL, Hadoop, Spark, Kafka, Machine Learning, Statistics, Artificial Intelligence, Mathematics, AWS, Azure, Algorithm development, Optimisation, Recommendation System, Research, Marketing, Online, Data Scientist, Data Science, Predictive modelling, Forecasting, R&D.

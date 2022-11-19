@@ -1,0 +1,101 @@
+Job Description
+
+Associate Director, Data Scientist
+
+Summary of job scope
+
+We are seeking Senior Data Scientists with growth mindset, to work closely with cross-functional business teams adopting agile ways of working, to create business values and outcomes with data and Advanced Data Analytics.
+
+Primary Activities
+
+Provide business outcomes that drive change management Not only design solutions leveraging analytical approaches and best practices, but also write code, build prototypes, create and present documents, and deliver data-driven, actionable insights and business outcomes to stakeholders and management.
+
+Implement technology modernization Implement modern technologies related to Advanced Analytics, Machine Learning and AI, to improve business processes and efficiency of our company.
+
+Drive agile delivery Leverage our new ways of working to deliver business outcomes with agility and significant productivity, based on iteration and experimentation principles.
+
+Foster global collaboration Establish effective trust partnerships with cross-functional teams and global communities.
+
+Lead decision making Make and execute decisions by using Data Science techniques and data architecture, to solve critical business problems and achieve business goals.
+
+Uphold behavior standards Maintain behavior standards and mindset built on principles of collaboration, learning, and sharing.
+
+Focus on what matters Simplify your work and prioritize your resources on what matters the most, to create the greatest value for our business stakeholders.
+
+Act with urgency Be a self-starter, working with speed, rigor, and determination, to deliver data-driven solutions to our business stakeholders.
+
+Embrace diversity and inclusion Help us create fully diverse teams to deliver our best innovations and cultivate an inclusive environment where everyone is able to contribute their best ideas.
+
+Speak up and be open-minded Voice your opinions, engage in healthy debate and encourage curiosity to improve ideas and decisions to achieve better outcomes.
+
+We are seeking professionals with the following qualifications, skills, and experience
+
+Required Qualifications
+At least 5 years of broad experience in the domains of Advanced Data Analytics, Data Science, Machine Learning and AI in the Sales and Marketing domain.
+Knowledge and experience with best practices and frameworks utilized in the fields of Advanced Data Analytics and Data Mining.
+Self-starter, able to clearly understand business requirements and translate them into data-driven processes and solutions, as well as to consult business stakeholders on optimal solutions, and to manage expectations.
+Experience with leading, mentoring, nurturing, and supporting Junior Data Scientists team members.
+Experience with designing analytical solutions, as well as storytelling and presentation of insights and outcomes to senior business stakeholders (Directors and/or Senior Managers).
+Experience in summarizing his / her own analytical processes and results in a PowerPoint, by using diagrams, charts, etc., and explaining them to people with limited knowledge of Data Science.
+Hands-on experience within the end-to-end Advanced Data Analytics process, from data extraction, EDA, data preparation and preprocessing, to predictive model building, validation, and deployment.
+At least 5 years of strong, hands-on programing experience with Python, as a Data Scientist, using libraries like NumPy, SciPy, Pandas, Matplotlib, SciKit-Learn, Seaborn, TensorFlow, Keras, PyTorch, as well as constructing classes, functions, and objects.
+Hands-on experience with modern Data and Analytics technologies, ecosystems, cloud environments and services, such as AWS (SageMaker, S3, Glue, Step Functions, etc.), Azure or GCP, as well as understanding of Big Data foundations.
+Ability to extract, design and link datasets from diverse internal and external data sources, by writing SQL queries as a part of the ETL process, and to prepare master datasets for modeling and analysis.
+Superior analytical maturity to provide business outcomes with proficiency in a broad range of marketing methodologies, quantitative approach, Advanced Data Analysis, and statistics.
+Strong interpersonal and communications skills.
+Ability to lead data-driven initiatives, which sometimes include changing existing systems, operations or mindsets of others, based on prioritization.
+Native-level of Japanese proficiency, and business-level or higher of English proficiency.
+At least 3 years of experience of actively communicating (e.g., through presentations, etc.) with business stakeholders in the Sales and Marketing / Commercial domain.
+Degree(s) in Computer Sciences, Statistics, Physics, Engineering, Mathematics, Economics, Public Health, (Pharmaco-)Epidemiology, Pharmacy.
+Preferred Qualifications
+Proactive, results-oriented, creative, and flexible thinker with a growth mindset.
+Enjoys working in diverse and inclusive global and matrix environment across functions and geographies.
+Ability and willingness to speak-up and to challenge the status quo.
+Upholds high standards of ethical and intellectual integrity.
+Experience or knowledge about the pharmaceutical commercial business and data sources (e.g., prescription and sales data, patient claims data, promotional data), and the ability to design future ideal state of Data Analytics in it.
+Experience in validating quality or reliability of data.
+At least 2 years of experience in the consulting business.
+At least 2 years of experience in writing distributed processing in PySpark for Big Data Analytics solutions (e.g., datasets with millions of rows and hundreds of columns).
+Experience working in agile methodologies and agile teams.
+Experience in working in an uncertain environment, where various tasks are required to be performed simultaneously.
+Experience in completing a project, even though the direction of the project changed significantly and multiple times, due to feedback from business stakeholders.
+Experience in modifying the predictive model in a speedy manner, to incorporate important, additional business requirements, even if such a modification may result into a model which is not the best from a Data Science point of view.
+Experience in solving problems for which there is no clear answer.
+Ability to translate abstract problems from business owners into concrete issues to solve, to enumerate elements toward goals, and to derive satisfactory outcome.
+Mathematical knowledge that is used in Data Science (calculus, linear algebra, equivalent to Japan Statistical Society Certificate level 2).
+Experience in Natural Language Processing (e.g., morphological analysis using MeCab, managing projects using BERT with Japanese data).
+Experience in Deep Learning frameworks (e.g., TensorFlow, PyTorch).
+Experience in building recommendation engine models (e.g., collaborative filtering, cosine similarity, matrix factorization models).
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+Search Firm Representatives Please Read Carefully
+
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status
+
+Regular
+
+Relocation
+
+No relocation
+
+VISA Sponsorship
+
+Travel Requirements
+
+Flexible Work Arrangements
+
+Shift
+
+Valid Driving License
+
+Hazardous Material(s)
+
+Number of Openings
+
+1
+
+Requisition ID R183125

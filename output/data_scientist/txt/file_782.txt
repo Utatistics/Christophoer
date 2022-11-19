@@ -1,0 +1,44 @@
+Who are we?
+Hi! 👋 We are Ravelin! We're a fraud detection company using advanced machine learning and network analysis technology to solve big problems. Our goal is to make online transactions safer and help our clients feel confident serving their customers.
+And we have fun in the meantime! We are a friendly bunch and pride ourselves in having a strong culture and adhering to our values of empathy, ambition, unity and integrity. We really value work/life balance and we embrace a flat hierarchy structure company-wide. Join us and you’ll learn fast about cutting-edge tech and work with some of the brightest and nicest people around - check out our Glassdoor reviews.
+If this sounds like your cup of tea, we would love to hear from you! For more information check out our blog to see if you would like to help us prevent crime and protect the world's biggest online businesses.
+
+The Role
+We are currently looking for a data scientist to join a fantastic team of client-facing data scientists and client support analysts. You will be working with data scientists and crime analysts to discover patterns and trends concerning fraud in our clients' data. In this key role, you'll be applying exploratory analysis to form realistic and useful narratives from data, asking “why” as well as “what” and “how". You will interact directly and indirectly with clients to help them understand what is happening with their fraud, and help us to target our efforts ever more precisely.
+
+Responsibilities
+Work directly with clients to provide fraud analytics and ML model insights
+Analyse datasets with millions of rows to identify fraud patterns, trends and emerging threats to improve client performance
+Discuss specific fraud problems with clients, in order to deeply understand how they manifest and to propose effective and elegant solutions
+Prepare reports and present findings of analysis to clients when required
+Identify new model features and improve model performance
+Optimise the performance of our graph networks using network analysis
+Get hands on experience with our cloud infrastructure and make the most of the available tools for enhancing our clients’ data and performance
+Build internal tools in Python for optimising and improving our analytical capabilities
+
+Requirements
+Experience or training as a data analyst, intelligence analyst or data scientist
+Strong critical thinking skills, intuitively curious and able to diagnose data issues
+Strong communication and presentation skills
+Diligence, attention to detail, ability to prioritise and follow through on tasks
+Experience with SQL - ability to run complex queries to answer your own questions
+Experience with Python for data analysis (object-oriented programming experience is a bonus!)
+Knowledge of supervised and unsupervised ML techniques
+Desirable: some knowledge, understanding or experience of network analysis
+Desirable: hands-on experience with DBT
+
+Benefits
+Mental health support through Spill + quarterly wellbeing day off
+£1000 learning & development budget as well as Quarterly Learning Days
+Comprehensive medical cover with AXA
+Pension Scheme with Aviva
+25 days holiday + bank holidays + 1 extra day off for religious holidays
+Flexible working hours & remote friendly environment
+Ravelin Gives Back - monthly charitable donations and regular volunteering opportunities
+TeamBandit - Fortnightly team lunches with different people from across the company
+Access to BorrowmyDoggy
+Cycle-to-Work scheme
+Weekly board game nights & budget for regular socials that anyone can organise
+Weekly Virtual exercise classes including yoga, pilates & HIIT sessions
+
+*Job offers may be withdrawn if candidates do not meet our pre-employment checks: unspent criminal convictions, employment verification, and right to work.*

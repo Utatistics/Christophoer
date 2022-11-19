@@ -1,0 +1,45 @@
+Job Summary
+
+DESCRIPTION
+
+Are you interested in working with the largest global Life Sciences (LS) organizations in the world as they navigate through some of the most dynamic and disruptive transformation projects in their organization's history? Does the prospect of empowering these organizations cloud transformation success by aligning professional services to critical business and IT outcomes, overseeing and assessing engagement delivery, driving a holistic partner strategy and providing insight to accelerate rate of execution/adoption of cloud technology excite you?
+
+The Amazon Web Services Professional Services team is looking for a Data Scientist consultant that can advise global LS organizations on their cloud journey, develop a long term Professional Services strategy and execute that strategy within those accounts. This is a trusted advisor for our largest and most committed customers. The role includes all aspects of go-to-market, business development, relationship development, technology strategies and solution development in those accounts.
+
+Professional Services engage in a wide variety of projects for customers and partners, providing collective experience from across the AWS customer base and are obsessed about strong success for the Customer. Our team collaborates across the entire AWS organization to bring access to product and service teams, to get the right solution delivered and drive feature innovation based upon customer needs.
+
+We Are Looking For Someone Who Is Passionate About
+Development of long term AI/ML Strategies for global Healthcare and Life Science customers.
+Provide HCLS industry domain insights.
+Identify & develop specific opportunities and supporting business cases.
+Educate customers on AI/ML AWS services and translate those into a clear business value proposition.
+Assist customers by being able to deliver AI/ML/DL projects from beginning to end, including understanding business requirements, developing architecture, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact.
+Assisting customers to envision and architect solutions involving AI/ML to address today and tomorrow’s business problems.
+Assist customers with identifying model drift and retraining models.
+Work with our Big Data consultants to help analyze, extract relevant data and help our customers operate models after they are built.
+Coaching Customer and Partner teams to be self-sufficient.
+This is as customer facing role. You will be required to travel to various customer sites to deliver professional services when necessary.
+
+
+Basic Qualifications
+Bachelor’s degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent professional or military experience
+Experience with ML fields, e.g., natural language processing, computer vision, statistical learning theory
+6+ years of HCLS industry experience in predictive modeling, data science, and analysis
+Experience in an ML engineer or data scientist role building and deploying ML models or hands on experience developing deep learning models
+Experience writing code in Python, R, Scala, Java, C++ with documentation for reproducibility
+Experience handling terabyte size datasets, diving into data to discover hidden patterns, using data visualization tools, writing SQL, and working with GPUs to develop models
+Experience writing and speaking about technical concepts to business, technical, and lay audiences and giving data-driven presentations
+Preferred Qualifications
+Master’s degree of PhD in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.)
+Ability to develop strategic, baselined, data modeling processes; ability to accurately determine cause-and-effect relationships.
+Publications or presentations in recognized ML journals or conferences
+Deep technical skills, consulting experience, and business savvy to interface with all levels and disciplines within our customers’ organization
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need an adjustment during the application and hiring process, including support for the interview or onboarding process, please contact the Applicant-Candidate Accommodation Team (ACAT), Monday through Friday from 7:00 am GMT - 4:00 pm GMT. If calling directly from the United Kingdom, please dial +44 800 086 9884 (tel:+448000869884). If calling from Ireland, please dial +353 1800 851 489 (tel:+3531800851489).
+
+
+Company - AWS EMEA SARL (UK Branch)
+
+Job ID: A1966077

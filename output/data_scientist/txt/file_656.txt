@@ -1,0 +1,69 @@
+Job Description
+
+We are a research-driven biopharmaceutical company. Our mission is built on the simple premise that if we “follow the science” that great medicines can make a significant impact to our world. We believe that a research-driven enterprise dedicated to world-class science can succeed by inventing medicine and vaccine innovations that make a difference for patients across the globe. We identify and target steps in disease mechanisms or pathways that could be inhibited or enhanced. Our goal is to identify a compound that is effective against a disease target. Using innovative thinking, state-of-the-art facilities and robust scientific methodology we collaborate to discover the next medical breakthrough.
+
+We have exciting plans to establish a new state-of the-art Research and Discovery Centre in London’s ‘Knowledge Quarter’ opposite King’s Cross Railway station. Our new site, expected to be completed within the next 5 years, will employ circa 800 people across our research and commercial divisions.
+
+We have exciting opportunity for a highly motivated Senior Scientist in Computational Biology/Data Science and Machine Learning to join newly established Integrative Genomics team at our Discovery Centre in Kings Cross, London.
+
+Role Overview
+
+The qualified individual will be an expert in the field of Computational Biology, Computer Science, Structural Genomics, Machine Learning with knowledge of Biology. They will have an understanding and interest in utilization multi-dimensional biological data, application of computational approaches to identify novel drug targets and diseases biomarkers. They will be responsible for delivering insights in broad spectrum of diseases and identify opportunities for drug development from public and proprietary data sets, and from our biobank collaborations.
+
+You will be joining a growing Integrative Genomics team that is tightly integrated with multidisciplinary scientific environment at our London site. You will be expected to operate in a collaborative environment, working with experimental and computational scientists at London and Cambridge, Massachusetts, and data science team in Prague. You also will be interacting with leading academic groups and research centers across the UK and expected to advance your internal and external scientific profile.
+
+What You Will Do
+Leverage Machine Learning methods to analyse Genomics, Human Genetics and other relevant data to identify targets, pathways and biomarkers in multiple Therapeutics Areas (e.g., CNS, Immunology, Cardiometabolic diseases) and disease relevant mechanisms (e.g., Mitochondrial Dysfunction and Proteostasis)
+Work closely with colleagues in Statistical Genetics, Computational Biology and Genome Sciences to develop and implement predictive modeling methods for target and biomarker discovery
+Engage with internal and external peers to develop novel computational methodologies and automate data analysis
+Work with experimental biologists and functional area scientists to support discovery projects
+You will have opportunity to present at key internal meetings, national and international conferences, and publish in leading journals
+Qualifications, Skills & Experience Required
+PhD (with 3+ years or MSc with 7+ years of academic/industry experience) in Computational Biology, Structural Bioinformatics, Computer Science, Engineering, or a related discipline
+Experience in the analysis of diverse disease datasets with understanding of functional genomics, human genetics, structural genomics, and precision medicine
+Demonstrated experience in applying Machine Learning and Statistical approaches for multi-omics and genetics data analysis (e.g., Scikit-learn, TensorFlow, PyTorch)
+Proficient in one or more programming languages (e.g., Python, R) and good knowledge of public and industry standard databases and tools
+Competent with Linux environment, experience with cloud platforms and/or HPC clusters
+Proficiency to critically evaluate scientific research and ability to adopt novel informatics methods for translational applications
+Experience in analysing data sets related to Neurobiology and/or Immunology is highly desirable
+Demonstrated ability to conduct research individually and collaboratively
+Strong publication record and ability to communicate clearly and effectively
+Your role at our company is integral to helping the world meet new breakthroughs that affect generations to come, and we’re counting on your skills and inventiveness to help make meaningful contributions to global medical advancement. At our company, we’re inventing for life.
+
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively for the common good. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+Search Firm Representatives Please Read Carefully
+
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status
+
+Regular
+
+Relocation
+
+International
+
+VISA Sponsorship
+
+Travel Requirements
+
+10%
+
+Flexible Work Arrangements
+
+Shift
+
+Valid Driving License
+
+Hazardous Material(s)
+
+Number of Openings
+
+1
+
+Requisition ID R196073

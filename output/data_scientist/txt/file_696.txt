@@ -1,0 +1,20 @@
+The Company
+
+A well-established location strategy and analytics consultancy, delivering geographically focused analysis and insights to clients across the UK and further afield. This organisation collaborates with leading companies across a number of different industries; including but not limited to, retail, leisure, central government & automotive.
+
+The Role
+
+As a data scientist, you will be responsible for utilising the most cutting edge data techniques to deliver bespoke solutions to both internal stakeholders and clients alike. You should expect to be exploring the newest methodologies within the machine learning and natural language processing space. With complete autonomy to generate the best results, this is undoubtedly a fantastic opportunity for an ambitious individual looking to accelerate their learning.
+
+Personal development is very much on this organisation’s agenda, with a combination of structured internal training programmes and the prospect of gaining external qualifications, you will have a real platform to build a successful career over the next few years.
+
+The Successful Candidate Is Likely To Have
+
+A stellar academic background, preferably from a numerate discipline
+Technical knowledge of a programming language, either R or Python
+Demonstrable machine learning or statistical modelling experience
+Strong logical reasoning and problem-solving skills
+
+Job Owner: t.stillwell
+
+Tagged as: Python, R, SQL, Tableau

@@ -1,0 +1,27 @@
+Tech4Good Consultancy
+
+London or Manchester (Hyrbid)
+
+£50,000 - £80,000 per annum
+
+You will be working with one of the leading international providers of digital services which covers transformation, technology, data analytics and systems integrations services. With an average Tenure of 8 years, you will be working with a company that holds culture and employee satisfaction at the core of their values. With a goal of creating economic and social value by building a more inclusive, fair, and safe society through ethical use of data and technology, you will truly feel value in your work knowing you are in Tech4Good.
+
+As a Senior Data Scientist within a Tech4Good consultancy, you will be part of a diverse team working closely with the engineering team to work on solutions that help people's lives.
+
+Role And Responsibilities
+
+Use AI techniques and Machine Learning to solve complex business problems in various domain
+Produce compelling data stories backed by powerful visualisations
+Contribute subject matter mentorship and steering within the engineering team
+
+Desirable Experience
+
+An excellent understanding of ML frameworks, algorithms and statistical methods
+Deep experience of Python, R, leading open source, and commercial offerings (GCP, AWS, Azure etc)
+Experience of integrating structured and non-structured data from a range of sources
+A strong commercial data science background building and operating models in real business contexts
+Have, or be able to undertake, BPSS clearance
+
+Overall, this role really requires one type of person. A person who has a passion to do amazing things with data science in a collaborative environment!
+
+If this sounds like it is you, apply today or drop me an email with your CV at (see below)

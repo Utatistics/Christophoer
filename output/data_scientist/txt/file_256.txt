@@ -1,0 +1,53 @@
+Job Title: DB Data Scientist
+Location: Reigate – hybrid – 40% office based
+Full time – 35 hours
+____________________________________________________
+About Us
+
+We’re a specialist UK financial services group focusing on attractive segments of the UK retirement income market. But guess what, we’re not your traditional financial services company, and we’re not just looking for traditional financial services people. We need agile operators who can quickly find solutions and are committed to doing the right thing for our customers.
+
+We are passionate about our strong purpose of helping people achieve a better later life, and our culture is built around our identity of being Just. We do the right thing in the right way. Collaborating and valuing differences makes us a successful team in which everyone feels included. Our culture, combined with our strong purpose, is one of our key competitive advantages and helps us to make Just an inclusive and great place to work.
+
+In 2021 we were named as one of the UK's 100 Best Large Companies to Work For and accredited as a 2-star organisation, representing outstanding levels of engagement. Alongside these, we were also recognised in the following Best Companies categories: Financial Services' 30 Best Companies to Work For, London's 75 Best Large Companies to Work For, South East's 100 Best Companies to Work for and Northern Ireland's 10 Best Companies to Work For. We’re extremely proud to have achieved this against the backdrop of the pandemic and the many challenges it posed to our colleagues and customers.
+
+Role Responsibilities
+The aim of the role is to support the transformation of DB’s data working with the Just Data team to define and oversee the full lifecycle of our data to help us grow and thrive into the future. The role will focus on our current data storage and usage and alongside the Just Data team deliver a data platform and other relevant solutions that are both efficient and scalable. Providing solutions to the DB team that work with business requirements for data and ensure that there are robust solutions and controls in place for all downstream processes, both internal and external, which rely on DB data e.g. Actuarial Reporting.
+
+Being a SME in programming languages the role will be responsible for investigating the potential to modernise internal data storage and processes through the development of bespoke systems to enhance future data solutions.
+To develop, support and maintain a Data Platform in line with the Company’s architectural vision, and in accordance with departmental project standards and practices.
+A key requirement of the role is to develop the inhouse capability across a number of teams whilst ensuring robust and scalable systems and processes are developed to support the anticipated growth across the business.
+Examples of Key Activities
+Develop high-quality bespoke data applications using appropriate, industry-standard tools, technologies and languages. Aligned to the organizational target architecture.
+Work with Just Delivery, and any chosen third party, to develop a data platform for the DB business, preparing all release content and documentation, ensuring it is fit for purpose when required.
+Ensure data is available, reliable, consistent, accessible, secure, and available in a timely manner for external and internal stakeholders and in accordance with our privacy policy.
+Ensure that appropriate high-quality documentation is developed, maintained, regularly reviewed and stored for all solutions developed.
+Deliver training to the DB team and design on demand packages of training material to support a high-level understanding of data and the delivered data platform across the Defined Benefits business.
+Take the technical lead role on projects where required, working with Just Delivery, in particular the Just Data team to deliver solutions.
+Be passionate about statistics and machine learning and be able to convey a thorough understanding of the benefits and use cases of these across the organisation to a variety of audiences.
+Develop and operate within the control framework including the delivery and maintenance of high-quality documentation. Ensuring this is regularly reviewed, compliant with relevant requirements and stored for all solutions developed.
+Ensure all development is in line with the corporate change control policies ensuring the appropriate governance and control is applied at all times. Ensuring compliance with group EUC policy.
+
+Skills and Knowledge
+· Excellent communication skills.
+· Experience of running training course/programmes.
+· Experienced user of Julia (preferred) or Python alongside relevant packages and libraries.
+· Good SQL skills would be beneficial.
+· An aptitude for systems development and the ability to understand and manage complex concepts.
+· Highly analytical mindset with problem solving attitude.
+· Good communication skills, with proven ability to work across functional teams to design technical solutions to business problems.
+· Knowledge of DB data would be beneficial.
+· Experience of coding for data analysis purposes and/or data platform development within a large organisation.
+· Previous experience of working for a Financial Services organisation.
+· Experience in technically leading solution development and assisting team members with task delivery.
+· Previous experience of providing training to new users of programming code would be beneficial.
+· Experience with Cloud technologies would be beneficial.
+
+Working for us, you get your Just Rewards
+A Competitive Salary, amazing Pension Scheme and Life Assurance
+Along with 25 Days Annual Leave plus an Additional Day on us for your Birthday
+Private Medical Cover and Income Protection, just in case
+A generous and highly achievable bonus scheme – paid annually based on individual and company performance against targets
+Opportunity to progress within your career both in-role and within the company
+FREE access to the Headspace App, a 24/7 Employee Assistance Helpline and Trained Physical & Mental Health First Aiders (On-Site)
+A variety of Employee Funded Benefits available to you via our Online Benefits Portal
+Plus several additional purchase options available for you and your loved ones

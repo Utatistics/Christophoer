@@ -1,0 +1,60 @@
+Shift Technology enables the world's leading insurance organizations to make better decisions with the power of AI. Our products enable insurers to automate and optimize decisions from underwriting to claims, resulting in superior customer experiences, increased operational efficiency, and reduced costs. The future of insurance starts with Decisions Made Better.
+
+Founded in France in 2014, the company now serves over 115 global customers–including 6 of the top 10 U.S. P&C insurers and 4 of the top 10 global P&C insurers–and has processed well over 2.6 billion claims. Our culture is built on innovation, trust, and a drive to transform the insurance industry by imagining and inventing solutions that impact insurers and their customers. We come from more than 40 different countries and cultures to share a common purpose and mission as One Team.
+
+You have a passion for Data Science and programming? Come and join the Insurtech leader to change the insurance world with A.I.!
+
+役割
+
+データ・サイエンス・チームの一員として、私達の技術エキスパートと協働し、顧客企業に種々のソリューションを提供する上で重要な役割を果たして頂きます。
+
+日々の業務には次の事が含まれます：
+顧客企業のためのデータ処理パイプラインの構築と導入。バッチもしくはリアルタイムのデータ受領、データクリーニング、情報抽出、不正検出モデルの調整などが含まれます。- 顧客企業と密に連携してニーズ、フィードバックを把握し、ソリューションを改善します。- 製品開発とイノベーションのための研究開発（機械学習、画像分析、NLP、トレンド分析、チャットボット…）- 営業チームと協働し、製品デモの実施（そして、海外への出張も含まれます！）- 若手データ・サイエンティストの育成
+
+Your role
+
+As a member of the data science team, and working alongside our technical experts, your role will be key to roll-out our different solutions to the clients.
+
+Your day-to-day will include :
+Deployment and Localization of Shift Technology products for the Japanese Market
+Design new fraud detection algorithms to detect new complex fraud patterns
+Enhancement of the Global Solution working with the Head Office
+Work closely with clients to understand the data and Business context of various Business lines in order to integrate to the Solution's Model
+
+Your profile
+
+You have a master's degree in either Mathematics, Statistics, Computer Science (a knowledge in machine learning and/or Big Data is a plus)
+
+You have experience in object-oriented programming, preferred in C#, and SQL
+
+You can write quality production code
+
+You combine Data analysis with synthesis abilities and are not afraid to deal with the details
+
+You are Fluent in Business Japanese as well as English ***Mandatory***
+
+***Bonus points***
+
+You have experience with the following technologies: Python, Git, Cloud, Machine Learning
+
+You have experience with external client-facing and pre-sales/demo
+
+You have knowledge in Insurance industry
+
+Want to know more?
+
+Full-time role, to start asap in Tokyo (Japan)
+
+Attractive Compensation (depending On Profile, Experience And Expertise)
+
+To apply, send us your resume and let us know why we could be a great fit!
+
+Shift Technologyについて
+
+Shift Technologyは Wired 社によりパリの最もホットなスタートアップ企業に選ばれ、先進的な人工知能技術とデータ・サイエンスを活用して、保険会社が保険金請求プロセスについて如何に思考するかを変革しています。パリのHQに始まり、ボストン、東京、シンガポール、ロンドン、マドリード、チューリッヒのオフィスで、顧客企業が不正の疑いのあるケースを検出し、対策を取るためのお手伝いをしています。私達はクレーム処理の自動化を通して業務効率および顧客体験の改善のためのサポートをしております。５年に満たない間に、およそ70ものグローバルな保険業界において重要な顧客企業のために数百万件ものクレームを分析してきました。Shift Technologyについてより詳しく知るために是非ご連絡ください。
+
+At Shift we strive to be a diverse and inclusive workforce. We hire and trust people without regard to race, color, religion, marital status, age, national or ethnic origin, physical or mental disability, medical condition, pregnancy, genetic information, gender identity or expression, sexual orientation, or other non-merit criteria.
+
+Shift Technology is committed to providing reasonable accommodations for qualified individuals with disabilities in our application and employment process. Should you require accommodation, please email accommodation@shift-technology.com and we will work with you to meet your accessibility needs.
+
+Shift Technology does not accept unsolicited CVs from recruiters or employment agencies in response to the Shift Technology Careers page or a Shift Technology social media post. Any unsolicited CVs, including those submitted directly to hiring managers, are deemed to be the property of Shift Technology.

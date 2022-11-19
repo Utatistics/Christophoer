@@ -1,0 +1,50 @@
+Job Description
+
+Business Overview
+
+Rakuten group has almost 100 million customer base in Japan and 1 billion globally as well, providing more than 70 services in a variety such as ecommerce, payment services, financial services, telecommunication, media, sports, etc.
+
+Department Overview
+
+AI Success Supervisory Department (AISSD) provides data science initiatives by leveraging Rakuten group’s data. The department has international culture created by excellent employees joined around the world and provides the cutting-edge data science. Following the strategic vision “Rakuten as a data-driven membership company”, AISSD is expanding our data activities across our multiple Rakuten group companies.
+
+Position Details
+
+We Are Looking For a Data Scientist To Work Within One Of The Following Departments Within Our AI Success Supervisory Department
+
+Data Science Consulting Department (DSCD)
+Analytics Data Engineering Department (ADED)
+Catalog Management Department (CAMD)
+Enterprise Consulting Department (ECD)
+
+Mandatory Qualifications
+
+Bachelor’s degree in Computer Science, Social Sciences, Physical Sciences, Statistics or related areas.
+3+ years of relevant work experience in data analysis or related areas.
+Solid understanding of foundational statistics concepts and ML algorithms: linear/logistic regression, random forest, boosting, GBM, NNs, etc.
+Experience building data science solutions for real business problems. (e.g. recommendation building, customer journey definition, shopping feature prediction, etc).
+Skilled in self-directed exploratory data analysis.
+Passion for learning (new problem domains, algorithms, tools etc) and for analyzing data.
+Fluency in using R or Python (pandas, scikit-learn or equivalent tools) for data analysis. Experience with working on large data sets, especially with Hadoop and Spark, or cloud platforms such as AWS and Azure.
+Ability to extract, combine and analyze complex datasets using SQL.
+Ability to work collaboratively in a team environment and work effectively with people at all levels in an organization.
+Ability to distill complex data and findings into clear, presentable reports.
+Ability to effectively communicate with non-technical as well as technical audiences.
+
+Desired Qualifications
+
+Master’s degree in Computer Science, Social Sciences, Physical Sciences, Statistics or related areas.
+3+ years of industry experience especially in digital marketing, e-commerce or customer analytics-related fields.
+Experience with GPU usage.
+Experience integrating and analyzing data from multiple sources (e.g. first party + third party)
+Experience with automation and/or working with Data Engineers, Software Engineers, etc. in integrating analysis results and models into production systems.
+Experience in client relationship management such as consulting or sales.
+Communication skill in both English and Japanese
+Experience with data visualization tools, e.g. tableau, D3.js, ggplot, Bokeh, Matplotlib, etc.
+
+Other Information
+
+Your application will be reviewed by the different department.
+You can have several interview processes for different positions in parallel (this will not affect the final result).
+
+#business #datascientist #researcher #technologyservicediv #Java #Ruby #Python #Clang #C #Cplusplus

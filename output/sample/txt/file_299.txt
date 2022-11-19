@@ -1,0 +1,22 @@
+Job Description
+
+Senior Data Analyst
+
+Duties & Responsibilities
+
+Lead the client relationship with the stakeholders of your projects, contributing to strategic discussions and proposing ways that data analysis or a data science solution can drive the company’s marketing and product forward. Quickly get strategic ideas put into practice or into the product itself, analyze data for feedback on how your ideas change the consumer behavior, and iterate.
+Build and develop with a BI Tool to enable non-technical stakeholders to explore the company’s user behavior data and extract insights that can be used for their data-driven decision making, and to standardize ways of measuring business performance in the company.
+Identify areas where the use of user behavior data – in ad-hoc analysis or as a machine learning solution – can help improve the marketing and product user experience function, and conduct the analysis/build the solution
+Work cross-functionally with risk department members on analysis of other business aspects that impact the user experience such as fraud and credit risk
+
+Qualifications
+
+Bachelor’s degree or higher, preferably in a quantitative field, or equivalent experience
+More than five years work experience in a related role (data science, data analysis, business intelligence)
+Experience being the project owner of a data analytics or data science project
+Proven experience working on marketing and/or user experience related projects in e-commerce, web services, or on an iOS/Android app, leading projects in these domains, and reporting and collaborating with high-profile non-technical stakeholders on the projects.
+Experience extracting insights about user behavior and designing features for modeling from event log or clickstream data is a big plus.
+Experience working with common data science query and general languages (e.g. SQL + Python/R) ○ Experience working with Apache Spark and Scala is a big plus.
+Experience with common machine learning tools (e.g. SKLearn, Keras, XGBoost), applying them to business problems aimed at improving the user experience of a web service
+Experience working directly with business and product owners, translating technical findings from an analysis into simple findings and takeaways for a non-technical audience
+Business English is required, Japanese skills are a strong advantage

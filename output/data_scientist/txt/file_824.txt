@@ -1,0 +1,63 @@
+The Company
+
+The global pace of change is accelerating, and utilities need to rebuild for a more sustainable future. Gentrack provides utilities across the world with market leading products and services to drive their transformation. Working with some of the world’s biggest energy and water companies, as well as innovative challenger brands, we’re helping companies reshape what it means to be a utilities business. We are driven by our passion to create positive impact. That is why utilities rely on us to manage complexity, deliver exceptional customer experiences, and secure profits. Together, we are renewing utilities.
+
+Our Values and Culture
+
+Colleagues at Gentrack are one close team of passionate people who want to drive change through technology and believe in making a difference. Our values drive decisions and how we interact and communicate with customers, partners and each other. Our core values are:
+
+Respect for the planet
+Respect for our customers
+Respect for each other
+
+Gentrackers are a group of smart thinkers and dedicated doers, outside of work we are musicians, travel fanatics, artists, sailors, family folk, environmentalists and sport lovers. We are a diverse team who love our work and the people we work with and who collaborate and inspire each other to deliver creative solutions that make our customers successful.
+
+This is a truly exciting time to join Gentrack with a clear growth strategy and a world class leadership team working to fulfil Gentrack’s global aspirations by having the most talented people, an inspiring culture, and a people-centric business.
+
+The Opportunity
+
+Gentrack UK are currently hiring a Lead Data Scientist covering the UK and the growth pipeline into Europe.
+
+As Lead Data Scientist within R&D you will drive the expansion of machine learning across our Analytics platform, increase automation, and improve optimization and forecasting.
+
+The role will work across a wide number of stakeholders to understand the highest value ML use cases and evaluate the data and models required to produce the desired outcomes. The Lead Data Scientist will also be responsible for calibration, tuning, testing, and retraining to maintain ongoing accuracy.
+
+Gentrack have a huge pool of data to draw upon, with the aim to produce a productized ML solution that can be deployed across many clients in many regions to solve the Energy and Water industries’ most challenging problems, such as consumption reduction and enabling net zero.
+
+The Lead Data Scientist will have support from Data Engineers, BI Developers, Business Analysts, solution architects and utility industry experts to help them derive maximum value and efficiency.
+
+The role will also help recruit further junior/mid/senior data scientists into the team and support mentoring and training. This is a rapidly growing area of the business with future opportunities for this role to grow alongside.
+
+Role Specifics
+
+Detailed understanding of advanced statistical modelling and machine learning including the underlying mathematical concepts
+Extensive experience of quantitative statistical analysis and its applications to business problems
+Ability to coherently explain modelling designs and outcomes to semi-technical audiences
+Experienced with data visualization tools such as Tableau and Power BI (Nice to have)
+Experience with big data solutions like BigQuery/Snowflake/RedShift and with ETL/ELT framework.
+Experience with AI/ML based applications.
+Utilities experience – nice to have.
+Strong analytical skills and understanding of business processes
+Proven ability to understand and communicate technical and business concepts
+A record of building strong products/project delivered solutions and collaborating
+Substantial personal responsibility and autonomy
+Exceptional communication skills, and being a good presenter
+Experience in software development would be helpful
+Experience in the Utilities sector would be helpful
+
+What you'll have:
+
+Likely Masters/PhD in Maths/Stats/Data Science/Computer Science/Physics
+Strong mathematical knowledge and comprehension of statistics
+Deep understanding of Machine Learning techniques
+Commercial experience of developing ML models to solve business problems (any platform)
+Experience and understanding of monitoring and retraining deployed models
+Experience deploying and managing production code through MLOps (highly desirable)
+Energy or water industry knowledge (desirable)
+
+Other helpful skills:
+
+Understanding of the energy industry, including key companies.
+Experience working in tech or for a software vendor.
+
+This role is in the detail, end-to-end and hands on. You’ll need to be a self-starter with knowledge, ideas and the ability to inspire others. At this stage, alongside the growth of the company you will need be engaged with the specifics of your function, providing strategic solutions as well as handling coordination as our business grows. If working in a small team across strategy and delivery to drive high impact and growth is your happy place – you will fit right in to our family.

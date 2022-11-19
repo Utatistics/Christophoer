@@ -1,0 +1,41 @@
+INTRODUCTION
+Founded in 1856 by Thomas Burberry, Burberry is a global luxury brand with a distinctly British attitude. We are a global business with an extensive network of both owned and franchised stores across EMEIA, Asia Pacific and Americas. We are digital pioneers, and innovative technology underpins every aspect of our business, from product design to distribution and marketing. We believe that modern luxury means being socially and environmentally responsible; this mindset is core to our business and key to our long-term success.
+
+JOB PURPOSE
+Burberry is making a major investment in expanding our data and analytics capability. Over the last few years, we have created a global omni-channel single customer view, built an outstanding and modern analytics platform, and developed a highly effective analytics and data science team. We’re now building on these foundations to drive and embed data-inspired decision making across Burberry.
+
+We are recruiting Data Scientists to join our fast-expanding data science team and contribute to our core strategic focus areas across:
+Personalisation, Precision Marketing and Customer Journeys: Utilising state-of-the art modelling techniques and advanced analytics to uncover our customer behaviours, preferences and intents and deliver targeted and personalised experiences across all customer touchpoints.
+Forecasting & Operational Research: Using sophisticated techniques and developing innovative data products to embed data-driven decision making across our supply chain, merchandising, finance, and planning processes.
+
+As a Data Scientist, you will be accountable for researching, building, and deploying robust statistical and machine learning models, exploring a wide range of new data sources, and generating reliable and actionable insights and recommendations.
+
+Are you a data scientist, or a recent graduate with an advanced degree in a quantitative field, and with a proven record of using data, statistical modelling, machine learning or deep learning techniques to solve business problems and drive business value? If so, we’d love to hear from you.
+
+RESPONSIBILITIES
+Generating robust advanced analytics and developing new cutting-edge machine learning models and data-driven tools to support our ongoing data strategy and drive future business performance
+Optimising and evolving the current models and analytics solutions that are in production, taking a test and learn approach and ensuring improvements are impactful and aligned to business objectives and strategy
+Presenting the analytics solutions, models and insights to a range of business stakeholders and contributing to strategic decisions
+Contributing new ideas towards improving our current solutions, processes and unsolved business problems, having the opportunity to directly feed into our data strategy agenda and roadmap
+Working within cross-functional teams and delivering under an agile project-based framework
+Working with the latest big data technologies and continuously learning and adapting in this fast-evolving space
+Being pro-active and staying up to date with latest trends in analytics and technology
+
+PERSONAL PROFILE
+Advanced degree, MSc or PhD in a quantitative field (e.g., Data Science, Mathematics, Statistics, Econometrics, Computer Science, Physics, Engineering etc)
+Some experience as a Data Scientist in a commercial environment and customer focused business is an advantage
+Interest and hands-on experience with time series, deep learning, recommendation systems, classification, clustering and regression techniques, is preferred
+Proven personal portfolio of projects where analytics and data science were used to drive business value and decisions
+Strong in problem-solving, combining both a logical and innovative approach
+Good, in-depth, understanding and extensive practical use of mathematical, statistical, machine learning and deep learning techniques
+Solid foundation in programming and proficient in Python. Additional experience with deep learning frameworks, such as PyTorch or Tensorflow would be beneficial
+Understanding and interest in big data technologies (Spark, Hadoop, etc)
+Strong desire and proven ability to continuously learn new software, technologies and methodologies and keep up with the fast-evolving field of big data
+Collaborative approach to work, working in teams towards delivering a business objective
+Strong time management skills and ability to plan and prioritise over multiple requests
+Self-starter, proactively identifying opportunities where analytics can add value and translating business requirements in analytical framework
+Excellent communication skills with the ability to explain complex analytics to stakeholders
+
+PLEASE INCLUDE A COVER LETTER WHEN APPLYING FOR THIS ROLE
+
+Burberry is an Equal Opportunities Employer and as such, treats all applications equally and recruits purely on the basis of skills and experience.

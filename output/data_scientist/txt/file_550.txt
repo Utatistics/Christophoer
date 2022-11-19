@@ -1,0 +1,33 @@
+About Smart Data Foundry
+Smart Data Foundry has a purpose to unlock the power of financial data as a force to improve people’s lives.
+We are mission-led, looking to tackle big issues such as climate, the cost of living and inspiring financial innovation to improve people’s lives across the economy, society and the environment.
+Joining Smart Data Foundry on this journey is about being part of a not-for-profit organisation where you’d be welcomed in an inclusive environment, learning and collaborating with some of the most talented people in the industry.
+Smart Data Foundry is on the lookout for a talented people that share this ambition and can make a real difference in helping deliver our missions.
+What we do
+• Research: We carry out research into financial lives by unlocking the power of financial data.
+• Consultancy: Collaborating with leading financial services institutions to deliver on our missions
+• Innovation: Making change happen through data-driven innovation, empowering Fintechs and institutions in the financial services ecosystem.
+
+Role Purpose
+The role holder will be responsible for using data to create useful and valuable insights, predictions and products.
+
+Key Responsibilities
+• Work with colleagues, and external clients, to understand and define objectives of data science projects, supported by senior colleagues if necessary
+• Extract, process and transform data in varied formats and platforms (eg. csv, parquet, database), and learn the appropriate tools, techniques, and best practice – and continue to develop specialist data science skills through taught and self-directed learning
+• Deliver, with minimal supervision, high quality data science outputs and products, for example reports, dashboards, predictive models
+• Communicate project updates, outcomes and learnings through the best channel and at the appropriate level of detail for the audience
+• Collaborate with and peer review data science team members constructively, in a spirit of cooperation and collegiality
+• Take responsibility for continuous learning and development, eg. in new data or analytics tools and techniques
+
+Essential Know-How
+• 3+ years work experience as a data scientist.
+• Competent in key data science toolsets (R or Python), and using them to organise, process and extract data from structured and un-structured data sources
+• Strong verbal, written and data communication skills, comfortable in dealing with a wide range of stakeholders with varying data science knowledge – for example: report-writing, data dashboard production, group presentations
+• Demonstrable ability to learn and use new techniques and technologies as needed
+• Awareness of using machine learning to build supervised and un-supervised models, and how these are implemented in production, and then monitored/updated.
+• Takes personal ownership and accountability for delivering high quality work in line with project requirements, and uses good judgement in escalating to senior colleagues when over-running, facing unanticipated challenges, or redefining objectives
+• Comfortable working autonomously, solving ambiguous and fuzzily defined problems, and can manage changing/conflicting priorities using own judgement
+
+Benefits
+A collaborative, innovative and impactful place to work. We give you support, nurture your talent and reward success. You will benefit from a competitive reward package which includes 40 days annual leave (including 6 bank hols), a defined contribution pension scheme (14% employer and 4.5% minimum employee contribution rates), family friendly initiatives and flexible working.
+Smart Data Foundry is currently based in the Bayes Centre, Potterrow, Edinburgh and our employees work flexibly with a mix of home and office working to suit the needs of the role and the individual. Our future long term home will be the Edinburgh Futures Institute Building on Lauriston place.

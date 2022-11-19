@@ -1,0 +1,35 @@
+Description
+
+Circadia Health is a medical technology company with an FDA cleared product: The Circadia C100 Contactless Respiratory Monitoring System. Circadia develops proprietary hardware, software, and algorithms for early detection of respiratory failure the third leading cause of death. Founded in 2016 by Imperial College alumni, Circadia is venture backed by Silicon Valley VCs, including Village Global, the fund backed by Bill Gates, Jeff Bezos, and Mark Zuckerberg. Circadia is headquartered in London with offices in Karachi and Los Angeles. WSJ article here: https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402?st=2izwgpz16liva1a&reflink=article_copyURL_shar
+
+Responsibilities
+
+Researching and developing models / algorithms powering some of Circadia’s core features such as clinical outcome prediction
+Designing data collection experiments for EHR and other clinical data, and reviewing experimental methodologies
+Work with continuous real-world vital sign data and EHR data to improve clinical outcomes in long-term care settings
+Working closely with clinical research teams to derive clinical insights from real-world data, validate novel algorithms / models
+Deliver insight and models for implementation in clinical care, journal publications, and regulatory approval
+Documenting and presenting technical methods / results.
+
+Requirements
+Master’s or PhD degree in Biostatistics, Data Science, Mathematics or similar quantitative field
+Excellent understanding of medical statistics, and statistical models
+Research design
+Hypothesis testing
+Mixed effects models
+Covariance structures for within and between subject correlations.
+Good understanding of classical machine learning techniques and experience in applying them on real world problems (eg: numpy, pandas, scikit-learn).
+Demonstrable experience working with electronic health data within any context.
+Ability to document work clearly and communicate ideas to both technical and non-technical stakeholders.
+Good knowledge of R and / or Python.
+
+Bonus Requirements
+
+Understanding of Bayesian statistics and modelling is a plus.
+Experience building early warning scores and / or predictive models for patient deterioration from time series medical data and EHR data
+Experience with any cloud computing platform (AWS / GCP / Azure) and deployment of models into production (eg: Flask, Docker).
+
+Benefits
+
+Health and Dental coverage
+Flexible working

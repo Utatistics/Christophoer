@@ -1,0 +1,34 @@
+⚡Data Scientist - Hybrid
+£70,000 to £80,000 Base Salary (Depending on experience) + Bonus 💸
+
+Transport Data Science 🚗🚅💻
+Hybrid Working (~Around two days in the office per week) 🏠🏢
+Data Science Team 🧠
+
+Summary
+We're partnered with a British transport software engineering organisation who specialise in developing mission critical systems and solutions for clients across defence as well as civil and private transport sectors.
+
+Data & Analytics is at the heart of what they do. So they're looking for a skilled Data Scientist to use advanced data science techniques to produce models for key stakeholders and clients, influence decision making processes and mentor more junior team members.
+
+If you have a passion for data science, and you're interested in having a genuine impact on optimising the running of the railways, aviation or road - this is the opportunity for you!
+
+You can be based in London, Milton Keynes, or Derby offices - coming into the office 1/2 times per week.
+
+What you’ll do:
+Use a wide variety of data sources and modelling techniques to influence customer decision making
+To apply best data science practices across the business by consulting, advising and deploying across teams
+Showcase the value of data science to key stakeholders, both internally and externally, using non-technical language
+Ensure success as a team maintaining a collaborative environment
+
+What we’re looking for:
+Essential:
+Hands on experience using Python and SQL
+A strong understanding of machine learning techniques and how to apply them
+Experience driving the development of solutions
+Ability to confidently present to a range of different stakeholders as a skilled data scientist. Communication, and the ability to explain in Lehman's is key
+
+Desirable:
+AWS, or any other cloud based experience
+Experience within the transport, defence or manufacturing sectors
+
+Interested? Great, apply now!🎁

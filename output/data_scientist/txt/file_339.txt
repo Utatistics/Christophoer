@@ -1,0 +1,68 @@
+We are on a mission to make science open so everyone can live healthy lives on a healthy planet
+
+Who We Are
+
+Frontiers is an award-winning open science platform and leading open access scholarly publisher.
+
+We are one of the largest and most cited publishers globally. To date, our 200,000 freely available research articles have received more than 1 billion views and downloads and 2 million citations. Our journals span science, health, humanities and social sciences, engineering, and sustainability. And we continue to expand into new academic disciplines so more researchers can publish open access.
+
+Be part of the publishing revolution and help us transform the way research is published, evaluated, and communicated to the world.
+
+The Role:
+
+We are looking for a Team Lead Data Scientist who will work with productionized AI which supports our industry-leading AI publishing platform. The successful candidate will lead a cross-functional team of Data Scientists towards the design, development, productization and improvement of AI products.
+
+
+
+Are you motivated by finding yourself surrounded by some of the industry's brightest minds working collaboratively on cutting edge Machine Learning (ML) models and innovative algorithms? Are you thrilled by the prospect of seeing the output of your work utilized in a publishing platform that attracts 1.5 billion viewers and manages over 200k articles/year? Are you excited to lead the research, design and development of innovative ML models? If that sounds great, then that's us: we are a product-focused team of data scientists working collaboratively as part of a larger AI department, supporting Frontiers' industry leading AI products' portfolio.
+
+
+
+To empower scientists and radically improve how science is published, assessed and disseminated to researchers, innovators and the public, we have built our own state-of-the-art AI Review Assistant (AIRA), as part of our AI products' portfolio. AIRA is backed by cutting edge ML models (covering areas such as computer vision, NLP, recommender systems)
+
+(https://www.nytimes.com/2020/11/23/science/conflic..., https://spectrum.ieee.org/peer-review-of-scholarly..., https://blog.frontiersin.org/2020/07/01/artificial...)
+
+Key Responsibilities:
+Contribute to roadmaps for AI products that are revolutionizing scientific publishing from AIRA to our cutting-edge reviewer recommendation algorithms;
+Manage a team of Data Scientists, coordinate and distribute the work of the team members;
+Set up the strategy for our Data Science unit, leading the direction for our AI initiatives;
+Ensure best practices for your team are adhered to, in particular the measurement of the success of AI initiatives, application of production-ready AI system and alignment with MLOps imperatives;
+Deep-dive into our first and third party data to uncover opportunities and solutions that your team will own end-to-end, from design to rollout in production environments;
+Remain informed about the latest market trends to identify how the latest developments in the Data Science industry can be applied to Frontiers;
+Collaborate with our Product Management and Data Engineering departments in data mining and acquisition efforts;
+Proactively propose and lead cross-departmental initiatives related to our Objectives and key results (OKRs) framework;
+
+We seek enthusiastic team players with great initiative and a get-it-done attitude. Candidates must be able to handle a fast-paced work environment while juggling several different tasks at the same time. Excellent organizational, communications, and multi-tasking skills are musts.
+
+Minimum required skills and qualifications include:
+Demonstrable background in a similar role;
+Master’s or PhD degree in Artificial Intelligence, Mathematics, Computer Science, or Physics, or in a relevant discipline;
+Solid work experience and advanced working knowledge of SQL/BigQuery/Spark, Python/R, or other languages/technologies for performing complex data modelling and analysis;
+Experience with Web-based data analytics platforms such as Databricks;
+Proven experience with leading the end-to-end design and rollout of projects within Data Science/Artificial Intelligence functions;
+
+Benefits
+
+With more than 50 nationalities represented in our global team, you will work regularly with teammates in other countries, and with our community of researchers, editors, and authors from around the globe.
+
+Our mission to create solutions for healthy lives also extends to the working environment we provide for our employees.
+
+This includes:
+
+100% remote working
+
+Employees now have the flexibility to choose where they want to work, with remote working available on a part- or full-time basis (not applicable to some Workplace/IT jobs due to nature of role requiring presence onsite, in the office).
+
+Learning and development
+
+All employees have access to LinkedIn Learning (and Pluralsight for our technology team), an annual personal learning budget, and dedicated L&D time.
+
+Wellbeing
+
+We offer free online yoga classes, an employee assistance plan, access to the Headspace app, and four wellbeing days on top of your annual leave allowance.
+
+Volunteering opportunities
+
+Employees can dedicate three days each year to volunteer for a personal cause or through our volunteering partner platform, Alaya.
+
+Frontiers actively embraces diversity and is a safe and welcoming workplace. Recruitment is free from discrimination – including based on race, national or ethnic origin, age, religion, disability, sex, gender identity or sexual orientation. With over 600 employees from more than 50 different nations, our diversity creates vibrant teams and constantly challenges us to appreciate multiple perspectives.

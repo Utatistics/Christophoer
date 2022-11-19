@@ -1,0 +1,35 @@
+Senior Data Scientist
+
+London
+
+Salary £80,000
+
+Overview
+
+A data-driven Insurance company is looking to hire a senior data scientist to join their data science team. They are looking for someone to create cutting-edge data assets and predictive models for their market-leading pricing strategies.
+
+Your responsibilities as a Senior Data Scientist will include, but not be limited to, the following:
+Build ML models to predict claims outcomes, fraud and risk objectives
+Present insights/ concepts to financial stakeholders effectively and communicate to a very high standard
+Apply ML techniques to alternative data sources to identify and detect anomalies
+Engage with stakeholders and help influence decision-making through Data Science.
+Your Skills And Experience
+
+A successful Data Scientist for this role will have the following:
+Master's Degree in a STEM subject
+Proficiency with Python, SQL, and Git
+Have experience in productionising and deploying machine learning models
+Have experience with predictive modeling
+Familiarity with containerisation tools such as Jenkins, Linux, Java/Scala and Snowflake
+3 years' Commercial experience in Data Science/ Machine Learning/ Advanced Analytics
+Very strong communication skills and experience in presenting/ reporting
+Preferably experience in a client-facing role at a top company i.e. consulting, ad-tech, media agency etc
+The Benefits
+Car allowance
+10% bonus earning potential
+pension contribution of up to 10%
+27 days of annual leave
+Flexible working
+How To Apply
+
+Please register your interest by sending your CV to Mane Grigoryan via the apply link on this page.

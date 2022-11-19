@@ -1,0 +1,61 @@
+Who are we?
+
+Hi! 👋 We are Ravelin! We're a fraud detection company using advanced machine learning and network analysis technology to solve big problems. Our goal is to make online transactions safer and help our clients feel confident serving their customers.
+
+And we have fun in the meantime! We are a friendly bunch and pride ourselves in having a strong culture and adhering to our values of empathy, ambition, unity and integrity. We really value work/life balance and we embrace a flat hierarchy structure company-wide. Join us and you’ll learn fast about cutting-edge tech and work with some of the brightest and nicest people around - check out our Glassdoor reviews.
+
+If this sounds like your cup of tea, we would love to hear from you! For more information check out our blog to see if you would like to help us prevent crime and protect the world's biggest online businesses.
+
+The Team
+
+You will be joining the Detection team. The Detection team is responsible for keeping fraud rates low – and clients happy – by continuously training and deploying machine learning models. We aim to make model deployments as easy and error free as code deployments. Google’s Best Practices for ML Engineering is our bible.
+
+Our models are trained to spot multiple types of fraud, using a variety of data sources and techniques in real time. The prediction pipelines are under strict SLAs, every prediction must be returned in under 300ms. When models are not performing as expected, it’s down to the Detection team to investigate why.
+
+The Detection team is core to Ravelin’s success. They work closely with the Data Engineering Team who build infrastructure and the Intelligence & Investigations Team who liaise with clients.
+
+The Role
+
+We are currently looking for a Data Scientist to help train, deploy, debug and evaluate our fraud detection models. Our ideal candidate is pragmatic, approachable and filled with knowledge tempered by past failures.
+
+Evaluating fraud models is hard; often times we do not even get labels for 3 months. You’ll need to use your judgement when investigating cases of ambiguous fraud and when you’re investigating the veracity of the model itself.
+
+We have to build robust models that are capable of updating their beliefs when they encounter new methods of fraud: our clients expect us to be one step ahead of fraud, not behind. You will be given the equipment, space and guidance you need to build world class fraud detection models.
+
+The work is not all green field research. The everyday work is about making safe incremental progress towards better models for our clients. The ideal candidate is willing to get involved in both aspects of the job – and understand why both are important.
+
+Responsibilities
+Build out our model evaluation and training infrastructure.
+Develop and deploy new models to detect fraud whilst maintaining SLAs
+Write new features in our production infrastructure
+Research new techniques to disrupt fraudulent behaviour
+Investigate model performance issues (using your experience of debugging models).
+
+Requirements
+Experience building and deploying ML models using the Python data stack (numpy, pandas, sklearn).
+Strong analytical skills.
+Being a strong collaborator with colleagues outside of your immediate team, for example with client support teams or engineering.
+Being skilled at communicating complex technical ideas to a range of audiences.
+The ability to prioritise and to manage your workload.
+Being comfortable working remotely. While we are working towards getting everyone back in to the office, it is likely that the first several weeks of your time at Ravelin will be characterised by you or many of your colleagues working remotely. The ability to be effective in these circumstances will therefore be vital.
+
+Nice to haves
+Understand software engineering best practices (version control, unit tests, code reviews, CI/CD) and how they apply to machine learning engineering.
+Tensorflow and deep learning experience
+Experience with Kubernetes and ML production infrastructure.
+Experience with Go, C++, Java or another systems language.
+
+Benefits
+Mental health support through Spill + quarterly wellbeing day off
+£1000 learning & development budget as well as Quarterly Learning Days
+Comprehensive medical cover with AXA
+Pension Scheme with Aviva
+25 days holiday + bank holidays + 1 extra day off for religious holidays
+Flexible working hours & remote friendly environment
+Ravelin Gives Back - monthly charitable donations and regular volunteering opportunities
+TeamBandit - Fortnightly team lunches with different people from across the company
+Access to BorrowmyDoggy
+Cycle-to-Work scheme
+Weekly board game nights & budget for regular socials that anyone can organise
+Weekly Virtual exercise classes including yoga, pilates & HIIT sessions
+Job offers may be withdrawn if candidates do not meet our pre-employment checks: unspent criminal convictions, employment verification, and right to work.*

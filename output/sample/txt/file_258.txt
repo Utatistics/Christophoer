@@ -1,0 +1,50 @@
+Job Description
+
+About the job
+
+Nielsen IQ Consumer Insights (CI) team mainly conducts a marketing research survey of both Online and Offline in order to provide and analysis the insights to the clients. The CI operation team conducts a research survey operation including creating a questionnaire screen for online projects, Field Work management, collecting samples, the outside vendors’ management, Data Processing and so on.
+
+Based upon these tasks the CI Operation team conducts, this role is responsible for writing a programming, creating a questionnaire using the questionnaire design software such as mainly Decipher and also for editing the collected data based on the specs requested by the researcher using software (MRDCL/SPSS) and creating/checking the tables.
+
+The ideal candidate should have extensive programming, Data Processing, and as well as solid operational knowledge in market research industry.
+
+Responsibilities
+
+Programming and Data Processing work:
+Creating a questionnaire using the questionnaire design software such as mainly Decipher
+Thoroughly check questionnaire, survey link is working and coordinates any rectification with commercial and others, when needed
+Collecting data efficiently which is necessary for analysis, program effectively considering the collection of data and verify the screen operation
+Checking the quality of collected data and Research data
+Editing the collected data based on the specs requested by the researcher using software (MRDCL/SPSS) and creating and checking the tables
+Proposing and executing the creation of an efficient data collection table and scripting Operation improvement proposal/execution
+Looking for the elements within the chart/table creation process that can be automated by utilizing the programming skills and propose/execute them Requirements
+Coordination outsource study to third party or other peers
+
+About You
+
+Curiosity drives your interest in what moves the market. You find potential in percentages and numbers. Managing time and deadlines comes naturally to you. You’re known for your impeccable organization. Connecting with clients matters to you, and that motivates you to sift through data for a new angle. You can identify the narratives behind numbers, and you’re always looking for what’s next.
+
+Qualifications
+
+Bachelor’s Degree is required from in an accredited college or university any related field
+1 year experience of using programming languages such as Javascript/ Python/ R is preferrable and also project management or project delivery relevant experience in market research is preferable
+Experience of using SPSS or data collection software such as MRDCL is preferrable
+Ability to speak & write clearly in a structured manner and is easily understood by others in both Japanese and English (TOEIC score of greater than 750)
+Understand project management process in market research industry; understand Nielsen products & services
+Ability to demonstrate openness to new ideas and embrace the benefits of change
+Ability to plan own work to ensure completion within an agreed time frame
+Ability to handle multiple tasks simultaneously and adheres to deadlines
+Ability to maintain performance under pressure and accepts accountability for own actions and performance
+Ability to cooperate well with others within and across departments to get the work done
+Experience of handing, editing, and collecting with Mass data (by writing script) experience is preferrable
+Experience of working in the marketing research industry is preferred
+
+Additional Information
+
+Supportive team members with interesting job scope and trainings provided, this allows you to have a great exposure! Welcome to join us in our Korea team.
+
+About NielsenIQ
+
+NielsenIQ is a global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide. We provide consumer packaged goods manufacturers/fast-moving consumer goods and retailers with accurate, actionable information and insights and a complete picture of the complex and changing marketplace that companies need to innovate and grow. Our approach marries proprietary NielsenIQ data with other data sources to help clients around the world understand what’s happening now, what’s happening next, and how to best act on this knowledge. We like to be in the middle of the action. That’s why you can find us at work in over 90 countries, covering more than 90% of the world’s population. For more information, visit www.niq.com.
+
+NielsenIQ is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class.

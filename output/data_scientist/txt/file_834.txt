@@ -1,0 +1,46 @@
+🏦 Wealth Management Data Scientist
+
+Hybrid WFH (normally two days in the office per week, but flexible)
+
+£60,000 Base Salary (Depending on experience) + 30% Bonus
+
+Flexible working hours ⌚
+One of Britain’s oldest Private Banking Houses 🏦
+Advise high-net-worth individuals. Stemming from family business, entrepreneurship, arts/culture/entertainment, farming, real estate, and more 💰
+Apply data science techniques and algorithms within wealth management 💻
+
+Summary
+
+I’m working with a legendary wealth management firm who’re looking for a Data Scientist to support the bank’s strategic data initiatives to build insights drawing from a wide range of data science and analytics techniques.
+
+You’ll use data science expertise to advise on methodologies and to apply the best techniques to deliver business value, strengthen customer relationships, or for simplification.
+
+What you’ll do:
+
+Build complex data science and analytics models using Python, Anaconda Env, SQL, and more
+Contribute to excellence through productive data science working environments by implementing best practices
+You will take a project-based view of work, working autonomously to reach set timescales and managing target outcomes
+Using data engineering skills to create and maintain high quality data sets
+Realise customer value by developing their data using NLP, and Machine Learning techniques
+& a lot more!
+
+What we’re looking for:
+
+Essential:
+Strong understanding and experience using ML
+Coding experience with Python and SQL on real world data
+Experience working independently to deliver data projects
+Stakeholder management experience
+
+Desirable:
+Experience working within banking or consultancy
+Experience applying NLP to commercial projects
+Experience with visualisation tools such as Power BI
+Familiar with data governance, and the regulatory nature of FS
+
+Research Opportunities
+
+Flexible working hours to allow for personal development, leisure, and to counter the assumptions of wealth management world
+
+Interested?
+Great, apply now! 🎁

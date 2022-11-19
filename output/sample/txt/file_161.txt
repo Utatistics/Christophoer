@@ -1,0 +1,85 @@
+All over the world, Pfizer colleagues work together to positively impact health for everyone, everywhere. Our colleagues have the opportunity to grow and develop a career that offers both individual and company success; be part of an ownership culture that values diversity and where all colleagues are energized and engaged; and the ability to impact the health and lives of millions of people. Pfizer, a global leader in the biopharmaceutical industry, is continuously seeking top talent who are inspired by our purpose to innovate to bring therapies to patients that significantly improve their lives.
+
+Right now, we are seeking highly qualified candidates to fill the position
+
+Sr Dir TL (m/f/d), Business Analytics & Insights, IDM Data Science Lead
+
+Based in Europe or in Japan
+
+What you can expect:
+
+Business Analytics & Insights (BAI) harnesses the power of data to drive robust analytical insights that inform some of Pfizer's most critical business questions. With colleagues across the globe, BAI’s rigorous analytical expertise is depended on as the compass and decision support for the enterprise.
+
+The person in this role is accountable for leading a team of data scientists in the key International Developed Markets (e.g., EU5, Japan) to shape Pfizer’s go-to-market model through delivery of data-science driven strategic and tactical decision support. This leader will be responsibilities across multiple business units, including partnering with Biopharma country to understand strategic business needs, frame key issues and to ensure delivery of high-quality, data science services to these markets.
+
+As a strategic partner to Medical and Commercial teams in these key markets, the person in this role will implement models and data-science derived insights that drive brands’ strategic priorities. This will include driving the execution and interpretation AI/ML models, framing problems, shaping solutions, and championing change. The successful candidate will join BAI colleagues worldwide that are constantly supporting business transformation through their proactive thought leadership, innovative analytical capabilities, and their ability to communicate highly complex and dynamic information in new and creative ways.
+
+Role Responsibilities
+
+Role definition and key accountabilities include, but are not limited to:
+
+Team Leadership
+Set a vision and provide day-to-day leadership and supervision of a team of individual contributors
+Build data science and consultative talent and capabilities within this team and contribute to the broader talent building framework across BAI
+Implement data science insights, in collaboration with global BAI data science team, other BAI teams and multiple business units including Brands, Commercial, Medical, Operations, and Data Science COEs, as needed
+Lead prioritization framework and implementation for all BAI colleagues supporting the business
+Lead contractor and sourcing support to extend capabilities and maximize efficiency as needed
+Achieve team budget targets
+Commercial and Medical Data Science and Insights
+Provide data science and insight leadership to Country Commercial leaders and Medical leadership to drive brand tactics decisions
+Act as strategic partner to frame, investigate, translate complex data related models, and answer key business questions related to the identification and evaluation of Commercial and Medical brand strategies and tactics
+Interface with Omnichannel-operations on execution and data science bespoke analytical needs
+Connect machine learning models and insights together to identify Medical and Commercial brand opportunities and tactics to execute
+Influence Country Medical and Commercial brand teams via compelling and persuasive story and deliver clear and actionable brand tactic recommendations to marketing teams
+Track and analyze impacts of Medical and Commercial brand strategies and tactics using dashboards and data products
+Collaborate with Data Science COE
+Partner with Data Science COE to develop bespoke AI and machine learning models; Configure pre-built models and interpret updated results
+Ensure alignment with Data Science COEs teams to ensure cohesive activities with stakeholders
+Collaboration With Other BAI And Analytics Teams
+Lead dialogue with local BAI teams to incorporate data science capabilities and insights into analytics plans and recommendations
+Contribute and inform the advancement of BAI data science and consulting capabilities through thought leadership; seek to share knowledge and expertise with other colleagues making use of knowledge sharing platform
+Ensure alignment with global BAI Data Science and Insights teams and Data Science COE teams to ensure cohesive activities with our stakeholders
+Partner with other analytic functions to advance the use of novel data sources, including RWD
+What you offer:
+Analytical Thinker: Understands how to synthesize facts and information from varied data sources, both new and pre-existing, into discernable insights and perspectives
+Strong Data and Information Manager: Understands and uses analytical skills/tools to produce data in a clean, organized way to drive objective insights
+Exceptional Communicator: Can understand, translate, and distill the complex, technical findings of the data science team into commentary that facilitates effective decision making by senior leaders
+Relationship Manager: Acts as a thought partner and brings forward recommendations/questions that influences stakeholders; builds robust and long-term strategic relationships with individuals from all levels of the organization
+Influencer: Clearly articulates expectations, capabilities, and action plans; actively listens with others’ frame of reference in mind; favorably influences people without direct authority
+Highly Collaborative: Manages projects with and through others; shares responsibility and credit; develops self and others through teamwork
+Strong Project Manager: Clearly articulates scope and deliverables of projects; breaks complex initiatives into detailed component parts and sequences actions appropriately
+Role Model: Emulates the behaviors of BAI’s core competencies and fosters colleague collaboration to build and/or participate on high-performing teams
+Proactive Self-Starter: Takes an active role in one’s own professional development; stays abreast of analytical trends, and cutting-edge applications of data
+Technical Skills
+Fluent in English (written and spoken)
+Strong MS Excel and PowerPoint skills
+Experience with machine learning technology, such as: big data stack, Python, R, and visualization techniques
+Experience in understanding brand content, strategy, and tactics
+Ability to effectively utilize dashboards and data products to derive insights
+Understands quantitative and qualitative research methodologies Extensive experience in management of secondary data with application of real-world data
+Ability to partner with cross-functional teams (Commercial, Medical, Operations) to execute brand tactics
+Proven ability to connect, integrate and synthesize analysis and data into a meaningful ‘so what’ to drive concrete strategic recommendations for brand tactics. Capable of describing relevant caveats in data or in a model and how they relate to business question
+10+ years experience in business analytics function, country strategy and/or strategic consulting
+14+ years of work experience
+Experience leading and achieving results through matrixed organizations
+Senior Stakeholder management experience required
+In depth experience using data science models to solve problems in a business environment setting
+Education
+Bachelor’s degree required, ideally in quantitative discipline like engineering or data science; also advanced degree preferred in business administration, statistics, or other relevant field
+Non-standard Work Schedule, Travel Or Environment Requirements
+
+Up to 20% travel may be required
+
+Work Location Assignment: Flexible
+
+„Breakthroughs that change patients’ lives“ - Unser klares Unternehmensziel ist es, Durchbrüche zu erreichen, die das Leben von PatienInnen verändern. Sie sind der Sinn unseres Tuns. Wenn Sie Teil dieser Vision sein wollen und die gleiche Leidenschaft teilen, ist Pfizer der ideale Ort, um eine Karriere zu beginnen oder um eine erfolgreich fortzusetzen.
+
+Überzeugt?
+
+Dann freuen wir uns über Ihre Online-Bewerbung mit vollständigen und aussagekräftigen Unterlagen (Anschreiben, Lebenslauf und Dateien wie Zeugnisse u.ä. können Sie unter „Meine Berufserfahrung" unter Ihrem Lebenslauf hinzufügen und hochladen).
+
+Bitte beachten Sie, dass wir aus Datenschutzgründen ausschließlich Bewerbungen über unsere Plattform annehmen können.
+
+Pfizer garantiert Chancengleichheit während des gesamten Bewerbungsprozesses sowie die Einhaltung der lokalen Gesetzgebungen in den jeweiligen Ländern, in denen Pfizer agiert. Pfizer schließt jegliche diskriminierende Faktoren aus, die u. a. das Geschlecht und Alter, die ethnische Zugehörigkeit, Religion oder Weltanschauung, sexuelle Orientierung oder Behinderung betreffen.
+
+Marketing and Market Research

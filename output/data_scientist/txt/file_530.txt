@@ -1,0 +1,91 @@
+Are you a talented Data Scientist looking for a new and exciting opportunity to work for a growing, ambitious, innovative, expanding company?
+
+My client are a small consultancy who specialise in Business Intelligence and Data solutions. As a Microsoft Gold Partner, they place a great importance on training, development and certifications, and with other like-minded technical enthusiasts, who better to learn from and bounce ideas off.
+
+Data Science is a new function within this business, it is becoming more and more popular with their clients and they would like to hire a Senior Data Scientist to come in and build out and run this area.
+
+There will also be an opportunity to cross learn in Data Engineering and BI Development.
+
+The Role
+
+This role is varied, please find below some of the main responsibilities this role will entail:
+
+Gathering requirements
+Building/designing a scope
+Having meetings with stakeholders
+Documentation
+Recommend statistical/machine learning tools and technologies to prototype new concepts.
+Retrieval and collection of open and closed data sources, including data processing, cleansing and verification.
+
+Main Skill-Set
+
+We are looking for a good mix of the below skills, (not necessarily all of the below, but a good proportion):
+
+SQL
+Python / R
+Virtualizations - Insights, Have you put models into production
+Data Modelling
+Statistical Modelling/Analytics
+Hypothesis testing
+
+Desired Skill-Set
+
+These are skills that would be an added bonus if you had them, (it is not compulsory for the role, if you have them - great, but you will have a chance to learn these over time):
+
+Azure Data Stack
+Machine Learning - Designing and developing the end-to-end machine learning lifecycle with Azure Databricks and Azure Data Lake Storage
+AI
+Predictive Analytics
+
+Must Haves
+
+2+ years experience in a commercial environment working as a Data Scientist
+Excellent communication
+Degree - Science, Technology, Engineering & Maths (STEM)
+
+Culture & Values
+
+Flexible
+Friendly
+Work-life balance
+Wellbeing Culture
+Innovative
+Technology Driven
+Supportive
+
+Benefits Package
+
+Base Salary - From �45,000 to �65,000 per annum (this is a wide range, what you are offered is completely dependent on your skill level which is assessed on your CV and Interview)
+14% Bonus
+5% Matched Pension
+Healthcare
+Plus much more…
+
+Other
+
+Working Location - Remote (potential travel to client site, but this is rare)
+Contract Type - Permanent, Full Time
+Working Hours - 37.5 hours - 9 to 5.30pm but they are flexible
+Interview Process - 2 Stages
+Salary Reviews - Yearly (could be sooner for exceptional performances)
+Progression Options
+Training & Development Options
+Dress Code - Casual
+
+This is just a brief overview of the role. For the full information, simply apply to the role with your CV, and I will call you to discuss further. My client is looking to begin the interview process ASAP, so don't miss out, APPLY now!
+
+If this opportunity is not exactly the role you were looking for, please apply to this role anyway. From reviewing your CV I will call you to discuss what you are looking for, and match your expectations up to the other roles I am working on, that are more suitable.
+
+I specialise in Microsoft BI, SQL Server and Azure Analytics recruitment here at Nigel Frank International, specialising in the placement of highly-skilled candidates in various IT positions (DBAs, Analysts, Developers, Engineers, Architects, Consultants, Team Leads, Project Managers, Managers etc.).
+
+We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group.
+
+Twitter: @NigelFrank_BI
+
+LinkedIn: https://www.linkedin.com/in/rachel-bowman-5475895a/
+
+Email: r.bowman@nigelfrank.com
+
+Phone: 0191 300 1816
+
+Please Note: This is a permanent role. This role is for UK Residents only. This role does not offer Sponsorship. You must have the right to work in the UK with no restrictions. Some of our roles may be subject to successful background checks including a DBS and Credit Check.

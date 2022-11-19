@@ -1,0 +1,80 @@
+Nombre del sítio: UK - London
+
+Fecha de publicación: Aug 24 2022
+
+Senior Data Scientist - Marketing and Commercial
+
+Hello. We’re Haleon. A new world-leading consumer health company. Shaped by all who join us. Together, we’re improving everyday health for billions of people. By growing and innovating our global portfolio of category-leading brands – including Sensodyne, Panadol, Advil, Voltaren, Theraflu, Otrivin, and Centrum – through a unique combination of deep human understanding and trusted science. What’s more, we’re achieving it in a company that we’re in control of. In an environment that we’re co-creating. And a culture that’s uniquely ours. Care to join us. It isn’t a question.
+
+This is a unique opportunity to be part of a team of highly skilled Data Scientists where you have the opportunity to solve really interesting problems using data science. You will be exploring cutting edge ML techniques to discover patterns and predictions to help solve customer needs. You will help lead complex and diverse projects to leverage Data Science techniques which will result in measurable commercial benefit. You will also have the opportunity to help build a data science community, as we invest in academic partnerships, mentor and apprenticeship schemes. You will be seen as a leader in your specific academic discipline and your thought leadership will command attention in the wider data science community.
+
+Our organisation is undergoing agile transformation. We are looking for candidates who will drive a test and learn approach, and who can bring You will also be excited to champion our Data for Good agenda through sustainable projects and company supported pro-bono charity work. Data ethics are important to us and we are looking for candidates who feel the same way.
+
+Key Responsibilities
+
+This role will provide YOU the opportunity to lead key activities to progress YOUR career. These responsibilities include some of the following:
+
+Participate in creating, evolving, and developing data science models for Marketing, Commercial and Digital
+Work closely with product owners, data engineers and machine learning engineers to deliver high quality data science powered solutions to interesting problems
+Help prepare datasets to train and validate machine learning models
+Define and implement metrics to evaluate the performance of the models, both for computing performance (such as CPU & memory usage) and for ML performance
+Support the deployment of machine learning models on our infrastructure, including containerization, instrumentation, and versioning
+Manage the whole lifecycle of our machine learning models, including monitoring, gathering data for retraining, and redeployments
+Leverage third-party and syndicated data to provide value-added learnings on trade promotions, pricing, distribution, and digital shelving to key stakeholders and specifically for joint business operations
+Drive marketing automation, e.g. audience targeting and profiling, content production, digital marketing campaigns optimization…
+Conceive and implement statistical models and Multi-Variate Tests to measure the impact of business decisions and market disruptions to surface empirical insights
+
+Why you?
+
+Basic Qualifications:
+
+Significant number of years of industry experience with developing machine learning models and creating software pipelines to build and make predictions with those models
+Strong understanding of machine learning approaches and algorithms
+Deep understanding of Statistical/Probabilistic programming and Linear Algebra
+Proficiency with statistical learning methods, e.g. GLM, latent variable models, tree based methods.
+Experience with Deep Learning, Reinforcement Learning, Natural Language Processing, Computer vision, Time Series Analysis, and/or Optimization
+Experience with ML at scale
+Professional-level programming experience with (Python, R, SQL)
+Experience using machine learning frameworks such as TensorFlow, PyTorch, Spark MLlib, MS Azure, Keras, or scikit-learn
+Experience coordinating projects across diverse teams.
+Proven attention to detail, critical thinking, and the ability to work both independently and collaboratively within a cross-functional team
+Strong communication skills including to non-technical audiences
+
+Preferred Qualifications:
+
+If you have the following characteristics, it would be a plus:
+
+MS / PHD – Data Science, Computer science, applied mathematics, statistics, or another relevant discipline with a strong foundation in modelling and computer science.
+Experience managing a team
+Experience with AzureML, BigQuery and Scala
+Experience with Contextual, bandits and Casual ML
+
+Benefits:
+
+Career at one of the leading global healthcare companies
+Attractive reward package (annual bonus & awards for outstanding performance, recognition awards for additional achievements and engagement, holiday benefit)
+Life insurance and pension plan
+Private medical package with additional preventive healthcare services for employees and their eligible
+Sports cards (Multisport)
+Possibilities of development within the role and company’s structure
+Personalized learning approach (mentoring, online trainings’ platforms: Pluralsight, Business Skills, Harvard Manage Mentor, Skillsoft and external trainings)
+Extensive support of work life balance (flexible working solutions, short Fridays option, health & wellbeing activities)
+Supportive community and integration events
+Modern office with creative rooms, fresh fruits every day.
+Free car and bike parking, locker rooms and showers.
+
+Diversity, Equity and Inclusion
+
+At Haleon we embrace our diverse workforce by creating an inclusive environment that celebrates our unique perspectives, generates curiosity to create unmatched understanding of each other, and promotes fair and equitable outcomes for everyone.
+
+We’re striving to create a climate where we celebrate our diversity in all forms by treating each other with respect, listening to different viewpoints, supporting our communities, and creating a workplace where your authentic self belongs and thrives.
+
+We believe in an agile working culture for all our roles. If flexibility is important to you, we encourage you to explore with our hiring team what the opportunities are.
+
+Como empresa impulsada por nuestros valores de enfoque al paciente, transparencia, respeto e integridad, sabemos que la inclusión y la diversidad son esenciales para que podamos tener éxito. Queremos que todos nuestros colegas prosperen en GSK, brindando sus experiencias únicas, asegurándonos de que se sientan bien y que sigan creciendo en sus carreras. Como candidato para un papel, queremos que usted se sienta de la misma manera.
+
+Creemos en una cultura de trabajo ágil para todos nuestros roles. Si la flexibilidad es importante para usted, lo alentamos a explorar con nuestro equipo de contratación cuáles son las oportunidades.
+
+No dude en ponerse en contacto con nosotros si desea analizar cualquier ajuste a nuestro proceso que pueda ayudarlo a demostrar sus fortalezas y capacidades. Puede llamarnos al 0808 234 4391 o enviar un correo electrónico Ukdiversity.recruitment@gsk.com.
+
+A medida que lo solicite, le pediremos que comparta alguna información personal que sea voluntaria. Esto se utilizará para ayudarnos a comprender qué tan bien estamos haciendo frente a nuestras ambiciones de inclusión y diversidad. Realmente lo agradeceríamos si pudiera tomarse unos momentos para completarlo. Tenga la seguridad de que los gerentes de contratación no tienen acceso a esta información, no se utiliza en ninguna parte del proceso de selección y trataremos su información de forma confidencial y la utilizaremos de forma anónima.

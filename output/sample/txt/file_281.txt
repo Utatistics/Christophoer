@@ -1,0 +1,15 @@
+会社概要：
+
+A top information app company
+
+業務内容：
+
+・Provide analytical support to cross functional divisions to help them achieve their strategic goals.・Advise senior leadership on company strategy (marketing, global expansion, headcount, etc.) based on analyses of internal/external data・Contribute to quarterly/annual planning by organizing, analyzing, and communicating relevant data (user metrics, publisher metrics, etc.・Gather and extract insights from research on competitors and relevant industries (media, mobile apps, etc.)・Help define the most important KPIs to use for tracking and analyzing company health and performance
+
+応募条件：
+
+Requirements・5-8 years experience in a strategy consulting, high-growth technology firm, marketing analytics or a related field.・Interest and aptitude in data, metrics, analysis and trends and applied knowledge of measurement, statistics and program evaluation.・Ability to translate analysis results into business recommendations, and excellent written and verbal communication skills.・Ability to work and influence cross-functionally with multiple teams. Effective organizational skills and attention to detail.・Comfort interpreting a variety of different data sources from qualitative research to primary survey data to secondary data sources and creating one cohesive story・Experience in scripting with SQL, extracting large sets of dataLanguage・Japanese：Business Level・English：Business Level
+
+Preferred Requirement (歓迎要件）
+
+・Experience related to strategy, operations, or finance・Experience in Python or R・Experience related to marketing / user growth

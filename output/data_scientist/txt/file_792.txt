@@ -1,0 +1,26 @@
+As heavy industries continue to adopt sophisticated IoT-based sensors capable of outputting big data sets, there is now a great potential to deepen our understanding of complex engineering processes through automated diagnostic analysis and reporting.
+
+TUV SUD are therefore looking to recruit 2 Data Scientists to join our existing Digital Services group to help transform the use of data and digital technologies within the business and create new digital services for all industry sectors. The role will be to drive better exploitation of the vast historical data reserves within our business as well as the analysis of live data streams from ongoing R & D projects whilst creating new service-based products we can offer to the market. Although sitting within the Digital Services group, you will work with scientists and engineers from across the business to deliver various projects covering all industry sectors. It is an incredible and exciting opportunity to work with our Divisions in the UK to deliver digital products of the future.
+
+You will join a diverse team of data scientists, software engineers and manufacturing scientists to deliver value to our customers while developing and implementing data-driven solutions. The role has great freedom to innovate, and we are looking for someone with new ideas and the drive to convert these into tangible results. As such, the position will suit someone who is a self-starter, enjoys working in multi-disciplinary teams on complex problems and has a passion for finding answers to difficult questions from complex data.
+
+The role will be mainly remote based, with opportunities to work at our facilities in East Kilbride and Fareham alongside our delivery and innovation teams. The candidate must have the ability to work in the UK and be able to travel when required.
+
+Responsibilities And Authority
+Builds predictive models based on both historical data and streaming (real-time) data to derive insight for our clients
+Transform the use of data and digital technologies within the business and the services we offer across all industry sectors.
+Drive better exploitation of the vast data reserves within our business and our customers businesses.
+Developing new services based on data science and digital technologies is a key priority.
+Essential Criteria - The Successful Candidate Will Have/demonstrate
+An MSc or PhD in statistics or a closely related field, along with an excellent first degree (or equivalent) in a relevant discipline
+Extensive experience applying data science/machine learning / AI to solve business problem
+High Proficiency in Python
+Experience with Deep Learning frameworks such as TensorFlow
+Demonstrating the ability to collate, cleanse and analyse large data sets using state-of-the-art techniques.
+Prior experience, in an academic or work setting, in one or some of time-series modelling, computer vision, audio data, generative deep learning, recommendation systems, unstructured data analytics, natural language processing (NLP) or statistical modelling.
+Experience with data processing tools
+Desirable Criteria - it would also be beneficial to have:
+Experience in working on industrial projects within an R&D environment
+Experience with Software Development Lifecycle tools like Git
+Experience with SQL and data warehousing concepts
+Experience creating workflows and data pipelines using tools like Apache Spark or Kafka

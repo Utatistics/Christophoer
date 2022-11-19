@@ -1,0 +1,77 @@
+What is Raytheon’s Strategic Research Group (SRG)?
+
+Part of Raytheon UK’s Cyber and Intelligence (C&I) business, the Strategic Research Group (SRG) is a multi-disciplinary expert team focused on next-gen research in artificial intelligence, security research and cloud technology.
+
+SRG is not yet another software team building enterprise solutions. The group operate at the cutting edge of technology and research, applying world class research to customer-relevant challenges in order to create unique prototypes, genuine expertise and valuable hands-on skills.
+
+Established in Jan 2019, SRG was created to focus Raytheon’s efforts on next-generation technologies critical to create the future capabilities our customers demand. In the short time since the group was established, greats success - both technically and commercially - has been achieved.
+
+As a result of these successes, SRG is seeking to grow, allowing the group to tackle more challenges and deliver further successes.
+
+What makes SRG different?
+
+SRG is an expert group, made of a team of people with broad skills, expertise and experience. The team includes post-doctorate researchers, experienced data scientists and engineers with customer knowledge, security research and machine learning expertise.
+
+SRG’s culture sets it apart from many other teams. It is vital to how the group operates and to its success.
+
+SRG values creating and sharing tangible results over creating overly detailed plans and excessive PowerPoint presentations. The team deliver a mix of internally funded research and customer funded projects.
+
+SRG work on a ‘cloud first’ basis - AWS, Atlassian, GitHub, Slack are main productivity tools.
+
+SRG is collaborative, supportive and independent. Above all, every member of the group strives to delight and impress our stakeholders, taking great pride in their work.
+
+Essential Behaviours & Attitude
+
+Delivery.
+
+Hands-on experience designing, creating, building and operating complex software systems.
+Strong experience with modern software engineering approaches and best practices.
+
+Effective Communicator.
+
+Able to tailor written and verbal communication to a wide range of audiences including technical authors, customers, conferences and public events.
+Successful examples of conference speaking, customer engagement and managerial presentations.
+
+Inquisitive self-starter.
+
+Work with autonomy, able to build trusted relationships and rapidly establish a reputation for enthusiasm, delivery and reliability.
+
+Supportive and collaborative.
+
+Must be able to demonstrate clear examples of providing support to team members and colleagues
+Track record of creating a collaborative working ethos within a team or organisation.
+
+Resilient and driven.
+
+Must be able to stay goal focused, regardless of blockers, obstacles or wider issues both in personal work and within the wider team.
+
+Willingness to learn and work across boundaries.
+
+Ability to work in new disciplines as a non-expert within expert teams is essential.
+Willingness and energy to learn new topics, new concepts and new skills in order to facilitate collaboration and solve problems.
+
+Core Technical Skills
+
+We expect:
+
+Solid technical and research foundation, either academic or professional track record in technology, research and early-stage development.
+Strong knowledge of core machine learning models, algorithms and techniques.
+Good skills - or demonstrable ability to rapidly learn - standard data science toolset including Python, sckitlearn, Jupyter, Apache Spark and the wider Hadoop eco-system
+
+Your professional achievements must demonstrate:
+
+Track record rapidly creating early-stage prototypes under uncertainty
+Proven ability to create software artefacts using modern software engineering best practices where appropriate
+
+Broader Experience
+
+SRG welcomes individuals with a broad range of experiences, diverse careers and technical qualifications. Such diversity of thought is an asset, and as such, broad career experience is valuable:
+
+Professional certification in AWS Machine Learning or Solutions Architecture, Cloudera Data Scientist or other technologies.
+Specialist knowledge in automated reasoning, computer vision, natural language understanding, predictive analytics, behavioural analytics or any other applied machine learning domain
+Experience creating and deploying production-grade machine learning workloads in a Hadoop eco-system (either on-prem or public cloud)
+Experience working in the Defence and National Security domain, in particular direct experience working with UK Government customers.
+Evidence of proactive self-development and self-directed learning in particular Kaggle participation
+Research credentials, either academic or professional, to evidence ability to innovate and contribute new results to the scientific literature.
+
+01544394

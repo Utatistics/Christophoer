@@ -1,0 +1,38 @@
+Kantar, backed by Bain Capital, is the world’s leading data, insights, and consulting company. We understand more about how people think, feel, shop, share, vote and view than anyone else. Combining our expertise in human understanding with advanced technologies, Kantar’s 25,000 people help the world’s leading organisations succeed and grow.
+
+ROLE OVERVIEW
+
+This is an exciting opportunity to join our Qmee team (part of Kantar Group), an online rewards and market research company with millions of users worldwide. Ranked 11th in the Sunday Times Tech Track 100 2020, we are also listed in the Deloitte Fast 50 2020/21. Qmee uses the latest machine learning and statistical methods to offer our users the best experience possible.
+
+We are looking for a Data Scientist who will work with a team of expert Data Scientists/Engineers/Analysts and a team of very experienced and talented developers. You will maintain and challenge existing fraud detection systems and create new statistical/machine learning models to tackle business needs.
+
+
+What you’ll do:
+
+Maintain and challenge existing fraud detection model suite
+Transform business requirements into data science solutions
+Maintain existing data science training and deployment pipelines
+Work with Data Engineers to source data required for training and model prediction
+Take machine learning models to production
+
+
+What you’ll bring:
+
+Some data science or data engineering experience
+A drive to learn and master new technologies and techniques
+Critical thinker with independent and logical problem-solving skills
+Experience evaluating model accuracy
+Proficiency in Python, R or equivalent
+Strong SQL skills
+Deploying ML models to production
+(Desirable) Experience with AWS Data Science tools (Sagemaker, s3, Lambda, EMR)
+(Desirable) CI/CD experience
+(Desirable) Docker, or similar containerization
+
+JOIN US
+
+At Kantar we have an integrated way of rewarding our people based around a simple, clear and consistent set of principles. Our approach helps to ensure we are market competitive and also to support a pay for performance culture, where your reward and career progression opportunities are linked to what you deliver.
+
+We go beyond the obvious, using intelligence, passion and creativity to inspire new thinking and shape the world we live in. Apply for a career that’s out of the ordinary and join us.
+
+At Kantar, the diversity of our employees provides a richer environment for our employees and broader depth and breadth of thinking for our clients. Kantar is committed to inclusion and diversity, therefore we welcome applications from all sections of society and do not discriminate on the basis of age, race, religion, gender, pregnancy, sexual orientation, gender identity, disability, marital status or any other legally protected characteristics

@@ -1,0 +1,33 @@
+Roles/Responsibilities
+
+File transfer, automated spreadsheet creation and management of sales and forecast data
+Create and run various interim reports
+Automatically issue and distribute emails with cross-tabulations from multiple data sources
+User support for CRM operations
+Creation and deployment of sales support templates as tools after requirements definition
+Implementation of post-treatment care coordination and standard reporting
+
+Required Skills
+
+Experience in developing and using macros in Excel (VBA).
+Experience in developing and using Access VBA
+Experience of developing and using Power BI
+Experience of working with big data (more than 20 000 data items)
+Experience of automated email distribution using Outlook is an advantage
+Experience of using CRM and other tools is an advantage.
+
+Preferred Skills
+
+Has the rights to work in Japan
+Bilingual - Japanese and English
+
+Personal Attributes
+
+Good communication skills
+Being able to work in team-working environment
+
+About Our Client
+
+One of the largest global financial technology companies in the industry, with its exceptional dominance in the APAC region market.
+
+Morgan McKinley Asia Pac is acting as an Employment Business in relation to this vacancy.

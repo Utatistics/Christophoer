@@ -1,0 +1,35 @@
+One of the UK's most exciting hidden gems are looking for multiple Data Scientists to work on a brand new project. You will be developing a world beating system . This is outside IR35 and home / remote role with occasional work in the office once a month if needed.
+
+They are looking for people who can straddle both disciplines of analytical data science (forecasting, benchmarking etc) and cognitive services so preferably experience in both. In terms of the candidate themselves, they are looking for a highly motivated individual, comfortable working in a remote based and small team. You need to be open to being challenged and working in a highly collaborative environment where everyone’s opinions are equal, but also able to stand their ground and be passionate in their ideas.
+
+They are building an exciting proposition set so they are looking for someone who can contribute to and stretch the customers current thinking.
+
+Environments & Services
+azure data lake
+azure databricks
+azure cognitive services
+azure machine learning
+azure bot services
+MLflow
+github
+azure devops / version control
+Languages
+spark
+python
+sql
+Toolsets
+pandas
+scikit-learn
+tensorflow
+facebook prophet
+They are looking for people with experience of
+forecasting / model training
+anomaly and pattern detection
+benchmarking across datasets
+speech recognition
+sentiment and behavior analysis
+speech to text / text to speech
+speaker recognition
+When submitting your application to Colossus Associates, please ensure you have your correct phone number and email address so we can contact you asap regarding your application. For confidentiality purposes, please remove any reference contact phone number's and email address details from your CV.
+Desired Skills and Experience
+Azure

@@ -1,0 +1,21 @@
+Working within the Research team of a global commodity trading company you will be tasked with providing detailed supply & demand analysis for each specific commodity.
+The Data Science area of the team is expanding to work more closely with the Sustainability and Carbon teams and to assist with this development we are looking for a GIS Data Scientist to help with historic deforestation assessments & future risk assessment models associated with associated greenhouse gas emission factors.
+The GIS Data Scientist will work primarily with spatial data associated with agricultural crops. A strong base and interest in working with GIS and/or remote sensing will be extremely beneficial. Modelling skills are also an important feature of this role.
+Skills & Experience
+Qualification in a technical/analytics field such as Geographic Information Systems (GIS), Computer Science, Economics, MIS, Biology or Statistics
+Minimum 3 years of commercial experience within data science.
+Exceptionally strong background in geospatial data analysis and Earth Observation technologies
+Experience using Geographic Information Systems (GIS) software such as QGIS or AcrGIS
+A strong interest in deforestation, sustainability and how data science works within these fields.
+Strong background and experience analysing geospatial data using Python or/and R programming languages.
+Experience with geospatial analyses, modelling, and interactive system development.
+Experience with machine learning and statistical concepts.
+Ability to create engaging and effective interactive outputs following corporate standards.
+Strong written and verbal communication skills; the ability to communicate technical information to both technical and non-technical audiences.
+Genuine interest in agriculture/sustainability.
+Highly organised and able to set up effective database monitoring processes.
+A tech-savvy problem-solver with a strong ability to think outside the box; analytical, creative, flexible and resourceful
+Desirable:
+Post-graduate qualification in relevant field
+Sound experience in managing large datasets and data curation processes (Azure and MySQL)
+Experience with handling and analysing satellite imagery with image classification skills

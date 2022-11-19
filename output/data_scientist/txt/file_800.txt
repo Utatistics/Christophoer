@@ -1,0 +1,31 @@
+My client in Fareham, Hampshire are a large government organisation, they are seeking a Senior Data Scientist on an initial contractual basis, until 31/03/2023 (37 hours per week). The role is paying a day rate of up to £600 (Inside IR35), for the duration of the contract.
+
+Qualifications:
+
+PhD/Degree/MSc in a highly numerate subject (e.g. Maths, Statistics, Physics, Research, Data Science)
+
+Experience Needed:
+Dashboarding (essential)- Google Data Studio
+Some experience in D3 and other JS visualisation libraries
+Geospatial visualisations with geopandas, contextily, plotly etc
+Data Wrangling skills (essential). Scalable data linkage approaches such as developed in Splink
+Modelling (essential)
+Statistical modelling
+Geospatial modelling (high priority)
+Machine Learning ML (high priority)
+Deep Learning DL
+Simulations
+Agent Based Modelling (ABM)
+NLP (high priority)
+Timeseries (high priority)
+Econometrics and socio-economic modelling
+Geospatial methods such as spatio-temporal analysis of GIS data, spatial interpolation methods such as Kriging, Network analysis (high priority)
+Image processing – Deep learning/Machine learning approaches for Satellite Images analysis and remote sensing methods (high priority)
+Data Fusion- scalable approaches for data linkage on Cloud infrastructure
+Experience with GitHub (high priority)
+Software
+Python (essential) / R (desired) / MATLAB / Julia & others
+Version Control
+Cloud experience
+Big Query
+Cloud functions

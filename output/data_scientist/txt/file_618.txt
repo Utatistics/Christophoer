@@ -1,0 +1,66 @@
+Job Description
+
+Data Scientists in Data & AI at Avanade are senior team members responsible for advisory, design and delivery leadership with our clients in the areas of analytics and data science. These consultants have a mix of skills related to analytics, technology, business process, consulting and advisory practices. Within the data science practice, principal data scientists have a passion for solving complex business problems with machine learning and advanced statistical methods.
+
+This role with Data & AI at Avanade works across client management, sales and delivery often leading a broad technical team including data scientists, engineers, project managers, technical experts and other consultants. They often have an industry focus, however are expected to be able to pick up challenges across industry and apply their experience to solve them.
+
+You will lead the development of analytics solutions based on machine learning & statistical predictive algorithms for clients of Data & AI to solve some of their most pressing challenges. We are looking for experienced data scientists with extensive hand-on experience in machine and deep learning, statistical modelling and software development, proven scientific research skills and technical leadership as well as commercial experience required to apply these skills in a consulting-based project environment.
+
+Responsibilities include:
+
+Assessment of client requirements and the design of solutions to address them based on data analysis, data science, technology and business process design.
+Financial business case development.
+Data science project and resource planning.
+Program leadership including delivery team leadership and stakeholder management.
+Development of operating models and strategies for clients in the area of analytics and data science.
+Provision of advice to clients on approaches to solve complex business problems through the application of technology and data analysis.
+Mentoring of more junior team members in data science, consulting and advisory skills.
+Supporting the development of the company brand through participation in communities, blogs, forums or other public domains under the headline of data science, analytics or related topics.
+Lead on the development of machine learning, artificial intelligence, and statistical algorithms and solutions using R and Python.
+Prepare advanced data analyses and present results of these analyses to business stakeholders.
+Engage with clients throughout the lifecycle of project on both advisory and delivery assignments.
+Participate in pre-sales activities to demonstrate how data science and statistics may be applied for commercial advantage of potential clients.
+Develop solution prototypes and deliver CRP (Conference Room Pilot) sessions.
+Define and help to design the analytics solution architecture from a pragmatic standpoint.
+Take a lead role in client project delivery to help client engagements through to a commercially successful conclusion.
+Lead and support blended teams of colleagues, client and partner resources to help share knowledge and develop an integrated delivery ethic.
+Support the on-going development of the Data Science practice technically.
+
+Experience Profile:
+
+We are looking for the following experience profile:
+
+Significant experience in the design and build of data science solutions for customers.
+Hands on experience in data science, machine learning and statistical analytics.
+Experience in data analytics, BI, data warehousing, data platform development or other relevant hands on technical experience.
+Understanding of structured and unstructured data analysis, streaming data, IoT, artificial intelligence, natural language processing and related topical analytics fields.
+Understanding of data science methodologies and the processes data scientists follow in problem solving.
+Significant experience in implementing/deploying in Azure/AWS/GCP
+Able to manage teams across multiple projects.
+Comfortable engaging at CxO level.
+Comfortable actively engaging and leading sales and business development opportunities with clients.
+Extensive commercial or academic experience of developing ML & AI solutions using R and Python.
+In depth knowledge of machine learning algorithms.
+Hands-on experience and skills in developing complex query structures with SQL and/or NoSQL query languages.
+Strong business analysis skills and deep understanding of analytics.
+
+Desirable Skills:
+
+Proven scientific research skills (published scientific papers and/or scientific conference presentations).
+Advanced degree (PhD) in machine learning, computer science, physics, applied mathematics or statistics.
+Hands-on experience and understanding of deep learning techniques (TensorFlow, Theano, MXNet, Microsoft DMTK).
+Experience with big data stack (Spark, Hadoop, Storm, Hive & Pig) and NoSQL stores.
+Experience with distributed machine learning (RHadoop, Spark MLlib).
+Strong algorithmic and programming skills in Java or C/C++ or C# or Scala.
+Solid grounding in applied mathematics, especially optimisation and graph theory, and statistics.
+Experience in Finance, Retail, or Digital Media industries.
+
+About Avanade
+
+Avanade is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 56,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.
+
+We have been recognized as Microsoft’s Global SI Partner of the Year more than any other company. With the most Microsoft certifications (60,000+) and 18 (out of 18) Gold-level Microsoft competencies, we are uniquely positioned to help businesses grow and solve their toughest challenges.
+
+We are a people first company, committed to providing an inclusive workplace where employees feel comfortable being their authentic selves. As a responsible business, we are building a sustainable world and helping young people from underrepresented communities fulfil their potential.
+
+Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com .

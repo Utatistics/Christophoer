@@ -1,0 +1,52 @@
+The Company
+The World University Insights Ltd, publisher of Times Higher Education, is the data provider underpinning university excellence in every continent across the world. As the company behind the world’s most influential university rankings, and with five decades of experience as a source of analysis and insight on higher education, we have unparalleled expertise on the trends underpinning university performance globally. Our data and benchmarking tools are used by many of the world’s most prestigious universities to help them achieve their strategic goals.
+
+This is a great opportunity to help drive our ambitious growth plans in creating analytics to underpin our rankings, consulting, products, editorial and events. You will create and run rankings, create new data products, and ensure solutions are well designed, all within a dynamic environment. You will have access to subject matter experts across the organisation. The successful applicant will have the aptitude and attitude to make this role their own.
+
+For more information on Times Higher Education please visit www.timeshighereducation.com
+For more information on how we manage your data please visit https://www.timeshighereducation.com/content/candidate-privacy-notice
+
+Key Tasks and responsibilities
+THE are looking for a full time Junior Data Scientist who wants to roll their sleeves up and help create analytic solutions; they will be instrumental in helping deliver our suite of rankings and products and supporting the strategic data projects roadmap.
+
+Reporting to a Senior Data Scientist, you will be responsible for producing a selection of our rankings and products, developing methodology, and providing detailed analysis to support internal and external customers. You will act as an advisor on related data analytics matters across the company, so the ability to communicate effectively with stakeholders across the business is paramount. While primarily working with colleagues in the UK, this also involves some working across time zones, different cultures and companies. You will also be expected to undertake research into new datasets, analytics and tooling to support the growth of the company.
+
+Key role responsibilities:
+Responsibilities will include (but are not limited to):
+
+Consulting with data providers to design datasets and feed into the development of products and services.
+Research and development of new analyses for derivative products, additional rankings and data products.
+Working closely with the World University Rankings consulting, editorial and THE product development teams to roll out these analyses and features for new products and services.
+Writing code to calculate rankings and related outputs from various input sources.
+Assessing the quality of data provided to us.
+Designing and producing visualisations and other presentations of the data to provide insight to the THE editorial team and other customers.
+Ensuring the quality, validity and applicability of the data collected for the rankings and the final product.
+Working with the team to identify and rollout process improvements.
+Keeping abreast of current education trends, practices, developments and regulatory changes, which may impact the way data are presented, entered or interpreted.
+
+Education and experience requirements
+Excellent analytical skills and experience in querying and analysing data.
+Excellent knowledge of SQL and Python (in particular NumPy, Pandas and SciPy).
+Strong knowledge of Excel.
+Strong statistical skills.
+Experience of data visualization (Plotly, Matplotlib).
+Experience of data collection, management of substantial datasets and assessing the quality of data.
+Logical thinking and problem-solving ability, innovative at creating solutions.
+Process driven with meticulous attention to detail and experience of designing and implementing best practice processes.
+Strong drive, self-motivated. Ability to work independently as well as part of a team.
+Clear understanding of business goals and global data strategy, and customers’ requirements.
+Ability to develop excellent working relationships and work closely with data processors from different departments with the ability to build relationships across wide range of personalities, abilities and cultures.
+Working to deadlines in a fast-moving environment.
+A degree in Mathematics, Economics, Physics, Computer Science or another quantitative field.
+Knowledge of the higher education or publishing sector would be beneficial.
+
+Key attributes we are looking for:
+A passion for creating value from data
+Highly logical thinker who can quickly understand the potential for data solutions
+Self-starter and completer-finisher attitude to managing work
+Very strong verbal and written English communication skills
+High energy and drive that suits a fast-paced environment
+Comfortable working outside of rigid structures and frameworks
+Effective working in ambiguous environments
+
+THE are proud to be an equal opportunities employer. We recognise that we are all different. Great strength is born through different perspectives and experiences. That is why we are committed to our mission of creating an inclusive culture that enables our people to feel able to bring their whole selves to work. We are proud to be part of the Global Equality Collective and a mindful employer to help support THE achieve this.

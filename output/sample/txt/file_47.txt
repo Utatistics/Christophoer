@@ -1,0 +1,39 @@
+Job Description
+
+Data Scientist
+
+Tokyo Japan
+
+Description
+
+Design and contribute to the components of automated simulation and optimization applications dictating key network planning and scheduling parameters
+Developing code (Python, R, Scala, etc.) for analyzing data and building statistical models to solve specific business problems; improving upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters.
+Manipulating/mining data from databases (Redshift, MySQL, Aurora, S3, DDB)
+Collaborate with other scientists, product managers and engineering teams to design and implement software solutions for problems within the teams delivery network
+Communicating verbally and in writing to business customers and leadership team with various levels of technical knowledge, educating them about our systems, as well as sharing insights and recommendations
+
+Basic Qualifications
+
+Bachelor or Master's degree in highly quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+4+ years of experience with data scripting languages (e.g SQL, Python, R, Java, C++ etc.)
+Advanced Excel skills like Vlookup, Pivots
+3+ years working as a Data Scientist or related role
+Experience with machine learning techniques
+Experience using BI tools like Tableau, quicksight or related tools
+Business level of English
+
+Preferred Qualifications
+
+Master's degree in Statistics, Applied Math, Operations Research, Economics, or a related quantitative field with at least 6+ years of working experience as a Data Scientist
+Advanced SQL and python skills
+Excellent verbal and written communication
+Strong troubleshooting and problem solving skills
+Extensive knowledge and practical experience in several of the following areas: machine learning, statistics, NLP, deep learning, recommendation systems, dialogue systems, information retrieval, XGBoost, LightGBM, ElasticNet.
+Experienced in writing and presenting both the methodologies used and results for data science projects
+Experience developing experimental and analytical plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships
+Have a history of building systems that capture and utilize large data sets in order to quantify performance via metrics or KPIs
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+Experienced in handling large data sets using SQL and databases in a business environment.
+Experience with AWS technologies including Redshift, S3
+Business level of Japanese
+Excited about working in a diverse group and contributing to an inclusive culture

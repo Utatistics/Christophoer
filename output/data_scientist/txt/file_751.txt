@@ -1,0 +1,24 @@
+As a Data Scientist you will interpret large amounts of unorganised, raw data. You will analyse and synthesise data into results and findings that are more easily understood. As a Data Scientist you must be good at machine learning so that you can convert data into various forms and develop algorithms to solve problems. As a Data Scientists you must be proficient in a variety of computer programming languages and be capable of conducting advanced statistical analysis. You will also communicate your findings to a company’s management in order to help them solve business problems or make informed business decisions.
+
+Key Responsibilities:
+Generating large databases from various sources of structured and unstructured data
+Analysing data and generating statistical information to identify trends and patterns
+Understanding the phases of product delivery and expert analyses across product life cycles, running the analysis for each stage and contributing to decision making
+Using a range of programming languages to transform big data into data sets
+Translating technical data to simple language and giving recommendations and conclusions to stakeholders
+Developing interactive dashboards that combine visuals with real-time data
+Building scalable machine learning pipelines and using feature engineering and optimisation methods to improve data set performance
+Working with Technologists to integrate and separate data feeds to map, produce, transform and test new scalable data sets
+
+Requirements
+Programming Skills – knowledge of statistical programming languages like R, Python, and database query languages like SQL, Hive, Pig is desirable. Familiarity with Scala, Java, or C++is an added advantage.
+Statistics – Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators, etc. Proficiency in statistics is essential for data-driven companies.
+Machine Learning– good knowledge of machine learning methods like k-Nearest Neighbours, Naive Bayes, SVM, Decision Forests.
+Strong Math Skills (Multivariable Calculus and Linear Algebra) - understanding the fundamentals of Multivariable Calculus and Linear Algebra is important as they form the basis of a lot of predictive performance or algorithm optimisation techniques.
+Data Wrangling – proficiency in handling imperfections in data is an important aspect of a data scientist job description.
+Experience with Data Visualisation Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+Excellent Communication Skills – it is incredibly important to describe findings to a technical and non-technical audience.
+Strong Software Engineering Background
+Hands-on experience with data science tools
+Problem-solving aptitude
+Analytical mind and great business sense

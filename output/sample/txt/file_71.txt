@@ -1,0 +1,29 @@
+Job Description
+
+Senior Data Scientist
+
+Tokyo
+
+Basic Qualifications
+
+Masters in quantitative field (Computer Science, Mathematics, Machine Learning, AI, Statistics, or equivalent)
+Knowledge and expertise with Data modelling skills, SQL with Oracle, MySQL, and Columnar Databases
+Skilled with Java, C++, or other programming language, as well as with R, SAS, MATLAB, Python or similar scripting language
+5+ years of experience working in data science in a consumer product company, managing Machine Learning Scientists, Data Scientists, Research Scientists, Applied Scientists, Economists or equivalent fields
+Experience in hiring and leading experienced scientists
+Business level in English.
+
+Preferred Qualifications
+
+A PhD in a quantitative field (Computer Science, Mathematics, Machine Learning, AI, Statistics, or equivalent)
+10+ years of experience working in data science in a consumer product company
+5+ years of experience managing Machine Learning Scientists, Data Scientists, Research Scientists, Applied Scientists, and/or Economists
+Extensive knowledge and practical experience in several of the following areas: machine learning, statistics, NLP, deep learning, recommendation systems, dialogue systems, information retrieval, XGBoost, LightGBM, ElasticNet.
+Functional knowledge of AWS platforms such as S3, Glue, Athena, Sagemaker.
+Ability to distill informal customer requirements into problem definitions, dealing with ambiguity and competing objectives
+Ability to manage and quantify improvement in customer experience or value for the business resulting from research outcomes
+Demonstrated industry leadership in the fields of Database and/or Data Warehousing, Data Sciences and Big Data processing.
+Deep understanding of data, application, server, and network security
+Superior verbal and written communication skills, ability to convey rigorous mathematical concepts and considerations to non-experts
+Successful record of developing junior members to a successful career track
+Excited about working in a diverse group and contributing to an inclusive culture.

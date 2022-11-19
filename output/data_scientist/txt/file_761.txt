@@ -1,0 +1,31 @@
+At Habitat Energy we bring together exceptionally talented and passionate people in the domains of data science, software engineering and energy trading alongside an in-depth understanding of flexible energy assets. Our aim is to maximise the value of grid-scale battery storage, so they are attractive investments, are deployed at scale and enable the energy transition.
+
+We are looking for motivated people to join our team who share our belief that we can outperform the traditional energy sector players, have a positive impact on the planet and have fun doing it together.
+
+We have a vacancy for a Data Scientist to join our team, developing our offering of structured products. You will:
+Model co-located solar + storage sites, to help design optimal commercial arrangements
+Model market signals to design novel structures to manage risks for battery owners
+Bring an experimental mindset, prototyping and developing with the right model for the job.
+
+We’re looking for someone who is a great fit for our company. We want people who take ownership of delivering a solution, build trust and are innovative. We encourage you to apply even if you may not meet every requirement in this posting. We value diversity and our environment is supportive, challenging and focused on the consistent delivery of high quality, meaningful work.
+
+Requirements:
+You have a passion for time-series modelling and a desire to apply that within the energy sector
+You have exposure to energy markets or battery systems modelling
+You have experience with Python and its wider numerical ecosystem (Pandas, Numpy, SciKit-learn, etc.)
+You have experience with probabilistic or Bayesian modelling
+You have at least 2 years of work/educational experience developing models in a commercial setting
+You have a BA/BSc degree in Computer Science, Machine Learning, Economics or related fields
+You have a cross-functional mindset and want to work alongside domain specialists (energy traders) and technical specialists (software, ML and data engineers)
+
+Extra credit if you can demonstrate:
+MS or PhD degree in Computer Science, Machine Learning, Economics or related fields
+Knowledge and experience of forward curve construction
+Experience applying Value-at-Risk frameworks within commodities
+Exposure to methods of monte carlo simulation
+Experience with Generative Adversarial Networks
+Version control code (Git) including dev, test and production environments
+
+In return, we’ll give you a competitive salary, flexible working arrangements and a lot of personal development opportunities.
+
+When you apply for a job with us, we process some of your personal information. You can find out more about how we process your information in our candidate privacy policy.

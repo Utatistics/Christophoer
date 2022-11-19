@@ -1,0 +1,24 @@
+Salary 6M-15M + Bonus
+
+Opportunities at Consultant, Senior Consultant & Manager to join a Forensic Technology Services business who support fact-finding, investigation and prevention of criminal activities such as Data Theft, Fraud and Cyber Attacks.
+
+International team with more than 50 members from 10 countries working in a global environment on projects that span multiple countries in two main areas;
+Digital Forensics: Computer Forensics / Mobile Forensics / e-Discovery / Litigation Support
+Data Analytics: Data Analytics / AI Solutions
+Required skils & experience.
+Manager: 6yrs+ of work experience in forensic and data science related fields
+Consultant / Senior Consultant: 2yrs+ of work experience in forensic and data science related fields
+Bachelor's degree - Computer Forensics, Computer Science, Statistics, Mathematics or similar.
+Business level Japanese (JLPT 2) & English (TOEIC 850).
+Strong communication skills.
+Technical skills with; Python, R, SQL Scripting, Oracle, Tableau, Alteryx.
+Knowledge processes related to the EDRM framework.
+Understanding & experience with; Relativity, Nuix, Encase (eDiscovery), SQL (Data Analytics domain)
+Project management capabilities.
+Desirable Skills:
+Relativity Certified Administrator (RCA)
+Encase Certified Examiner (EnCE) --GIAC
+Certified Forensic Examiner (GCFE)
+GIAC Certified Forensic Analyst (GCFA)
+Certified Fraud Examiner (CFE)
+]

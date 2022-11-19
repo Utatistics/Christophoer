@@ -1,0 +1,52 @@
+Who we are
+
+PwC’s Central Technology team (‘Tech Connect’) is responsible for identifying and deploying innovative AI use cases for PwC and its clients. We use machine learning and natural language processing to build data-driven solutions which solve important problems across our organisation.
+
+We work across industries, including healthcare, financial services and professional services to develop their Machine Learning capabilities.
+
+We’re currently looking for entry to mid level (Associate/Senior Associate) Data Scientists to join us across our Manchester, Leeds, Birmingham, and London offices.
+
+What we do
+
+Below are some examples of projects data scientists in the team have worked on before.
+
+Develop natural language processing models to identify climate change disclosures in annual reports for a major regulatory body
+Identify and develop assets from new research (e.g. privacy preserving machine learning) in order to develop a new proposition for handling sensitive client data
+Research and develop machine learning assets for a voice analytics platform that analyses conversations in the Financial Services sector
+Create an algorithm to automate a core manual process (staff resourcing) that scales across 1000s of staff an entire line of service using optimisation
+Work with clients to use machine learning in identifying anomalous financial transactions, improving quality and reducing risks
+
+The Role
+
+Tackling hands on data science problems for PwC and its clients
+Contributing effective, high quality code to our Data Science codebase
+Contributing to the strategy and growth of the firm’s data science capability
+Crafting, communicating, and documenting compelling business insights from your analysis
+Working collaboratively and independently on projects as needed
+
+Core Skills
+
+We make extensive use of the following technologies in our team.
+
+You aren’t expected to be an expert across all of them but should have familiarity with them as a practitioner.
+
+Python for data science
+SQL for data processing
+Git for version control
+Azure / GCP for our cloud backend
+
+Nice-to-Haves
+
+About
+
+We recognise that there isn’t one way to solve problems so if you have experience across these areas that complement your data science skills then we’d love to hear about them
+
+Exposure to other programming languages such as Java
+Experience of working on a project using agile concepts (such as working in sprints)
+Working knowledge of other cloud technologies
+Practical experience with container technology (such as Docker)
+Familiarity with a front end development for surfacing data (such as streamlit)
+Practical knowledge of simulation techniques (using tools such as AnyLogic)
+Hands on experience with optimisation methods (such as mixed integer programming)
+Real world experience with deep learning
+Internal Firm Services

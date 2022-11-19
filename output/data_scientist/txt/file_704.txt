@@ -1,0 +1,21 @@
+A Credit Scoring Fintech with a world renouned Data Team have an opportunity for a Senior Data Scientist to join their Lab in London
+
+Role And Responsibilities
+
+Applying, modifying, and inventing algorithms to solve challenging business and technical problems.
+Evaluating the predictive ability of data sets (and combinations of). Advising on optimal data-gathering strategies.
+Documenting and presenting, internally and externally, model process and model performance.
+Engaging and influencing business leaders in solution path design.
+Mentoring junior members of the team, if appropriate.
+
+Skills And Experience
+
+PhD OR MSc. in Computer Science OR related subjects
+2yrs min. commercial experience
+Deep knowledge of Python and either Scala, Java, C or R
+Experience with R, Tensorflow, ggplot, Stan, Julia
+Production of machine learning methods and models e.g. clustering, regression, neural networks, SVMs, trees, and ensemble methods such as random forests and boosting.
+
+Salary
+
+Up to £80,000 per annum, + 12.5% bonus + benefits

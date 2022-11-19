@@ -1,0 +1,85 @@
+Company Overview
+
+A leader in creating deep and engaging experiences on PC and mobile, Jagex was founded in 2001 and is today one of the UK’s biggest and most respected video game developers and publishers.
+
+Famed for its flagship MMOs RuneScape and Old School RuneScape, Jagex has welcomed more than 260million player accounts to its world and created a $1bn lifetime franchise revenue. Today the RuneScape franchise exists beyond running games in live operations; our titles are living games that connect and inspire millions of players, with content and experiences both inside and outside of inexhaustible game worlds.
+
+Both RuneScape and Old School RuneScape, on PC and mobile, offer ever-evolving, highly-active worlds and our community-focussed development ethos empowers players to have a real say in how each game is shaped.
+
+Jagex is expanding and extending its portfolio with fresh franchise titles, new IP and, in 2018 launched Jagex Partners, delivering third-party publishing and operational services exclusively for the living games of the future.
+
+Jagex employs more than 400 people at its Cambridge headquarters and is on the hunt for talented people to work across the business to help the company to achieve yet another year of record growth and player satisfaction.
+
+Team Overview
+
+ADSE’s goal is to develop, build and maintain a best-in-class analytical data platform. As a central data hub for the entire Studio (and third parties), ADSE provides both insights and data tools to further the understanding of our players and how they interact with the game. This ranges from APIs for data governance, integration with CRM suites, dashboards for key stakeholders, reports on game releases and advanced economic modelling. Streamlining data collection from many and varied sources, cleansing and making available to different teams in whatever format is needed. Experimenting with new and innovative technologies to make all those more efficient, scalable, and cost-effective. Dreaming up new solutions and approaches, driving team knowledge forward and continually learning. The endpoint is to be the indispensable data engine for the company.
+
+The data, dashboards, models and reports produced and curated by ADSE are critical to the product teams, enabling them to understand our players’ needs and where the enjoyment and pain points lie. This allows for the balance of greenfield development tempered against hardened production systems.
+
+The team is built around three core sections: Data Engineering, Analytics and Data Science. This role is the seed upon which the Data Science section will grow and flourish. You will be working in an exciting and vibrant environment, with input to everything from architectural designs, cutting edge technology choices, testing and profiling, evaluating software solutions, programming paradigms and future vision.
+
+What Does Success at Jagex Look Like?
+
+This is an opportunity to stamp your vision on a new team. A team that needs built around you. It would be expected that you would fully deliver on key projects (some mentioned in ‘Key Duties’ below) in the business-defined order over the coming year, as well as define a strategy on where best to next focus attention. Delivery of solutions into production that solve real-world business problems and provide insight that ultimately increases the bottom line is paramount. Getting involved in the hiring and building out the Data Science team to take it to the next level.
+
+Key Duties Include
+
+As the Senior Data Scientist, it will be your job to build algorithms and design experiments that will feed into data products that support the games in commercial, marketing and gameplay areas. Predictive modelling, machine and deep learning approaches will be expected to be in your toolbox. You will be suggesting new areas of investigation to drive player engagement and increase the bottom line.
+This role is key to our future data science function, and to that end will entail coaching and mentoring. This coaching and mentoring extends not only to future data scientist hiring, but the data engineers and analysts. Ensuring that the entire department is involved, you get to place yourself at the innovative centre of ADSE, making sure the overall know-how of data science is disseminated amongst the rest of the team.
+This is an opportunity to put your data science skills to practical use, push a modernizing agenda and excite the entire studio. Upcoming projects include churn prediction, bot detection, store/item recommendation, player sink point modelling and much, much more. There is a fascinating dataset waiting to be explored and exploited in endlessly interesting ways, and the data collected changes and expands all the time. There is no reluctance to use the latest papers to create cutting edge solutions, as long as it has practical use within the studio.
+Collaborate with data engineering teams to build model deployments and data pipelines.
+Collaborate with analysts to understand business questions and build better models.
+Work closely with the Studio to identify issues and use data to propose solutions for effective decision making.
+Stay up to date with industry and data science standard technologies, and evangelize them among the team when relevant.
+Identify new avenues for exploration: combining game world data with game player data with commercial, marketing, store front and a myriad of other sources to forge new ground.
+Coach, mentor and help build data science capability within ADSE.
+
+Essential Skills
+
+Strong python.
+Strong machine/deep learning.
+Experience with modern ML/DL packages.
+Ability to design, develop, train, test, evaluate, deploy and manage different models.
+Experience with applied statistics.
+Excellent communication skills with the ability to present results to people with varying backgrounds and experiences.
+Understanding of the different deep learning network topologies and when to apply them.
+Linux/Mac development environment.
+Lead the execution of projects and provide technical leadership to drive our data science products and insight strategy, advocating the effective use of data technologies.
+Mentor and lead junior members of the team; set a quality bar, inspire innovation and creativity and make the vision a reality.
+Work with external development teams (2nd, 3rd or contractual) to successfully launch new products that provide advanced data science and analytical capabilities.
+
+Desirable Skills
+
+Gamer at heart – we expect our employees to be product focused at all levels.
+Familiarity with c/c++.
+Familiarity with knowledge graphs.
+Knowledge of natural language processing.
+Knowledge of information retrieval systems.
+Knowledge of GIS.
+Experience in AWS.
+Experience modelling with data from modern marketing technology stacks.
+Experience with big data ecosystems and infrastructure.
+Experience deploying applications through container orchestration systems (Docker and Kubernetes).
+Creating models for a production environment.
+Understanding of current and future business needs relative to the gaming and technology industry.
+Experience in building strong relationships within a company and empowering your team to do the same.
+Feel like you fit this role, but don’t meet all the requirements? We strive for fresh perspectives, so as long as you can demonstrate how your attitude and other abilities might make up for any gaps we would welcome your application!
+
+Company Benefits
+
+Flexible Working
+Bonus Scheme
+Private Health Care
+Gym Membership
+Monthly Energy Allowance
+Generous Pension Contributions
+Life Insurance
+Free Cycle Repair
+Income Protection
+Dental Plan
+Free Fruit and Drinks
+Subsidised Canteen
+
+Feel like you fit this role, but don’t meet all the requirements? We strive for fresh perspectives, so as long as you can demonstrate how your attitude and other abilities might make up for any gaps we would welcome your application!
+
+Jagex are an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, marriage or civil partnership, pregnancy or maternity, religion or belief.

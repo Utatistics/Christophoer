@@ -1,0 +1,67 @@
+Data Scientist (5980)
+
+Farnborough or Malvern
+
+About The Role
+
+Based in Malvern or Farnborough we are looking for a flexible professional to work in an established “Data Analytics” team of data scientists and data engineers. The team has a portfolio of projects for Security, Defence and Commercial customers, across the whole company, including producing solutions for leading-edge applications in AI/ML, DevOps projects, applications requiring models of complex systems and applications requiring Enterprise level integration of components. Typically these solutions utilise Agile development methodologies and Cloud-based services.
+
+What Do I Need
+
+Substantial experience over 5 years of working with data-intensive projects is required, and a curiosity to work in a variety of domains, with a variety of technology stacks including different programming languages. Experience of technical supervision of less experienced staff would also be an advantage.
+
+Experience working in a customer-facing role is desirable, as the role will require some time working on customer sites. The ability to think clearly and creatively, communicate openly, collaborate, and influence a range of stakeholders are all required.
+
+Overall Purpose of the Job
+Designing and implementing solutions.
+Integrating Open Source components into micro-services and other solutions, both as prototypes and in a DevOps approach
+Leadership of tasks within implementation projects.
+Liaison with customer technical representatives.
+Looking for and suggesting opportunities to further improve the products.
+
+Key Accountabilities
+
+Accountable to the project team lead for production of good quality software components, and for adequate documentation to allow efficient team working.
+
+Accountable for working with Integration and Test engineers to produce testable and tested components.
+
+Accountable to the team leader for being creative and finding opportunities to incorporate new ideas into the products.
+
+Essential Knowledge, Skills And Experience Required
+Qualified to at least University Honours STEM Degree or equivalent.
+Good software engineering skills, including Git for version control.
+Experienced in at least two languages of the following set: Java, Python, R, Scala, C++.
+Experienced in Linux.
+Experienced and knowledgeable in using Open Source libraries and tooling.
+Experience in design, development, test and integration of quality software.
+Enthusiastic and willing to work flexibly to be part of a high-performing team.
+Ideally DV cleared, minimum is UK national with SC and willing to undergo government vetting to achieve DV.
+Excellent verbal and written technical English communications skills.
+
+Desirable Experience Of Some Or All Of The Following
+Experience in working in Agile or scaled Agile teams using tools such as Atlasian suite
+Familiarity with a DevOps environment; Experience across the full product development lifecycle from requirements to user testing.
+Use of virtualisation and Cloud technologies; Experience of AWS and/or Azure.
+Data Engineering tools and services for example: ElasticSearch, Hadoop, Spark, Solr, Salt/Puppet/Ansible, Accumulo, Kafka, MongoDB, Neo4J. Also Cassandra, Apache Storm, ZeroMQ,
+Familiarity with systems engineering design and implementation processes.
+Supporting Data Scientists in improving Software Engineering processes.
+Supervision of less experienced technical staff.
+Keen knowledge sharer
+
+If you have the essential skills, keen to work as a Data Analytics Engineer/Data Scientist and wanting to work for a company who invest in their technology and team, then please apply via the link.
+
+Please note that all applicants must be eligible for SC clearance as a minimum.
+
+UKSV National Security Vetting Solution: guidance for applicants - GOV.UK (www.gov.uk)
+
+#NEWBUNDLE
+
+Why Join QinetiQ?
+
+As we continue to grow into new markets around the world, there’s never been a more exciting time to join QinetiQ. The formula for success is our appetite for innovation, courage to take on a wide variety of complex challenges. You’ll experience a unique working environment where teams from different backgrounds, disciplines and experience enjoy collaborating widely and openly as we undertake this exciting and rewarding journey. Through effective teamwork, and pulling together, you’ll get to experience what happens when we all share different perspectives, blend disciplines, and link technologies; constantly discovering new ways of solving complex problems in an diverse and inclusive environment where you can be authentic, feel valued and realise your full potential. Read more about our diverse and inclusive workplace culture here.
+
+Joining QinetiQ offers you an opportunity to work on a broad range of interesting defence-based projects with vast career progression across a global organisation in addition to competitive personal and professional benefits. You’ll receive highly competitive salary and benefits package: our basic salaries are very attractive as we constantly review what’s happening in the market. The range of benefits that we offer include, flexible working, generous holiday entitlements, Health Cash Plan, Private Medical Insurance and Dental Insurance and much more.
+
+About QinetiQ
+
+As a company of over 6,000 dedicated professionals, we are a world-centre of excellence in research and development and act as a catalyst for fast-track innovation, offering outstanding experimentation facilities, and technical, engineering and scientific expertise. QinetiQ is made up of dedicated experts in defence, aerospace, security and related markets, all working together to explore new ways of protecting what matters most. Being part of QinetiQ means being central to the safety and security of the world around us. Partnering with our customers, we help to save lives; reduce risks to society; and maintain the global infrastructure on which we all depend. Come and find out how you can play a role.

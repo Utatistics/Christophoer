@@ -1,0 +1,50 @@
+83841
+
+The Lubrizol Corporation, a Berkshire Hathaway company, is a market-driven global company serving customers in more than 100 countries. We own and operate manufacturing facilities in 17 countries, as well as sales and technical offices around the world. Through our global sales and manufacturing networks, we are able to deliver the products and services our customers need, where and when they need them.
+
+Data Scientist / Data Analytics Statistician
+
+Location: Hazelwood, Derbyshire
+
+Salary: Competitive plus excellent benefits
+
+The Data Science & Analytics team at the Lubrizol Corporation has an opening for a solution-oriented Data Scientist / Data Analytics Statistician. This position is available to early and mid-career candidates including those currently studying and available to join in 2022.
+
+This role is based out of our European technical centre located in Hazelwood, eight miles from Derby City Centre, UK, with possibility of working in an on-site or hybrid work environment.
+
+Role Overview
+
+We are seeking a Data Scientist like you, to join our Data Science & Analytics team. In this role you will have the opportunity to be involved in a wide variety of data analytics activities. This includes using advanced algorithms to create predictive models, in addition to work that supports/enhances our systems, processes and tools. In addition, you will consult with subject area experts on data and statistical matters. Work will be both self-directed and under the guidance of more senior data scientists. Your ability to create high quality statistical models and to assess and interpret data, processes and complex systems is critical, as is, strong interaction and communication skills. The role will have a high level of autonomy, freedom to manage your own time, and the opportunity to collaborate with highly skilled teams and individuals including project managers, formulators, chemists, and engineers along with other data scientists.
+
+Performance Objectives
+
+Create predictive models by mining complex data. In your role you will use advanced methods to dive into intricate chemical data and build empirical models that will be used by the business in product development and deployment, manufacturing and/or supply chain.
+
+Support analytics systems including the development and maintenance of systems, processes, and algorithms. You will contribute to the integration, enhancement, and deployment of our analytics systems and tools which provide insightful information and enable our engineers, formulators, and program managers to make timely, data-driven decisions.
+
+Collaborate and consult with data scientists and subject-area experts on statistics and data analytics problems. As a member of the Data Science & Analytics group, you will participate in diverse project work in partnership with other departments throughout the company, including manufacturing, operations, supply chain, and businesses across the organization. Your ability to communicate well will help to provide our customers, functional groups, and management team with meaningful insights from data.
+
+Research and implement new statistical, machine learning and optimization approaches. You will contribute to the enhancement of our modelling approaches and analytics systems and tools to enable timely, data-driven decisions. Research areas may include machine learning modelling, feature selection, transfer learning, nonlinear optimisation, reinforcement learning, forecasting, auto-updating models, and more.
+
+Required Skills And Qualifications
+Bachelor’s, Master’s or PhD in statistics, operations research, data analytics, data science or closely related field
+Ability to effectively use advanced algorithms to assess complex data resulting in practical insights
+Highly skilled in R or Python
+Strong problem solving and deductive reasoning skills
+Creativity and curiosity with the ability to learn and apply new concepts quickly
+Ability to interact effectively with a wide variety of individuals
+Preferred Skills And Qualifications
+Strong background, or for PhD candidates, research in one or more of the following areas: Bayesian modelling, machine learning, optimisation, reinforcement learning or time series.
+We offer a comprehensive benefits package including discretionary annual bonus, competitive pension scheme and private medical cover.
+
+Lubrizol will support you to develop your own skills and progress as part of a global organisation.
+
+Together, we are Lubrizol: Where science excels, and people make a difference
+
+It’s an exciting time to be part of Lubrizol. Lubrizol is not staying put. We are continually learning and evolving. Our passion delivers our success — not only for Lubrizol but for those who count on us every day: our employees, customers and communities. We are talented people working together to solve problems and improve lives through science. We are making a difference, and we will never stop pushing to do it better.
+
+Lubrizol is an equal opportunities employer and welcomes applications from a diverse range of applicants. All applicants will be considered entirely based on their relevant merits and abilities.
+
+While headquartered in the United States, Lubrizol is truly a global specialty chemical company. We have a major presence in five global regions and do business in more than 100 countries. Our corporate culture ensures that Lubrizol is one company throughout the world, but you will find each region is a unique place to work, live and play.
+
+Lubrizol is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, race, color, national origin, citizenship, age, religion, marital status, military service, sexual orientation, genetic information, gender identity, or any other characteristic or trait protected by federal, state, or local law.

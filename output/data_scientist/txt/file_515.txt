@@ -1,0 +1,79 @@
+Description
+
+Innovation is fuelled by the power of possibilities. A few years ago, it was virtually impossible to innovate because building software needed a degree, it was simply too expensive, too complex, too risky and ultimately too inefficient. That’s why only 16% of projects were ever done on budget and 78% failed.
+
+We're changing that. We’re flipping software development on its head and kicking out the notion that you need to be an expert or do boot camps to learn how to make your app. Builder.ai’s platform lets you order the perfect software app for whatever problem you’re trying to solve. Our AI powered assembly line brings together Lego-like reusable features and experts from around the world to bring world-class ideas to life – ANYONE’s world-class ideas.
+
+Building software needs to be like ordering pizza – pick what you want, get recommendations for the features you need and simply wait till it's cooked and ready for you.
+
+Our human-assisted AI platform helps anyone build, run & scale tailor-made software. Everyone from the bakery in Riyadh and nursery in London, to large fortune 100 companies like the BBC or Pepsi.
+
+Life at Builder
+
+It’s a place where everything moves at lightning pace and most definitely not for the faint hearted. We celebrate diversity, push everyone to do more with less and yet provide a culture that allows everyone to experiment, push boundaries and learn by doing. Every Builder runs to our core value system of HEARTT (Heart, Entrepreneurship, Accountability, Respect, Trust & Transparency) and we’re always looking for team players, with a point of view, a sense of humility and a let’s-get-stuff-done attitude.
+
+Our scale up is at the intersection of a quirky startup where designers and machine learning specialists work on problems together to savvy commercial teams working with finance folks to invent new business models. #WhatWouldYouBuild
+
+The role
+
+We’re looking for an intellectually curious, humble, ambitious and razor-sharp Data Scientists with varying levels of industry experience. You are someone who is passionate about technology and, even more so, about applying data science, machine learning and artificial intelligence technologies more broadly to real-world problems. We embrace those who see things differently, aren’t afraid to experiment, and who have a healthy disregard for constraints. The ideal candidate must be a master of their domain and should be skilled at taking ambiguous business or product requirements, translating them into hypotheses, finding the right solution, prototyping their ideas and productionise their work. This individual will be fundamentally motivated by wanting to drive significant business impact through the application of their knowledge and skills. Furthermore, the ideal candidate should be able to inspire and champion through influence when the need arises. We are looking for a rare mix of intelligence, integrity, domain knowledge, verbal agility, and diplomacy which allows you to rapidly earn the trust of technically astute engineers and product astute product management leaders.
+
+Why We Need This Role
+
+Our data scientists will be a part of the Intelligent Systems based in London/France but will work closely and collaborate with global product and engineering teams across the world. The Intelligent Systems team manages all of the innovation powered by data science, machine learning and AI (decision making). It is likely to witness significant growth over the course of the next year and beyond.
+
+This team will take ownership of a whole host of different existing use cases and there is also a significant potential to test out ideas that currently are in the pure research domain. Key problems include:
+
+Automatic speech to text transcription of audio calls between customers, partners and colleagues.
+Extracting features and other informative entities from call transcription and documents.
+Recommending app templates based on customer’s ideas and requirements.
+Recommending features for apps based on customer’s description of requirements.
+Engaging customers and colleagues in conversation using chatbots/conversational AI to gather requirements, create buildcards, and keep them updated on project progress.
+Building custom speech recognition models to improve accuracy of speech transcriptions.
+Building custom language models to better understand the semantics in the Builder domain.
+Build models to pick customer questions and answer them automatically to create better engagement.
+
+We are looking to expand the IS-NLP team who owns the NLP services like Template recommendation, Feature Search, Story Similarity, Feature Tagging, and Natasha. As we look to expand our service portfolio to efficiently automate Builder delivery processes, we are keen to expand the team to support our ambitions.
+
+Why You Should Join
+This is a challenging and diverse role that will require you to be a part of the growth of the Intelligent Systems department from the ground up. You will be working with a team of data scientists, data engineers, conversational AI engineers, and designers. The problems we face are unique, with some of them still in early stages of sustained academic research. Furthermore, this is an opportunity to apply advanced analytics techniques to a truly unique suite of products that in conjunction are aiming to automate the entire software development lifecycle.
+
+First Six Month goals
+Develop an in-depth understanding of the Builder product and ISG services portfolio
+Demonstrate core technical ability by prototyping and establishing the business value of from at least one of the key aforementioned use cases
+Establish collaborative working relationships with on-site and remote cross-functional teams
+Contribute to the development and the enhancement of the data science pipeline
+
+Requirements
+
+Essential skills
+An entrepreneurial and a can do attitude
+Proficient at programming in Python
+Real world data querying (SQL), data manipulation and feature engineering experience
+Experience using data science libraries Pandas, Numpy, Scipy, Seaborn
+Experience using Deep Learning libraries PyTorch, HuggingFace
+Experience using NLP toolkits like Spacy, NLTK, TextBlob
+Experience solving NLP problems like text classification, named entity recognition, search, recommendation
+Experience using Github and CI/CD pipeline for automated deployment
+Experience in MLOps - setting up model monitoring and optimisation.
+Knowledge of Web services (FastAPI, Flask) to host models and services and to integrate with existing services (REST).
+Excellent communication skills, ability to present with diverse stakeholders
+Ability to operate in interdisciplinary teams comprised of product, engineering, business and technology experts
+
+Desired skills
+A PhD or an advanced Masters in a scientific discipline: Statistics, Computer Science, Operational Research, Mathematics, Physics
+Experience in one or more of the following areas: Supervised Learning, Deep Learning, Probabilistic Inference, Statistical Modelling, Bayesian Statistics, Unsupervised Learning, and Reinforcement Learning
+Passionate about software development and engineering as a field
+2-4 years of industry experience but more importantly, demonstrable experience at taking concepts and models from conception to production and quantifying business impact
+Previous experience in a consumer, product or an eCommerce business would be beneficial
+Academic research experience would be beneficial. Ability to propose bespoke and novel solution to non-standard machine learning problems
+Knowledge of and experienced at working with Docker and Kubernetes technologies
+Knowledge of and experienced at working with cloud technologies (Azure, AWS)
+Track record of industry recognition which could be in the form of high impact academic research outputs, contribution to high impact open source projects or performance in open source competitions such as Kaggle
+
+Benefits
+Health and wellness benefits
+Performance-based bonuses and stock options
+Employee friendly policies
+Generous vacation and time off benefits, including paid holidays
+Generally flexible working hours

@@ -1,0 +1,41 @@
+Data Scientist- Machine learning
+
+Location- Remote
+
+Salary- Up to �50,000
+
+Job Description
+
+You will be joining a rapidly growing company in the Aviation industry with a small, internationally spread, team of specialist retailers. Our mission is to provide the best total retail solutions for airlines that recognises their uniqueness and brand. The team is focused on delivering in the most efficient and profitable way, whilst continuously capturing and applying current trends and technological developments.
+
+The purpose of the role is to help move the business to the next level in the way that the data is used and creating robust processes. Developing tailored solutions that take advantage of technologies such as process automation, statistical analysis, predictive forecasting, machine learning and artificial intelligence to drive down costs and improve customer satisfaction.
+
+Role & Responsibilities
+
+Implementation of the solutions that you will develop and be then explain your findings to end users, but they will need your help to move your findings into real day to day actions.
+Map the different customer profiles at account and route levels in order to have a better understanding of the consumption patterns for customers.
+Handle refinements and feature enhancements within a data warehouse housed in Azure/SQL.
+
+Skills & Qualifications
+
+Fully proficient/advanced in SQL (SQL scripting)
+BI modelling (SSAS/SSIS preferred)
+Proficiency in Python, R, Java or C/C++
+Understanding of machine learning techniques and algorithms
+
+Benefits
+
+Salary Up to �50,000
+Remote working
+Competitive benefits Package
+Training and development
+
+To apply for this role, please send an up to date CV to j.partridge@nigelfrank.com or call 020 7337 0804 for a confidential chat. There are limited interview slots and interviews are already taking place. If you are interested get in touch now!
+
+Nigel Frank are the go-to recruiter for Power BI and Azure Data Platform roles in the UK offering more opportunities across the country than any other. We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group.
+
+Twitter = @NigelFrank_BI
+
+LinkedIn- https://www.linkedin.com/in/jae-partridge-625223210/
+
+Please Note: This is a permanent role. This role is for UK residents only. This role does not offer Sponsorship. You must have the right to work in the UK with no restrictions. Some of our roles may be subject to successful background checks including a DBS and Credit Check.

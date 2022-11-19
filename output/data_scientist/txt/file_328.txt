@@ -1,0 +1,42 @@
+Data Scientist- AI/Machine Learning, PySpark
+
+Location- London/ Hybrid
+
+I'm currently working with one of the most successful and long standing companies in the UK, within their relative industry. The company is recognised as a great workplace and is ranked in the national "Great place to work" Survey, which they massively pride themselves on. You will be joining one of the UK's most successful independent social businesses, with houses primarily across London and the South east.
+
+One of the things that make them such a great company to work for is that they attract some of the best talent and people that want to make a change, which is in line with their core company vision.
+
+Benefits
+
+This is a salaried position paying up to £55,000 with some great benefits. As previously mentioned this organisation has been noticed as one of the best places to work within, providing great benefits such as Hybrid and flexible work.
+
+You will be given industry leading training as well as being provided fully funded relevant certifications.
+
+My client provided themselves on being an employee first organisation, at the core of there success is due to the hard work of the employees.
+
+Job Description
+
+In this role you will be working with internal business stakeholders, to identify problems and improvement areas that could be addressed with machine learning and artificial intelligence techniques. As part of this role you will be working with a range of data, which will help drive business decisions and you will be using the latest technologies to do so.
+
+Role & Responsibilities
+
+Building machine learning models to identify business problems and improvement areas, through risk prediction.
+Working with stakeholders to identify improvement areas and recommend application of analytics and ML models to improve processes.
+Work with the Data Engineering team to prioritise building ETL processes, to promote relevant data sets to data lake.
+Agile methodology and ways of working.
+
+Skills & Qualifications
+
+Artificial Intelligence / Machine Learning / Data mining models and techniques
+Programming skills including Pyspark/Python/R, SQL.
+Stakeholder Management
+
+To apply for this role, please send an up to date CV to j.partridge@nigelfrank.com or call 020 7337 0804 for a confidential chat. There are limited interview slots and interviews are already taking place. If you are interested get in touch now!
+
+Nigel Frank are the go-to recruiter for Power BI and Azure Data Platform roles in the UK offering more opportunities across the country than any other. We're the proud sponsor and supporter of SQLBits, Power Platform World Tour, the London Power BI User Group, Newcastle Power BI User Group and Newcastle Data Platform and Cloud User Group.
+
+Twitter = @NigelFrank_BI
+
+LinkedIn- https://www.linkedin.com/in/jae-partridge-625223210/
+
+Please Note: This is a permanent role. This role is for UK residents only. This role does not offer Sponsorship. You must have the right to work in the UK with no restrictions. Some of our roles may be subject to successful background checks including a DBS and Credit Check.

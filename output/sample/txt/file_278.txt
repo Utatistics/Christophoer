@@ -1,0 +1,30 @@
+Job Description
+
+Data Analyst
+
+(Tokyo)
+
+Your Duties & Responsibilities
+
+Collect and document data reporting requirements from Finance
+Analyze and translate business requirements into technical descriptions; and vice versa
+Provide input to data engineers about technical requirements from the business expectation
+Leverage the data platform to produce financial statements & reports
+Perform data analysis related to finance business, including e.g. examining some metric by user cohort, troubleshooting a report discrepancy
+
+Qualifications/Must Have
+
+Good finance / accounting knowledge
+Experience preparing an analysis result for business audience including with visualizations or using BI Tools
+Knowledge in SQL and one scripting language (e.g. Python)
+Experience with a query/ETL job scheduler (e.g. Airflow, Prefect)
+Good at writing documentation for data queries and transformations
+Business or above Japanese level
+
+What We Offer You
+
+Diversified team with 150+ colleagues from 30+ countries
+Exciting work opportunities in a rapid-growing organization
+Cross-functional collaboration
+Flexible work-from-home arrangement
+Competitive salary and benefits

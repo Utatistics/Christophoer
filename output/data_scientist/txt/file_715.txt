@@ -1,0 +1,31 @@
+The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the frameworks, capabilities and tools needed to welcome a billion customers. Join us and help to amplify productivity, quality and innovation across Spotify.
+
+Platform Mission operates in the heart of Spotify. We build the technology ecosystem that enables Spotify to learn and deliver quickly, while safely and easily scaling to billions of customers, and enabling our rapid employee growth around the globe.
+
+At Client Platform, a part of the Platform Mission, we are passionate about amplifying productivity, quality and innovation across all client developers at Spotify. Client Platform strives to bring a great experience for client developers at Spotify, and through this deliver stable and reliable products for people to enjoy.
+
+As a Senior Data Scientist you will study the behavior of client developers at Spotify, support product strategy, understand our critical initiatives and bring data and insights into high impact collaborations. Spotify is a fast paced company that believes that every decision should be data-informed and every feature be fueled with data.
+
+What you’ll do
+Work closely with cross-functional teams of skilled engineers, data scientists, user researchers, designers, and product managers who are all passionate about providing an outstanding product experience
+Define metrics, build dashboards, create reports and key datasets to empower data-informed product development
+Communicate insights and recommendations to key partners, helping activate data best practices in the Client Platform teams
+Develop and innovate on our mixed-methods insights practice, and contribute to the wider Insights community at Spotify
+Perform exploratory analysis to understand who our users are, how they get value out of our offering and where we can further develop our product to bring greater value
+Work from our offices in Stockholm (With the current situation regarding COVID-19, this role will be remote until it's appropriate to work from the office)
+
+Who you are
+5+ years of working experience, with a comparable training in statistics, mathematics, computer science, engineering, economics, or any other quantitative field
+A communicative person who values building strong relationships with colleagues and partners, you also enjoy mentoring and guiding others
+Able to navigate loosely defined problems, as well as coming up with impactful and actionable insights
+Have understanding of how to instrument products to accurately collect user and system behaviors through data, thus offering a wide variety of insights and product development use cases
+Skilled in advanced analytics, and you possess statistical competence (such as regression modeling and significance testing)
+Hands-on experience synthesizing insights from data using tools such as Python, R, BigQuery, SQL, Tableau
+
+Where you'll be
+For this role, it can be within the EMEA region in which we have a work location and is within working hours.
+Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

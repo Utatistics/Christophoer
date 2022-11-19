@@ -1,0 +1,35 @@
+Play’n GO leads the global Gaming Entertainment industry with an unrivaled ability to play nice with others while supplying cutting-edge casino games and bespoke back-office solutions. Thanks to our ever-passionate creative and technical chops, we keep growing. Are you game?
+
+We are looking for a Forecasting Analyst / Data Scientist to join our growing team!
+
+Responsibilities Include But Are Not Limited To
+Leading the Statistical and Forecasting aspects for major assigned models and studies
+Performing statistical interference research analysis and modelling for Weekly/Monthly and Annual forecasting models through assessing seasonality, shifting calendar, key events, revenue, units, ASP, mix, Opex dynamics, gross margins, and target price
+Constantly searching for and then implementing novel statistical approaches, for relevant statistical issues
+Proficiently and flexibly adapting base model and customize the forecasting outputs to satisfy clients' specific requirements
+Performing primary research and utilizing complex data analysis in Excel, PowerPivot, SQL, R and Python, and leveraging various statistical techniques to drive business solutions
+Building quantitative statistical attribution models to identify contribution by channel taking into consideration trends, seasonality and external factors (e.g., pricing, promotions, demographic, media habits. Etc.)
+Build a library of external and internal explanatory factors and testing the hypothesis and quantifying the final impact of each factor (individually and combined with other factors)
+Using Python and data Science processes to conduct causal inference, sampling, exploring, cleaning, transformation, feature engineering and quantization models
+Evaluation, scoring, visualizing, and cross-validating with SQL, R, Python, and Azure ML.
+Testing hypothesis and building supporting models including Linear and Logistic Regression, Decision Forests, Recommender Systems, Clustering, Unsupervised Learning, Text Analytics, Classification, Linear Integer
+Ability to demonstrate exceptional experience in Optimization and Time Series modelling
+Requirements
+Production level Python, Data Science process, theory, methodology, causal inference, statistics, sampling, exploring, cleaning, transformation, feature engineering, quantization, evaluation, scoring, visualizing, and cross-validating with SQL, R, Python, and Azure ML.
+Modelling: Linear and Logistic Regression, Decision Forests, Recommender Systems, Clustering, Unsupervised Learning, Text Analytics, Classification, Linear Integer Optimization, Time Series, Customer Life Time Value, stratified Universal Control Groups
+Real time Predictive Analytics with Exasol, Kibana, HBase, Hive, Spark, Python, Jupyter, Scala, Pyspark, Streaming ML
+Excellent knowledge of data science tools and languages, including, R and Python coding
+In depth understanding of common Machine Learning algorithms (e.g., for classification, regression and clustering).
+In depth knowledge of advanced statistical theories, methodologies, and inference tools (e.g. linear models, additive models, mixture models, non-parametric models, etc.).
+Thorough understanding of advanced topics of Machine Learning (e.g., Bayesian inference, hierarchical models, deep learning, Gaussian processes, causal inference, graph theory, etc.).
+Ability to conduct detailed business needs analysis and deliver the relevant consulting solution
+Storytelling from data: able to derive the “so what?” from data and analysis
+A high level of business acumen with the ability to identify opportunities/ gather/analyze market data and present key findings at a senior level
+Experience with requirements specification and development, such as process/functional requirements definition methods, use case development, and process flow diagrams.
+Get in here. We need your mojo, your moxie and your beautiful mind. You were made to make a difference and you can do that here. You will be rewarded with challenges. You will thrive in secret and in collaboration. Together, we will amplify enthusiasm, add skillsets and exceed expectations. And quickly. This industry works fast. Are you game? Tell us about your superpowers.
+
+Apply here: https://talenthub.playngo.com/ Please note that the position will remain open until the right candidate crushes it.
+
+As a leading supplier in the industry, we provide much more for those that we work with. That means more releases than anyone else, more tools to support ambitions and consistently high quality in everything bearing the Play’n GO name.
+
+Connect with us and be the first to know about our job openings.

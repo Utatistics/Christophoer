@@ -1,0 +1,61 @@
+Experience level: Mid
+
+Tech stack used: Python, AWS
+
+Primary skills we consider: Python, Sklearn
+
+Secondary skills we consider: AWS, Tensorflow, PyTorch, Fastai
+
+Compensation: £35,000 - £55,000
+
+Employment type: Permanent and Full time
+
+Remote working: Not available
+
+Visa sponsorship: Available
+
+About Us
+
+Machine Medicine Technologies (MMT) uses computer vision and computational statistics to enhance the neurological assessment of patients. Our first product, KELVIN-PD, allows motor assessments in Parkinson’s disease to be performed, recorded and used both faster and better than has ever previously been possible. KELVIN-PD is already in use at clinical sites across several countries and possesses a CE mark, being a class-I medical device. MMT aims to build the platform into a generalised tool for patient selection, surgical planning and device programming for machine brain interfacing, a revolutionary therapeutic innovation.
+
+About You
+
+You are an ambitious and capable data scientist with a background in computational statistics and machine learning, with multiple years of industry experience. You have put relevant statistical and machine learning techniques into practice in production settings, understanding the pitfalls encountered with optimising data pipelines and applications. Previous work in a biomedical sector would be beneficial but not mandatory. You care about impact and want to do work that matters.
+
+List Of Main Duties And Responsibilities
+
+Applying statistical and ML techniques to interesting problems.
+Authoring academic papers and contributing to our research strategy.
+Deploying and managing code in a production environment.
+Keeping up to date with relevant research.
+
+Skills
+
+Strong coding skills in Python, and experience with commonly used data science libraries (sklearn, pandas, numpy).
+Strong understanding of statistical and ML techniques (experience with Computer Vision would be beneficial).
+Experience deploying/scaling ML pipelines in a production environment, and/or academic publication authorship record.
+Good communication and data visualization skills.
+Familiar with git, bash and coding best practices.
+Familiarity with AWS (EC2, S3, Lambda, Batch) would be beneficial.
+Experience with deep learning frameworks (Tensorflow, PyTorch, Fastai) is beneficial but not necessary.
+
+Experience
+
+3+ years industry experience (or 1+ years and a PhD).
+
+Qualifications
+
+BSc & MSc (at least one of these should be in statistics or data science).
+PhD preferable.
+
+Company Culture
+
+A fast-moving startup, with an energetic and dynamic team, looking to disrupt the MedTech industry with AI. Our employees are encouraged to take on the sort of career development opportunities that cannot be found at larger, more established, companies. We are in the highly regulated medical device industry, so our engineering team has to have an even greater focus on quality, usability and versatility. We also like to blow off steam, whether that’s playing a few rounds of table tennis in the office, or arranging an online gaming session.
+
+Company Benefits
+
+Competitive salary
+Employee equity programme
+Pension
+25 days annual leave (+ 8 bank holidays)
+Offices close to London Bridge, Bermondsey Street and Borough Market

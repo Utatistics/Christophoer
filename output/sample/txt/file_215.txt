@@ -1,0 +1,41 @@
+Competitive Salary - Up to 8.5M JPY/yr!|Work On Global Projects - Use Your Multilingual Skills!
+
+About Our Client
+
+Our client is an industry leader in IT services, especially strong in Asia. Ranked in the top 5 in their industry for employee-satisfaction, they pride themselves on providing custom career paths and skill development to their employees. Although they are quickly expanding in Japan and Asia, they put great care to preserve their core employee-approach as they scale their business.
+
+Job Description
+
+Responsibilities include but are not limited to:
+
+Understand client product, internal tools, processes and increase work efficiency through automation
+Develop and maintain analytical dashboards
+Monitor data flow pipelines, identify bugs and bug fixing
+Debug code from code repository and submission of change log for approval
+Collation of dashboards feature requests and define timelines for requirements closure
+Expected to perform data analysis (if required) as and when needed
+Gather Business Requirements on automations & create BRD
+Develop platforms basis Python, Angular webframe work/Javascript utilizing cloud database
+Good statistical knowledge to perform regression models and other stat analysis
+The Successful Applicant
+
+If you possess most of the following, you are likely a strong fit for the role:
+
+At least 3 years of working experience in analytics to handle big data
+Hands-on experience in GCP and Firebase
+Hands on experience using SQL , BigQuery & Javascript
+Python a plus!
+Experience in Intermediate to Advanced statistics and data modelling
+Hands-on experience of reporting tools and technologies like Tableau, Bigtable, Datastudio & Analytics dashboards etc
+Business level of Japanese or English
+What's on Offer
+
+The Successful Candidate Is Entitled To The Following Benefits
+
+Competitive salary, earn up to 8.5M JPY/yr!
+Use your language skills on global projects
+Gain experience in emerging data technologies
+Hybrid working model okay
+Contact: Justin Chao
+
+Quote job ref: JN-092022-5748000

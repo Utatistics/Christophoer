@@ -1,0 +1,46 @@
+An exciting new opportunity has arisen in Veygo for a Data Scientist to join the Data and Pricing team. Reporting into the Head of Data & Pricing, you will leverage data in a way that positions the department as a thought leader for growth opportunities and strategic decision making.
+
+About Veygo
+
+Veygo is an independent company within Admiral Pioneer, a new business within Admiral Group with the objective of seeding, launching, and scaling start-ups.
+
+Veygo is at the forefront of the Mobility as a Service (MaaS) revolution and is growing fast. We want to make life easier for those wishing to share cars, use their own temporarily, or for learner drivers looking to practice in a family member’s or friends’ car. In short, we want to help people be able to get behind the wheel of a car, even if they don’t own one.
+
+Main Duties And Responsibilities
+
+Data Science
+Translating technical data to simple language that leads and influences the Veygo senior management and broader business to make data led decisions.
+Commercial experience using statistical models or supervised learning techniques such as decision trees, GLMs, random forests or gradient boosted ensembles.
+Experience discovering, defining, documenting, and utilising internal and external datasets that are relevant for solving high-impact business problems.
+Communication and Collaboration
+Highly visible presence across the business, integral to decision making forums and stakeholders ensuring Veygo is making data and customer led decisions.
+Operates as a business partner to key internal and external stakeholders.
+Communicating results and ideas to key decision makers across Veygo.
+Collaborating with peers in pricing, data and with stakeholders from all relevant areas of the business.
+Creation, implementation and maintenance of ad-hoc and periodical business reports and data visualisation.
+Key Skills
+
+The successful candidate will ideally have:
+Strong data, quantitative and analytical skills supported by a solid academic and work background
+Experience of coding language. Preferably with Veygo’s analytical tools (Tableau, SQL and Python).
+Willingness to learn from the bottom up and put in the time to acquire the necessary technical skills
+Proactive and creative approach to taking initiative and getting things done
+Team player with proven ability to collaborate and build relationships
+Excellent interpersonal and communication skills (both written and verbal)
+Our Commitment to You
+
+At Admiral, we are committed to being a diverse and inclusive workplace. Admiral is proud to be an equal opportunities employer and does not discriminate on the basis of race, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), national origin, gender, gender identity, sexual orientation, disability, age, or any other legally protected status.
+
+All qualified applicants will receive equal consideration for employment.
+
+Salary, Benefits And Work-Life Balance
+
+We do not have a set salary for this position, as it will be dependent on the successful candidate’s experience. We are happy to see CVs from all candidates who meet the requirements and will be happy to discuss the remuneration package.
+
+At Admiral, we are proud to be a diverse business where we put our people and customers first. We have great benefits to ensure employees have a great work-life balance; it's one of the reasons we’re consistently voted one of the Sunday Times Best Big Companies to Work For in the UK. We want you to have an element of freedom to define a working lifestyle that supports this, so accommodate flexible hours wherever possible.
+
+All colleagues will receive 33 days holiday (including banks holidays) when they join us, and this will increase with length of service, up to a maximum of 38 days (including banks holidays). You also have the option to buy or sell up to five days of annual leave in addition to your allocation.
+
+You can also view some of our other key benefits here.
+
+At Admiral Pioneer we have a hybrid way of working, meaning our employees work both from home and in the office. We understand everyone has their own preference of working and so we are open to discussion on how this would look for you. If you have any questions or would like to learn more, please reach out to our Recruitment Team here.

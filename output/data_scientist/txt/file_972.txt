@@ -1,0 +1,45 @@
+Senior Data Scientist
+London, Multiple Locations
+
+POSITION PROFILE
+We’re looking for a passionate and talented Senior Data Scientist to join our rapidly growing team. In this role, you’ll have the chance to roll up your sleeves and apply data science methods and analytics to real world business situations across a variety of industries. As the field of advanced analytics is rapidly evolving, the SDS is responsible for staying current on leading-edge business applications, tools and approaches, proactively working with the Analytics Leadership to enhance offerings that deliver competitive advantage to BCG. Successful candidates are intellectually curious builders who are biased toward action, scrappy, and communicative. You will also get the chance to travel: we have clients in New York, Paris, Stockholm, Peru… Make sure your passport is ready to go!
+
+WHO YOU ARE. YOU:
+ Have deep technical and Data Science expertise: The successful candidate will have a wealth
+of experience with applying advanced analytics to a variety of business situations, such that
+they can efficiently and effectively advise multiple teams on the best path to uncovering critical
+insights for clients.
+
+ Are an autonomous self-starter with a passion for analytics and problem solving. You will
+help build new Analytics service offerings that grow our portfolio of products and will captures
+proprietary content, and support the creation of proposal/selling documents.
+
+ Are comfortable managing engagements, client relationships, and acting as a “thought
+Leader.” Strong presence, strong collaborator and leadership skills and ability to operate
+effectively in a matrix organization are a must.
+
+ Love building things and are comfortable working with modern development tools and writing code collaboratively (bonus points if you have a software development or DevOps experience)
+
+ Have significant experience applying advanced analytics to a variety of business situations and a
+proven ability to synthesize complex data; as well as a deep understanding of modern machine
+learning techniques and their mathematical underpinnings, and are able to translate this into business implications for our clients
+
+ Have strong project management skills
+
+JOB REQUIREMENTS:
+ Master’s Degree or PhD with significant relevant experience providing advanced
+analytics solutions. The degree should be in computer science, applied mathematics,
+statistics, machine learning, or a related data centric field.
+ Demonstrated deep technical and data science expertise, acute strategic and analytical
+skills, ability to lead and persuade, drive and energy, and desire to work in a project based
+environment on strategic issues.
+ Strong record of professional accomplishment and leadership.
+ Fluency in at least one scripting language (e.g. Python, R)
+ Fluency in English local office language is required
+
+WORK ENVIRONMENT:
+ Fast-paced, intellectually intense, service-oriented environment
+ Position is located in either Paris, London, Germany, Nordics, Warsaw, Milan, Zurich or Madrid
+ Expect up to 60-80% of time spent travelling
+
+£80,000 - £110,000 + Performance Bonus

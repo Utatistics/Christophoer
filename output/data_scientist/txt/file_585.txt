@@ -1,0 +1,49 @@
+Are you a machine learning researcher who is interested in improving the healthcare system? Do you have experience with large, complex datasets, and in training large neural networks on GPU-enabled systems? Do you want to push the boundaries of what is possible with NHS data, and help GPs and pharmacists to improve people’s health?
+
+The DynAIRx project aims to develop new, easy to use, artificial intelligence (AI) and data visualization tools that help GPs & pharmacists treat patients who are living with multimorbidity (two or more long-term health conditions). The project is large (consisting of the Universities of Leeds, Liverpool, Manchester and Glasgow, and three NHS organisations), cross-disciplinary (clinicians, computer scientists, statisticians), and is funded by the National Institute for Health Research.
+
+DynAIRx is focussing on groups of patients who are at high risk of rapidly worsening health from their multimorbidity and, due to taking multiple medicines (polypharmacy), have increased likelihood of developing serious side effects. Our new tools will combine information from electronic health and social care records, clinical guidelines and risk-prediction models to ensure that clinicians and patients have the best information to prioritise and support Structured Medication Reviews and, therefore, reduce the risk that those patients are prescribed potentially harmful combinations of drugs.
+
+The University of Leeds team comprises Professor Roy Ruddle (data visualization), Professor Andrew Clegg (clinician and specialist in geriatric medicine), Dr Samuel Relton (machine learning, statistics) and three research fellows. As the Research Fellow in Health Data Science, you will take responsibility for training AI models, based on temporal graphs, to predict patient outcomes, find indicative patterns of care, and create risk trajectories to help guide clinical decision making. The key parts of your research in the DynAIRx project will be: (a) co-designing a thorough analysis plan including model architecture, hyper-parameter optimisation, and performance testing, (b) implementing an effective approach using Python on a cloud service, (c) evaluating the solution with other researchers and users (GPs and pharmacists), and (d) writing documentation and training material for users.
+
+Holding a PhD (or close to completion) in Computing, Mathematics or a closely allied discipline, or have equivalent experience, you will have programming skills and evidence of the ability to develop machine learning models. Some travel to UK study sites will be required.
+
+To explore the post further or for any queries you may have, please contact:
+
+Dr Samuel Relton, Senior Research Fellow
+
+Tel: +44 (0)113 343 6731
+
+Email: s.d.relton@leeds.ac.uk
+
+Further Information
+
+As an international research-intensive university, we welcome students and staff from all walks of life and from across the world. We foster an inclusive environment where all can flourish and prosper, and we are proud of our strong commitment to student education. Within the Faculty/School of Medicine we are dedicated to diversifying our community and we welcome the unique contributions that individuals can bring, and particularly encourage applications from, but not limited to Black, Asian, people who belong to a minority ethnic community, people who identify as LGBT+; and disabled people . Candidates will always be selected based on merit and ability.
+
+Location: Leeds - Main Campus
+
+Faculty/Service: Faculty of Medicine & Health
+
+School/Institute: Leeds Institute of Health Sciences (LIHS)
+
+Category: Research
+
+Grade: Grade 7
+
+Salary: £35,333 to £42,155 p.a.
+
+Working Time: 1.0 Full time Equivalent
+
+Post Type: Full Time
+
+Contract Type: Fixed Term (Available for 30 months due to external grant income)
+
+Release Date: Wednesday 31 August 2022
+
+Closing Date: Wednesday 28 September 2022
+
+Interview Date: Thursday 03 November 2022
+
+Reference: MHIHS1324
+
+Downloads: Candidate Brief

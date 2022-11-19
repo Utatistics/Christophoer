@@ -1,0 +1,35 @@
+Position: Global Data Scientist
+Location: Haddenham
+
+Global Data Scientist will be responsible for providing leadership and subject matter expertise in the use of visualization and advanced analytics to solve business problems. The role requires a deep understanding of the processing, modelling and analysis of structured and unstructured data, combined with the ability to interpret results and make recommendations to business stakeholders to shape strategies for our business units globally. The candidate needs to be able to establish credibility with a wide variety of business partners by providing consulting (advisory) services as well as high quality execution across multiple priorities, in a fast-paced environment.
+
+MAIN RESPONSIBILITIES
+
+Leverage data mining and analytical skills to provide advanced analytic solutions that solve business problems and bring new insights to the business; Develop global tools to integrate, report and interpret large data sets with structured and unstructured data
+Automate data collection, data transformation & harmonization for one source of truth and data democracy in EMEA region
+Capture EMEA regional reporting requirements and extract data to support automated reporting workstreams executed by offshore analytics partner
+Work with IT to create and manage a data infrastructure to support for McCormick Marketing function
+Leverage external connections to seek out new and improved tools and approaches to bring into McCormick
+Develop training content that enables business partners to use data more effectively in their jobs
+
+
+CANDIDATE PROFILE
+
+Bachelor’s degree in Mathematics, Statistics, Engineering, IT or Data Analytics/Science, or closely related field
+Experience in analytics, data science, or related field
+Demonstrated skills and results in analyzing complex datasets, generating insights and building robust statistical models
+Demonstrated sound understanding of concepts, principles and practices in Marketing and Sales
+Demonstrated ability to connect the dots between complex data/analytics and business understanding
+Proficiency with building dashboards for business users using data visualization software (Power BI preferred)
+Expertise with SQL and coding in one or more languages (Python preferred)
+Experience with building data models (machine learning & AI preferred)
+Comfortable working with structured and unstructured data sources, e.g. syndicated data, SAP
+Proven project leadership experience with demonstrated success in balancing multiple projects in a fast-paced environment; foresees and addresses issues before they become significant obstacles
+Strong technical curiosity, a passion for problem solving and the ability to uncover richness of analytic insight that translates to business opportunity
+Demonstrated agile learning skills; ability to learn new technology, skills & tools quickly and easily
+Ability to synthesize analytic learnings and translate into compelling stories for a business audience
+Effective at building collaborative, cross functional and cross-geography partnerships
+Excellent written communication and presentation skills
+Strong personal leadership, including attention to detail, quality of work and bias toward action
+Ability to travel internationally, as needed (0-5%)
+CPG or Food/Bev experience desirable

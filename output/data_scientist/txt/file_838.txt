@@ -1,0 +1,50 @@
+We are looking for a Data Scientist who will help enable our clients to be data-driven.
+
+Are you a storyteller? Do you love data? You can bring these skills together at Benivo. Join our team to help inform the most important HR decisions a top employer makes based on Benivo data analysis.
+
+Benivo is a B2B HR technology company helping global enterprises engage and support their employees in their relocation journey. Our customers include Bloomberg, KPMG, Google, Goldman Sachs, Wayfair and many more. Our mission is to make every employee welcome, no matter their job seniority, budget, country of origin or destination.
+
+In this role you’ll need to:
+Champion analytics and insights at all levels of the organization to drive positive change.
+Own the data warehouse. This includes:
+Work with tech and product to ensure it's structured to capture clean data for rapid querying and long term automation.
+Filter and “clean” data. If needed, review performance indicators and collaborate with R&D to identify code problems.
+Develop and implement data collection systems and other strategies to optimize data quality.
+Locate and define new process improvements.
+Own metrics and data to identify changes, actions and opportunities
+Generate reports to facilitate easy access to the data as needed by internal stakeholders.
+Define an analytics roadmap. Work with Product and R&D to standardize and prioritize queries and deliver on the roadmap.
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+Identify, analyze, and interpret trends or patterns in data sets.
+Build forecast models for key metrics, incorporating impacts from internal and external catalysts.
+Support the Head of Client Analytics with Client data requests and regular metric reviews with client success teams.
+
+Requirements
+At least 5 years of experience in a relevant Data Science role or a PhD in Data Science.
+Hands-on experience building and deploying statistical and/or machine learning models.
+Past experience with using data to tell stories and find trends
+Strong analytical skills with the ability to collect, “clean” data, organise, analyse, and disseminate significant amounts of information
+Ability to work with structured and unstructured data, including advanced SQL, scripting ability in Python, R, or a similar language.
+MixPanel knowledge, Tableau, Zoho Analytics
+Strong written and verbal communication
+Experience collaborating effectively with teams in different parts of the business
+Proactive and results-driven
+
+This is a permanent, full-time role in a remote-working friendly team with a hybrid working approach that allows working onsite as well as homeworking; Our office is based in London, WC1H 9HQ. At the moment we are attending the office two Tuesdays a month.
+Please note we will be shortlisting and interviewing candidates as applications come in, so please apply as soon as you can.
+
+Due to the nature of this role, the successful candidate will need to undertake a basic criminal record check, the cost of which will be covered by Benivo.
+
+Benefits
+33 days paid annual leave, including bank holidays which are flexible - you may choose to work on bank holidays and take the day off elsewhere in the year
+Flexible start-end times (core hours are 10am - 4pm)
+Learning & development - every Friday afternoon is a half day to focus on your self-development and interests
+A yearly generous wellbeing cash-allowance
+PayLater cash advance - financial assistance for large personal expenses (e.g moving house, furniture, etc)
+Work remotely from 30+ countries for one month per calendar year
+Enhanced employer pension contributions of up to 5%
+Share options in the employee’s options plan
+Company social events and team celebrations
+
+About Benivo
+At Benivo we value collaboration and we're proud of our diverse team (~80 employees in 4 locations - London, Yerevan, Palo Alto and Bangalore). We're quick to adapt and learn which makes our environment dynamic and fast-paced. We enjoy a good challenge and love solving big problems because we want to delight our clients and users with our product and service.

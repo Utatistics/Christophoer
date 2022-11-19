@@ -1,0 +1,79 @@
+What is Sylvera anyway? ‍👩‍👨🌳
+
+Sylvera is scaling carbon markets with software. We do this by applying advanced machine learning techniques to satellite data to quantify with unprecedented accuracy the amount of carbon stored in landscapes - and then we visualise that data to our customers.
+
+We believe the transparency Sylvera provides will enable carbon markets to have a more positive impact on the world in a shorter space of time. This will be critical in keeping the planet under 2C of warming and provide huge wider benefits to nature and society.
+
+Founded just 2 years ago, Sylvera has now scaled to over 100 employees across the world and has raised over $30m from leading VCs like Index Ventures and Insight Partners. We’ve also collaborated with leading institutions - University College London and UCLA.
+
+We're on a super steep trajectory over the next couple of years - we want incredible people that are as passionate as we are about the mission and want to build an amazing organisation with us to achieve it.
+
+What will I be doing? ‍‍👩‍💻👨‍💻
+
+Having found early product-market fit in a nascent, rapidly growing space, we’re now scaling our Machine Learning team at pace. We’re looking for mission-driven, Machine Learning Engineer to join our Machine Learning function and bring an understanding of intergovernmental forestry policy to compliment the existing team.
+
+Specific responsibilities will include:
+
+Contributing to the development of remote sensing and machine learning pipelines, tools and models for evaluating forest MRV activities
+Collaborate with various Sylvera teams in defining and developing methodological approaches to be used in forest monitoring
+Deliver critical assessment and expert review of proposed state-of-the-art approaches to carbon accounting, data, and analysis in line with the latest science and policy developments (e.g., academic research, GFOI, UNFCCC/IPCC, carbon accreditation standards, other reporting frameworks)
+Build the capacities of Sylvera staff to replicate/apply the methods used
+
+We’re looking for someone who: 🧠💚
+
+Strong working knowledge of remote sensing data e.g. Optical, SAR, LIDAR
+Strong working knowledge of Python and geospatial libraries and packages i.e. GDAL, rasterio, Earth Engine, XArray, QGIS
+Foundation in statistics (and/or forest mensuration)
+Familiarity with forest sampling techniques, allometry, baseline calculations, etc is a plus
+Understanding of use of field data, including permanent plots, forest mensuration, allometric models, forest inventory techniques
+Experience with forest carbon projects and carbon offset protocols is a plus
+Familiarity with machine learning methods specially applied to remote sensing data
+Breadth of coverage and capable of making informed decisions about choice of tools, models and approaches
+Familiarity and understanding of the technical aspects of carbon accounting frameworks and standards/guidelines: UNFCCC, IPCC 2006 guidelines, GFOI methodological guidance, FCPF methodological framework, ART-TREES, Gold Standard, Verra-VCS, CORSIA, etc
+Relevant experience in elaboration and delivery of carbon estimates for mitigation action design (e.g., REDD+ projects and programs) and implementation at either national, subnational or project scales
+Experience in forest carbon accounting related work streams for national and/or project level estimates
+Cares deeply about the climate and ecosystems of the earth
+Is a self-starter who thrives in constantly evolving environments, ideally with early-stage experience
+
+Benefits 💰
+
+Equity in a rapidly growing startup
+Salaries benchmarked to the top 25% of the industry
+No corners cut in having the best tech to do your job
+Unlimited annual leave - and encouragement to actually use it!
+Half Day Fridays - 2pm finish every Friday- Enhanced parental leave
+Monthly Team Lunches
+Up to 20 days paid sick leave
+£500 WFH allowance
+Access to Mental Health support via Spill
+Monthly team socials
+
+Location 🌍
+
+Remote GMT +/-3 (with access to an office in London/Belgrade if you wanted to come in)
+
+Our Values 🙌
+
+Own it
+
+We believe in giving people the autonomy to own their impact.
+
+Stay curious
+
+Our business is built on revealing truths and debunking misperceptions.
+
+Do What’s Right - Even When It’s Hard
+
+The right path isn’t always easy or obvious.
+
+Collaborate with Kindness
+
+Great teams are built on open communication and respect.
+
+What if you’re a partial fit? 🌱
+
+We prioritise grit, positivity, and the willingness to get stuck in, and encourage you to apply even if your experience doesn't exactly match this job description
+
+Equal employment opportunity 🌈
+
+Sylvera is an equal opportunity employer: we value diversity. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status

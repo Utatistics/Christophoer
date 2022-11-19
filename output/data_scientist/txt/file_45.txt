@@ -1,0 +1,61 @@
+All our positions are based in either Leiden (NL) or Cambridge (UK)
+
+OKRA empowers life sciences executives and operational teams to drive the right drug to the right patient with humanized and understandable AI insights.
+
+At OKRA we are fostering a new generation of Artificial Intelligence (AI) solutions that support the healthcare ecosystem. Our solutions are implemented at top pharma companies throughout the product pipeline to empower employees in decision-making around complex problems.
+
+We are using artificial intelligence to transform healthcare as we know it.
+
+What we’re looking for
+We are looking for a highly motivated data scientist with a strong background in Natural Language Processing (NLP) (3 years or more) techniques to develop solutions based on OKRA’s groundbreaking technologies.
+
+You're someone who's been passionate about NLP for some time now and has been involved in long-term projects (such as a PhD or research programme). You have experience with different approaches and methodologies, and you're hands-on with your work.
+
+We welcome people from different backgrounds and experiences and we encourage you to apply even if you do not meet all the bullet points.
+
+Your role
+As an NLP Data Scientist at OKRA, you will play a critical role in designing and building solutions using the leading AI engine for healthcare and life sciences. You will work closely with our executive team who have worked for over 12 years implementing machine learning for real-world applications, turning research into reality.
+
+We’re pioneers. As our new Okran, you will have the chance to influence the design, architecture, and refinement of the data processing approaches in healthcare. You will also have a key role in driving the development of tools to expose the processed information, taking advantage of the latest technologies available.
+
+What you’ll do:
+Define and build systems to model unstructured data sets to generate insights for clinical problems that Natural Language Processing techniques can solve
+Applying Natural Language Processing techniques and statistical analysis to extract and validate data generated
+Build and prototype Natural Language Processing pipelines to iteratively provide insights at scale
+Contribute to defining and testing our products in the broadest sense possible, including testing for AI bias, transparency, and reliability
+Work closely with both our engineering and data science teams to drive product releases
+
+What you’ll need:
+Strong problem-solving skills with an emphasis on product development.
+Relevant & applied experience with Natural Language Processing
+Knowledge of a variety of Natural Language Processing techniques and their real-world applications
+Master’s or PhD in Natural Language Processing, Data Science, Linguistics, Computer Science or another quantitative field
+Proficiency in modern Python programming
+Familiarity with solving problems using Artificial Intelligence
+Proficiency in English
+
+Bonus points if you have:
+Practical experience with other classical Machine Learning algorithms
+Familiarity with Agile frameworks and tools like Jira
+Experience with AWS services (e.g: Glue, S3)
+Exposure to SQL and Natural Language Processing libraries
+
+What’s in it for you:
+Vibrant and diverse co-workers with various backgrounds and experiences (14 nationalities and counting!)
+At the sharp end of AI Capability breakthroughs
+Startup working ethos with a flat structure, and space for independent decision-making and impact
+A creative fail fast / learn quick environment to explore new solutions and ways of working
+
+The Perks
+25 days annual leave + Local Bank Holidays
+Hybrid WFH policy
+Weekly Team Lunch
+Frequent and regular informal team socials
+One-off WFH set-up budget
+Monthly Phone/Internat allowance
+Good Pension Scheme
+Private Healthcare (UK)
+NS Business Card
+
+Come as you are
+Okra is an equal opportunities employer. We invest in diversity, ensure equality and encourage expression. Want to join us in creating the future of AI? Let’s do it right, together.

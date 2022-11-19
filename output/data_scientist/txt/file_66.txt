@@ -1,0 +1,54 @@
+About The Role
+
+We have an exciting opportunity for a Computer Vision expert to join our Data Science team, where you will work on and deploy ground breaking products and have the opportunity to grow and improve your skills whilst working as an expert member of the team.
+
+As a Senior Data Scientist you will mentor and support other team members and with our career framework you can either grow as either an individual contributor or as a manager.
+
+About The Team
+
+At Tesco, our Data Scientists model sophisticated and complex business problems across areas such as online, pricing, security, fulfilment, distribution, property, IoT and computer vision and deploy data products at scale. The work spans across multiple areas including physical stores and warehouses, online, logistics, supply chain, marketing and Clubcard, and we encourage rotation amongst the team, so they can gain expertise in different areas.
+
+Our team also spends their Friday afternoons on learning and personal development. Multiple academic collaborations enrich the team expertise; knowledge sharing events are regular. Furthermore, we have got a great work-life balance, team days and relaxed but engaging culture!
+
+You will be responsible for
+Demonstrate your analytical mentality to find solutions to sophisticated problems, primarily focusing on computer vision solutions.
+Understand difficult business problems and prototype solutions with minimal support.
+Validate, document and present the modeling process and performances, as well as communicate complex solutions in a clear, understandable way to non technical stakeholders.
+Promoting data science across Tesco and promote Tesco across the external Data Science community.
+Use your skills in computer vision and deep learning to build proof of concepts as well production solutions, making your contribution to develop and deploy Computer Vision solutions across Tesco’s environment.
+
+You will need
+
+We are looking for an ambitious individual with commercial experience working on computer vision solutions. A mix of statistics and machine learning skills are also welcome. A track record in modifying and designing advanced algorithms and applying them to large real-world data sets is fundamental.
+
+An ideal candidate will have a scientific background with the ability to ask the right questions to technical and non technical experts, as well as answering them. A degree in computer vision subjects or in a mathematical, scientific, engineering or computer science subject area is preferable, or proven work experience.
+
+Finally, strong programming experience in Python is needed
+
+The Ideal Candidate Will Have Experience Of The Following
+Deep Learning frameworks: Tensorflow and/or PyTorch
+Object detection models, e.g. Faster-RCNN, YOLO, EfficientDet, Nvidia models
+Libraries and tools: OpenCV, scikit-image, SciPy, Pandas, Docker, Git
+Knowledge of image processing, and video technology
+Object tracking (optional)
+Real-time video processing (optional)
+
+What’s In It For You
+
+We offer excellent benefits that help make Tesco a great place to work! These include but are not limited to:
+Annual bonus scheme - up to 20%
+Holiday starting at 25 days plus a personal day (and bank holidays)
+Great colleague discounts and deals, saving you money on everyday purchases, utility bills for the home and more
+Retirement savings plan – save between 4% and 7.5% and Tesco will match your contribution
+Buy as you earn and Save as you earn share schemes
+Opportunities to get on – take advantage of our ongoing learning opportunities and award-winning training to help you achieve the career you want
+
+About Us
+
+Our vision at Tesco is to become every customer’s favourite way to shop, whether they are at home or out on the move. Our core purpose is “Serving our customers, communities and planet a little better every day”. Serving means more than a transactional relationship with our customers. It means acting as a responsible and sustainable business for all stakeholders, for the communities we are part of, and for the planet.
+
+We are proud to have an inclusive culture at Tesco where everyone truly feels able to be themselves. At Tesco, we not only celebrate diversity, but recognise the value and opportunity it brings. We’re committed to creating a workplace where differences are valued, and make sure that all colleagues are given the same opportunities. We’re a big business with diverse working patterns and many business areas which means that we can find something that works for you. Everyone is welcome at Tesco.
+
+We have recently announced that we are moving to a more blended working week – combining office and remote working. Our offices continue to be where we connect, collaborate and innovate. Talk to us about how this can work for you.
+
+Note: Should you be successful in your application, your employment will be subject to and conditional upon you providing your bank account details on your agreed start date.

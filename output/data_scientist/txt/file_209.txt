@@ -1,0 +1,50 @@
+Data Scientist – Deep Learning
+
+Real-World Analytics & AI, RWS Technology
+
+We are looking for a creative, innovative, intellectually curious and entrepreneurial Data Scientist with experience in developing Machine Learning software in production to join our London-based team.
+
+This is an exciting opportunity to work in one of the world's leading human data science teams working with Real World Analytics to help our clients answer specific questions globally, make more informed decisions and deliver results.
+
+The role
+
+We are looking for a Data Scientist who is keen to build machine learning products at the cutting-edge of life sciences. The primary focus of the role is to develop ML algorithms and contribute to in-house libraries, for high scale-high complexity rich medical data to predict answers to healthcare challenges.
+
+You will be working closely with software engineers, system architects and other data scientists to build automated and scalable routines / libraries, based on State-of-the-Art Machine Learning methodologies
+
+The role also includes opportunities for Business Development, thought leadership, R&D, and academic dissemination.
+
+At IQVIA we appreciate and nurture individual talent. Therefore, the exact blend of responsibilities and individual career development will in part depend on the skill set and aspirations of the successful candidate
+
+Our ideal candidate: Experience
+MSc or PhD in Machine Learning, Computer Science, Mathematics, Physics, Neuroscience or similar
+Analytical experience within a top commercial or academic organisation where data-led problem solving was core part of the role.
+Experience with the design and delivery of advanced machine learning projects in a commercial setting.
+A proactive, innovative, and pragmatic approach to problem solving and an ability to think critically and independently, able to work as part of a cross-functional team and communicate clearly to provide insights based on research and analysis outputs.
+Our ideal candidate: Tech Skills
+Good knowledge of Deep Learning methods (e.g. Recurrent Neural Networks, Transformer)
+Hands-on experience with PyTorch
+Good knowledge of supervised Machine Learning methods, applicable to tabular data
+Good programming skills in Python
+Experience of the data science package landscape (for example numpy, pandas, matplotlib, etc)
+Understanding of what it takes to write clean code
+Experience with software development lifecycle
+Experience with CI/CD pipelines
+Experience with Agile software development
+Bonus points for:
+Good knowledge of Convolutional Neural Networks
+Good knowledge of gradient boosting classifiers (e.g. XGBoost, LightGBM)
+Experience with experiment tracking and model versioning
+Experience with healthcare data (e.g. patient-level, longitudinal data)
+Knowledge of epidemiology / biostatistics, particularly analytical issues relating to studies of treatment effectiveness, disease progression, adherence, healthcare utilization, etc.
+The Team
+
+Our Machine Learning & Artificial Intelligence team within the RWA & AI Solutions Technology division is a fast-growing group of collaboratives, enthusiastic, and entrepreneurial individuals. In our never-ending quest for opportunities to harness the value of Real-World Analytics, we are at the centre of IQVIA’s advances in areas such as machine learning and cutting-edge statistical approaches. Our efforts improve retrospective clinical studies, under-diagnosis of rare diseases, personalized treatment response profiles, disease progression predictions, and clinical decision-support tools.
+
+You will join this high-profile team to work on a wide range of ground-breaking problems in health outcomes across disease areas including Oncology, Neurology, Chronic diseases such as diabetes, and a variety of very rare conditions. The Machine Learning & Artificial Intelligence Analytics teamwork together with statisticians, epidemiologists and disease area experts across the wider global team, leveraging a vast variety of anonymous patient-level information from sources such as electronic health records.
+
+We thank all applicants for their interest; however only those selected for interview will be contacted.
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximize their personal potential.
+
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com

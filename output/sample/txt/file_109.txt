@@ -1,0 +1,83 @@
+Job Summary:
+
+Senior Data Scientist is responsible for driving new and innovative approaches as to how the company understands, interacts, and services its customers and distribution through the optimization of analytics to drive business insights. The Senior Data Scientist is expected to provide enterprise-level consulting to MetLife business executives on the design, development and implementation of complex analytical models and insights, and simplifying for business implementation/integration.
+
+シニアデータサイエンティストは、ビジネスインサイトを促進するためのデータ分析による最適化を通じて、弊社が顧客との関係をどのように捉えサービスを提供するかについて、革新的なアプローチを推進する責任を負っています。また分析によって明らかとなったインサイトに基づく設計、開発、実装、およびビジネス適用/統合について、弊社のビジネスエグゼクティブに対しコンサルティングを提供することが求められます。
+
+Responsibilities :
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Identify, hypothesize, and implement the analytics business problems, secure proof of concepts and project delivery
+Deliver analytical solutions for the business, creating compelling explanations and plans to drive adoption in the business
+Selecting features, building and optimizing classifiers using machine learning techniques
+Use statistical methods to conduct descriptive, predictive and prescriptive model building, and summarize/present findings in an impactful manner.
+Machine learning using state-of-the-art methods
+Coordinate with different functional teams to implement models and monitor outcomes.
+Support business leader’s benefits realization of improved sales (new business ANP), value of new business (VNB), operational efficiency, Net promoter Score (NPS), Customer Centricity and other agreed measures within the Data Analytics program
+Team player, able to support wider needs in visualization, data management and BI as the need arises
+Be part of the global analytics community, presenting and sharing best practices to improve global and local capability
+全社ステークホルダーと協力して、企業データを活用したビジネスソリューションを推進する対象の特定。
+ビジネス課題を特定、仮説を立て分析する。PoC企画からプロジェクトのマネジメントを担う。
+ビジネスへの分析ソリューション適用に際し、相互理解と活用促進のための資料作成・説明。
+機械学習技術における、特徴量選択・分類・予測等に関する知識、また計算効率等に関する知識。
+構築されたモデルに対し、適切な検証技術（因果推論、ABテスト等）の選定とモニタリング。
+AI/ML分野における最先端技術・論文知識などの業界動向の把握。
+ビジネスリーダーの売上向上(新規事業ANP)、新規事業価値(VNB)、業務効率、ネットプロモータースコア(NPS)、顧客中心主義、その他データ分析プログラム内で合意された施策の実現
+必要に応じて視覚化、データマネジメント、BIのサポートをする
+弊社のグローバルコミュニティの一員となり、グローバルおよびローカルのスキルを向上させるためのベストプラクティスを提示および共有する。
+
+Requirements:
+
+Experience:
+
+5+ years of experience in the field of advanced quantitative techniques while working for leading global academic institutes or corporate innovation research labs or analytics organizations of large corporate or in consulting companies in analytics roles
+Proven track record of professional success in advanced analytics role.
+Very good Knowledge of the most important classical machine learning models (Classification, Regression, Clustering, Time-Series Analysis, Dimensionality Reduction etc.)
+大手グローバル学術機関、研究所、大企業のアナリティクス組織、またはアナリティクスを担うコンサルティング会社における、定量分析分野の5年以上の経験
+アナリティクス分野における専門的な功績（ビジネスアウトプット・学会発表・論文投稿等）
+基礎的な機械学習モデル(分類、回帰、クラスタリング、時系列分析、次元削減など)に関する知識
+
+Business Knowledge/Technical Skills:
+
+Deep technical competency in quantitative methods and/or business analytics and problem-solving skills in industrial settings
+Proven ability in model building and application experience in data mining techniques and tools (e.g., R, Python, SQL)
+Competent programming aptitude with excellent computation and data mining skills
+Visualization tools (Qlik Sense, Power BI) skills
+Strong analytical, problem-solving, and organizational skills, understands what it takes to deliver software with exposure to large-scale systems
+ビジネスにおける定量的手法/ビジネスアナリシスおよび問題解決スキルにおける経験と能力
+モデル構築能力と、データマイニング技術とツール(Python、R、SQLなど)の使用経験
+計算効率への配慮や大規模データの効率的なハンドリングが可能なプログラミング適性
+視覚化ツール (Power BI 、Qlik Sense等) スキル
+データエンジニア等と協力し、自身の作成したソリューションのシステム/社内インフラ化に向け要件等を共に議論できること
+
+Leadership Competencies:
+
+Self-motivated to continuously upgrade one’s domain knowledge, keep abreast of latest developments in the field and evaluate its application in the business area on a consistent basis
+Demonstrated ability to establish relationships and build rapport in order to influence colleagues at all levels, uncover business issues and identify needs
+Demonstrated ability to present and communicate concisely and clearly with all levels of financial, non-financial, technical, and executive audiences
+知識を継続的にアップグレードし、この分野の最新の開発についてキャッチアップし、それらをビジネスに適用できるか常に評価する意欲があること
+チーム内はもちろん組織全体に影響を与え、ビジネス課題を発見し、ニーズを特定するために、信頼関係を構築する能力
+様々なバックグラウンドを持つステークホルダー対する、柔軟かつ明確にコミュニケーションをとれる能力
+
+Language:
+
+・ English - Advanced and Japanese - Basic
+
+OR
+
+・Japanese - Advanced and English - Intermediate
+
+・英語 – 上級 かつ 日本語 – 基礎レベル
+
+もしくは
+
+・日本語 – 上級 かつ 英語 – 中級
+
+Preferable:
+
+Insurance industry domain knowledge
+Azure certifications
+Hands-on experience with Spark, or the Hadoop ecosystem advantageous
+保険業界または金融機関（銀行/証券など）での実務経験または業務知識
+クラウドサービス（Azure/AWS/GCP）などの構築・活用経験や認定資格の保有
+SparkまたはHadoop ecosystemのハンズオン経験

@@ -1,0 +1,28 @@
+Data Scientist
+ABOUT US
+geo is creating a sustainable future where homes automatically and seamlessly manage their overall consumption and carbon footprint. In addition to providing management and optimisation systems and data analysis for solar, EVs, batteries and home heating, the company is a leading supplier of in-home displays to the UK Smart Metering programme.
+geo has deployed more than 7.5 million devices to date, saving an estimated 25 terawatt hours of energy as a result.
+We have a stunning, spacious office on the outskirts of Cambridge. With a flexible approach to working, we offer hybrid working as standard and remote working for those who would prefer to work primarily from home.
+THE OPPORTUNITY
+Data Science at geo is all about creating products that help homeowners across Europe understand their energy consumption, save energy, save money and cut their carbon footprint. We’re developing ways of helping the energy industry meet the challenge of cutting carbon. These challenges include making sure the electrification of transport and heating doesn’t overload the grid; and working out how to balance demand and supply to promote the usage of available renewables.
+Our products range from algorithms that power our energy-retailer customers’ websites, apps and Geo’s In Home Displays, through to sophisticated control systems that predict and manage energy storage, local energy generation (such as PV) and local loads. Underpinning this is our expertise in smart energy monitoring, heating control systems, prediction, mathematical modelling and optimisation. As well as building solutions that control and automate people’s homes, geo’s Data Scientists also work closely with our Product team to identify and understand new product opportunities.
+You’ll always be kept busy and challenged. You’ll be working in a friendly, close team, who’ll give you support and the freedom to explore new ideas and innovate. We want you to use the skills you already have, and to develop new ones too. geo is working on many cutting-edge problems where your ideas and hard work are key parts to any solution. Your work at geo will provide you with a great sense of achievement.
+ABOUT YOU
+As a Data Scientist, you will use your expertise in data science, mathematical modelling, machine learning, optimisation and other areas to develop our products and services and to design and build new ones.
+You’ll deliver your contributions by writing code and presenting your ideas to your colleagues. This means you need to be able to develop software, and to communicate your ideas formally and informally to a range of audiences.
+You will have a maths, physics or engineering background and most likely be qualified with a post graduate degree.
+We are looking for a creative, imaginative individual who:
+· Has at least 3 years’ experience in a research or analytical role (which could be as a PhD student)
+· Is articulate and capable of presenting ideas to wide range of audiences
+· Is highly numerate with a solid understanding of probability, statistics and optimisation. Knowledge of Bayesian inference is preferred, but not essential
+· Is experienced at analysing real world data using Python, Pandas, and Python visualisation libraries
+· Is able to develop algorithms and apply machine learning techniques.
+· Knowledge of Tensorflow and the Python libraries numpy & scikit-learn is preferred but not essential
+· Is capable of working with a multi-disciplinary engineering and commercial team
+· Knowledge of software engineering – git, database access, S3 access, logging – is preferred but not essential
+WHAT WE CAN OFFER YOU
+We offer the chance to work with talented and passionate people who genuinely care about each other and respect everyone’s role across team and ability. We push for a transparent, supportive environment where you can be comfortable to bring your authentic self to work every day.
+Well-being is a big focus at geo and we are continually evolving how we can support our people. We encourage a healthy work/life balance and host a range of well-being activities, initiatives and sessions to support both mental and physical health.
+We offer a competitive salary and benefits package, which includes a profit share scheme, 8% contributory pension, 25 days’ holiday plus holiday purchase scheme, life assurance, private healthcare, flexible working hours, enhanced maternity/paternity package, paid volunteer leave, support with relocation, a Cycle to Work scheme and social events.
+APPLICATIONS
+To apply for this position please email your CV and Cover Letter together with your salary expectations and availability to our People Team at recruitment@geotogether.com

@@ -1,0 +1,16 @@
+Principal Data Science Consultant Fully Remote (UK) Up to £155,000
+
+Python, Numpy, Scipy, AWS, Azure, Data Strategy, Analytics, SQL, Spark.
+
+Our client who has just been named as one of Glassdoors best places to work in 2022, is looking for a Principal Data Science Consultant to head up their Data Science division. This role reports in the data practice lead and will be the most senior position within Data Science itself. The role will have a strong focus on the data science strategy throughout the company and projects being worked.
+Proven experience leading different sized data delivery challenges, e.g., AI/ML service, multi-team programme, data platform, complex data migration.
+Able to communicate machine learning model design in conversation, documentation and presentations to non-data scientists.
+Able to assure the development of machine learning models, data storage and data processing to support AI/ML solutions.
+Understands whole solution architecture concepts and can communicate and negotiate these with senior stakeholders.
+Can prioritise non-functional concerns for customers and has experience incorporating these into the application design.
+Is focused on improvement of process, people and use of technology.
+Has experience with public cloud platforms, such as AWS and Azure, including SaaS and PaaS offerings.
+Has pro-actively developed business across an account with sales and account managers.
+
+Desired Skills and Experience
+Data

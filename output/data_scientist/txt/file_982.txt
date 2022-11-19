@@ -1,0 +1,34 @@
+The Company
+
+A RegTech company set up in 10 years ago that has appeared in the top 100 of the Financial Times list of 1000 fastest growing companies in Europe.
+
+They provide anti-money laundering technology through use of AI, machine learning and NLP to support regulated organisations manage risk requirements and combat financial crime.
+
+Last year a 50mil dollar series C investment was raised and they hired 220 people, half of which were across tech. This year there will be even further growth with 100s more roles, excluding any attrition with the aim of getting to 500 heads by 2023.
+
+The Role
+
+Having created the world’s biggest knowledge graph of financial risk information joining people, companies, sanctions lists, news articles, politically exposed people lists and many other sources together with AI and machine learning, you will support in powering the new generation of AML financial crime fighting products.
+
+You will be working as part of a x-functional agile team of product managers, engineers, ML software engineers and other data scientists, who are all invested in getting models to production and realising the impact of your work.
+
+You will work on problems in the remit of: Truth finding, Link prediction, Triple classification, Graph inference, Graph pattern classification and Relation extraction.
+
+The Ideal Candidate Will Have The Following Skills
+
+A masters or PhD in a numerate subject
+A keen interest in and experience in developing complex algorithms to solve real – world problems
+3 years or more’s hands on experience with machine learning frameworks
+A years experience or more in NLP or Graph techniques
+Excellent communication skills
+
+Experience In The Following Areas Would Be An Advantage
+
+Experience with big data platforms
+Experience with graph theory
+Previous line management experience
+Experience within financial crime sector
+
+Job Owner: d.prosser
+
+Tagged as: AWS, Python, Spark

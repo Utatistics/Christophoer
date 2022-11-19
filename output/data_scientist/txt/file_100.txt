@@ -1,0 +1,32 @@
+As one of the world's largest financial institutions we have a rare opportunity to join an applied research team working on Natural Language Processing products. We use Artificial Intelligence and Machine Learning to deliver innovative and well-engineered solutions to solve business problems at a global scale and across a range of corporate domains: risk, compliance, finance, human resources and legal.
+
+You will be part of an existing team working in Glasgow, UK and have the option of some remote working each week, e.g. 3 days in the office and 2 days at home.
+
+Our solutions often combine different aspects of NLP; for example, using clustering and summarization to navigate enormous collections of documents, or building custom sentiment and recommendation models to put the right news in front of the right people at the right time. We're pragmatic enough to use TF-IDF and logistic regression where that does the job but also leverage Deep Neural Networks as needed.
+
+As a Vice President, you will be active across the entire project lifecycle to:
+
+Lead projects working with internal technology and business stakeholders to deliver results
+Analyze data, train models and prototype systems using cutting-edge technology and techniques
+Scale our solutions by designing and building data products
+Share our work through open source components and academic publications
+Refine our research and development processes
+
+These Are The Skills You Will Need To Bring
+
+Good business judgment with experience translating requirements into actionable tasks
+Experience in NLP (traditional and ML-based) and/or in the analysis of unstructured data
+Deep familiarity with Python and the associated data science ecosystem
+Excellent data analysis and visualisation skills
+Good understanding of algorithms and data structures
+Research experience in AI/ML (e.g. a relevant MSc or PhD degree)
+
+It would also be preferable however not essential if you had:
+
+Experience working in financial services and an awareness of risk and regulatory concerns
+Experience designing, developing and maintaining production software in a corporate environment
+Experience working in cross-functional teams and managing business stakeholders
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

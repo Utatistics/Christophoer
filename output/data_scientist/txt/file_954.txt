@@ -1,0 +1,19 @@
+Senior Data Scientist – Edinburgh
+Up to £80,000 + Package
+Company:
+MBN are partnering with one of Scotland’s most intelligent AI scale-ups, a truly unique entity who have some fascinating projects where they are applying machine learning and artificial intelligence to their SaaS product to positively impact their clients and wider society. Projects including anti-social behaviour, urban regeneration, renewable energy and supporting organic Whisky brands.
+The role:
+You will join an incredibly talented team, work on a variety of interesting problems, have the freedom to innovate and work with the best tools, practices and technology available. You will be tasked with the creation, development and production of bespoke machine learning algorithms which are purposefully built to solve your clients problems.
+Skillset:
+Highly skilled Python programming skills (PyTorch, Keras, TensorFlow, Scikit-Learn)
+Experienced containerizing models through Docker (or equivalent) or creating robust scalable code capable of being productionised through the cloud
+Experience using Unix / Unix Shell principles
+Variety of machine learning techniques including (Bayesian, Random Forests, Decision Trees, Neural Nets, NLP)
+AWS, CI/CD, Flask/Cherrypie (all advantageous)
+MSc or PhD educated in a quantitative or computer science discipline – Advantageous
+Benefits:
+Uncapped holiday allowance
+Flexible working / Remote working
+Conference budget
+Training & Development budget
+For more information or to apply, please send an updated CV to Kris@mbnsolutions.com or apply now.

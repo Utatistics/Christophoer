@@ -1,0 +1,67 @@
+TITLE: Senior Data Scientist LOCATION: Bankside or Gatwick
+
+GROUP: Strategy & Enablement REPORT TO: Head of Data Science Product
+
+About Code
+
+Code, part of Omnicom, exists to help clients invent a new future for their marketing through technology and data. Helping clients to build new capabilities to meet the challenges of an ever-changing marketing landscape, we do this by delivering customer centric, data driven, profitable experiences. Working at the intersection of marketing technology, data and user experience, our clients can use such services as: Transformation Consultancy, Marketing Science, Data Engineering, Customer Experience and Marketing technologies. We also develop and maintain our own Forrester recognized Marketing Technology solution, adZU, which is used by 10,000 businesses worldwide.
+
+Our key clients include Best Western, Christie's, Jaguar Land Rover, Cartier, Mont Blanc, Lilly, Mercedes-Benz, KFC, PayPal, Virgin Media, Samsung, Ikea, Ford, Post Office, KKI and Telstra. Code has a global presence with 300+ employees spanning ten cities, located in the UK, Europe, North America, and Australia. To learn more visit www.codeworldwide.com
+
+At Code we believe everyone deserves a career journey that's tailored to suit their own personal needs. We are committed to ensuring all our colleagues have access to an environment that fosters a growth mind-set. Looking to use the most advanced marketing technology and data models we can be radical in our approach. We are a strong and diverse team of consultants, technologists, data scientists and customer success practitioners. What unites us is our shared purpose and desire to transform marketing.
+
+Culturally, Code is an innovative, fast moving, exciting and occasionally a demanding place to work.
+
+YOUR ROLE
+
+Due to an ever-increasing demand for data sciences within Code and RAPP and on the back of new client wins, we have set up a new data science product team, whose primary focus will be on product R&D and innovation.
+
+Code's Data Science Product team specializes in identifying and productizing new ML/AI innovation, creating tools and platforms that advance the company's capabilities. This team operates in a skunk-works environment, quickly developing ideas and approaches into working prototypes. You will be required to ideate and develop data science products that have a machine learning component (particularly in areas such as computer vision, NLP and recommendation engines), apply them to marketing problems, and ultimately develop them into commercial products that can be integrated into our SaaS product line-up. As this team is all about applied innovation, so too will the approaches used in the role require constant agile thinking and embracing of new techniques at all stages of the process.
+
+You will collaborate with the wider Marketing Science function (one of the largest in the UK), with Product Managers and development engineers to define and implement requirements. This new team will be highly visible within the company and has senior level buy-in, so there is ample opportunity to make your mark.
+
+An excellent understanding of data, statistics and machine learning concepts as well as strong programming experience are essential.
+
+Your Responsibilities
+Understanding client and stakeholder objectives and translate them into data science solutions.
+Implement algorithms and machine learning solutions, chiefly using python, for various problems. i.e. computer vision, GANs, NLP, recommendation systems etc
+Write production ready code with unit testing where appropriate.
+Liaise with the product managers, engineers, advising in shaping the data science product roadmap.
+Interpreting data and explaining the results of analysis to a non-technical audience.
+Writing documents explaining the analysis undertaken to our clients.
+Liaising with the Data Strategists to help turn models into actionable Insights to aid marketing
+
+Skills And Experience
+A strong programmer (we use Python) and ML frameworks such as Tensorflow, Pytorch or Hugging Face
+Knowledge of version control software such as git
+Previous experience of working with large databases
+Hands on experience with machine learning models/algorithms (e.g NLP, computer vision, generative adversarial networks or recommender systems) as evidenced through published papers or thought pieces/blogs, public speaking, github repos etc
+Previous experience in using computer vision / NLP techniques to hyper tag content assets with new meta data (e.g. identifying the number of people in creative assets, what they are wearing, what are there expressions, what logo is in the asset etc)
+Experience in understanding the attribution of different meta data classifications to performance
+Degree or equivalent experience in a numerate discipline i.e. Mathematics or Statistics.
+Confidence in constantly being challenged with new approaches, and embracing, learning and ultimately implementing new technology.
+Confident and personable character, capable of building good working relationships with clients, team members, leadership team and wider agency and network.
+Imaginative with a practical approach to problem solving.
+Conscientious and reliable with a strong work ethic and personal integrity.
+
+DESIRABLE:
+Data Visualisation
+Javascript or additional pertinent languages
+Linear and Non-Linear Regression, Logistic Regression, Models and Classification techniques
+Experience working on one or more Cloud Platforms (GCP or AWS or Azure)
+
+Education And Other Requirements
+A self-starter, able to work on own initiative while contributing within the larger team.
+Ability to manage and deliver projects within tight deadlines.
+You should be able to communicate clearly and prepare comprehensive reports.
+We want someone who's confident, a personable character and capable of building good working relationships with clients as well as other team members within CODE.
+You should be imaginative and have a practical approach to problem-solving.
+You need to be conscientious and reliable with a strong work ethic and have strong personal integrity.
+
+SPEAKING UP ON RACISM AND DIVERSITY
+
+At Code we take a strong stand against racism and any type of discrimination. Our mission has always drawn strength from diversity and welcomed people from every walk of life around the world. We are committed to creating an equitable work environment and leading progress forward on inclusion and diversity. We hope that you have the same position and will also attempt to bring positive change in this endeavor and to transform marketing.
+
+LASTLY, BUT IMPORTANTLY…
+
+What we need from you: jump in, find problems. Fix them and build relationships. Imagine new solutions, invent them and manage them. Do whatever it takes to go above and beyond. And stand up for individuality.

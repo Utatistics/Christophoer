@@ -1,0 +1,61 @@
+About PureGym:
+
+PureGym Group are the second largest European gym operator. Our mission is to bring high quality, affordable fitness to everyone, everywhere.
+
+With over 300 gyms in the UK, and a further almost 200 gyms internationally, the PureGym brand is going from strength to strength on its growth journey, underpinned by a technology-enabled offer delivering high quality, affordable fitness that can be accessed flexibly.
+
+The PureGym Group (PGG) are looking for an experienced Data Scientist to take on a key role within our Group Insight and Analytics team. This senior role will work on highly visible and impactful Data Science projects for PureGym across our global footprint, including pricing, product development, new site selection and capital investment in our existing estate.
+
+Insight and Analytics is an agile and rapidly growing function within PGG; the team is small and highly skilled, working on a wide range of analytical projects and with a broad range of techniques. In the last two years we have put in place a best-in-class data lakehouse infrastructure, which allows us to develop highly scalable analytical solutions; we are looking for someone who is excited about leveraging this cloud-native tech stack to deliver real value for the business, identifying opportunities to change decisions through data across the Group.
+
+At PureGym, we put data at the heart of decision making; a trend you find today will be used to inform our decisions tomorrow. We are looking for someone with clear passion for our business, with the enthusiasm and drive to turn insight and analytics into changed decisions.
+
+The Benefits
+
+We believe we are the best at what we do and attract the best talent in the market. Our benefits go beyond the core benefits outlined below and give the successful candidate an opportunity to grow and build a truly rewarding career.
+
+Gym membership for you +1
+Personal private healthcare
+Company pension contribution
+25 days annual leave
+Additional day off on top of annual leave entitlement
+Life insurance
+Flexible working
+
+The Role:
+
+In this role, you will have the opportunity to:
+
+Lead and drive the development of data science and analytics projects and solutions to address commercial challenges.
+Mentor team members, providing technical guidance for juniors in Data Science, Data Engineering, and the broader Commercial team.
+Interact closely with business partners across a wide range of functions and geographies, including Marketing, Operations, Finance, Digital, and Strategy operating in the UK, Denmark, Switzerland and other countries.
+Leverage PureGym’s unique data assets to fully understand customer behaviour, and to improve experiences for our member base.
+Work on a best-in-class Azure data lakehouse architecture, leveraging modern cloud-native technologies (e.g. Databricks, Kubernetes, MLFlow etc.).
+
+The Person:
+
+We are looking for an ambitious individual with experience and a passion for leveraging analytics to drive business transformation. Domain knowledge and expertise is important, but the following core attributes are essential:
+
+Excellent problem-solving: applies their mind to many and varied business problems and drives the impactful solving of them through a combination of individual contribution and working with a range of parties
+Innovative and curious: constantly seeks to learn and find new and better ways of doing things; not just solving problems but seeking them out; always interested to find new and better methods and technologies
+Outgoing and engaging: natural ability to engage with colleagues from across the business, to understand their business issues, and facilitate practicable data-led solutions
+A great communicator: able to translate complex concepts and analyses into digestible, impactful recommendations that can be easily interpreted and acted upon
+
+Required experience for this role:
+
+Experience working with large data sets to generate insights and identify trends.
+A drive and to turn these insights into compelling stories for stakeholders to understand, for them to make more effective, data-led decisions.
+A deep understanding of Data Science and statistical techniques, and their applications in experimentation, predictive modelling and forecasting.
+Significant experience programming in Python and SQL
+Experience mentoring junior team members and setting them up to work independently.
+Strong interpersonal and communication skills.
+Proficiency in Microsoft Office, in particular Excel and PowerPoint (Power BI desirable, but not required)
+
+Desirable technical skills, experience, and interests:
+
+Experience with Databricks
+Experience working within a B2C subscription business
+Experience working with geospatial data and models
+Experience with MLFlow, Docker, and/or Kubernetes
+
+If this sounds like your ideal next step, please apply with your CV ASAP.

@@ -1,0 +1,64 @@
+At Marketcast, we believe in the power of fandom. Whether you’re a gaming company creating your next must-play game, a studio developing the next blockbuster, a streamer changing the game, or a beverage brand seeking to disrupt the grocery aisle, we deliver data-driven research and insights to move the needle.
+
+As a truly full-service agency – research, insights, tracking, social, data science and more – we are perfectly positioned to solve unique (and fascinating) business challenges. We’re looking for passionate, curious, hungry people to join the team and help change the world – one research question at a time.
+
+#FandomIsOurJam
+
+We are looking for a Data Scientist to join the Data Science Team based in Reading. There are already 20+ Data Scientists and we continue to grow apace! This new role is responsible for analyzing extremely large datasets, creating bespoke client reports, exploring new datasets and building new algorithms to deliver services to clients.
+
+We’re Looking For Someone To
+Explore and extract data from multiple sources and interrogate this data to create meaningful insights
+Design and develop algorithms, programs, methods and processes
+Research, develop, and test supervised and unsupervised learning models
+Maintain and improve our machine learning pipelines, processes and products
+Use tools and languages such as Python, SQL and Tableau for reporting and analysis on our AWS data platform
+Work with our India based Data Engineering team and our Sales and Market Research Teams in the US and UK
+It’ll Be Helpful If You Have
+3+ years’ experience of working within the Data Science domain
+Proven experience of managing Data Science projects independently
+A desire to understand the why, and dig into data to understand what makes people tick
+A Bachelor’s degree in a subject such as Applied Mathematics, Statistics, Economics, Psychology, Sociology, Physics, Engineering, Computer Science, etc. A Master’s Degree or higher is a plus.
+Solid data analytics skills; proven proficiency with SQL, Python & Pandas is a must
+The ability to write Python code. Must be able to build, execute and test algorithms and models
+The ability to understand business problems, draw conclusions from data and recommend actions on how best to solve these problems
+Strong communications skills, and an ability to document requirements and work with other team members
+Experience with TV viewing data, the TV industry and/or Media Industry experience. This isn’t a pre-requisite, but a genuine interest is
+A curiosity about data and enjoy building data visualisations that clearly articulate insight
+Benefits And Perks
+29 days annual leave
+Monthly wellness allowance
+Flexi time
+2 days’ work from home
+Regular social events
+Professional growth
+Our Purpose
+
+Fandom connects people with shared passions and builds communities around them. It offers them space to express their joy and love, whether that’s for superheroes, sports teams, or even small batch whiskeys. At MarketCast, we believe in the power of fandom. It’s as important for brands as it is for action heroes and we do fandom research, data science and analytics better than anyone on the planet. This obsessive focus on fans helps the world’s top creators, media platforms, and sports leagues transform followers into fanatics and investments into impact.
+
+Our Values
+
+Curiosity Makes Us Tick
+
+Our love of learning manifests in everything we do - from the surveys we field and the datasets we analyze to the technology we develop. Where others pause, we push forward, uncovering hidden meaning and answers. Always learning, always looking for more.
+
+We Celebrate Wins
+
+Whether its wowing clients with research or solving everyday challenges, we pause to honor great work and everyone who plays a role in it. We acknowledge and recognize great work and hustle that helps deliver the very best outcomes.
+
+Trust is Always Trending
+
+Trust means everything to us. It’s lending a hand when deadlines loom, always delivering on the promises we make, and calling out behavior that harms our culture. And our client’s trust is what makes all this possible, something we never take for granted.
+
+We Roll with Change
+
+We embrace change as an opportunity to learn, grow, and further develop. We do this by challenging our biases and rethinking how things have always been done in the past. This fresh, open-minded approach keeps us agile, innovating, and adapting in the face of uncertainty.
+
+Diversity is Our Superpower
+
+Our differences make us stronger. As researchers and data scientists, we have a responsibility to reflect the diverse audiences and communities all around us. Understanding people, opinions and life experiences fuels our insights and deepens our perspectives.
+
+At MarketCast, we don't just accept difference - we embrace it, support it, and thrive on it for the benefit of our global culture and success. MarketCast is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+
+Check us out: www.marketcast.com
+
+CCPA NOTICE: In accordance with the California Consumer Privacy Act, please note that we collect some or all the below categories of personal information from you as part of the application process and use it for the purposes indicated. Category of Personal Information: 1. Name, Contact Information (phone, email, address) Purpose: To be able to contact you 2. Information on work history and education Purpose: To be able to assess qualifications for the role 3. Race/ethnicity information (optional) Purpose: To comply with governmental reporting obligations 4. Veteran and military Status (optional) Purpose: to comply with governmental reporting obligations.

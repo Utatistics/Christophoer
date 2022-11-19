@@ -1,0 +1,29 @@
+London (Flexible hybrid remote)
+
+£40,000 - £55,000 DOE (Pro rata)
+
+Initial 18 Month contract, then full time.
+
+June start date
+
+This is a great opportunity to join an orginasation working on serveral AI solutions driven by data, you will work with the team developing new cutting edge AI solutions for partners, namely in film classification and video content moderation. This opportunity suits a Junior/Mid Level Data Scientist looking to get hands on experience with a very modern technology stack, work closely with lab experts at AWS alongside a world leading academic institution to deliver truly unique solutions, a very unique opportunity to grow a career in Data Science.
+
+Role & Responsibilities
+Prepare, analyse and label data for Machine Learning
+Explore new sources of data, techniques and implementation routes
+Work closely with AWS and the clients partners to develop and optimise approaches to ML/AI
+Develop Machine Learning models
+Detect and rectify bias in AI solutions
+Design experiments to test AI performance
+Deliver actionable insights
+Skills & Qualifications
+Strong background in Maths/Computer Science
+Experience applying data science techniques
+Data mining/data preparation
+Proficient knowledge/experience using AWS Sagemaker
+Excellent understanding of ML problems like classification, clustering, regression and Algorithms like logistic reggression, enemble, random forest, gradient boosting decision trees etc.
+Understanding of advanced ML topics like NLP, Bayesian interferance etc
+Python and core libraries
+Knowledge or usage of atleast one deep learning framework like Tensorflow, MxNet, Pytorch etc.
+Practical experience in deploying AI solutions using Cloud-based systems (ideally AWS)
+Please apply below with your CV for a confidential discussion about this role - or reach out directly to Steven Mckay (Jefferson Frank) on Linkedin.

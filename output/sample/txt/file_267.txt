@@ -1,0 +1,62 @@
+Job Description
+
+Department Overview
+
+This is a new business that brings together Rakuten's services into one app.
+
+It is an application that connects more than 70 services covering a wide range of lifestyle scenes such as e-commerce, Fintech, communication, digital content, professional sports, etc., and provides an experience that benefits from the entire service by Rakuten.
+
+We have developed and operated the "Rakuten Link" app, which can conveniently use not only within the Group but also of the services of partner companies outside the company, and have already realized the following functions.
+
+Content that allows you to meet the services of Rakuten and partner companies according to user needs
+Rewards that earn Rakuten points according to reasonable campaigns and app usage across services
+One-stop easy access to various smartphone payment services such as Rakuten point confirmation and Rakuten Pay
+Provide the latest news and discount coupons that can be used all over the country
+etc.
+
+The business has just begun as a group-wide focus project, and various developments are planned in the future.
+
+We will promote planning and improvement of app functions, promotions, campaigns, improvement of user experience, collaboration with partners, etc., and expand globally as a platform to expand the "ecosystem" that is unparalleled in the world.
+
+Here's An Introduction To Current Rakuten Link Features
+
+https://service.link.link/
+
+Position
+
+Why We Hire
+
+As a group-wide focus project, we are additional recruiting to strengthen data analysis initiatives due to service expansion (business expansion).
+
+You can have a data analyst career with a sense of scale that takes a bird's-eye view of Rakuten’ s various services. After that, there are various possibilities for further step-up and each business in this project or group-wide headquarter organization.
+
+Position Details
+
+By collaborating with Product Planning team and Marketing team, extracting data & analysis, providing user insight for building product strategy, campaign analysis, data related tool implementation, tracking & monitoring cross use between other Rakuten services by working with internal/external stakeholders of Rakuten.
+
+Data extraction & analytics to provide users insight for building strategy for campaign and product improvement
+Presentation to stakeholders based on created proposal
+KPI dashboard building, and managing by utilizing Domo, Tableau, etc.
+Simulating business KPI forecast based on data
+Cross use analytics, and tracking between other Rakuten services
+
+Mandatory Qualifications
+
+More than 5 years' experience of working at data related position
+Experience of data extraction by SQL, and analyzation
+Experience in creating proposal with users’ insight to utilize business growth based on big data analysis
+Ability of creating deck, and presentation to marketing & related stakeholders based on analysis
+Business-level Japanese language skills
+
+Desired Qualifications
+
+Experience of marketing in app or web industry
+Experience in discussions with stakeholders to promote business from the perspective of data analysis
+
+[ id: cmorec ospd ]
+
+#business #jobcategory01 #marketing #jobsubcategory04 #datascientist #jobsubcategory05 #marketingdiv #organization09
+
+Languages
+
+English (Overall - 2 - Intermediate), Japanese (Overall - 2 - Intermediate)

@@ -1,0 +1,42 @@
+Data Science Manager
+
+AI for Healthcare & MedTech, Real World Analytics & AI
+
+Our AI for Healthcare and MedTech team within the Real-World Analytics and AI (RWAAI) division is a fast-growing group of collaborative, enthusiastic, and entrepreneurial individuals. We are at the centre of IQVIA’s pursuit of machine learning and cutting-edge statistical methods to advance healthcare. Our efforts improve under-diagnosis of rare diseases, personalised treatment response profiles, disease progression predictions, and clinical decision-support tools and have a direct impact on patient care.
+
+We are looking for an innovative, collaborative, intellectually curious and entrepreneurial Data Science Manager to join our Healthcare Data Science team based in London (Paddington). This is an exciting opportunity to join a fast-moving start-up style group within one of the world's leading human data science companies. The primary focus of the role is assisting the team in developing ML solutions on highly complex, large-scale medical data to deliver patient-level alerts to healthcare providers across the world.
+
+A typical day might include:
+Working with the team and client to shape and develop requirements for answering ambitious life science problems (e.g. can we predict a rare disease diagnosis or an optimal dosing frequency in patients?) along with solutions for applying predictive analytics methods within infrastructures specific to each healthcare provider project. Addressing those requirements by developing and applying appropriate ETL processes (for feature creation from our raw data) and machine learning methodology (for constructing predictive models in an unbiased manner).
+Supporting projects being executed by our distributed team of skilled data scientists (across the US, US and India), including discussing methodology questions, providing technical support, reviewing code and outputs, and coordinating with our client-facing consulting team in the US. Please note that this role will be a mix of technically hands-on and providing technical and project management support to the data science team.
+Researching machine learning techniques that could be used to improve our offering.
+Communicating technical concepts and analytical outputs to a diverse set of stakeholders (internal and external).
+Proactively identifying opportunities for innovation and areas for improvement across the workflow.
+Ideally you will have:
+Substantial industry/academic experience building machine learning algorithms.
+Previous experience in a leadership role, managing a data science team of 4-5 people and projects.
+Postgraduate degree or higher in machine learning, computer science, statistics, or another STEM field.
+Knowledge of supervised machine learning methods, such as regularized regressions, ensemble tree classifiers (e.g. XGBoost), support vector machines, etc. Good understanding of classical statistical methods, such as fitting regression models, inference testing and sampling.
+Strong scientific programming skills (ideally in Python) and a track record of working on a range of computational challenges (both within and outside machine learning development).
+Appetite for applying new and existing technologies to challenging problems in healthcare, i.e. motivated by solving the problem.
+Excellent communication skills, including ability to present technical concepts clearly (in writing, face-to-face discussions and on conference calls), write project analyses, pitch ideas effectively and persuasively to clients / internal stakeholders, etc.
+Excellent organisation skills and ability to deliver results to deadlines.
+A proactive, innovative and pragmatic approach to problem solving and the ability to think critically and independently, able to work as part of a cross-functional team.
+Bonus points for:
+Experience in an informatics/data science team of a health systems/IDN, including knowledge of healthcare data, EMR integration, types of environments used for data solution development/deployment, etc.
+PySpark / big data experience.
+Experience of code development in collaborative environments (e.g. doing code reviews through pull requests).
+Knowledge of epidemiology / biostatistics, particularly analytical issues relating to studies of treatment effectiveness, disease progression, adherence, healthcare utilisation, etc.
+The Team
+
+The IQVIA AI for Healthcare & MedTech team is one of the leading healthcare analytical teams in the world. Joining provides the opportunity to work with extremely complex data and methodologies in a fast-paced, ever-changing environment. We seek highly motivated people who truly want to make a difference in the life sciences industry. At IQVIA, we look for the very best people and then give them meaningful work to do. We don’t simply think about careers, we think about contributions.
+
+You will join this high-profile team to work on ground-breaking problems in health outcomes across disease areas including Ophthalmology, Oncology, Neurology, Chronic diseases (such as diabetes), and a variety of very rare conditions. The team works hand-in-hand with statisticians, epidemiologists and disease area experts across the wider global RWE Solutions team, leveraging a vast variety of anonymous patient-level information. The data encompasses IQVIA’s access to over 530 million anonymised patients as well as bespoke, custom partnerships with healthcare providers and payers.
+
+Testimonial video featuring Nadea Leavitt, Senior Director of AI for Healthcare & MedTech at IQVIA, where she talks about why candidates should consider joining our Data Science group at IQVIA. Visit https://youtu.be/MKXQBncgbs8
+
+We thank all applicants for their interest; however, only those selected for an interview will be contacted.
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximise their personal potential.
+
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com

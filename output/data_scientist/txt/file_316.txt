@@ -1,0 +1,33 @@
+The Department of Paediatrics are seeking to recruit a talented data scientist to lead on the analysis of long-term health outcomes for children recruited into the Next Generation Children's Project (500+ families; NIHR Rare Diseases Bioresource). Whole genome sequencing (WGS) data for participants will be linked to subsequent health data, accessed through the EPIC electronic medical records system, with a view to determining the long-term clinical utility of WGS and further understanding of rare genetic variants. The successful applicant will also expected to be involved in data analysis for similar linked cohorts within the scope of paediatrics and obstetrics, for example the POPStar study (4000+ mother/baby pairs). The role will be based within the Department of Paediatrics, University of Cambridge, and will involve close liaison with the NIHR Rare Diseases Bioresource, Next Generation Children's Project team, POP study team, clinical bio-informaticians, and other research groups across the School of Clinical Medicine.
+
+The role will require an applicant who is able to liaise independently with a variety of stake-holders to facilitate data linkage set-up and to implement practical solutions to the inevitable challenges of developing and utilising standardised data items from complex data sets.
+
+This role will suit a determined applicant with first-class data analysis and data engineering skills, who recognises the enormous benefits of leveraging information from existing data-sets. The successful applicant will have the opportunity to collaborate with a variety of researchers across the School of Clinical Medicine and other collaborating centres. We are seeking flexibility and problem-solving skills to develop and interrogate a new and powerful linked data set to answer a wide variety of important research questions that are not otherwise possible to study, to the benefit of severely ill children and their families.
+
+In the first instance, the post will be funded for 2 years with a view to extend dependent on funding availability. The post is full time.
+
+Conversations about flexible working are encouraged at the University of Cambridge. Please feel free to discuss flexibility prior to applying (using the contact information below) or at interview if your application is successful.
+
+Informal enquiries are welcomed and should be directed to: ClusterHR@medschl.cam.ac.uk.
+
+This appointment requires a Research Passport application.
+
+Click the 'Apply' button below to register an account with our recruitment system (if you have not already) and apply online.
+
+Closing Date: 2 October 2022
+
+Interview Date: TBC
+
+Please ensure that you upload a covering letter, CV, list of publications and a summary of your research interests and plans in the Upload section of the online application. If you upload any additional documents which have not been requested, we will not be able to consider these as part of your application.
+
+Please include details of your referees, including e-mail address and phone number, one of which must be your most recent line manager.
+
+Please quote reference RP32958 on your application and in any correspondence about this vacancy.
+
+The University actively supports equality, diversity and inclusion and encourages applications from all sections of society.
+
+The University has a responsibility to ensure that all employees are eligible to live and work in the UK.
+
+Further information
+Further Particulars
+Apply online

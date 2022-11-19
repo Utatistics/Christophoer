@@ -1,0 +1,44 @@
+Mesh-AI is a global consultancy that uses data, machine learning and artificial intelligence to deliver transformative outcomes for enterprise organisations.
+
+Our ambition is on a grand scale: building a global company from the ground up. We are backed by Columbia Capital, which has made an initial commitment of $30m to help us grow and scale globally at an unprecedented pace. We're looking for 100% year-on-year growth in both revenue and headcount and to expand our business across key global regions of EMEA, USA and APAC.
+
+We are currently searching for exceptional talent to help shape the future of Mesh-AI from the get-go! If you’re interested in the idea of starting something new and working in a fast-paced environment with some of the brightest minds in the industry - then come and talk to us at Mesh-AI!
+
+The Opportunity
+
+You’ll not be an island here. We’re going to surround you with industry leading talent who are working towards a shared goal of using AI/ML to deliver maximum business value to our clients. We’re going to be bringing products & solutions to life - your work will see the light of day.
+
+Responsibilities
+
+Own AI/ML domain as part of a cross functional team
+Solve the business problems not just the technical ones - understand our customers, the people & problems they face and design solutions that help them.
+Make contributions to the Artificial Intelligence ecosystem with a concern for possible social and ethical implications.
+Bridging the gap between business and technology; comfortably communicating & managing expectations across customer stakeholder, technology & our own engineering teams.
+
+Requirements
+
+Outstanding general purpose skills in AI/ML, and a proven record of applying them to solve business problems
+Impact driven, work proud and eager to have a real positive influence on Mesh-AI, our customers, and your team
+You can put the numbers into a business perspective - You’re a data storyteller
+You are comfortable getting hands-on dealing with the customer and their problems
+Substantial experience with Python and relevant libraries (Pandas, Numpy, Scipy, Scikit Learn, Matplotlib)
+Experience with cloud computing ecosystems
+Exposure to & appreciation of software engineering best practises applied to data, e.g., version control, CI/CD
+You own it - You’re OK with making mistakes & learning from them
+
+Nice to Have
+
+Experience writing production level code
+NLP, time series forecasting, image recognition or deep learning
+PySpark, TensorFlow, OpenCV. spaCy or DVC
+Exposure to MLOps
+
+Why Mesh-AI
+Fast-growing start-up organisation with huge opportunity for career growth
+Highly competitive salary package along with company bonus
+A hugely collaborative working environment where every person’s viewpoint is considered - a chance to make your mark on the business from day one!
+Financially backed business meaning security and support for new initiatives and global market expansion
+Pick your own Gear! Macbooks, PCs, Accessories!
+Drive your development with a personal learning budget
+
+Want to know more? Get in touch with careers@mesh-ai.com. Otherwise apply here.

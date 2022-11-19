@@ -1,0 +1,49 @@
+Senior Data Scientist
+
+It's an exciting time for us as we continue to transform our business to meet our pricing, data and analytics strategic ambitions. We're looking for people with solid technical modelling skills who enjoy solving problems and building brilliant solutions to complex real-world challenges.
+
+You'll be collaborating with some of the sharpest minds in the industry to leverage some of the most advanced machine learning, statistical and optimisation techniques to deliver market-leading insights.
+
+Reporting directly to our Head of Actuarial and Data Science, you will lead in the identification and creation of cutting-edge data assets and predictive models feeding into our market-leading pricing strategy.
+
+
+How you will make a difference:
+
+
+
+
+Identifying, evaluating and implementing new sources of data to improve our models, as well as wringing more value from existing sources with insightful feature engineering
+Developing the best-in-class models to predict claims outcomes, fraud and other risk objectives
+Engineering powerful new rating factors to be deployed into our rating algorithms
+Identifying, analysing and monetising new data sources
+Leading, mentoring and developing junior Actuaries and Data Scientists to support them in achieving their career goals
+What we're looking for:
+
+
+As a leading insurer, this role is critical to our delivery and success; you will enjoy delivering commercial value, spotting profitable opportunities and building solutions to capitalise on these opportunities.
+
+You have a degree (Masters and above preferred) in a numerical subject, a strong track record working with SQL, Python and Git and practical predictive modelling expertise to deploy slick models into production.
+
+Familiarity with automation and containerisation tools such as Jenkins/Linux/Java/Scala/Snowflake and Hadoop (Hive/Spark) will be valuable.
+
+You'll be passionate about sharing your ideas to engage and enthuse some of the most senior stakeholders on our journey, so excellent communication skills are essential.
+
+
+What we will give you:
+
+We've got big growth plans for our business. Joining our Actuarial and Data Science team will be like entering a new startup that happens to be attached to a growing and successful insurer with the capital needed to invest and succeed in analytical expertise.
+
+This is a real opportunity to make the role your own whilst making a difference in a fast-paced, flexible, and delivery-focused environment.
+
+Some of the great benefits we will give you;
+
+
+
+
+Highly competitive basic salary plus a £5k car allowance
+Up to 10% bonus earning potential
+Pension 1:1 match up to 10%
+27 days annual leave
+This role can be based remotely or at either of our Bexhill or London offices
+
+Hastings Group is an equal opportunities employer which means we treat people fairly. We welcome applications from all suitably skilled persons regardless of their gender, age, race, disability, ethnic background, religion/belief, sexual orientation, gender reassignment or marital/family status. Please also note that we have a thorough referencing process, which includes credit and criminal record checks.

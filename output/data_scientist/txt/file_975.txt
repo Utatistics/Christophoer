@@ -1,0 +1,41 @@
+About Code
+
+Code, part of Omnicom, exists to help clients invent a new future for their marketing through technology and data. Helping clients to build new capabilities to meet the challenges of an ever-changing marketing landscape, we do this by delivering customer centric, data driven, profitable experiences. Working at the intersection of marketing technology, data and user experience, our clients can use such services as: Transformation Consultancy, Marketing Science, Data Engineering, Customer Experience and Marketing technologies. We also develop and maintain our own Forrester recognized Marketing Technology solution, adZU, which is used by 10,000 businesses worldwide.
+
+Our key clients include Best Western, Christie's, Jaguar Land Rover, L'Oreal, Lilly, Mercedes-Benz, Medivet, Samsung and Telstra. Code has a global presence with 300+ employees spanning ten cities, located in the UK, Europe, North America, and Australia. To learn more visit www.codeworldwide.com
+
+At Code we believe everyone deserves a career journey that's tailored to suit their own personal needs. We are committed to ensuring all our colleagues have access to an environment that fosters a growth mind-set. Looking to use the most advanced marketing technology and data models we can be radical in our approach. We are a strong and diverse team of consultants, technologists, data scientists and customer success practitioners. What unites us is our shared purpose and desire to transform marketing.
+
+Culturally, Code is an innovative, fast moving, exciting and occasionally a demanding place to work.
+
+YOUR ROLE
+
+In this role, you can expect apply your advanced analytical skills across a variety of cutting edge data science projects including recommender systems, NLP, machine learning, whilst working closely with the Head of Data Science and Data Science Directors to develop the team's commercial offering.
+
+We want Hackers and strong practitioners who can add value through cutting edge techniques and methodologies, all whilst applying an acute commercial and strategic lens.. Experience with predictive modelling and segmentation is great but not enough for us; we need individuals who offer something a little different. We are not an R&D shop – we deploy everything we create, so we want practitioners who how to put data science projects into production, so would expect some data engineering experience, and proficiency in cloud based technologies.
+
+Advanced programming skills in Python are required, as well as an all round problem solving approach. Working with the team leads, you'll contribute to pitches and present simple and compelling solutions to complex client problems. We expect this individual to be T-shaped in their understanding and application of all things data science, but also have an understanding of the Marketing space.
+
+Your Responsibilities
+Delivering best-in-class data science to clients, ensuring that these meet the commercial goals and requirements of our clients.
+Help with the production of reports and presentation to clients
+Play a role on new business pitches and on growing existing client relationships
+Identifying new methods, software or developments that could benefit the team or our clients.
+Packaging and automating concepts and solutions wherever possible
+
+Skills And Experience
+Previous experience in a marketing analytics
+Solid background in statistics and probability
+Experience of deploying recommendation engines or similar advanced ML systems
+Exposure to a cloud-based technology stack e.g. AWS.
+Advanced Python & SQL or Spark.
+Exposure to Git or other Version Control Systems.
+Previous experience working with large data sets, databases and the ability to understand database design, engineering and the stitching together disparate data sources.
+
+SPEAKING UP ON RACISM AND DIVERSITY
+
+At Code we take a strong stand against racism and any type of discrimination. Our mission has always drawn strength from diversity and welcomed people from every walk of life around the world. We are committed to creating an equitable work environment and leading progress forward on inclusion and diversity. We hope that you have the same position and will also attempt to bring positive change in this endeavor and to transform marketing.
+
+LASTLY, BUT IMPORTANTLY…
+
+What we need from you: jump in, find problems. Fix them and build relationships. Imagine new solutions, invent them and manage them. Do whatever it takes to go above and beyond. And stand up for individuality.

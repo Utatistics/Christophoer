@@ -1,0 +1,52 @@
+If you need assistance during the recruiting process due to a disability, please reach out to our Recruiting Accommodations Team through the Accommodation Request form . This form is used only by individuals with disabilities who require assistance or adjustments in applying and interviewing for a job. This form is not for inquiring about a position or the status of an application.
+
+Data Scientist II, Partner Analytics
+
+The online travel market never stands still. At Expedia for Business (E4B) we're smack in the middle of it! We are an entrepreneurial start-up operating in the B2B market within the world's biggest travel company. We build the tools and technology that help millions of travelers find the perfect hotels for their next trips. We are the largest and fastest-growing affiliate network, working with over 10,000 partners in 33 countries to turn their web traffic into hotel bookings and loyal customers.
+
+The Data Scientist II supports the Sales team in the region. With the objective of driving revenue growth and implementing new initiatives, he/she plays a vital role in analysing and understanding revenue drivers through a detailed understanding of our partners’ business model, competitive environment, the online travel industry and market trends. Key stakeholders of the team are the Regional Sales VP, Sales teams and Commercial Finance. Day-to-day activities include identifying new growth opportunities and subsequently implementing new initiatives, analysing the cause of changes in revenue performance, partner-level deep-dive analysis, identifying supply gaps and improving conversion rates, and building scalable tools to accelerate speed to insights.
+
+As a member of the Partner Analytics team, the Data Scientist will have the opportunity to develop initiatives and strategies by working cross-functionally and bringing together insights from both the demand and supply environment. This includes a broad spectrum of the analytics organization at E4B and across brands, such as lodging supply, Commercial Finance, Strategy, Revenue Optimization and Product & Technology. He/she will be accountable for deciding analytical, measurement and process approaches for analysing revenue performance. The role will have the opportunity to own and develop new insights, drive new ways of working and be closely connected to the top and bottom-line outcome.
+
+This position is based in London, reporting to a Senior Manager in Analytics.
+
+Specific Responsibilities
+Maintain/develop certain key reports
+Grow partner revenue through optimisation and new business strategies
+Provide direction on business priorities based on expected opportunity size
+Conduct a “deep-dive” analysis at a partner or market level
+Provide recommendations to improve revenue to partners, stakeholders, and the leadership team
+Analyse revenue performance and trends in the region
+Support Sales teams on business development initiatives and analysis requests from E4B partners
+Measure KPI performance, including revenue, competitive and supply metrics
+Evaluate revenue risk for new strategies and initiatives and develop strategies to mitigate risks
+Analyse conversion rates and conversion drivers
+Technical
+
+Required Experience and Qualifications
+Excellent SQL skills, with the ability to write SQL from scratch. Good understanding of databases. We work mostly with Teradata, Presto and/or Hive, but experience with other flavours of SQL is welcome (Required)
+Experience with reporting and data visualisation tools (Tableau). Connexions to databases and job scheduling (Required)
+Basic understanding of statistics and probability (Required)
+Decent coding skills in Python (Nice to have)
+Other
+Excellent communication skills, with the ability to present complex analysis in an easily understandable way by targeting messages to the audience
+Proven track record of identifying growth opportunities and implementing solutions to realise them
+Strong understanding of revenue drivers and commercial environment
+Ability to handle and analyse large amounts of data. Ideally, experience with Hadoop and demonstrated skills in understanding conversion drivers in an online environment
+Minimum 2 years’ analytical work experience in online travel or another data-intensive commercial environment
+Bachelor’s in quantitative discipline -Business, Math, Computer Science, Physics, etc-, Graduate degree preferred
+Fluency in English
+What You Can Expect
+International work environment, being part of a global team
+Ability to innovate and drive growth initiatives
+Exposure to internal and external stakeholders, across various levels, and our partners
+Competitive salary and benefit package
+About Expedia Group
+
+Expedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™.
+
+© 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+
+Employment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals to whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs .
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, gender, sexual orientation, national origin, disability or age.

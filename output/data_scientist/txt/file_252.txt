@@ -1,0 +1,45 @@
+Description
+About Syngenta:
+Syngenta is leading science-based agtech company; dedicated to bringing plant potential to life. Each of our 28,000 employees in more than 90 countries work together to solve one of humanity’s most pressing challenges: growing more food with fewer resources. A diverse workforce and an inclusive workplace environment are enablers of our ambition to be the most collaborative and trusted team in agriculture.
+Our employees reflect the diversity of our customers, the markets where we operate and the communities which we serve. No matter what your position, you will have a vital role in safely feeding the world and taking care of our planet. Join us and help shape the future of agriculture.
+Bioscience Summary
+Syngenta’s Crop Protection Bioscience function contributes to innovate safe crop protection agents and enhancers by understanding of their mode of action, resistance mechanisms and kinetics to improve product formulation. In the Bioscience digital team, we use a combination data science, image processing, automation and machine learning techniques to explore new ways of deriving knowledge from experimental endpoints and digital phenotypes including multi-dimensional image, mass spectrometry, biochemical assays, and genetic data. A large component of the work will be the integration of multiple data into 'multi-omic' decision making tools. If you are passionate about knowledge extraction from complex data sources and keen to deliver solutions that will help Syngenta to create products which can feed the world sustainably, we have the job for you.
+Description
+Syngenta Crop Protection Bioscience is looking for a driven and innovative individual with experience in the analysis of experimental scientific data. You will collaborate with scientists across the Crop Protection business to build a vision of how to approach new challenges. You will contribute to solving those challenges with creative and unique algorithms, establish analysis pipelines, build dashboards, devise ADMET models and teach individuals on how to use them. The applicant will become part of the data science community within Syngenta and contribute models to Syngenta's modelling platform PRIME.
+Qualifications
+Education & Experience
+MSc/PhD (or equivalent experience) in natural sciences with focus on analysis of data and data integration. Commercial or Postdoctoral experience in life sciences research would be a plus.
+Minimum Qualifications
+Enthusiasm for visual analytics and data science
+Dynamic personality with passion for innovation and problem-solving
+A good understanding of experimental systems and data types in biological and chemical sciences
+Excellent scripting skills with R and shiny, knowledge of and use of a wide range of R packages
+Familiarity with relational and non-relational data systems
+Experience with machine learning and multivariate statistics
+Programming skills in Python and possibly experience with Dash
+Proven track record in building data analysis tools and workflows
+Proficiency in both written and verbal communication skills
+Ability to work in multi-functional teams
+Ability to manage and contribute to projects autonomously
+Desirable Qualifications (three Or More Of The Below)
+Experience in building ADMET models
+Experience in the analysis of mass spec and proteomics data
+Experience in Bayesian statistics and inference for modelling
+Experience in the analysis of imaging data
+Experience in building interactive GUI's , Angular or React
+Experience with Dataiku, Flask, Nextflow or other deployment & workflow frameworks
+Experience with container and serverless architectures
+Experience with modern automation testing tools and distributed version-control systems
+Knowledge in Cell Biology, Entomology, Phytology, Developmental Biology
+In return for your skills and knowledge Syngenta will offer:
+Campus environment
+Competitive benefits package
+Up to 31.5 days holiday
+The opportunity to work with and learn from highly qualified and experienced employees
+We embrace and encourage diversity, and this is what drives our innovation and lets us outperform the market. https://www.syngenta.com/careers/working-syngenta/diversity-and-inclusion
+Primary Location
+GBR-Berkshire-Bracknell
+Job
+R&D - Research
+Desired Skills and Experience
+Science, Research, Research and development, communication, bioassays, Digital, Technical

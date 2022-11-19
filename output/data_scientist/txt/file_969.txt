@@ -1,0 +1,24 @@
+PRINCIPAL DATA SCIENTIST
+
+Xcede are working with one of the UK's foremost Energy companies who are utilising Renewable sources to help to contribute to the nation's Carbon Reduction targets. Availability and seasonality are some of the key challenges in this domain, and the Data Science team are a huge part of solving these problems for the organisation.
+
+This is a chance to join an extremely talented Data Science team as the lead Technical specialist - you'll be the "go-to" person in the unit for all Data Science (and Model Deployment) queries. If you're a strong Senior Data Scientist, this may be a chance to be formally recognised for your expertise and own the direction of projects.
+
+Responsibilities
+
+Work on a variety of Data Science projects related to the energy sector and the technologies involved.
+Develop innovative machine learning-based solutions to the solve the company's key challenges
+Spearheading the productionisation and deployment of the algorithms created by the team.
+Mentor other Data Scientists in the unit (while being allowed to get on with your first love - the technical work itself!)
+
+Requirements
+
+Relevant commercial Data Science experience (can be in different sectors)
+MSc or PhD in a relevant academic area
+Strong Python experience
+Strong applied Machine Learning knowledge and experience
+Strong software engineering approach to DS problems (TDD, CI/CD)
+
+We're consistently working on a large number of Data Science requirements that are not always advertised here, so even if this role isn't the one for you, please do get in touch!
+
+To find out more, please apply here or contact me via niall.wharton@xcede.com - Thanks!

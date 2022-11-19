@@ -1,0 +1,43 @@
+Job Description
+
+Global company with more than 50 years of presence in the world being a leader in a fast-paced industry, is looking for:
+Data Scientist with experience in Microstrategy.
+Are you ready to accept the challenge?
+
+Main responsibilities
+
+The Main Responsibilities Are To
+Operational understanding of BI concepts and working knowledge/experience on MSTR (MicroStrategy[1]) is a must.
+Develop analytical approaches to answer business questions and manage, support and creat end user reports.
+Leverage the power of data & analytics to identify opportunities to drive growth of the company and enable timely and quality decision making.
+Able to manage, transform & connect various data sources and extract powerful insights
+Mine and analyze data from existing or new databases using different techniques and languages such as SQL & Phyton to query & manage various large data sets. Needs to be able to tweak queries for best performance
+Follow agreed processes to deliver outcomes efficiently & within agreed SLAs with a continuous improvement mindset
+Good communication skills is a must (verbal and written English is a must)
+Delivering in ambiguous & dynamic situations as a part of a global multi-functional team.
+Requirements And Skills
+Educational qualifications: Graduate in Engineering / Statistics / Economics / Maths / Analytics or other quantitative discipline.
+Minimum of 3 to 5 years of hands-on working experience in Dashboarding
+Desired experience in Microstrategy or Tableau or Qlik
+Techniques for optimising microstrategy reports and dashboards
+Proficient story teller / Hands-on experience using visualization tools such as Microstrategy, Tableau, Reporting Services (SSRS), OBIEE, BI Publisher, Oracle Analytics Server (OAS), Qlik and UI/UX Tools and packages (Dash, Shiny, Bokeh, etc.)
+Fluency in English is a must.
+Experience working with a range of BI & analytics architectures.
+Experience in Agile methodologies.
+Hands-on experience in programming languages: SQL, Python
+Additional information
+Direct contract with the company
+Attractive benefits package (Major medical expenses insurance, grocery coupons, +20 days of Christmas bonus, etc.)
+Acerca de Page Resourcing
+
+Page Resourcing es una marca de PageGroup, líder mundial de reclutamiento y selección especializada.
+
+Trabajamos en conjunto con grandes clientes a nivel nacional y mundial, apoyándoles con todas sus necesidades de reclutamiento, desde niveles junior como contrataciones de becarios hasta directores de empresas.
+
+Con el ADN de PageGroup, Page Resourcing cuenta con el amplio conocimiento de mercado para dar la consultoría que sus clientes y candidatos requieren para sus procesos de reclutamiento y selección.
+
+Conócenos
+Website
+LinkedIn
+Facebook
+Instagram

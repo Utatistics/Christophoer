@@ -1,0 +1,61 @@
+Are you looking to develop your career in one of the world’s largest Research Organisations?
+
+Are you curious about how we consume technology, content and entertainment? The Audience Measurement team at Ipsos use deep understanding of people to make sense of audiences and how they consume technology, content and entertainment. We use these to influence media strategy, helping clients to answer crucial questions, such as how to target audiences, maximise attention across platforms, enhance audience experience, and demonstrate or increase audience value.
+
+We are recruiting a Principal / Lead Data Scientist who is passionate about solving problems. This is not your average data scientist role, this role is about giving you the autonomy to solve problems which directly impact our daily lives whether it is our television viewing habits, radio listening habits to other forms of media consumption. Creative, innovative, passion, flexibility, adaptability, tenacity and agile, these are just some of the words that describe the culture of our team. This is an opportunity for you to make an impact whilst also having a realistic chance to learn and develop your skills further.
+
+If this is what you are looking for from your next role, then please read on.... we look forward to hearing from you!
+
+The role….
+
+The Data Science Unit has been created in Ipsos in direct response to the way the converging media and advertising market is moving. Their remit reflects the growing industry importance of Big Data, passive measurement technologies, complex modelling, data visualisation, data integration and calibration methodologies.
+
+Your primary role will be to take ownership and lead your designated team on all data science aspects, for current and future projects. You will also provide guidance and assistance to the more junior members of your team on a day-to-day basis. Working closely with the Project Manager in your area, the two of you will be responsible for the planning, resourcing and delivery of projects, keeping within the allocated time or spirit and within budget.
+
+Your Key Responsibilities Will Include
+Taking ownership or enable effective design of solutions to problems old and new
+Performing or enabling effective deployment of solutions and models into production
+Working in cloud environment, with containerised pipelines (Docker, Kubernetes)
+Developing using Git and CI/CD processes
+Building and maintaining a close working relationship with other internal teams: data engineering, DevOps, application engineering and product owners
+Building a robust, no single-point-of-failure team to ensure successful project delivery
+Working closely with relevant product managers on managing expectations, communications, understanding requirements, building/delegating developments, monitoring backlogs and deciding priorities, most likely on a weekly basis
+Working in and supporting the growth of an Agile framework within your team and projects
+Alongside your team Project Manager, liaising with external clients with regards to data science activities in your area
+As a senior member of the team, you will also have input into the wider teams future, working closely with your line manager and other lead data scientists. This will include;
+Building up the knowledge and experience in audience measurements space
+Working closely with other teams in our area (other Data Science teams, Data Engineering and Data Ops teams)
+Supporting internal clients and helping them better understand what we do
+Helping champion and educate wider Ipsos on the capabilities that data science can bring
+Creating an effective upskilling plan for juniors, to be executed by you or another senior
+Keeping abreast of new industry developments – not just those coming from the UK
+What do I need to bring with me?
+
+Skills
+
+To be successful in this role you will need the following skills and experience
+
+It is essential that your personal attributes compliment your technical skills.
+Solid track record in a similar data focussed role
+Skilled in Python / R/ git/ Google Cloud Platform (GCP)
+Extensive working knowledge of ML and statistics
+Proficient with cloud platforms, ideally GCP
+Not a stranger to developing code in groups
+Excellent problem-solving skills - you are able to break down problems in smaller chunks
+Driven by a passion to solve problems
+Independent thinker self-starter
+Constructive driver of change
+Excellent communicator, able to convey technical solutions in non-technical terms
+Able to lead, support and work hands on as part of a team
+Ideally a degree in maths, stats, computer science, physics or equivalent experience
+Beneficial
+You have commercial experience in this sector
+Are good at putting models in productions
+Have exceptional lateral thinking skills
+About Us
+
+We are one of the world’s largest research companies and currently the only one primarily managed by researchers. With offices in 88 countries, Ipsos brings together research, implementation, methodological, and subject-matter experts from around the world, combining thematic and technical experts globally with local knowledge to deliver top-quality research.
+
+Our culture is unique - we have the entrepreneurial spirit and quirkiness of a small boutique, but we also have the resources, scale and diversity of a large global agency. We have more bright, friendly, hard-working and enthusiastic people, from more backgrounds, with more interests, skills and experiences to learn from. Our values are based on our diverse cultural backgrounds, helping us to be responsive, client-focused and flexible.
+
+We are committed to equality, treating people fairly, promoting a positive and inclusive working environment and ensuring we have diversity of people and views. We recognise that this is important for our business success - a more diverse workforce will enable us to better reflect and understand the world we research and ultimately deliver better research and insight to our clients. We understand the importance of commitments you may have outside of work and we consider all flexible working applications - please highlight what you are looking for when you make your application.

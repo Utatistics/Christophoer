@@ -1,0 +1,57 @@
+General Summary / 職務概要
+
+The Manager, Data Science will be responsible for overseeing all advanced analytics initiatives, driving measurement methodology, and developing data FAIR ecosystems. The Manager will provide valuable analytics which enable discovery of business driver/opportunity and improve ROI. The Manager will work on statistics, machine learning and experimentation with internal/external stakeholders to understand, visualize and analyze data from all parts of our business to empower key business decisions. The Managers reports to the Senior Manager who is responsible for overall strategic planning, key analytic initiatives (incl. business intelligence), and operation for Data Science function.
+
+Duties & Responsibilities / 職務および職責
+Ensures the organization maintains an optimal, up-to-date analytics/data toolset.
+Partners with internal/external stakeholders to identify, scope, and execute analytics effort that answer key business questions, solve business needs, and add business value.
+Stays on the cutting edge of artificial intelligence, data science and advanced analytics research through novel project execution and development of algorithms that influence decisions at various levels in the organization, including but not limited to omnichannel sales and marketing optimization, patient/payer analytics, commercial strategy, joint business planning and related commercially focused model development.
+Leads and grows a team of data scientists & analysts.
+Develops learning plans for direct reports and implements effective knowledge sharing processes, ensuring that team members a maintain a high level of technical expertise.
+Partners with IT, Digital Experience team and data owners/steward to improve existing data capabilities to make data FAIR (Findable, Accessible, Interoperable, Reusable).
+Partners with a cross-company/cross-country team of data scientists/experts to develop and maintain existing solutions and create new solutions.
+
+Qualifications
+
+Key Requirements (skills, competencies, experiences, certifications) / 必要要件（スキル、知識、経験、資格）
+
+Generally requires;
+Ph.D. with 4+ years of experience, or M.S. with 7+ years of relevant pharma sales & marketing experience, in Computer Sciences, Statistics, Machine Learning & Artificial Intelligence, Physics, Molecular Biology, Bioinformatics, Computational Informatics, Medical Informatics, Computational Biology or a related discipline.
+Experience managing a team of data scientists and/or external vendor partners.
+Ability to understand, shape, and measure the business value of solutions, while managing competing stakeholder priorities and ambiguity.
+Comfort working in a fast-paced environment with competing priorities, multiple stakeholders, matrixed teams, and evolving needs.
+Experience leading portfolio of data science projects leveraging predictive technologies, data mining and/or text mining.
+Strong communication skills and ability to communicate complex methods and results to diverse audiences.
+Strong working knowledge of machine learning platforms/environments.
+Strong working knowledge of AI-type algorithms, including machine learning techniques such as regression, decision trees, probability networks, association rules, clustering, neural networks, and/or Bayesian models.
+Familiarity with large datasets, handling of healthcare relevant datasets and understanding of data analysis workflows.
+Hand on experience with multiple data querying languages (e.g., SQL), databases (e.g., Hadoop), BI packages (e.g., Tableau), scripting languages (e.g., Python) and applications/tools offered by SFDC (e.g., Marketing Cloud, Einstein)
+A self-starter with enthusiasm and flexibility, able to think logically end-to-end.
+Empathy, adaptability, and emotional intelligence.
+Effective time management in complex, ambiguous, and deadline-driven environments.
+Fluent in Japanese and business level in English.
+
+Preferred Qualifications
+Experience in healthcare business.
+Experience with sales and marketing best practices, processes, and related technology.
+Working knowledge of commercially available healthcare data sets.
+
+=======================
+
+Johnson & Johnson Family of Companies in Japan strongly recommends prospective employees to complete the COVID-19 vaccination before or as soon as after joining our company to prevent the spread of infection among our employees and people around them as well as our customers and the community we serve, and to ensure our responsibilities are sustainably fulfilled as a healthcare company (except for those who cannot vaccinated with underlying medical conditions and other circumstances).
+
+Primary Location
+
+Japan-Tokyo-To-Chiyoda-
+
+Organization
+
+Johnson & Johnson K.K. (8235)
+
+Job Function
+
+R&D
+
+Requisition ID
+
+2206043011W

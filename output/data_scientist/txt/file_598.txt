@@ -1,0 +1,36 @@
+Overview
+
+This role can be based from any one of our UK Office Locations – London, Southampton or Yeovil and will be a hybrid working role meaning large elements of flexibility and working from home.
+
+Many of our staff work flexibly in many different ways, including part-time. Please talk to us at interview about the flexibility you may need, and we will try our best to accommodate.
+
+If you require any additional support or adjustments to help you make an application, please email kingfisher.recruitment@kingfisher.com
+
+We’re Kingfisher. You might know us as B&Q, Screwfix, Castorama, Brico Depot or Koçtaş. We’re made up of over 79,000 passionate people, call over 1,300 stores home and operate in 8 countries. That’s right, we’re big, but we have ambitions to become even bigger and even better. We want to become the top tier home improvement company and grow the largest community of home improvers in the world. And that’s where you come in.
+
+Kingfisher is an exciting, inspiring place to be. We establish the strategy that leads the business. We drive innovation to encourage our customers. We set the tone of our global business. It can be exciting, but that goes hand in hand with the ability to make a difference – to the business, to the many people around the world that work for us, and to our customers
+
+Responsibilities
+
+Reporting to the Group Head of Data Science, you will be responsible for leading the research and development process of ML/AI algorithms developed in the Group Data Science team.
+As an operator - build, lead, nurture and retain a hard-working data science team that will work on banner and group priorities.
+Work across with banners and group functions to support building a data science roadmap that minimises time to value and improves long term efficiency.
+Develop a highly proficient team of scientist and establish collaborative ways of working to work with wider Data Science team.
+Support teams with multifaceted strengths in translating between business and data in the design of project work, and in the synthesis and communication of recommendations and results.
+Collaborate with tech, product and data teams to develop the data platforms that allow us to apply data science and embed the use of data science directly in our products and processes.
+Be a champion and role model for the application of data science across the Kingfisher group.
+Support the data leadership team in developing a “data culture” and demonstrating the value of data in our decision making.
+Lead our efforts to develop the data science (and broader customer analytics) “brand” at Kingfisher for both internal and external audiences.
+Qualifications
+Strong management and leadership skills - including ability to build, prioritise, empower, mentor and lead a data science team that supports a diverse range of initiatives.
+Sensitivity and excellent influencing skills - ability to work with partners across a variety of functions and levels of seniority and to decipher hidden user needs.
+Solid understanding of computer science fundamentals, including data structures, algorithms, data modelling and software architecture
+Excellent understanding of classical Machine Learning algorithms (e.g. Logistic Regression, Random Forest, XGBoost, etc.) as well as pioneering research area (e.g. NLP, Transfer Learning etc.) and deep Learning algorithms (e.g. BERT, LSTM, etc.)
+Solid knowledge of SQL and Python's ecosystem for data analysis (Jupyter, Pandas, Scikit Learn, Matplotlib).
+Solid understanding of model evaluation, data pre-processing techniques, such as standardisation, normalisation, and handling missing data.
+Solid understanding of summary, robust, and nonparametric statistics; hypothesis testing, probability distributions, sampling techniques, and stochastic processes.
+Proven experience of delivering several high-quality AI-based products and experience of productionisation of Machine Learning based products
+Proven experience of developing cloud-based machine learning services using one or more cloud providers (preferably GCP).
+Ability to work on multiple projects and lead results
+Solid communications and soft skills to handle partners demands
+This is an exciting opportunity to join our global business. In return, we provide an inspirational working environment, a competitive benefits package and opportunities to stretch and grow your career. Interested? Great, apply now!

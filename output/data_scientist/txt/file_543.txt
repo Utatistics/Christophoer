@@ -1,0 +1,78 @@
+📍 London : UK Remote
+
+About Us
+
+We’re here to make money work for everyone and we're doing things differently. For too long, banking has been obtuse, complex and opaque.
+
+We want to change that and build a bank with everyone, for everyone. Our amazing community suggests features, test the app and give us constant feedback so we can build something everyone loves.
+
+We're focused on solving problems, rather than selling financial products. We want to make the world a better place and change people's lives through Monzo.
+
+About Our Data Science, Marketing Team
+
+Enable Monzo to Make Better Decisions, Faster
+
+We're looking for a Marketing Data Scientist excited to help us build the bank of the future. We have a strong culture of data-driven decision making across the whole company. And we're great believers in powerful, real-time analytics and empowerment of the wider business. All our data lives in one place and is super easy to use. 90% of day-to-day data-driven decisions are covered by self-serve analytics through Looker which gives data scientists the head space to focus on more impactful business questions and analyses.
+
+What You’ll Be Working On
+
+You'll work across all our marketing channels, to help Monzo understand the ROI across our entire marketing investment, from first to last £ spent. You'll have the opportunity to help supercharge our user growth, help grow our most exciting new products and be the voice of data for our marketing department.
+
+Your day-to-day
+
+We work in cross-functional squads where you'll be a member of our central data discipline and fully embedded within our marketing department.
+Apply your expertise in quantitative analysis, data mining, performance marketing, and data presentation to find ways we can spend our marketing budget more effectively.
+Own the measurement strategy for campaigns via methods such as randomised lift tests, geo-targeted lift tests, and marketing mix models
+Work across our full product range and help shape our marketing investment strategy
+Partner with our in-house and agency marketers to determine which channels are most effective
+Manage relationships with our advertising partners and their analytics measurement teams, to collaborate on best practice and experimental design
+Work with Engineers in our Marketing Tech team to define measurement requirements and guide their implementation
+Use our cloud native data infrastructure (i.e BigQuery, Looker) to help us build visibility on channel performance
+Stay up to date with the latest performance marketing measurement strategies in industry
+You Should Apply If
+
+What we’re doing here at Monzo excites you!
+You’re passionate about marketing science and understand the causal impact marketing can have
+You're impact driven and eager to have a real positive impact on the company, product, users and very importantly your colleagues as well
+You’re as comfortable getting hands-on as taking a step back and thinking strategically
+You have a self-starter mindset; you proactively identify issues and opportunities and tackle them without being told to do so
+You have multiple years of experience working in marketing or performance marketing analytics , preferably in a fast moving tech company
+You have experience in conducting large scale A/B experiments, regional experimentation and marketing mix modeling
+You have a solid grounding in SQL and preferably Python
+The Interview Process
+
+Our interview process involves three main stages:
+Initial Call
+Take home task or pair coding exercise
+Final interview including a case study and a behavioural interview
+Our average process takes around 2-3 weeks but we will always work around your availability.
+
+You will have the chance to speak to our recruitment team at various points during your process but if you
+
+do have any specific questions or want to talk through reasonable adjustments ahead of or during application please us at any point on tech-hiring@monzo.com
+
+What’s In It For You
+
+✈️ We can help you relocate to the UK
+
+✅ We can sponsor visas
+
+📍This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).
+
+⏰ We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.
+
+📚 Learning budget of £1,000 a year for books, training courses and conferences
+
+➕And much more, see our full list of benefits here
+
+If you prefer to work part-time, we'll make this happen whenever we can - whether this is to help you meet other commitments or strike a great work-life balance.
+
+Equal Opportunity Statement
+
+We are actively creating an equitable environment for every Monzonaut to thrive.
+
+Diversity and inclusion are a priority for us and we are making sure we have lots of support for all of our people to grow at Monzo. At Monzo, embracing diversity in all of its forms and fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog , 2021 Diversity and Inclusion Report and 2021 Gender Pay Gap Report .
+
+We're an equal opportunity employer. All applicants will be considered for employment without attention to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity status or disability status.
+
+____________________________________________________________________________________________________________________________
