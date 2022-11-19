@@ -1,7 +1,0 @@
-Maintain and develop data product tools in ReSST using R, PHP, Python or other languages. Work to produce innovative data reports based on data feeds. Develop automated and reproducible pipelines for analysis
-Develop scalable, innovative approaches to extract, manage, and analyse syndromic surveillance data.
-Act as ReSST lead data scientist for reporting and visualisation tools, liaising with analysts from across other teams to prepare for statistical launches, regular checking and testing of outputs, issue and bug reporting etc.
-Act as a technical subject matter expert on data science applications across the health sector where you are recognised as having specialist knowledge in that area
-Support the implementation of Reproducible Analytical Pipelines (RAP) within ReSST
-Act as an ambassador on data science within ReSST and Field Service
-Work with and, advise across the ReSST and Field Service to define the scope of projects and the technical tasks within projects

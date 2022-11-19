@@ -1,9 +1,0 @@
-Data Scientist/Machine Learning/Physics Modelling/Algorithm Development Engineer Scientists/Engineers will be designing, implementing, and testing algorithms, numerical models and machine learning algorithms for systems and products.
-
-You will have; Around 3 years post-graduate experience of developing, implementing, and testing algorithms.
-
-Experience in one or more of the following; Digital Signal Processing (DSP) methods Numerical simulations
-
-Machine Learning
-
-Image processing Software development skills in either Matlab or Python Physics Modelling;C/C++/C#/Java Software Development Mathematical background; PhD or MSc or BSc Lidar & robotics experience will be useful

@@ -1,9 +1,0 @@
-London - Senior / Principal Data Scientist - Up to £115k One of Cambridge's most well known consultancies, specialising within the medical, industrial and consumer sectors is currently looking for a talented Data Scientist to join the team. You must be comfortable with client facing elements and well versed in the entire product development lifecycle, from concept through to manufacture. Main Responsibilities:-Work closely with Mechanical, Electrical and Software teams
-Interact with Clients to fully manage projects
-Extracting, Analysis and Interpreting large volumes of data, using Machine Learning, Artificial Intelligence and Statistical methods
-Overseeing the lifecycle of projects and product development, from Concept through to Manufacturing, and managing the data that comes with it to utilize and provide to clients Key Skills needed:
-PhD in Computer Science, Engineering, Mathematical or Science based related fields
-10+ Years of experience working with Data Science, Machine Learning, ML Model Development and deployment
-Extensive experience working as a Data Science Consultant is required
-Model Development & Deployment using Cloud platforms (Azure / AWS / GCP) is Ideal
-Strong experience in Natural Language Processing is Ideal If you have the experience required for this job, please apply with your updated resume and I will be in touch with you

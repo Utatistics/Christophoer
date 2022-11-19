@@ -1,9 +1,0 @@
-Location - South of England, Edinburgh or remote
-
-Do you want to work as a Data Scientist for a climate-centric firm with the biggest geospatial datasets in the UK?
-
-The responsibilities for this role include the end-to-end development and deployment of a broad set of production models. It is fundamentally, product development from concept to end user delivery. You will engage with cross-functional projects using advanced data modelling, analysis and optimisation techniques.
-
-Requirements for this role include a STEM background and a solid knowledge in data science and analytics. Demonstrated experience and understanding of data mining principles, predictive/prescriptive analytics, machine learning and statistical models is desirable. In terms of technical skills, you will need to have a solid understanding of Azure, Python, SQL, Data Science tools and packages: Databricks, TensorFlow/Keras, Cloud environments: Azure or AWS or similar cloud ecosystem.
-
-If you like the sound of this role and believe you are suitable, get in touch with me at e.davies@paritasrecruitment.com or give me a call on 07745611804.
